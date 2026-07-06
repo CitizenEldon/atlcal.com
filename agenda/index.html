@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Agenda, Atlanta Event Calendar</title>
+  <meta name="description" content="Every upcoming event, in date order. Filter by category, organization, or free admission.">
+  <link rel="stylesheet" href="../assets/site.css">
+</head>
+<body>
+  <a class="sr-only" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a class="brand" href="../">Atlanta Event Calendar<small>arts across the metro</small></a>
+      <nav class="site-nav" aria-label="Pages">
+        <a href="../calendar/">Calendar</a>
+        <a href="../agenda/" aria-current="page">Agenda</a>
+        <a href="../feeds/">Subscribe</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="shell">
+    <div class="page-head">
+      <h1>Agenda</h1>
+      <p>Every scheduled and cancelled showing, in date order. Long runs open out by occurrence so each night appears once. Free, paid, and cancelled are all listed.</p>
+    </div>
+
+    <section id="filters" class="filters" aria-label="Filters" hidden></section>
+
+    <div id="agenda-out" aria-live="polite" aria-busy="true"></div>
+    <div id="agenda-empty" class="state" hidden></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <span id="footer-updated"></span>
+      <span>Atlanta Event Calendar. A read-only presentation layer over a nightly-emitted events file.</span>
+    </div>
+  </footer>
+
+  <div id="detail-modal" class="modal" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="detail-title"></div>
+
+  <script src="../assets/data.js"></script>
+  <script src="../assets/agenda.js"></script>
+</body>
+</html>

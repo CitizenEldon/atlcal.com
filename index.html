@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Atlanta Event Calendar</title>
+  <meta name="description" content="Atlanta arts events: calendar, agenda, and subscribable feeds. Times in Eastern time, updated nightly.">
+  <link rel="stylesheet" href="./assets/site.css">
+  <meta http-equiv="refresh" content="0; url=./calendar/">
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header__inner">
+      <span class="brand">Atlanta Event Calendar<small>arts across the metro</small></span>
+      <nav class="site-nav" aria-label="Pages">
+        <a href="./calendar/" aria-current="page">Calendar</a>
+        <a href="./agenda/">Agenda</a>
+        <a href="./feeds/">Subscribe</a>
+      </nav>
+    </div>
+  </header>
+  <main class="shell">
+    <div class="page-head">
+      <h1>Atlanta Event Calendar</h1>
+      <p>Atlanta's arts events in one place. Browse the month grid or the date-by-date agenda, and subscribe to a feed so events land in your own calendar and update nightly.</p>
+    </div>
+    <p>Go to the <a href="./calendar/">calendar</a>, the <a href="./agenda/">agenda</a>, or the <a href="./feeds/">feeds</a>.</p>
+  </main>
+  <script>
+    // Document-relative redirect that survives the GitHub Pages /<repo>/ prefix.
+    window.location.replace("./calendar/");
+  </script>
+</body>
+</html>

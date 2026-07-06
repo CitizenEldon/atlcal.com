@@ -1,0 +1,1640 @@
+{
+  "_readme": [
+    "Times are Unix epoch SECONDS in UTC. Render in America/New_York (see `timezone`) with Intl; in JS, new Date(seconds * 1000).",
+    "Optional fields are ALWAYS present with an explicit null when absent — never key-omitted, never 0 or \"\". Required booleans are true/false.",
+    "This file is already post-moderation: hidden events excluded, display_name overrides applied. It carries the same events the ICS feeds publish (same moderation + retention rules), reshaped for a website.",
+    "Occurrences nest under events (the site's unit is one card per event) — deliberately not the flat per-VEVENT iCal shape.",
+    "Full field-by-field contract: events_json_schema.md."
+  ],
+  "schema_version": 1,
+  "generated_at": 1783321920,
+  "timezone": "America/New_York",
+  "feeds": {
+    "all": "all.ics",
+    "free": "free.ics"
+  },
+  "categories": [
+    {
+      "id": 12,
+      "name": "Art Exhibition",
+      "slug": "art-exhibition",
+      "ics": "categories/art-exhibition.ics"
+    },
+    {
+      "id": 13,
+      "name": "Artist Talk",
+      "slug": "artist-talk",
+      "ics": "categories/artist-talk.ics"
+    },
+    {
+      "id": 17,
+      "name": "Author Reading",
+      "slug": "author-reading",
+      "ics": "categories/author-reading.ics"
+    },
+    {
+      "id": 3,
+      "name": "Cabaret",
+      "slug": "cabaret",
+      "ics": "categories/cabaret.ics"
+    },
+    {
+      "id": 11,
+      "name": "Choral Concert",
+      "slug": "choral-concert",
+      "ics": "categories/choral-concert.ics"
+    },
+    {
+      "id": 22,
+      "name": "Civic Event",
+      "slug": "civic-event",
+      "ics": "categories/civic-event.ics"
+    },
+    {
+      "id": 7,
+      "name": "Dance Performance",
+      "slug": "dance-performance",
+      "ics": "categories/dance-performance.ics"
+    },
+    {
+      "id": 20,
+      "name": "Festival",
+      "slug": "festival",
+      "ics": "categories/festival.ics"
+    },
+    {
+      "id": 14,
+      "name": "Film Screening",
+      "slug": "film-screening",
+      "ics": "categories/film-screening.ics"
+    },
+    {
+      "id": 24,
+      "name": "Fundraiser",
+      "slug": "fundraiser",
+      "ics": "categories/fundraiser.ics"
+    },
+    {
+      "id": 19,
+      "name": "Guided Tour",
+      "slug": "guided-tour",
+      "ics": "categories/guided-tour.ics"
+    },
+    {
+      "id": 26,
+      "name": "Heritage Exhibition",
+      "slug": "heritage-exhibition",
+      "ics": "categories/heritage-exhibition.ics"
+    },
+    {
+      "id": 5,
+      "name": "Improv Comedy",
+      "slug": "improv-comedy",
+      "ics": "categories/improv-comedy.ics"
+    },
+    {
+      "id": 10,
+      "name": "Instrumental Concert",
+      "slug": "instrumental-concert",
+      "ics": "categories/instrumental-concert.ics"
+    },
+    {
+      "id": 15,
+      "name": "Lecture",
+      "slug": "lecture",
+      "ics": "categories/lecture.ics"
+    },
+    {
+      "id": 23,
+      "name": "Market or Fair",
+      "slug": "market-or-fair",
+      "ics": "categories/market-or-fair.ics"
+    },
+    {
+      "id": 2,
+      "name": "Musical Theatre",
+      "slug": "musical-theatre",
+      "ics": "categories/musical-theatre.ics"
+    },
+    {
+      "id": 8,
+      "name": "Open Mic",
+      "slug": "open-mic",
+      "ics": "categories/open-mic.ics"
+    },
+    {
+      "id": 9,
+      "name": "Opera",
+      "slug": "opera",
+      "ics": "categories/opera.ics"
+    },
+    {
+      "id": 16,
+      "name": "Panel Discussion",
+      "slug": "panel-discussion",
+      "ics": "categories/panel-discussion.ics"
+    },
+    {
+      "id": 21,
+      "name": "Parade",
+      "slug": "parade",
+      "ics": "categories/parade.ics"
+    },
+    {
+      "id": 1,
+      "name": "Play",
+      "slug": "play",
+      "ics": "categories/play.ics"
+    },
+    {
+      "id": 25,
+      "name": "Special Event",
+      "slug": "special-event",
+      "ics": "categories/special-event.ics"
+    },
+    {
+      "id": 6,
+      "name": "Spoken Word",
+      "slug": "spoken-word",
+      "ics": "categories/spoken-word.ics"
+    },
+    {
+      "id": 27,
+      "name": "Staged Reading",
+      "slug": "staged-reading",
+      "ics": "categories/staged-reading.ics"
+    },
+    {
+      "id": 4,
+      "name": "Stand-up Comedy",
+      "slug": "stand-up-comedy",
+      "ics": "categories/stand-up-comedy.ics"
+    },
+    {
+      "id": 18,
+      "name": "Workshop or Class",
+      "slug": "workshop-or-class",
+      "ics": "categories/workshop-or-class.ics"
+    }
+  ],
+  "orgs": [
+    {
+      "id": 1,
+      "name": "7 Stages",
+      "slug": "seven_stages",
+      "website_url": "https://www.7stages.org/",
+      "ics": "orgs/seven_stages.ics"
+    },
+    {
+      "id": 2,
+      "name": "Actor's Express",
+      "slug": "actors_express",
+      "website_url": "https://actors-express.com/",
+      "ics": "orgs/actors_express.ics"
+    },
+    {
+      "id": 3,
+      "name": "Alliance Theatre",
+      "slug": "alliance_theatre",
+      "website_url": "https://www.alliancetheatre.org/",
+      "ics": "orgs/alliance_theatre.ics"
+    },
+    {
+      "id": 4,
+      "name": "Arcadia Theater",
+      "slug": "arcadia_theater",
+      "website_url": "https://www.arcadia-alpharetta.org/",
+      "ics": "orgs/arcadia_theater.ics"
+    },
+    {
+      "id": 5,
+      "name": "Atlanta Opera",
+      "slug": "atlanta_opera",
+      "website_url": "https://www.atlantaopera.org/",
+      "ics": "orgs/atlanta_opera.ics"
+    },
+    {
+      "id": 6,
+      "name": "Aurora Theatre",
+      "slug": "aurora_theatre",
+      "website_url": "https://auroratheatre.com/",
+      "ics": "orgs/aurora_theatre.ics"
+    },
+    {
+      "id": 7,
+      "name": "Authenticity Theater",
+      "slug": "authenticity_theater",
+      "website_url": "https://www.authenticitytheater.org/",
+      "ics": "orgs/authenticity_theater.ics"
+    },
+    {
+      "id": 8,
+      "name": "Cherokee Theatre",
+      "slug": "cherokee_theatre",
+      "website_url": "https://www.cherokeetheatre.org/",
+      "ics": "orgs/cherokee_theatre.ics"
+    },
+    {
+      "id": 9,
+      "name": "City Springs Theatre",
+      "slug": null,
+      "website_url": null,
+      "ics": null
+    },
+    {
+      "id": 10,
+      "name": "Conyers Rockdale Council for the Arts",
+      "slug": "conyers_rockdale_arts",
+      "website_url": "https://conyersarts.org/",
+      "ics": "orgs/conyers_rockdale_arts.ics"
+    },
+    {
+      "id": 11,
+      "name": "Fox Theatre",
+      "slug": "fox_theatre",
+      "website_url": "https://www.foxtheatre.org/",
+      "ics": "orgs/fox_theatre.ics"
+    },
+    {
+      "id": 12,
+      "name": "Front Porch Players",
+      "slug": "front_porch_players",
+      "website_url": "https://thefrontporchplayers.com/",
+      "ics": "orgs/front_porch_players.ics"
+    },
+    {
+      "id": 13,
+      "name": "Henry Players",
+      "slug": "henry_players",
+      "website_url": "https://henryplayers.com/",
+      "ics": "orgs/henry_players.ics"
+    },
+    {
+      "id": 14,
+      "name": "Horizon Theatre",
+      "slug": "horizon_theatre",
+      "website_url": "https://www.horizontheatre.com/",
+      "ics": "orgs/horizon_theatre.ics"
+    },
+    {
+      "id": 15,
+      "name": "Junction Playhouse",
+      "slug": "junction_playhouse",
+      "website_url": "https://thejunctionplayhouse.com/",
+      "ics": "orgs/junction_playhouse.ics"
+    },
+    {
+      "id": 16,
+      "name": "Lionheart Theatre",
+      "slug": "lionheart_theatre",
+      "website_url": "https://lionhearttheatre.org/",
+      "ics": "orgs/lionheart_theatre.ics"
+    },
+    {
+      "id": 17,
+      "name": "Live Arts Theatre",
+      "slug": "live_arts_theatre",
+      "website_url": "https://liveartstheatre.org/",
+      "ics": "orgs/live_arts_theatre.ics"
+    },
+    {
+      "id": 18,
+      "name": "Main Street Players",
+      "slug": "main_street_players",
+      "website_url": "https://www.mainstreetplayers.org/",
+      "ics": "orgs/main_street_players.ics"
+    },
+    {
+      "id": 19,
+      "name": "Marietta Theatre Company",
+      "slug": "marietta_theatre_company",
+      "website_url": "https://mariettatheatre.com/",
+      "ics": "orgs/marietta_theatre_company.ics"
+    },
+    {
+      "id": 20,
+      "name": "Merely Players",
+      "slug": "merely_players",
+      "website_url": "https://www.merelyplayerspresents.com/",
+      "ics": "orgs/merely_players.ics"
+    },
+    {
+      "id": 21,
+      "name": "New Depot Players",
+      "slug": "new_depot_players",
+      "website_url": "https://www.thenewdepotplayers.com/",
+      "ics": "orgs/new_depot_players.ics"
+    },
+    {
+      "id": 23,
+      "name": "On Stage Playhouse",
+      "slug": "on_stage_playhouse",
+      "website_url": "https://www.onstagewalton.org/",
+      "ics": "orgs/on_stage_playhouse.ics"
+    },
+    {
+      "id": 24,
+      "name": "Onstage Atlanta",
+      "slug": "onstage_atlanta",
+      "website_url": "https://onstageatlanta.com/",
+      "ics": "orgs/onstage_atlanta.ics"
+    },
+    {
+      "id": 25,
+      "name": "Out of Box Theatre",
+      "slug": "out_of_box_theatre",
+      "website_url": "https://www.outofboxtheatre.com/",
+      "ics": "orgs/out_of_box_theatre.ics"
+    },
+    {
+      "id": 26,
+      "name": "Players Guild at Sugar Hill",
+      "slug": "players_guild_at_sugar_hill",
+      "website_url": "https://www.pgatsh.com/",
+      "ics": "orgs/players_guild_at_sugar_hill.ics"
+    },
+    {
+      "id": 27,
+      "name": "Pumphouse Players",
+      "slug": "pumphouse_players",
+      "website_url": "https://www.pumphouseplayers.com/",
+      "ics": "orgs/pumphouse_players.ics"
+    },
+    {
+      "id": 28,
+      "name": "Renegade Theatre",
+      "slug": "renegade_theatre",
+      "website_url": "https://www.renegadetheatre.co/",
+      "ics": "orgs/renegade_theatre.ics"
+    },
+    {
+      "id": 29,
+      "name": "Shakespeare Tavern",
+      "slug": "shakespeare_tavern",
+      "website_url": "https://www.shakespearetavern.com/",
+      "ics": "orgs/shakespeare_tavern.ics"
+    },
+    {
+      "id": 30,
+      "name": "Southside Theatre Guild",
+      "slug": "southside_theatre_guild",
+      "website_url": "https://www.stgplays.com/",
+      "ics": "orgs/southside_theatre_guild.ics"
+    },
+    {
+      "id": 31,
+      "name": "Stage Door Theatre",
+      "slug": "stage_door_theatre",
+      "website_url": "https://stagedoortheatrega.org/",
+      "ics": "orgs/stage_door_theatre.ics"
+    },
+    {
+      "id": 32,
+      "name": "Synchronicity Theatre",
+      "slug": "synchronicity_theatre",
+      "website_url": "https://synchrotheatre.com/",
+      "ics": "orgs/synchronicity_theatre.ics"
+    },
+    {
+      "id": 33,
+      "name": "The Strand Theatre",
+      "slug": "the_strand_theatre",
+      "website_url": "https://earlsmithstrand.org/",
+      "ics": "orgs/the_strand_theatre.ics"
+    },
+    {
+      "id": 34,
+      "name": "Theatrical Outfit",
+      "slug": "theatrical_outfit",
+      "website_url": "https://www.theatricaloutfit.org/",
+      "ics": "orgs/theatrical_outfit.ics"
+    },
+    {
+      "id": 35,
+      "name": "Winder Barrow Theatre",
+      "slug": "winder_barrow_theatre",
+      "website_url": "http://www.winderbarrowtheatre.org/",
+      "ics": "orgs/winder_barrow_theatre.ics"
+    }
+  ],
+  "venues": [
+    {
+      "id": 3,
+      "name": "Woodruff Arts Center",
+      "street": "1280 Peachtree St NE",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30309",
+      "lat": 33.7893845,
+      "lng": -84.3846553
+    },
+    {
+      "id": 5,
+      "name": "Cobb Energy Performing Arts Centre",
+      "street": "2800 Cobb Galleria Pkwy",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30339",
+      "lat": 33.88471,
+      "lng": -84.4585962
+    },
+    {
+      "id": 6,
+      "name": "Lawrenceville Arts Center",
+      "street": "125 N Clayton St",
+      "city": "Lawrenceville",
+      "state": "GA",
+      "zip": "30046",
+      "lat": 33.9568797,
+      "lng": -83.9880958
+    },
+    {
+      "id": 8,
+      "name": "City Springs Theatre",
+      "street": "1 Galambos Wy",
+      "city": "Sandy Springs",
+      "state": "GA",
+      "zip": "30328",
+      "lat": 33.925061,
+      "lng": -84.3805783
+    },
+    {
+      "id": 9,
+      "name": "Conyers Rockdale Council for the Arts",
+      "street": "910 Center St NE",
+      "city": "Conyers",
+      "state": "GA",
+      "zip": "30012",
+      "lat": 33.6671075,
+      "lng": -84.0180229
+    },
+    {
+      "id": 10,
+      "name": "Fox Theatre",
+      "street": "660 Peachtree St NE",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30308",
+      "lat": 33.7726136,
+      "lng": -84.3853395
+    },
+    {
+      "id": 11,
+      "name": "First Presbyterian Church of Jonesboro",
+      "street": "1842 Lake Jodeco Rd",
+      "city": "Jonesboro",
+      "state": "GA",
+      "zip": "30236",
+      "lat": 33.5144767,
+      "lng": -84.3301925
+    },
+    {
+      "id": 13,
+      "name": "Horizon Theatre",
+      "street": "1083 Austin Ave NE",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30307",
+      "lat": 33.7620155,
+      "lng": -84.3525137
+    },
+    {
+      "id": 24,
+      "name": "Out of Box Theatre",
+      "street": "585 Cobb Pkwy SE, Suite G-1",
+      "city": "Marietta",
+      "state": "GA",
+      "zip": "30067",
+      "lat": 33.9148699,
+      "lng": -84.3601692
+    },
+    {
+      "id": 28,
+      "name": "Shakespeare Tavern Playhouse",
+      "street": "499 Peachtree St NE",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30308",
+      "lat": 33.768171,
+      "lng": -84.3851523
+    },
+    {
+      "id": 31,
+      "name": "Synchronicity Theatre",
+      "street": "1545 Peachtree St NE, #102",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30309",
+      "lat": 33.7973338,
+      "lng": -84.3881531
+    },
+    {
+      "id": 32,
+      "name": "The Strand Theatre",
+      "street": "117 N Park Square",
+      "city": "Marietta",
+      "state": "GA",
+      "zip": "30060",
+      "lat": 33.9536122,
+      "lng": -84.5492054
+    },
+    {
+      "id": 33,
+      "name": "Theatrical Outfit",
+      "street": "84 Luckie St NW",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30303",
+      "lat": 33.757035,
+      "lng": -84.389486
+    },
+    {
+      "id": 41,
+      "name": "Olde Town Pavilion",
+      "street": null,
+      "city": "Conyers",
+      "state": "GA",
+      "zip": null,
+      "lat": null,
+      "lng": null
+    }
+  ],
+  "events": [
+    {
+      "id": 205,
+      "org_id": 10,
+      "category_id": 12,
+      "venue_id": 9,
+      "name": "Georgia Made: A Summer Group Exhibition",
+      "subtitle": null,
+      "description_short": "Two dozen Georgia artists in one room: quilts, pottery, woodwork, and photography, up all summer.",
+      "description_full": "A juried summer group show gathering work from more than twenty Georgia artists across craft and fine-art media — pieced quilts, wheel-thrown pottery, turned wood, and documentary photography of the Rockdale County countryside. Presented in the main gallery of the Conyers Rockdale Council for the Arts; admission is free during regular gallery hours.",
+      "ticket_url": "https://conyersarts.org/exhibitions/georgia-made",
+      "occurrences": [
+        {
+          "id": 1181,
+          "starts_at": 1781323200,
+          "ends_at": 1785643200,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": true,
+          "is_free": true,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "org_id": 12,
+      "category_id": 1,
+      "venue_id": 11,
+      "name": "Moonlight and Magnolias",
+      "subtitle": null,
+      "description_short": "Producer David O. Selznick locks two exhausted men in an office to rewrite Gone with the Wind in five days.",
+      "description_full": "Ron Hutchinson's comedy about the real 1939 crisis in which producer David O. Selznick shut down Gone with the Wind, locked himself in his office with director Victor Fleming and script doctor Ben Hecht, and rewrote the screenplay in five days on a diet of bananas and peanuts. Hecht has never read the novel, so the other two act out every scene for him. From Front Porch Players.",
+      "ticket_url": "https://thefrontporchplayers.com/tickets",
+      "occurrences": [
+        {
+          "id": 903,
+          "starts_at": 1783294200,
+          "ends_at": 1783301400,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "org_id": 1,
+      "category_id": null,
+      "venue_id": null,
+      "name": "GHOST // SIGNAL",
+      "subtitle": null,
+      "description_short": "A roving late-night transmission piece: radio fragments, found audio, and live performers, one block at a time.",
+      "description_full": "A site-specific performance walk built from radio static, found answering-machine tape, and performers stationed along an unannounced route. The meeting point is revealed to ticket holders the day before, and the piece runs rain or shine.",
+      "ticket_url": "https://www.7stages.org/ghost-signal",
+      "occurrences": [
+        {
+          "id": 911,
+          "starts_at": 1783382400,
+          "ends_at": null,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": true,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 912,
+          "starts_at": 1783468800,
+          "ends_at": null,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": true,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "org_id": 29,
+      "category_id": 1,
+      "venue_id": 28,
+      "name": "A Midsummer Night's Dream",
+      "subtitle": null,
+      "description_short": "Shakespeare's forest comedy of runaway lovers, amateur actors, and fairies with a misapplied love potion.",
+      "description_full": "Shakespeare's comedy of one moonlit night in the woods outside Athens. Four runaway lovers, a band of amateur actors, and a feuding fairy king and queen cross paths, and a mischievous sprite's love potion lands on the wrong eyelids. Before morning, affections have swapped and the weaver Bottom is wearing a donkey's head. From the Atlanta Shakespeare Company, performed with food and drink served at the table in its Elizabethan-style playhouse.",
+      "ticket_url": "https://www.shakespearetavern.com/on-stage/company/a-midsummer-nights-dream",
+      "occurrences": [
+        {
+          "id": 1011,
+          "starts_at": 1783639800,
+          "ends_at": 1783647900,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1012,
+          "starts_at": 1783726200,
+          "ends_at": 1783734300,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1013,
+          "starts_at": 1783794600,
+          "ends_at": 1783802700,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1014,
+          "starts_at": 1783812600,
+          "ends_at": 1783820700,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1015,
+          "starts_at": 1783881000,
+          "ends_at": 1783889100,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1016,
+          "starts_at": 1784244600,
+          "ends_at": 1784252700,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1017,
+          "starts_at": 1784417400,
+          "ends_at": 1784425500,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1018,
+          "starts_at": 1784485800,
+          "ends_at": 1784493900,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "org_id": 14,
+      "category_id": 1,
+      "venue_id": 13,
+      "name": "Holy Chicken Sandwich",
+      "subtitle": null,
+      "description_short": "A new Atlanta comedy: 100 fast-food faithful camp overnight for free combos, and something goes wrong.",
+      "description_full": "A new comedy from Atlanta playwright Kira Rockwell (Oh, To Be Pure Again): on the eve of a beloved fast-food chain's grand opening, a hundred devotees camp overnight in the parking lot to win a year of free large combos. Someone among them is stirring up trouble, and Jade, the brand-new store manager, has to root out the saboteur before her flock descends into chaos. Lisa Adler directs for Horizon Theatre. Runs through August 2.",
+      "ticket_url": "https://tickets.horizontheatre.com/events/144303",
+      "occurrences": [
+        {
+          "id": 940,
+          "starts_at": 1783641600,
+          "ends_at": 1783648800,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": "https://tickets.horizontheatre.com/events/144303/performances/9200",
+          "description": null
+        },
+        {
+          "id": 941,
+          "starts_at": 1783728000,
+          "ends_at": 1783735200,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": "https://tickets.horizontheatre.com/events/144303/performances/9201",
+          "description": null
+        },
+        {
+          "id": 942,
+          "starts_at": 1783814400,
+          "ends_at": 1783821600,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": "https://tickets.horizontheatre.com/events/144303/performances/9202",
+          "description": null
+        },
+        {
+          "id": 943,
+          "starts_at": 1783882800,
+          "ends_at": 1783890000,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": "https://tickets.horizontheatre.com/events/144303/performances/9203",
+          "description": null
+        },
+        {
+          "id": 944,
+          "starts_at": 1784246400,
+          "ends_at": 1784253600,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": "https://tickets.horizontheatre.com/events/144303/performances/9204",
+          "description": null
+        },
+        {
+          "id": 945,
+          "starts_at": 1784332800,
+          "ends_at": 1784340000,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "cancelled",
+          "ticket_url": "https://tickets.horizontheatre.com/events/144303/performances/9205",
+          "description": null
+        },
+        {
+          "id": 946,
+          "starts_at": 1784419200,
+          "ends_at": 1784426400,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": "https://tickets.horizontheatre.com/events/144303/performances/9206",
+          "description": null
+        },
+        {
+          "id": 947,
+          "starts_at": 1784487600,
+          "ends_at": 1784494800,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": "https://tickets.horizontheatre.com/events/144303/performances/9207",
+          "description": null
+        },
+        {
+          "id": 948,
+          "starts_at": 1784937600,
+          "ends_at": 1784944800,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": "https://tickets.horizontheatre.com/events/144303/performances/9208",
+          "description": null
+        },
+        {
+          "id": 949,
+          "starts_at": 1785024000,
+          "ends_at": 1785031200,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": "https://tickets.horizontheatre.com/events/144303/performances/9209",
+          "description": null
+        },
+        {
+          "id": 950,
+          "starts_at": 1785628800,
+          "ends_at": 1785636000,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": "https://tickets.horizontheatre.com/events/144303/performances/9210",
+          "description": null
+        },
+        {
+          "id": 951,
+          "starts_at": 1785697200,
+          "ends_at": 1785704400,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": "https://tickets.horizontheatre.com/events/144303/performances/9211",
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "org_id": 25,
+      "category_id": 4,
+      "venue_id": 24,
+      "name": "Comedy at the Den",
+      "subtitle": null,
+      "description_short": "A stand-up showcase in a deliberately small room, hosted by Atlanta comedian Jessica \"It's All Good.\"",
+      "description_full": "A lineup of stand-up comics with distinct styles, hosted by Atlanta comedian Jessica \"It's All Good,\" known for sharp observations and a warm hand on the mic. The room is intentionally small, with limited seats and almost no distance between you and the performers. Presented by Out of Box Theatre.",
+      "ticket_url": "https://www.zeffy.com/en-US/ticketing/comedy-at-the-den-featuring-jessica-its-all-good-2",
+      "occurrences": [
+        {
+          "id": 1051,
+          "starts_at": 1783823400,
+          "ends_at": 1783827900,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1052,
+          "starts_at": 1786233600,
+          "ends_at": 1786238100,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "org_id": 33,
+      "category_id": 15,
+      "venue_id": 32,
+      "name": "Jazz Talks with Trey Wright",
+      "subtitle": null,
+      "description_short": "Landmark jazz records, unpacked live by guitarist and KSU professor Trey Wright; 30 seats, 21 and up.",
+      "description_full": "An interactive listening-and-talk series on landmark jazz records, led by Trey Wright, who teaches jazz guitar and jazz history at Kennesaw State. Wright is a working guitarist himself: he has played the Montreux Jazz Festival, and his trio's album Thinking Out Loud reached the first round of Grammy consideration in the jazz instrumental category. Part of the Jazz At The Strand series. Admission includes one drink ticket; seating is capped at 30, and guests must be 21 or older.",
+      "ticket_url": "https://thestrand.my.salesforce-sites.com/ticket/#/events/a0SPs00000xPWdpMAG",
+      "occurrences": [
+        {
+          "id": 1103,
+          "starts_at": 1784156400,
+          "ends_at": 1784160000,
+          "venue_id": null,
+          "subvenue": "Lumiere Lounge",
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": "https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs000019GXWbMAO",
+          "description": "This session: John Coltrane's A Love Supreme (1965) — the four-part suite recorded in a single evening, and what it changed."
+        },
+        {
+          "id": 1104,
+          "starts_at": 1786575600,
+          "ends_at": 1786579200,
+          "venue_id": null,
+          "subvenue": "Lumiere Lounge",
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": "https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs000019GXWcMAO",
+          "description": "This session: Miles Davis's Kind of Blue (1959) — modal sketches, first takes, and the best-selling jazz record ever made."
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "org_id": 3,
+      "category_id": 25,
+      "venue_id": 3,
+      "name": "Palefsky Collision Project: 25th Anniversary",
+      "subtitle": null,
+      "description_short": null,
+      "description_full": null,
+      "ticket_url": null,
+      "occurrences": [
+        {
+          "id": 1131,
+          "starts_at": 1784260800,
+          "ends_at": 1784347200,
+          "venue_id": null,
+          "subvenue": "Hertz Stage",
+          "is_all_day": true,
+          "is_free": true,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "org_id": 33,
+      "category_id": 14,
+      "venue_id": 32,
+      "name": "Casablanca (1942)",
+      "subtitle": null,
+      "description_short": "Bogart and Bergman's wartime classic on the Strand's big screen, with a live organ pre-show.",
+      "description_full": "Rick Blaine runs a café in Vichy-controlled Casablanca until the woman who broke his heart in Paris walks in asking for help. Michael Curtiz's 1942 romance won three Academy Awards, including Best Picture. Screened with a pre-show singalong on the Mighty Allen Theatre Organ.",
+      "ticket_url": "https://thestrand.my.salesforce-sites.com/ticket/#/events/a0SPs00000yQRfxMAG",
+      "occurrences": [
+        {
+          "id": 1147,
+          "starts_at": 1784417400,
+          "ends_at": 1784423700,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "org_id": 11,
+      "category_id": 2,
+      "venue_id": 10,
+      "name": "Monty Python's Spamalot",
+      "subtitle": null,
+      "description_short": "Eric Idle's Tony-winning Arthurian spoof — killer rabbits, taunting Frenchmen, coconut-shell hoofbeats — in a national touring production.",
+      "description_full": "King Arthur recruits his knights and quests for the Grail past killer rabbits, taunting French soldiers, the Knights Who Say Ni, and a Lady of the Lake who resents her lack of stage time. Eric Idle adapted the Pythons' 1975 Holy Grail film into a musical, writing the songs with John Du Prez, including \"Always Look on the Bright Side of Life.\" The original 2005 Broadway production won three Tony Awards, Best Musical among them. This is a national touring production.",
+      "ticket_url": "https://foxtheatre.evenue.net/cgi-bin/ncommerce3/SEGetGroupList?groupCode=SPA&linkID=fta&shopperContext=&caller=&appCode=",
+      "occurrences": [
+        {
+          "id": 1201,
+          "starts_at": 1784678400,
+          "ends_at": 1784687400,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1202,
+          "starts_at": 1784764800,
+          "ends_at": 1784773800,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1203,
+          "starts_at": 1784851200,
+          "ends_at": 1784860200,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1204,
+          "starts_at": 1784937600,
+          "ends_at": 1784946600,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1205,
+          "starts_at": 1785002400,
+          "ends_at": 1785011400,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1206,
+          "starts_at": 1785024000,
+          "ends_at": 1785033000,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1207,
+          "starts_at": 1785085200,
+          "ends_at": 1785094200,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1208,
+          "starts_at": 1785105000,
+          "ends_at": 1785114000,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "org_id": 10,
+      "category_id": 23,
+      "venue_id": 41,
+      "name": "Olde Town Summer Makers Market",
+      "subtitle": null,
+      "description_short": "Three days of juried local makers' booths, food trucks, and afternoon acoustic sets.",
+      "description_full": "A juried outdoor market of Georgia makers — ceramics, prints, woodwork, small-batch food — with rotating food trucks and acoustic sets each afternoon. Presented by the Conyers Rockdale Council for the Arts; free to attend, with kids' craft tables on Saturday and Sunday.",
+      "ticket_url": "https://conyersarts.org/makers-market",
+      "occurrences": [
+        {
+          "id": 1223,
+          "starts_at": 1784865600,
+          "ends_at": 1785124800,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": true,
+          "is_free": true,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "org_id": 9,
+      "category_id": 2,
+      "venue_id": 8,
+      "name": "Sister Act",
+      "subtitle": null,
+      "description_short": "The 1992 Whoopi Goldberg comedy as a musical: a lounge singer hides from the mob in a convent choir.",
+      "description_full": "Alan Menken and Glenn Slater's musical of the 1992 film, in which a Philadelphia lounge singer who witnesses a murder is stashed in a convent for protection and, against everyone's expectations, turns its timid choir into a sensation. A disco-and-soul score and a lot of nuns. Was staged by City Springs Theatre Company.",
+      "ticket_url": "https://citysprings.com/sister-act",
+      "occurrences": [
+        {
+          "id": 1171,
+          "starts_at": 1785542400,
+          "ends_at": 1785551400,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "cancelled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1172,
+          "starts_at": 1785628800,
+          "ends_at": 1785637800,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "cancelled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "org_id": 6,
+      "category_id": 24,
+      "venue_id": 6,
+      "name": "Broadway Sings: A Benefit for the Learning Library",
+      "subtitle": null,
+      "description_short": "One night of Broadway standards from Aurora favorites and guests, raising money for arts education.",
+      "description_full": "Aurora company members and guest vocalists share an evening of Broadway standards backed by a live band, with proceeds supporting Aurora Theatre's education and Learning Library programs. Cabaret seating, a silent auction at intermission, and a second-night encore across town.",
+      "ticket_url": "https://auroratheatre.com/broadway-sings",
+      "occurrences": [
+        {
+          "id": 1261,
+          "starts_at": 1786834800,
+          "ends_at": 1786845600,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1262,
+          "starts_at": 1786921200,
+          "ends_at": 1786932000,
+          "venue_id": 5,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "org_id": 34,
+      "category_id": 2,
+      "venue_id": 33,
+      "name": "Cotton Patch Gospel",
+      "subtitle": "Season 50 Return Engagement",
+      "description_short": "Matthew's Gospel retold in small-town Georgia with Harry Chapin's bluegrass score, back for Theatrical Outfit's 50th season.",
+      "description_full": "Tom Key and Russell Treyz's musical transplants the Gospel of Matthew to rural Georgia, where Jesus is born in Gainesville and the storytelling runs on banjo and fiddle. The bluegrass score is by Harry Chapin, his final work before his death in 1981, and the show draws on Clarence Jordan's homespun Cotton Patch translations of the New Testament. It returns as a special engagement in Theatrical Outfit's 50th anniversary season.",
+      "ticket_url": null,
+      "occurrences": [
+        {
+          "id": 1284,
+          "starts_at": 1789169400,
+          "ends_at": 1789176600,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1285,
+          "starts_at": 1789237800,
+          "ends_at": 1789245000,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "org_id": 32,
+      "category_id": 2,
+      "venue_id": 31,
+      "name": "The Lightning Thief: The Percy Jackson Musical",
+      "subtitle": null,
+      "description_short": "Percy Jackson discovers he's a demigod in the rock musical from Rick Riordan's best-selling series.",
+      "description_full": "Joe Tracz and Rob Rokicki's musical adaptation of Rick Riordan's novel: Percy Jackson, a twelve-year-old expelled from yet another school, learns his father is Poseidon and sets off on a cross-country quest to clear his name after Zeus's lightning bolt goes missing. A rock score, Camp Half-Blood, and a Greek pantheon behaving badly. Recommended for ages 8 and up.",
+      "ticket_url": "https://synchrotheatre.com/shows/the-lightning-thief",
+      "occurrences": [
+        {
+          "id": 1311,
+          "starts_at": 1790982000,
+          "ends_at": 1790991000,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1312,
+          "starts_at": 1791050400,
+          "ends_at": 1791059400,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1313,
+          "starts_at": 1791068400,
+          "ends_at": 1791077400,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1314,
+          "starts_at": 1791655200,
+          "ends_at": 1791664200,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "org_id": 29,
+      "category_id": 1,
+      "venue_id": 28,
+      "name": "The Tempest",
+      "subtitle": null,
+      "description_short": "Shakespeare's island farewell: a shipwreck, a sorcerer, a scheming spirit, and long-delayed forgiveness.",
+      "description_full": "Prospero, the exiled Duke of Milan, conjures the storm that washes his old enemies ashore on his island, then spends the play deciding what to do with them. Ariel schemes for freedom, Caliban plots with drunken sailors, and Miranda meets the first young man she has ever seen. From the Atlanta Shakespeare Company, performed with food and drink served at the table in its Elizabethan-style playhouse.",
+      "ticket_url": "https://www.shakespearetavern.com/on-stage/company/the-tempest",
+      "occurrences": [
+        {
+          "id": 1341,
+          "starts_at": 1792193400,
+          "ends_at": 1792201500,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1342,
+          "starts_at": 1792279800,
+          "ends_at": 1792287900,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1343,
+          "starts_at": 1792884600,
+          "ends_at": 1792892700,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1344,
+          "starts_at": 1793489400,
+          "ends_at": 1793497500,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1345,
+          "starts_at": 1793561400,
+          "ends_at": 1793569500,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "org_id": 10,
+      "category_id": 26,
+      "venue_id": 9,
+      "name": "Roots and Routes: Rockdale County at 150",
+      "subtitle": null,
+      "description_short": "A sesquicentennial exhibition of maps, photographs, and family papers tracing Rockdale County's founding.",
+      "description_full": "Marking 150 years since Rockdale County's founding, this exhibition draws on county archives and private lenders to trace the area's history through survey maps, railroad-era photographs, church and family records, and oral-history recordings. Organized by the Conyers Rockdale Council for the Arts with the county historical society. Timed admission; runs into November.",
+      "ticket_url": "https://conyersarts.org/exhibitions/roots-and-routes",
+      "occurrences": [
+        {
+          "id": 1191,
+          "starts_at": 1792468800,
+          "ends_at": 1794718800,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": true,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "org_id": 5,
+      "category_id": 9,
+      "venue_id": 5,
+      "name": "Silent Night",
+      "subtitle": null,
+      "description_short": "Kevin Puts's Pulitzer-winning opera about the 1914 Christmas truce, sung in five languages.",
+      "description_full": "Kevin Puts's first opera, with a libretto by Mark Campbell adapted from the film Joyeux Noël, dramatizes the real Christmas truce of 1914, when German, French, and Scottish soldiers put down their weapons and met in no-man's-land. A German tenor's carol, answered by a Scottish bagpipe, sparks the cease-fire; the generals back at headquarters are considerably less moved. The score earned Puts a Pulitzer in 2012. Sung in English, French, German, Italian, and Latin. From The Atlanta Opera; runs through November 15.",
+      "ticket_url": "https://tickets.atlantaopera.org/overview/145901",
+      "occurrences": [
+        {
+          "id": 1361,
+          "starts_at": 1794097800,
+          "ends_at": 1794106860,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1362,
+          "starts_at": 1794616200,
+          "ends_at": 1794625260,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1363,
+          "starts_at": 1794772800,
+          "ends_at": 1794781860,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "org_id": 3,
+      "category_id": 1,
+      "venue_id": 3,
+      "name": "A Christmas Carol",
+      "subtitle": null,
+      "description_short": "Dickens's Scrooge-and-three-ghosts classic in David H. Bell's adaptation with live music, from the Alliance Theatre.",
+      "description_full": "Charles Dickens's 1843 tale of Ebenezer Scrooge, the miser visited by the ghosts of Christmas Past, Present, and Yet to Come on a single night of reckoning. The Alliance Theatre's annual production uses David H. Bell's adaptation, staged with live music and a large company of characters. Amanda Watkins directs, building on Leora Morris's original staging. Runs through December 27.",
+      "ticket_url": "https://my.alliancetheatre.org/164230",
+      "occurrences": [
+        {
+          "id": 1401,
+          "starts_at": 1795307400,
+          "ends_at": 1795314600,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1402,
+          "starts_at": 1795375800,
+          "ends_at": 1795383000,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1403,
+          "starts_at": 1795825800,
+          "ends_at": 1795833000,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1404,
+          "starts_at": 1795894200,
+          "ends_at": 1795901400,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1405,
+          "starts_at": 1795912200,
+          "ends_at": 1795919400,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1406,
+          "starts_at": 1797708600,
+          "ends_at": 1797715800,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1407,
+          "starts_at": 1798131600,
+          "ends_at": 1798138800,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1408,
+          "starts_at": 1798331400,
+          "ends_at": 1798338600,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        },
+        {
+          "id": 1409,
+          "starts_at": 1798399800,
+          "ends_at": 1798407000,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "org_id": 11,
+      "category_id": 10,
+      "venue_id": 10,
+      "name": "NieR: Orchestra Concert 12026 [YoRHa]!",
+      "subtitle": null,
+      "description_short": "Music from Square Enix's NieR games — full orchestra, chorus, original vocalists, and a new narrated Automata prequel story.",
+      "description_full": "The music of the NieR video games performed live, presented by AWR Music Productions and Square Enix. Eric Roth conducts a full orchestra and chorus, joined by J'Nique Nicole and Emi Evans, the singers whose voices defined the original game recordings. Between the music, recorded narration from NieR:Automata's Japanese voice cast — including Yui Ishikawa as 2B — tells the story of the Pearl Harbor Descent Operation, the prequel to Automata, with visuals on a giant screen.",
+      "ticket_url": "https://foxtheatre.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=NIE&linkID=fta&shopperContext=&caller=&appCode",
+      "occurrences": [
+        {
+          "id": 1420,
+          "starts_at": 1828573200,
+          "ends_at": 1828579500,
+          "venue_id": null,
+          "subvenue": null,
+          "is_all_day": false,
+          "is_free": false,
+          "status": "scheduled",
+          "ticket_url": null,
+          "description": null
+        }
+      ]
+    }
+  ]
+}
