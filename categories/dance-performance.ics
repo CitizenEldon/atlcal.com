@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Ballet 2: Cinderella
 DTSTART;TZID=America/New_York:20261016T193000
 DTEND;TZID=America/New_York:20261016T210000
-DTSTAMP:20260707T014648Z
+DTSTAMP:20260707T064157Z
 UID:occ-1345@atlcal.com
 SEQUENCE:0
 CATEGORIES:Dance Performance
@@ -72,7 +72,7 @@ DESCRIPTION:A narrated\, kid-friendly Cinderella ballet from Atlanta Balle
   a narrator walks young audiences through the plot as the dancers tell it.
   Runs an hour and fifteen minutes\, including a 20-minute intermission.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260707T013014Z
+LAST-MODIFIED:20260707T063344Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Ballet 2: Cinderella
 DTSTART;TZID=America/New_York:20261017T130000
 DTEND;TZID=America/New_York:20261017T143000
-DTSTAMP:20260707T014648Z
+DTSTAMP:20260707T064157Z
 UID:occ-1346@atlcal.com
 SEQUENCE:0
 CATEGORIES:Dance Performance
@@ -94,7 +94,7 @@ DESCRIPTION:A narrated\, kid-friendly Cinderella ballet from Atlanta Balle
   a narrator walks young audiences through the plot as the dancers tell it.
   Runs an hour and fifteen minutes\, including a 20-minute intermission.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260707T013014Z
+LAST-MODIFIED:20260707T063344Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Ballet 2: Cinderella
 DTSTART;TZID=America/New_York:20261017T170000
 DTEND;TZID=America/New_York:20261017T183000
-DTSTAMP:20260707T014648Z
+DTSTAMP:20260707T064157Z
 UID:occ-1347@atlcal.com
 SEQUENCE:0
 CATEGORIES:Dance Performance
@@ -116,7 +116,7 @@ DESCRIPTION:A narrated\, kid-friendly Cinderella ballet from Atlanta Balle
   a narrator walks young audiences through the plot as the dancers tell it.
   Runs an hour and fifteen minutes\, including a 20-minute intermission.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260707T013014Z
+LAST-MODIFIED:20260707T063344Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
