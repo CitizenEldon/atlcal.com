@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Spinoff! The One Man Show(girl)
 DTSTART;TZID=America/New_York:20260709T193000
 DTEND;TZID=America/New_York:20260709T213000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1655@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -73,7 +73,7 @@ DESCRIPTION:One man sings Broadway's leading ladies — a 30-seat lounge c
  The Strand Theatre in a 30-seat lounge setting\, with one drink ticket per
   ticket and the bar open after the show\; guests must be 21 or older.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260710T200000
 DTEND;TZID=America/New_York:20260710T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-918@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -96,7 +96,7 @@ DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\,
   aim the whole thing at a Studio 54 mood\, and the audience is expected to
   sing along. Groups of ten or more can call the box office for a discount.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -107,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260711T150000
 DTEND;TZID=America/New_York:20260711T170000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-919@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -119,7 +119,7 @@ DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\,
   aim the whole thing at a Studio 54 mood\, and the audience is expected to
   sing along. Groups of ten or more can call the box office for a discount.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260711T200000
 DTEND;TZID=America/New_York:20260711T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-920@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -142,7 +142,7 @@ DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\,
   aim the whole thing at a Studio 54 mood\, and the audience is expected to
   sing along. Groups of ten or more can call the box office for a discount.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260712T150000
 DTEND;TZID=America/New_York:20260712T170000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-921@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -165,7 +165,7 @@ DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\,
   aim the whole thing at a Studio 54 mood\, and the audience is expected to
   sing along. Groups of ten or more can call the box office for a discount.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Wit & Wisdom
 DTSTART;TZID=America/New_York:20260716T193000
 DTEND;TZID=America/New_York:20260716T213000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1656@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -190,7 +190,7 @@ DESCRIPTION:Three Smoke on the Mountain castmates sing Broadway's roles fo
  ticket includes a drink ticket\, and the room is 21 and up\; the lounge st
  ays open after the show.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260716T200000
 DTEND;TZID=America/New_York:20260716T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-922@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -213,7 +213,7 @@ DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\,
   aim the whole thing at a Studio 54 mood\, and the audience is expected to
   sing along. Groups of ten or more can call the box office for a discount.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260717T200000
 DTEND;TZID=America/New_York:20260717T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-923@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -236,7 +236,7 @@ DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\,
   aim the whole thing at a Studio 54 mood\, and the audience is expected to
   sing along. Groups of ten or more can call the box office for a discount.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260718T150000
 DTEND;TZID=America/New_York:20260718T170000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-924@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -259,7 +259,7 @@ DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\,
   aim the whole thing at a Studio 54 mood\, and the audience is expected to
   sing along. Groups of ten or more can call the box office for a discount.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -270,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260718T200000
 DTEND;TZID=America/New_York:20260718T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-925@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -282,7 +282,7 @@ DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\,
   aim the whole thing at a Studio 54 mood\, and the audience is expected to
   sing along. Groups of ten or more can call the box office for a discount.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260719T150000
 DTEND;TZID=America/New_York:20260719T170000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-926@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -305,7 +305,7 @@ DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\,
   aim the whole thing at a Studio 54 mood\, and the audience is expected to
   sing along. Groups of ten or more can call the box office for a discount.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -316,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:Luke Null
 DTSTART;TZID=America/New_York:20260724T200000
 DTEND;TZID=America/New_York:20260724T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-927@atlcal.com
 SEQUENCE:0
 CATEGORIES:Stand-up Comedy
@@ -328,7 +328,7 @@ DESCRIPTION:Musical comedy from a former SNL featured player — dirty son
  ube\, tells you exactly what you're in for. Part of the Comedy at The Stra
  nd series. 90 minutes\, no intermission.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -339,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:Grease Sing-A-Long (1978)
 DTSTART;TZID=America/New_York:20260801T150000
 DTEND;TZID=America/New_York:20260801T170000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1233@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -352,7 +352,7 @@ DESCRIPTION:The 1978 movie musical with on-screen lyrics — sing every wo
  cert on the house Mighty Allen Theatre Organ begins thirty minutes before 
  the film.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -363,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:Grease Sing-A-Long (1978)
 DTSTART;TZID=America/New_York:20260801T200000
 DTEND;TZID=America/New_York:20260801T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1234@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -376,7 +376,7 @@ DESCRIPTION:The 1978 movie musical with on-screen lyrics — sing every wo
  cert on the house Mighty Allen Theatre Organ begins thirty minutes before 
  the film.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz Talks with Trey Wright
 DTSTART;TZID=America/New_York:20260813T193000
 DTEND;TZID=America/New_York:20260813T203000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1235@atlcal.com
 SEQUENCE:0
 CATEGORIES:Lecture
@@ -401,7 +401,7 @@ DESCRIPTION:Coltrane's A Love Supreme\, unpacked by jazz guitarist and KSU
  The Strand series. Admission includes one drink ticket\; seating is capped
   at 30\, and guests must be 21 or older.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -412,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Film at The Strand: Sunrise (1927)
 DTSTART;TZID=America/New_York:20260816T150000
 DTEND;TZID=America/New_York:20260816T170000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1240@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -427,7 +427,7 @@ DESCRIPTION:F.W. Murnau's 1927 silent masterpiece\, scored live on the Mig
  pops concert begins thirty minutes before showtime\; the film runs 97 minu
  tes.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -438,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:Ferris Bueller's Day Off (1986)
 DTSTART;TZID=America/New_York:20260820T190000
 DTEND;TZID=America/New_York:20260820T210000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1239@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -451,7 +451,7 @@ DESCRIPTION:John Hughes's 1986 comedy of epic truancy\, with a Mighty Alle
  llen Theatre Organ plays a half-hour concert before the film starts. 1 hou
  r 43 minutes\, rated PG-13.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -462,7 +462,7 @@ BEGIN:VEVENT
 SUMMARY:Mamma Mia! and Margaritas!
 DTSTART;TZID=America/New_York:20260822T150000
 DTEND;TZID=America/New_York:20260822T170000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1657@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -476,7 +476,7 @@ DESCRIPTION:The 2008 ABBA movie musical on the big screen\, with a margari
  e concert on the house's Mighty Allen Theatre Organ starts thirty minutes 
  before the film. 1 hour 48 minutes\, rated PG-13.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -487,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:Mamma Mia! and Margaritas!
 DTSTART;TZID=America/New_York:20260822T200000
 DTEND;TZID=America/New_York:20260822T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1658@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -501,7 +501,7 @@ DESCRIPTION:The 2008 ABBA movie musical on the big screen\, with a margari
  e concert on the house's Mighty Allen Theatre Organ starts thirty minutes 
  before the film. 1 hour 48 minutes\, rated PG-13.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -512,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:Mamma Mia! and Margaritas!
 DTSTART;TZID=America/New_York:20260823T150000
 DTEND;TZID=America/New_York:20260823T170000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1659@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -526,7 +526,7 @@ DESCRIPTION:The 2008 ABBA movie musical on the big screen\, with a margari
  e concert on the house's Mighty Allen Theatre Organ starts thirty minutes 
  before the film. 1 hour 48 minutes\, rated PG-13.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -537,7 +537,7 @@ BEGIN:VEVENT
 SUMMARY:Mary Poppins (1964)
 DTSTART;TZID=America/New_York:20260828T200000
 DTEND;TZID=America/New_York:20260828T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1660@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -551,7 +551,7 @@ DESCRIPTION:Disney's 1964 classic with Julie Andrews\, preceded by a live
  ncurrent Glover Park Concert closes North and East Park Streets\, so parki
  ng in the Waddell deck is advised.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -562,7 +562,7 @@ BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260904T200000
 DTEND;TZID=America/New_York:20260904T223000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-928@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -578,7 +578,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -589,7 +589,7 @@ BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260905T150000
 DTEND;TZID=America/New_York:20260905T173000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-929@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -605,7 +605,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -616,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260905T200000
 DTEND;TZID=America/New_York:20260905T223000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-930@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -632,7 +632,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -643,7 +643,7 @@ BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260906T150000
 DTEND;TZID=America/New_York:20260906T173000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-931@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -659,7 +659,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -670,7 +670,7 @@ BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260910T193000
 DTEND;TZID=America/New_York:20260910T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-932@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -686,7 +686,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -697,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz Talks with Trey Wright
 DTSTART;TZID=America/New_York:20260910T193000
 DTEND;TZID=America/New_York:20260910T203000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1236@atlcal.com
 SEQUENCE:0
 CATEGORIES:Lecture
@@ -711,7 +711,7 @@ DESCRIPTION:Coltrane's A Love Supreme\, unpacked by jazz guitarist and KSU
  The Strand series. Admission includes one drink ticket\; seating is capped
   at 30\, and guests must be 21 or older.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -722,7 +722,7 @@ BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260911T200000
 DTEND;TZID=America/New_York:20260911T223000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-933@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -738,7 +738,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -749,7 +749,7 @@ BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260912T150000
 DTEND;TZID=America/New_York:20260912T173000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-934@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -765,7 +765,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -776,7 +776,7 @@ BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260912T200000
 DTEND;TZID=America/New_York:20260912T223000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-935@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -792,7 +792,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -803,7 +803,7 @@ BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260913T150000
 DTEND;TZID=America/New_York:20260913T173000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-936@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -819,7 +819,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -830,7 +830,7 @@ BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260917T193000
 DTEND;TZID=America/New_York:20260917T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-937@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -846,7 +846,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -857,7 +857,7 @@ BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260918T200000
 DTEND;TZID=America/New_York:20260918T223000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-938@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -873,7 +873,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -884,7 +884,7 @@ BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260919T150000
 DTEND;TZID=America/New_York:20260919T173000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-939@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -900,7 +900,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -911,7 +911,7 @@ BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260919T200000
 DTEND;TZID=America/New_York:20260919T223000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-940@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -927,7 +927,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -938,7 +938,7 @@ BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260920T150000
 DTEND;TZID=America/New_York:20260920T173000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-941@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -954,7 +954,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -965,7 +965,7 @@ BEGIN:VEVENT
 SUMMARY:Shrek (2001)
 DTSTART;TZID=America/New_York:20260923T150000
 DTEND;TZID=America/New_York:20260923T170000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1661@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -980,7 +980,7 @@ DESCRIPTION:DreamWorks' 2001 fairy-tale spoof on the big screen — Mike M
  undtrack that dates it precisely and fondly. Loosely based on William Stei
  g's picture book. 89 minutes\, rated PG.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -991,7 +991,7 @@ BEGIN:VEVENT
 SUMMARY:Shrek (2001)
 DTSTART;TZID=America/New_York:20260923T190000
 DTEND;TZID=America/New_York:20260923T210000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1662@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -1006,7 +1006,7 @@ DESCRIPTION:DreamWorks' 2001 fairy-tale spoof on the big screen — Mike M
  undtrack that dates it precisely and fondly. Loosely based on William Stei
  g's picture book. 89 minutes\, rated PG.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1017,7 +1017,7 @@ BEGIN:VEVENT
 SUMMARY:Sparrows (1926)
 DTSTART;TZID=America/New_York:20260927T150000
 DTEND;TZID=America/New_York:20260927T170000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-942@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -1031,7 +1031,7 @@ DESCRIPTION:Mary Pickford's 1926 silent melodrama\, screened with live acc
  tles\, thunder\, and gunshots on cue. An organ pops concert begins thirty 
  minutes before the film. Runs 1 hour 49 minutes\; not rated.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1042,7 +1042,7 @@ BEGIN:VEVENT
 SUMMARY:Indie Film Series 2026
 DTSTART;TZID=America/New_York:20261007T193000
 DTEND;TZID=America/New_York:20261007T213000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1230@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -1055,7 +1055,7 @@ DESCRIPTION:Halloween edition of the monthly indie showcase: shorts and fe
  he Strand in partnership with the Cobb International Film Festival\; scree
  nings are open to the public.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1066,7 +1066,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz Talks with Trey Wright
 DTSTART;TZID=America/New_York:20261008T193000
 DTEND;TZID=America/New_York:20261008T203000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1237@atlcal.com
 SEQUENCE:0
 CATEGORIES:Lecture
@@ -1080,7 +1080,7 @@ DESCRIPTION:Coltrane's A Love Supreme\, unpacked by jazz guitarist and KSU
  The Strand series. Admission includes one drink ticket\; seating is capped
   at 30\, and guests must be 21 or older.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1091,7 +1091,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz Talks with Trey Wright
 DTSTART;TZID=America/New_York:20261105T193000
 DTEND;TZID=America/New_York:20261105T203000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1238@atlcal.com
 SEQUENCE:0
 CATEGORIES:Lecture
@@ -1105,7 +1105,7 @@ DESCRIPTION:Coltrane's A Love Supreme\, unpacked by jazz guitarist and KSU
  The Strand series. Admission includes one drink ticket\; seating is capped
   at 30\, and guests must be 21 or older.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1116,7 +1116,7 @@ BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261106T193000
 DTEND;TZID=America/New_York:20261106T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-943@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1130,7 +1130,7 @@ DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio
   and ringing bell made live by a foley artist in full view. Presented by T
  he Strand Theatre.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1141,7 +1141,7 @@ BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261107T150000
 DTEND;TZID=America/New_York:20261107T171500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-944@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1155,7 +1155,7 @@ DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio
   and ringing bell made live by a foley artist in full view. Presented by T
  he Strand Theatre.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1166,7 +1166,7 @@ BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261107T193000
 DTEND;TZID=America/New_York:20261107T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-945@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1180,7 +1180,7 @@ DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio
   and ringing bell made live by a foley artist in full view. Presented by T
  he Strand Theatre.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1191,7 +1191,7 @@ BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261108T150000
 DTEND;TZID=America/New_York:20261108T171500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-946@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1205,7 +1205,7 @@ DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio
   and ringing bell made live by a foley artist in full view. Presented by T
  he Strand Theatre.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1216,7 +1216,7 @@ BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261112T150000
 DTEND;TZID=America/New_York:20261112T171500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-947@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1230,7 +1230,7 @@ DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio
   and ringing bell made live by a foley artist in full view. Presented by T
  he Strand Theatre.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1241,7 +1241,7 @@ BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261113T193000
 DTEND;TZID=America/New_York:20261113T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-948@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1255,7 +1255,7 @@ DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio
   and ringing bell made live by a foley artist in full view. Presented by T
  he Strand Theatre.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1266,7 +1266,7 @@ BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261114T150000
 DTEND;TZID=America/New_York:20261114T171500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-949@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1280,7 +1280,7 @@ DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio
   and ringing bell made live by a foley artist in full view. Presented by T
  he Strand Theatre.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1291,7 +1291,7 @@ BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261114T193000
 DTEND;TZID=America/New_York:20261114T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-950@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1305,7 +1305,7 @@ DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio
   and ringing bell made live by a foley artist in full view. Presented by T
  he Strand Theatre.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1316,7 +1316,7 @@ BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261115T150000
 DTEND;TZID=America/New_York:20261115T171500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-951@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1330,7 +1330,7 @@ DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio
   and ringing bell made live by a foley artist in full view. Presented by T
  he Strand Theatre.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1341,7 +1341,7 @@ BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261120T193000
 DTEND;TZID=America/New_York:20261120T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-952@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1355,7 +1355,7 @@ DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio
   and ringing bell made live by a foley artist in full view. Presented by T
  he Strand Theatre.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1366,7 +1366,7 @@ BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261121T150000
 DTEND;TZID=America/New_York:20261121T171500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-953@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1380,7 +1380,7 @@ DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio
   and ringing bell made live by a foley artist in full view. Presented by T
  he Strand Theatre.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1391,7 +1391,7 @@ BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261121T193000
 DTEND;TZID=America/New_York:20261121T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-954@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1405,7 +1405,7 @@ DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio
   and ringing bell made live by a foley artist in full view. Presented by T
  he Strand Theatre.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1416,7 +1416,7 @@ BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261122T150000
 DTEND;TZID=America/New_York:20261122T171500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-955@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1430,7 +1430,7 @@ DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio
   and ringing bell made live by a foley artist in full view. Presented by T
  he Strand Theatre.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1441,7 +1441,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261211T200000
 DTEND;TZID=America/New_York:20261211T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-956@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -1452,7 +1452,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1463,7 +1463,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261212T150000
 DTEND;TZID=America/New_York:20261212T170000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-957@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -1474,7 +1474,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1485,7 +1485,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261212T200000
 DTEND;TZID=America/New_York:20261212T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-958@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -1496,7 +1496,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1507,7 +1507,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261213T150000
 DTEND;TZID=America/New_York:20261213T170000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-959@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -1518,7 +1518,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1529,7 +1529,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261216T193000
 DTEND;TZID=America/New_York:20261216T213000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-960@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -1540,7 +1540,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1551,7 +1551,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261217T193000
 DTEND;TZID=America/New_York:20261217T213000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-961@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -1562,7 +1562,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1573,7 +1573,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261218T200000
 DTEND;TZID=America/New_York:20261218T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-962@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -1584,7 +1584,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1595,7 +1595,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261219T150000
 DTEND;TZID=America/New_York:20261219T170000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-963@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -1606,7 +1606,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1617,7 +1617,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261219T200000
 DTEND;TZID=America/New_York:20261219T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-964@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -1628,7 +1628,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1639,7 +1639,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261220T150000
 DTEND;TZID=America/New_York:20261220T170000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-965@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -1650,7 +1650,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1661,7 +1661,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261221T193000
 DTEND;TZID=America/New_York:20261221T213000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-966@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -1672,7 +1672,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

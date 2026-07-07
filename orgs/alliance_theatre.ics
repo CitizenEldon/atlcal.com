@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Basura
 DTSTART;TZID=America/New_York:20260705T193000
 DTEND;TZID=America/New_York:20260705T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-109@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:Basura
 DTSTART;TZID=America/New_York:20260707T140000
 DTEND;TZID=America/New_York:20260707T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-110@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -98,7 +98,7 @@ DESCRIPTION:World-premiere musical from Gloria and Emily Estefan: Paraguay
  directing and Alex Lacamoire (Hamilton) handling orchestrations. Based on 
  the documentary Landfill Harmonic. Runs through July 12.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Basura
 DTSTART;TZID=America/New_York:20260707T193000
 DTEND;TZID=America/New_York:20260707T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-111@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -122,7 +122,7 @@ DESCRIPTION:World-premiere musical from Gloria and Emily Estefan: Paraguay
  directing and Alex Lacamoire (Hamilton) handling orchestrations. Based on 
  the documentary Landfill Harmonic. Runs through July 12.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Basura
 DTSTART;TZID=America/New_York:20260708T193000
 DTEND;TZID=America/New_York:20260708T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-112@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -146,7 +146,7 @@ DESCRIPTION:World-premiere musical from Gloria and Emily Estefan: Paraguay
  directing and Alex Lacamoire (Hamilton) handling orchestrations. Based on 
  the documentary Landfill Harmonic. Runs through July 12.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Basura
 DTSTART;TZID=America/New_York:20260709T193000
 DTEND;TZID=America/New_York:20260709T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-113@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -170,7 +170,7 @@ DESCRIPTION:World-premiere musical from Gloria and Emily Estefan: Paraguay
  directing and Alex Lacamoire (Hamilton) handling orchestrations. Based on 
  the documentary Landfill Harmonic. Runs through July 12.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Basura
 DTSTART;TZID=America/New_York:20260710T193000
 DTEND;TZID=America/New_York:20260710T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-114@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -194,7 +194,7 @@ DESCRIPTION:World-premiere musical from Gloria and Emily Estefan: Paraguay
  directing and Alex Lacamoire (Hamilton) handling orchestrations. Based on 
  the documentary Landfill Harmonic. Runs through July 12.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Basura
 DTSTART;TZID=America/New_York:20260711T140000
 DTEND;TZID=America/New_York:20260711T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-115@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -218,7 +218,7 @@ DESCRIPTION:World-premiere musical from Gloria and Emily Estefan: Paraguay
  directing and Alex Lacamoire (Hamilton) handling orchestrations. Based on 
  the documentary Landfill Harmonic. Runs through July 12.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Basura
 DTSTART;TZID=America/New_York:20260711T193000
 DTEND;TZID=America/New_York:20260711T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-116@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -242,7 +242,7 @@ DESCRIPTION:World-premiere musical from Gloria and Emily Estefan: Paraguay
  directing and Alex Lacamoire (Hamilton) handling orchestrations. Based on 
  the documentary Landfill Harmonic. Runs through July 12.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:Basura
 DTSTART;TZID=America/New_York:20260712T140000
 DTEND;TZID=America/New_York:20260712T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-117@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -266,7 +266,7 @@ DESCRIPTION:World-premiere musical from Gloria and Emily Estefan: Paraguay
  directing and Alex Lacamoire (Hamilton) handling orchestrations. Based on 
  the documentary Landfill Harmonic. Runs through July 12.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -276,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260828T193000
 DTEND;TZID=America/New_York:20260828T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-118@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -291,7 +291,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260829T193000
 DTEND;TZID=America/New_York:20260829T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-119@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -316,7 +316,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -326,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260830T140000
 DTEND;TZID=America/New_York:20260830T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-120@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -341,7 +341,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -351,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260830T193000
 DTEND;TZID=America/New_York:20260830T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-121@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -366,7 +366,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -376,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260901T193000
 DTEND;TZID=America/New_York:20260901T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-122@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -391,7 +391,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -401,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260903T193000
 DTEND;TZID=America/New_York:20260903T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-123@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -416,7 +416,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -426,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260905T140000
 DTEND;TZID=America/New_York:20260905T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-124@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -441,7 +441,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -451,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260905T193000
 DTEND;TZID=America/New_York:20260905T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-125@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -466,7 +466,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -476,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260906T140000
 DTEND;TZID=America/New_York:20260906T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-126@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -491,7 +491,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -501,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260906T193000
 DTEND;TZID=America/New_York:20260906T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-127@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -516,7 +516,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -526,7 +526,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260909T193000
 DTEND;TZID=America/New_York:20260909T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-128@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -541,7 +541,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -551,7 +551,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260910T193000
 DTEND;TZID=America/New_York:20260910T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-129@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -566,7 +566,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -576,7 +576,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260911T193000
 DTEND;TZID=America/New_York:20260911T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-130@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -591,7 +591,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -601,7 +601,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260912T140000
 DTEND;TZID=America/New_York:20260912T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-131@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -616,7 +616,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -626,7 +626,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260912T193000
 DTEND;TZID=America/New_York:20260912T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-132@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -641,7 +641,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -651,7 +651,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260913T140000
 DTEND;TZID=America/New_York:20260913T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-133@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -666,7 +666,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -676,7 +676,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260913T193000
 DTEND;TZID=America/New_York:20260913T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-134@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -691,7 +691,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -701,7 +701,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260916T193000
 DTEND;TZID=America/New_York:20260916T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-135@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -716,7 +716,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -726,7 +726,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260917T193000
 DTEND;TZID=America/New_York:20260917T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-136@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -741,7 +741,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -751,7 +751,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260918T193000
 DTEND;TZID=America/New_York:20260918T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-137@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -766,7 +766,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -776,7 +776,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260919T140000
 DTEND;TZID=America/New_York:20260919T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-138@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -791,7 +791,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -801,7 +801,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260919T193000
 DTEND;TZID=America/New_York:20260919T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-139@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -816,7 +816,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -826,7 +826,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260920T140000
 DTEND;TZID=America/New_York:20260920T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-140@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -841,7 +841,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -851,7 +851,7 @@ BEGIN:VEVENT
 SUMMARY:Purpose
 DTSTART;TZID=America/New_York:20260920T193000
 DTEND;TZID=America/New_York:20260920T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-141@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -866,7 +866,7 @@ DESCRIPTION:Branden Jacobs-Jenkins' Tony- and Pulitzer-winning drama of a
  nd ruthless." Keith Arthur Bolden directs for the Alliance Theatre\, in a 
  co-production with McCarter Theatre Center\; runs through September 20.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -876,7 +876,7 @@ BEGIN:VEVENT
 SUMMARY:Mexodus
 DTSTART;TZID=America/New_York:20261003T140000
 DTEND;TZID=America/New_York:20261003T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-142@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -891,7 +891,7 @@ DESCRIPTION:Two-performer hip-hop musical on the Underground Railroad's so
  he sheer joy of music-making. David Mendizábal directs this Atlanta debut
   from the Alliance Theatre\; runs through October 16.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -901,7 +901,7 @@ BEGIN:VEVENT
 SUMMARY:Mexodus
 DTSTART;TZID=America/New_York:20261003T193000
 DTEND;TZID=America/New_York:20261003T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-143@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -916,7 +916,7 @@ DESCRIPTION:Two-performer hip-hop musical on the Underground Railroad's so
  he sheer joy of music-making. David Mendizábal directs this Atlanta debut
   from the Alliance Theatre\; runs through October 16.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -926,7 +926,7 @@ BEGIN:VEVENT
 SUMMARY:Mexodus
 DTSTART;TZID=America/New_York:20261004T140000
 DTEND;TZID=America/New_York:20261004T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-144@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -941,7 +941,7 @@ DESCRIPTION:Two-performer hip-hop musical on the Underground Railroad's so
  he sheer joy of music-making. David Mendizábal directs this Atlanta debut
   from the Alliance Theatre\; runs through October 16.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -951,7 +951,7 @@ BEGIN:VEVENT
 SUMMARY:Mexodus
 DTSTART;TZID=America/New_York:20261004T193000
 DTEND;TZID=America/New_York:20261004T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-145@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -966,7 +966,7 @@ DESCRIPTION:Two-performer hip-hop musical on the Underground Railroad's so
  he sheer joy of music-making. David Mendizábal directs this Atlanta debut
   from the Alliance Theatre\; runs through October 16.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -976,7 +976,7 @@ BEGIN:VEVENT
 SUMMARY:Mexodus
 DTSTART;TZID=America/New_York:20261006T193000
 DTEND;TZID=America/New_York:20261006T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-146@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -991,7 +991,7 @@ DESCRIPTION:Two-performer hip-hop musical on the Underground Railroad's so
  he sheer joy of music-making. David Mendizábal directs this Atlanta debut
   from the Alliance Theatre\; runs through October 16.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1001,7 +1001,7 @@ BEGIN:VEVENT
 SUMMARY:Mexodus
 DTSTART;TZID=America/New_York:20261007T193000
 DTEND;TZID=America/New_York:20261007T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-147@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1016,7 +1016,7 @@ DESCRIPTION:Two-performer hip-hop musical on the Underground Railroad's so
  he sheer joy of music-making. David Mendizábal directs this Atlanta debut
   from the Alliance Theatre\; runs through October 16.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1026,7 +1026,7 @@ BEGIN:VEVENT
 SUMMARY:Mexodus
 DTSTART;TZID=America/New_York:20261008T193000
 DTEND;TZID=America/New_York:20261008T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-148@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1041,7 +1041,7 @@ DESCRIPTION:Two-performer hip-hop musical on the Underground Railroad's so
  he sheer joy of music-making. David Mendizábal directs this Atlanta debut
   from the Alliance Theatre\; runs through October 16.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1051,7 +1051,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261008T193000
 DTEND;TZID=America/New_York:20261008T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-158@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1066,7 +1066,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1076,7 +1076,7 @@ BEGIN:VEVENT
 SUMMARY:Mexodus
 DTSTART;TZID=America/New_York:20261009T193000
 DTEND;TZID=America/New_York:20261009T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-149@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1091,7 +1091,7 @@ DESCRIPTION:Two-performer hip-hop musical on the Underground Railroad's so
  he sheer joy of music-making. David Mendizábal directs this Atlanta debut
   from the Alliance Theatre\; runs through October 16.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1101,7 +1101,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261009T193000
 DTEND;TZID=America/New_York:20261009T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-159@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1116,7 +1116,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1126,7 +1126,7 @@ BEGIN:VEVENT
 SUMMARY:Mexodus
 DTSTART;TZID=America/New_York:20261010T140000
 DTEND;TZID=America/New_York:20261010T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-150@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1141,7 +1141,7 @@ DESCRIPTION:Two-performer hip-hop musical on the Underground Railroad's so
  he sheer joy of music-making. David Mendizábal directs this Atlanta debut
   from the Alliance Theatre\; runs through October 16.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1151,7 +1151,7 @@ BEGIN:VEVENT
 SUMMARY:Mexodus
 DTSTART;TZID=America/New_York:20261010T193000
 DTEND;TZID=America/New_York:20261010T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-151@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1166,7 +1166,7 @@ DESCRIPTION:Two-performer hip-hop musical on the Underground Railroad's so
  he sheer joy of music-making. David Mendizábal directs this Atlanta debut
   from the Alliance Theatre\; runs through October 16.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1176,7 +1176,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261010T193000
 DTEND;TZID=America/New_York:20261010T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-160@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1191,7 +1191,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1201,7 +1201,7 @@ BEGIN:VEVENT
 SUMMARY:Mexodus
 DTSTART;TZID=America/New_York:20261011T140000
 DTEND;TZID=America/New_York:20261011T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-152@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1216,7 +1216,7 @@ DESCRIPTION:Two-performer hip-hop musical on the Underground Railroad's so
  he sheer joy of music-making. David Mendizábal directs this Atlanta debut
   from the Alliance Theatre\; runs through October 16.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1226,7 +1226,7 @@ BEGIN:VEVENT
 SUMMARY:Mexodus
 DTSTART;TZID=America/New_York:20261011T193000
 DTEND;TZID=America/New_York:20261011T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-153@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1241,7 +1241,7 @@ DESCRIPTION:Two-performer hip-hop musical on the Underground Railroad's so
  he sheer joy of music-making. David Mendizábal directs this Atlanta debut
   from the Alliance Theatre\; runs through October 16.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1251,7 +1251,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261011T193000
 DTEND;TZID=America/New_York:20261011T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-161@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1266,7 +1266,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1276,7 +1276,7 @@ BEGIN:VEVENT
 SUMMARY:Mexodus
 DTSTART;TZID=America/New_York:20261013T193000
 DTEND;TZID=America/New_York:20261013T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-154@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1291,7 +1291,7 @@ DESCRIPTION:Two-performer hip-hop musical on the Underground Railroad's so
  he sheer joy of music-making. David Mendizábal directs this Atlanta debut
   from the Alliance Theatre\; runs through October 16.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1301,7 +1301,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261013T193000
 DTEND;TZID=America/New_York:20261013T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-162@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1316,7 +1316,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1326,7 +1326,7 @@ BEGIN:VEVENT
 SUMMARY:Mexodus
 DTSTART;TZID=America/New_York:20261014T193000
 DTEND;TZID=America/New_York:20261014T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-155@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1341,7 +1341,7 @@ DESCRIPTION:Two-performer hip-hop musical on the Underground Railroad's so
  he sheer joy of music-making. David Mendizábal directs this Atlanta debut
   from the Alliance Theatre\; runs through October 16.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1351,7 +1351,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261014T193000
 DTEND;TZID=America/New_York:20261014T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-163@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1366,7 +1366,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1376,7 +1376,7 @@ BEGIN:VEVENT
 SUMMARY:Mexodus
 DTSTART;TZID=America/New_York:20261015T193000
 DTEND;TZID=America/New_York:20261015T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-156@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1391,7 +1391,7 @@ DESCRIPTION:Two-performer hip-hop musical on the Underground Railroad's so
  he sheer joy of music-making. David Mendizábal directs this Atlanta debut
   from the Alliance Theatre\; runs through October 16.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1401,7 +1401,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261015T193000
 DTEND;TZID=America/New_York:20261015T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1668@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1416,7 +1416,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1426,7 +1426,7 @@ BEGIN:VEVENT
 SUMMARY:Mexodus
 DTSTART;TZID=America/New_York:20261016T193000
 DTEND;TZID=America/New_York:20261016T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-157@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1441,7 +1441,7 @@ DESCRIPTION:Two-performer hip-hop musical on the Underground Railroad's so
  he sheer joy of music-making. David Mendizábal directs this Atlanta debut
   from the Alliance Theatre\; runs through October 16.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1451,7 +1451,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261017T140000
 DTEND;TZID=America/New_York:20261017T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-164@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1466,7 +1466,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1476,7 +1476,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261017T193000
 DTEND;TZID=America/New_York:20261017T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-165@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1491,7 +1491,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1501,7 +1501,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261018T140000
 DTEND;TZID=America/New_York:20261018T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-166@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1516,7 +1516,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1526,7 +1526,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261018T193000
 DTEND;TZID=America/New_York:20261018T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-167@atlcal.com
 SEQUENCE:1
 CATEGORIES:Musical Theatre
@@ -1551,7 +1551,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261021T193000
 DTEND;TZID=America/New_York:20261021T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-168@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1566,7 +1566,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1576,7 +1576,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261022T193000
 DTEND;TZID=America/New_York:20261022T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-169@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1591,7 +1591,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1601,7 +1601,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261023T193000
 DTEND;TZID=America/New_York:20261023T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-170@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1616,7 +1616,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1626,7 +1626,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261024T140000
 DTEND;TZID=America/New_York:20261024T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-171@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1641,7 +1641,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1651,7 +1651,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261024T193000
 DTEND;TZID=America/New_York:20261024T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-172@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1666,7 +1666,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1676,7 +1676,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261025T140000
 DTEND;TZID=America/New_York:20261025T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-173@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1691,7 +1691,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1701,7 +1701,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261025T193000
 DTEND;TZID=America/New_York:20261025T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-174@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1716,7 +1716,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1726,7 +1726,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261029T193000
 DTEND;TZID=America/New_York:20261029T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-175@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1741,7 +1741,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1751,7 +1751,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261030T193000
 DTEND;TZID=America/New_York:20261030T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-176@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1766,7 +1766,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1776,7 +1776,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261031T140000
 DTEND;TZID=America/New_York:20261031T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-177@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1791,7 +1791,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1801,7 +1801,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261031T193000
 DTEND;TZID=America/New_York:20261031T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-178@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1816,7 +1816,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1826,7 +1826,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261101T140000
 DTEND;TZID=America/New_York:20261101T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-179@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1841,7 +1841,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1851,7 +1851,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261101T193000
 DTEND;TZID=America/New_York:20261101T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-180@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1866,7 +1866,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1876,7 +1876,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261104T193000
 DTEND;TZID=America/New_York:20261104T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-181@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1891,7 +1891,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1901,7 +1901,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261105T193000
 DTEND;TZID=America/New_York:20261105T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-182@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1916,7 +1916,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1926,7 +1926,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261106T193000
 DTEND;TZID=America/New_York:20261106T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-183@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1941,7 +1941,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1951,7 +1951,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261107T140000
 DTEND;TZID=America/New_York:20261107T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-184@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1966,7 +1966,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1976,7 +1976,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261107T193000
 DTEND;TZID=America/New_York:20261107T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-185@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1991,7 +1991,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2001,7 +2001,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261108T140000
 DTEND;TZID=America/New_York:20261108T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-186@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2016,7 +2016,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2026,7 +2026,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261108T193000
 DTEND;TZID=America/New_York:20261108T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-187@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2041,7 +2041,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2051,7 +2051,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261111T193000
 DTEND;TZID=America/New_York:20261111T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-188@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2066,7 +2066,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2076,7 +2076,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261112T193000
 DTEND;TZID=America/New_York:20261112T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-189@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2091,7 +2091,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2101,7 +2101,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261113T193000
 DTEND;TZID=America/New_York:20261113T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-190@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2116,7 +2116,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2126,7 +2126,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261114T140000
 DTEND;TZID=America/New_York:20261114T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-191@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2141,7 +2141,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2151,7 +2151,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261114T140000
 DTEND;TZID=America/New_York:20261114T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-194@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2164,7 +2164,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2174,7 +2174,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261114T190000
 DTEND;TZID=America/New_York:20261114T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-195@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2187,7 +2187,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2197,7 +2197,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261114T193000
 DTEND;TZID=America/New_York:20261114T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-192@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2212,7 +2212,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2222,7 +2222,7 @@ BEGIN:VEVENT
 SUMMARY:Like Father
 DTSTART;TZID=America/New_York:20261115T140000
 DTEND;TZID=America/New_York:20261115T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-193@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2237,7 +2237,7 @@ DESCRIPTION:New folk-pop musical: after her father's arrest\, a teenager's
  she Kajese-Bolden directs\; the show won the first Open Jar Broadway Shark
   Tank and runs through November 15.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2247,7 +2247,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261115T140000
 DTEND;TZID=America/New_York:20261115T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-196@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2260,7 +2260,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2270,7 +2270,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261119T190000
 DTEND;TZID=America/New_York:20261119T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1696@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2283,7 +2283,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2293,7 +2293,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261120T190000
 DTEND;TZID=America/New_York:20261120T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-197@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2306,7 +2306,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2316,7 +2316,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261121T140000
 DTEND;TZID=America/New_York:20261121T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-198@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2329,7 +2329,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2339,7 +2339,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261121T190000
 DTEND;TZID=America/New_York:20261121T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-199@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2352,7 +2352,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2362,7 +2362,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261122T140000
 DTEND;TZID=America/New_York:20261122T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-200@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2375,7 +2375,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2385,7 +2385,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261123T190000
 DTEND;TZID=America/New_York:20261123T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-201@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2398,7 +2398,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2408,7 +2408,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261124T140000
 DTEND;TZID=America/New_York:20261124T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-202@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2421,7 +2421,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2431,7 +2431,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261124T190000
 DTEND;TZID=America/New_York:20261124T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-203@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2444,7 +2444,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2454,7 +2454,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261127T190000
 DTEND;TZID=America/New_York:20261127T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-204@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2467,7 +2467,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2477,7 +2477,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261128T140000
 DTEND;TZID=America/New_York:20261128T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-205@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2490,7 +2490,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2500,7 +2500,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261128T190000
 DTEND;TZID=America/New_York:20261128T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-206@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2513,7 +2513,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2523,7 +2523,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261129T140000
 DTEND;TZID=America/New_York:20261129T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-207@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2536,7 +2536,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2546,7 +2546,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261129T190000
 DTEND;TZID=America/New_York:20261129T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-208@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2559,7 +2559,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2569,7 +2569,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261204T190000
 DTEND;TZID=America/New_York:20261204T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-209@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2582,7 +2582,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2592,7 +2592,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261205T140000
 DTEND;TZID=America/New_York:20261205T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-210@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2605,7 +2605,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2615,7 +2615,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261205T190000
 DTEND;TZID=America/New_York:20261205T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-211@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2628,7 +2628,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2638,7 +2638,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261206T140000
 DTEND;TZID=America/New_York:20261206T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-212@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2651,7 +2651,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2661,7 +2661,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261206T190000
 DTEND;TZID=America/New_York:20261206T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-213@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2674,7 +2674,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2684,7 +2684,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261210T190000
 DTEND;TZID=America/New_York:20261210T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-214@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2697,7 +2697,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2707,7 +2707,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261211T190000
 DTEND;TZID=America/New_York:20261211T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-215@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2720,7 +2720,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2730,7 +2730,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261212T140000
 DTEND;TZID=America/New_York:20261212T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-216@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2743,7 +2743,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2753,7 +2753,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261212T190000
 DTEND;TZID=America/New_York:20261212T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-217@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2766,7 +2766,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2776,7 +2776,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261213T140000
 DTEND;TZID=America/New_York:20261213T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-218@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2789,7 +2789,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2799,7 +2799,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261213T190000
 DTEND;TZID=America/New_York:20261213T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-219@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2812,7 +2812,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2822,7 +2822,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261215T190000
 DTEND;TZID=America/New_York:20261215T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-220@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2835,7 +2835,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2845,7 +2845,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261216T190000
 DTEND;TZID=America/New_York:20261216T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-221@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2858,7 +2858,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2868,7 +2868,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261217T190000
 DTEND;TZID=America/New_York:20261217T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-222@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2881,7 +2881,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2891,7 +2891,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261218T190000
 DTEND;TZID=America/New_York:20261218T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-223@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2904,7 +2904,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2914,7 +2914,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261219T140000
 DTEND;TZID=America/New_York:20261219T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-224@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2927,7 +2927,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2937,7 +2937,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261219T190000
 DTEND;TZID=America/New_York:20261219T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-225@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2950,7 +2950,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2960,7 +2960,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261220T140000
 DTEND;TZID=America/New_York:20261220T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-226@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2973,7 +2973,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2983,7 +2983,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261220T190000
 DTEND;TZID=America/New_York:20261220T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-227@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2996,7 +2996,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3006,7 +3006,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261222T140000
 DTEND;TZID=America/New_York:20261222T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-228@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3019,7 +3019,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3029,7 +3029,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261222T190000
 DTEND;TZID=America/New_York:20261222T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-229@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3042,7 +3042,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3052,7 +3052,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261223T190000
 DTEND;TZID=America/New_York:20261223T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-230@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3065,7 +3065,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3075,7 +3075,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261224T130000
 DTEND;TZID=America/New_York:20261224T151500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-231@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3088,7 +3088,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3098,7 +3098,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261226T140000
 DTEND;TZID=America/New_York:20261226T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-232@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3111,7 +3111,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3121,7 +3121,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261226T190000
 DTEND;TZID=America/New_York:20261226T211500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-233@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3134,7 +3134,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3144,7 +3144,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;TZID=America/New_York:20261227T140000
 DTEND;TZID=America/New_York:20261227T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-234@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3157,7 +3157,7 @@ DESCRIPTION:Dickens's Scrooge-and-three-ghosts classic in David H. Bell's
  ects\, building on Leora Morris's original staging. Runs through December 
  27.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3167,7 +3167,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270127T193000
 DTEND;TZID=America/New_York:20270127T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-235@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3181,7 +3181,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3191,7 +3191,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270128T193000
 DTEND;TZID=America/New_York:20270128T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-236@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3205,7 +3205,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3215,7 +3215,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270129T193000
 DTEND;TZID=America/New_York:20270129T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-237@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3229,7 +3229,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3239,7 +3239,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270130T193000
 DTEND;TZID=America/New_York:20270130T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-238@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3253,7 +3253,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3263,7 +3263,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270204T193000
 DTEND;TZID=America/New_York:20270204T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-239@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3277,7 +3277,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3287,7 +3287,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270205T193000
 DTEND;TZID=America/New_York:20270205T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-240@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3301,7 +3301,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3311,7 +3311,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270206T140000
 DTEND;TZID=America/New_York:20270206T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-241@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3325,7 +3325,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3335,7 +3335,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270206T193000
 DTEND;TZID=America/New_York:20270206T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-242@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3349,7 +3349,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3359,7 +3359,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270207T140000
 DTEND;TZID=America/New_York:20270207T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-243@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3373,7 +3373,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3383,7 +3383,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270207T193000
 DTEND;TZID=America/New_York:20270207T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-244@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3397,7 +3397,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3407,7 +3407,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270210T193000
 DTEND;TZID=America/New_York:20270210T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-245@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3421,7 +3421,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3431,7 +3431,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270211T193000
 DTEND;TZID=America/New_York:20270211T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-246@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3445,7 +3445,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3455,7 +3455,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270213T140000
 DTEND;TZID=America/New_York:20270213T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-247@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3469,7 +3469,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3479,7 +3479,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270213T193000
 DTEND;TZID=America/New_York:20270213T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-248@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3493,7 +3493,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3503,7 +3503,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270214T140000
 DTEND;TZID=America/New_York:20270214T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-249@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3517,7 +3517,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3527,7 +3527,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270216T193000
 DTEND;TZID=America/New_York:20270216T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-250@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3541,7 +3541,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3551,7 +3551,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270217T193000
 DTEND;TZID=America/New_York:20270217T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-251@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3565,7 +3565,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3575,7 +3575,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270218T193000
 DTEND;TZID=America/New_York:20270218T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-252@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3589,7 +3589,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3599,7 +3599,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270219T193000
 DTEND;TZID=America/New_York:20270219T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-253@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3613,7 +3613,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3623,7 +3623,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270220T140000
 DTEND;TZID=America/New_York:20270220T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-254@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3637,7 +3637,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3647,7 +3647,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270220T193000
 DTEND;TZID=America/New_York:20270220T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-255@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3661,7 +3661,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3671,7 +3671,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270220T193000
 DTEND;TZID=America/New_York:20270220T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-258@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -3683,7 +3683,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3693,7 +3693,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270221T140000
 DTEND;TZID=America/New_York:20270221T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-256@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3707,7 +3707,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3717,7 +3717,7 @@ BEGIN:VEVENT
 SUMMARY:Miseducated
 DTSTART;TZID=America/New_York:20270221T193000
 DTEND;TZID=America/New_York:20270221T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-257@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3731,7 +3731,7 @@ DESCRIPTION:New play from Brandon P. Fleming's memoir: Atlanta debate stud
  stellanos directs\, with the story told through debate rounds\, music\, an
  d spoken word. Runs through February 21.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3741,7 +3741,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270221T193000
 DTEND;TZID=America/New_York:20270221T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-259@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -3753,7 +3753,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3763,7 +3763,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270223T193000
 DTEND;TZID=America/New_York:20270223T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-260@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -3775,7 +3775,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3785,7 +3785,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270224T193000
 DTEND;TZID=America/New_York:20270224T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-261@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -3797,7 +3797,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3807,7 +3807,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270225T193000
 DTEND;TZID=America/New_York:20270225T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-262@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -3819,7 +3819,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3829,7 +3829,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270226T193000
 DTEND;TZID=America/New_York:20270226T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-263@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -3841,7 +3841,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3851,7 +3851,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270227T193000
 DTEND;TZID=America/New_York:20270227T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-264@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -3863,7 +3863,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3873,7 +3873,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270228T140000
 DTEND;TZID=America/New_York:20270228T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-265@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -3885,7 +3885,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3895,7 +3895,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270302T193000
 DTEND;TZID=America/New_York:20270302T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-266@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -3907,7 +3907,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3917,7 +3917,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270303T193000
 DTEND;TZID=America/New_York:20270303T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-267@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -3929,7 +3929,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3939,7 +3939,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270304T193000
 DTEND;TZID=America/New_York:20270304T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-268@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -3951,7 +3951,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3961,7 +3961,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270306T140000
 DTEND;TZID=America/New_York:20270306T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-269@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -3973,7 +3973,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3983,7 +3983,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270306T193000
 DTEND;TZID=America/New_York:20270306T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-270@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -3995,7 +3995,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4005,7 +4005,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270307T140000
 DTEND;TZID=America/New_York:20270307T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-271@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4017,7 +4017,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4027,7 +4027,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270309T193000
 DTEND;TZID=America/New_York:20270309T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-272@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4039,7 +4039,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4049,7 +4049,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270310T193000
 DTEND;TZID=America/New_York:20270310T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-273@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4061,7 +4061,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4071,7 +4071,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270311T193000
 DTEND;TZID=America/New_York:20270311T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-274@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4083,7 +4083,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4093,7 +4093,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270312T193000
 DTEND;TZID=America/New_York:20270312T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-275@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4105,7 +4105,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4115,7 +4115,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270313T140000
 DTEND;TZID=America/New_York:20270313T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-276@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4127,7 +4127,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4137,7 +4137,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270313T193000
 DTEND;TZID=America/New_York:20270313T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-277@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4149,7 +4149,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4159,7 +4159,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270314T140000
 DTEND;TZID=America/New_York:20270314T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-278@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4171,7 +4171,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4181,7 +4181,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270314T193000
 DTEND;TZID=America/New_York:20270314T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-279@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4193,7 +4193,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4203,7 +4203,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270317T193000
 DTEND;TZID=America/New_York:20270317T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-280@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4215,7 +4215,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4225,7 +4225,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270318T193000
 DTEND;TZID=America/New_York:20270318T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-281@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4237,7 +4237,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4247,7 +4247,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270319T193000
 DTEND;TZID=America/New_York:20270319T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-282@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4259,7 +4259,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4269,7 +4269,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270320T140000
 DTEND;TZID=America/New_York:20270320T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-283@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4281,7 +4281,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4291,7 +4291,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270320T193000
 DTEND;TZID=America/New_York:20270320T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-284@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4303,7 +4303,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4313,7 +4313,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270321T140000
 DTEND;TZID=America/New_York:20270321T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-285@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4325,7 +4325,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4335,7 +4335,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270321T193000
 DTEND;TZID=America/New_York:20270321T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-286@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4347,7 +4347,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4357,7 +4357,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270324T193000
 DTEND;TZID=America/New_York:20270324T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-287@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4369,7 +4369,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4379,7 +4379,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270325T193000
 DTEND;TZID=America/New_York:20270325T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-288@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4391,7 +4391,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4401,7 +4401,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270325T193000
 DTEND;TZID=America/New_York:20270325T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-300@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -4417,7 +4417,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4427,7 +4427,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270326T193000
 DTEND;TZID=America/New_York:20270326T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-289@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4439,7 +4439,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4449,7 +4449,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270326T193000
 DTEND;TZID=America/New_York:20270326T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-301@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -4465,7 +4465,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4475,7 +4475,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270327T140000
 DTEND;TZID=America/New_York:20270327T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-290@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4487,7 +4487,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4497,7 +4497,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270327T193000
 DTEND;TZID=America/New_York:20270327T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-291@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4509,7 +4509,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4519,7 +4519,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270327T193000
 DTEND;TZID=America/New_York:20270327T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-302@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -4535,7 +4535,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4545,7 +4545,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270328T140000
 DTEND;TZID=America/New_York:20270328T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-292@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4557,7 +4557,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4567,7 +4567,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270328T193000
 DTEND;TZID=America/New_York:20270328T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-293@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4579,7 +4579,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4589,7 +4589,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270330T193000
 DTEND;TZID=America/New_York:20270330T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-303@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -4605,7 +4605,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4615,7 +4615,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270331T193000
 DTEND;TZID=America/New_York:20270331T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-294@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4627,7 +4627,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4637,7 +4637,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270401T193000
 DTEND;TZID=America/New_York:20270401T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-295@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4649,7 +4649,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4659,7 +4659,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270402T193000
 DTEND;TZID=America/New_York:20270402T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-296@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4671,7 +4671,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4681,7 +4681,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270402T193000
 DTEND;TZID=America/New_York:20270402T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-304@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -4697,7 +4697,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4707,7 +4707,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270403T140000
 DTEND;TZID=America/New_York:20270403T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-297@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4719,7 +4719,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4729,7 +4729,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270403T140000
 DTEND;TZID=America/New_York:20270403T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-305@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -4745,7 +4745,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4755,7 +4755,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270403T193000
 DTEND;TZID=America/New_York:20270403T220000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-298@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4767,7 +4767,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4777,7 +4777,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270403T193000
 DTEND;TZID=America/New_York:20270403T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-306@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -4793,7 +4793,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4803,7 +4803,7 @@ BEGIN:VEVENT
 SUMMARY:Alice in Neverland
 DTSTART;TZID=America/New_York:20270404T140000
 DTEND;TZID=America/New_York:20270404T163000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-299@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -4815,7 +4815,7 @@ DESCRIPTION:A world-premiere musical: twenty years on\, a disenchanted gro
   far more dangerous. A story about reclaiming childhood and what it costs 
  to never grow up.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4825,7 +4825,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270404T140000
 DTEND;TZID=America/New_York:20270404T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-307@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -4841,7 +4841,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4851,7 +4851,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270404T193000
 DTEND;TZID=America/New_York:20270404T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-308@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -4867,7 +4867,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4877,7 +4877,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270407T193000
 DTEND;TZID=America/New_York:20270407T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-309@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -4893,7 +4893,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4903,7 +4903,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270408T193000
 DTEND;TZID=America/New_York:20270408T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-310@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -4919,7 +4919,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4929,7 +4929,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270409T193000
 DTEND;TZID=America/New_York:20270409T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-311@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -4945,7 +4945,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4955,7 +4955,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270410T140000
 DTEND;TZID=America/New_York:20270410T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-312@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -4971,7 +4971,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4981,7 +4981,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270410T193000
 DTEND;TZID=America/New_York:20270410T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-313@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -4997,7 +4997,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5007,7 +5007,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270411T140000
 DTEND;TZID=America/New_York:20270411T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-314@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5023,7 +5023,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5033,7 +5033,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270411T193000
 DTEND;TZID=America/New_York:20270411T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-315@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5049,7 +5049,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5059,7 +5059,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270414T193000
 DTEND;TZID=America/New_York:20270414T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-316@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5075,7 +5075,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5085,7 +5085,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270415T193000
 DTEND;TZID=America/New_York:20270415T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-317@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5101,7 +5101,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5111,7 +5111,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270416T193000
 DTEND;TZID=America/New_York:20270416T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-318@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5127,7 +5127,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5137,7 +5137,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270417T140000
 DTEND;TZID=America/New_York:20270417T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-319@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5153,7 +5153,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5163,7 +5163,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270417T193000
 DTEND;TZID=America/New_York:20270417T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-320@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5179,7 +5179,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5189,7 +5189,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270418T140000
 DTEND;TZID=America/New_York:20270418T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-321@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5205,7 +5205,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5215,7 +5215,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270418T193000
 DTEND;TZID=America/New_York:20270418T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-322@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5231,7 +5231,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5241,7 +5241,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270421T193000
 DTEND;TZID=America/New_York:20270421T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-323@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5257,7 +5257,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5267,7 +5267,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270422T193000
 DTEND;TZID=America/New_York:20270422T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-324@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5283,7 +5283,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5293,7 +5293,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270423T193000
 DTEND;TZID=America/New_York:20270423T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-325@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5309,7 +5309,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5319,7 +5319,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270424T140000
 DTEND;TZID=America/New_York:20270424T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-326@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5335,7 +5335,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5345,7 +5345,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270424T193000
 DTEND;TZID=America/New_York:20270424T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-327@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5361,7 +5361,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5371,7 +5371,7 @@ BEGIN:VEVENT
 SUMMARY:Dictionary of the Vulgar Tongue
 DTSTART;TZID=America/New_York:20270425T140000
 DTEND;TZID=America/New_York:20270425T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-328@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5387,7 +5387,7 @@ DESCRIPTION:World-premiere satire: a pristine Connecticut living room\, th
  ts world premiere from the Alliance Theatre\, directed by Tinashe Kajese-B
  olden. Runs through April 25.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5397,7 +5397,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270514T193000
 DTEND;TZID=America/New_York:20270514T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-329@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5411,7 +5411,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5421,7 +5421,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270515T193000
 DTEND;TZID=America/New_York:20270515T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-330@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5435,7 +5435,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5445,7 +5445,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270516T140000
 DTEND;TZID=America/New_York:20270516T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-331@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5459,7 +5459,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5469,7 +5469,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270516T193000
 DTEND;TZID=America/New_York:20270516T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-332@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5483,7 +5483,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5493,7 +5493,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270519T193000
 DTEND;TZID=America/New_York:20270519T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-333@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5507,7 +5507,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5517,7 +5517,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270520T193000
 DTEND;TZID=America/New_York:20270520T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-334@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5531,7 +5531,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5541,7 +5541,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270521T193000
 DTEND;TZID=America/New_York:20270521T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-335@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5555,7 +5555,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5565,7 +5565,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270523T140000
 DTEND;TZID=America/New_York:20270523T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-336@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5579,7 +5579,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5589,7 +5589,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270525T193000
 DTEND;TZID=America/New_York:20270525T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-337@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5603,7 +5603,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5613,7 +5613,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270526T193000
 DTEND;TZID=America/New_York:20270526T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-338@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5627,7 +5627,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5637,7 +5637,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270527T193000
 DTEND;TZID=America/New_York:20270527T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-339@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5651,7 +5651,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5661,7 +5661,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270528T193000
 DTEND;TZID=America/New_York:20270528T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-340@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5675,7 +5675,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5685,7 +5685,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270529T140000
 DTEND;TZID=America/New_York:20270529T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-341@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5699,7 +5699,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5709,7 +5709,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270529T193000
 DTEND;TZID=America/New_York:20270529T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-342@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5723,7 +5723,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5733,7 +5733,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270530T140000
 DTEND;TZID=America/New_York:20270530T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-343@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5747,7 +5747,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5757,7 +5757,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270530T193000
 DTEND;TZID=America/New_York:20270530T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-344@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5771,7 +5771,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5781,7 +5781,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270602T193000
 DTEND;TZID=America/New_York:20270602T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-345@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5795,7 +5795,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5805,7 +5805,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270603T193000
 DTEND;TZID=America/New_York:20270603T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-346@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5819,7 +5819,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5829,7 +5829,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270604T193000
 DTEND;TZID=America/New_York:20270604T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-347@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5843,7 +5843,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5853,7 +5853,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270605T140000
 DTEND;TZID=America/New_York:20270605T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-348@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5867,7 +5867,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5877,7 +5877,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270605T193000
 DTEND;TZID=America/New_York:20270605T214500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-349@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5891,7 +5891,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5901,7 +5901,7 @@ BEGIN:VEVENT
 SUMMARY:John Proctor is the Villain
 DTSTART;TZID=America/New_York:20270606T140000
 DTEND;TZID=America/New_York:20270606T161500
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-350@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -5915,7 +5915,7 @@ DESCRIPTION:Kimberly Belflower's Tony-nominated comedy-drama: Georgia teen
  nominations\, including Best Play\, it makes its Georgia debut from the Al
  liance Theatre\, directed by Autumn Angelettie. Runs through June 6.
 GEO:33.7893845;-84.3846553
-LAST-MODIFIED:20260706T063410Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Woodruff Arts Center\, 1280 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

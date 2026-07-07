@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Mel Konner’s Sixteen Springs or Four Loves (Staged Reading)
 DTSTART;TZID=America/New_York:20261114T143000
 DTEND;TZID=America/New_York:20261114T160000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-1494@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -73,7 +73,7 @@ DESCRIPTION:A book-in-hand reading of a new play filling in the sixteen mi
  nt fates. A staged reading from the Atlanta Shakespeare Company\, ahead of
   a full production in Spring 2027.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

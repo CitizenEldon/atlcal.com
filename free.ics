@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260807T200000
 DTEND;TZID=America/New_York:20260807T223000
-DTSTAMP:20260707T000730Z
+DTSTAMP:20260707T014648Z
 UID:occ-680@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -73,7 +73,7 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260706T063411Z
+LAST-MODIFIED:20260707T013014Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
