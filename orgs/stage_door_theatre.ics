@@ -1,0 +1,1364 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Atlanta Event Calendar//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Atlanta Events — Stage Door Theatre
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:EST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700426T030000
+RDATE:19710425T030000,19720430T030000,19730429T030000,19740106T030000,1975
+ 0223T030000,19760425T030000,19770424T030000,19780430T030000,19790429T03000
+ 0,19800427T030000,19810426T030000,19820425T030000,19830424T030000,19840429
+ T030000,19850428T030000,19860427T030000,19870405T030000,19880403T030000,19
+ 890402T030000,19900401T030000,19910407T030000,19920405T030000,19930404T030
+ 000,19940403T030000,19950402T030000,19960407T030000,19970406T030000,199804
+ 05T030000,19990404T030000,20000402T030000,20010401T030000,20020407T030000,
+ 20030406T030000,20040404T030000,20050403T030000,20060402T030000,20070311T0
+ 30000,20080309T030000,20090308T030000,20100314T030000,20110313T030000,2012
+ 0311T030000,20130310T030000,20140309T030000,20150308T030000,20160313T03000
+ 0,20170312T030000,20180311T030000,20190310T030000,20200308T030000,20210314
+ T030000,20220313T030000,20230312T030000,20240310T030000,20250309T030000,20
+ 260308T030000,20270314T030000,20280312T030000,20290311T030000,20300310T030
+ 000,20310309T030000,20320314T030000,20330313T030000,20340312T030000,203503
+ 11T030000,20360309T030000,20370308T030000
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19701025T020000
+RDATE:19711031T020000,19721029T020000,19731028T020000,19741027T020000,1975
+ 1026T020000,19761031T020000,19771030T020000,19781029T020000,19791028T02000
+ 0,19801026T020000,19811025T020000,19821031T020000,19831030T020000,19841028
+ T020000,19851027T020000,19861026T020000,19871025T020000,19881030T020000,19
+ 891029T020000,19901028T020000,19911027T020000,19921025T020000,19931031T020
+ 000,19941030T020000,19951029T020000,19961027T020000,19971026T020000,199810
+ 25T020000,19991031T020000,20001029T020000,20011028T020000,20021027T020000,
+ 20031026T020000,20041031T020000,20051030T020000,20061029T020000,20071104T0
+ 20000,20081102T020000,20091101T020000,20101107T020000,20111106T020000,2012
+ 1104T020000,20131103T020000,20141102T020000,20151101T020000,20161106T02000
+ 0,20171105T020000,20181104T020000,20191103T020000,20201101T020000,20211107
+ T020000,20221106T020000,20231105T020000,20241103T020000,20251102T020000,20
+ 261101T020000,20271107T020000,20281105T020000,20291104T020000,20301103T020
+ 000,20311102T020000,20321107T020000,20331106T020000,20341105T020000,203511
+ 04T020000,20361102T020000,20371101T020000
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Dad's Garage 2026
+DTSTART;TZID=America/New_York:20260815T193000
+DTEND;TZID=America/New_York:20260815T213000
+DTSTAMP:20260707T000730Z
+UID:occ-861@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Improvisers from Atlanta's Dad's Garage make the whole show up
+  from audience suggestions.\n\nPerformers from Dad's Garage\, Atlanta's lo
+ ng-running improv comedy company\, build the entire show in the moment: sc
+ enes\, characters\, and games sparked by whatever the audience calls out. 
+ No script\, no repeats. Presented by Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11804720/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ripcord
+DTSTART;TZID=America/New_York:20261003T193000
+DTEND;TZID=America/New_York:20261003T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1600@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
+ e roommates and the prank war that spirals between them.\n\nDavid Lindsay-
+ Abaire's comedy set in a shared room at the Bristol Place Senior Living Fa
+ cility\, where the cantankerous Abby wants her sunny upper-floor quarters 
+ to herself and the relentlessly cheerful new arrival Marilyn refuses to bu
+ dge. What starts as a bet between the two women spirals into increasingly 
+ outrageous pranks\, and each round unearths secrets both would prefer stay
+ ed buried. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11823389/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ripcord
+DTSTART;TZID=America/New_York:20261004T143000
+DTEND;TZID=America/New_York:20261004T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1601@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
+ e roommates and the prank war that spirals between them.\n\nDavid Lindsay-
+ Abaire's comedy set in a shared room at the Bristol Place Senior Living Fa
+ cility\, where the cantankerous Abby wants her sunny upper-floor quarters 
+ to herself and the relentlessly cheerful new arrival Marilyn refuses to bu
+ dge. What starts as a bet between the two women spirals into increasingly 
+ outrageous pranks\, and each round unearths secrets both would prefer stay
+ ed buried. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11823396/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ripcord
+DTSTART;TZID=America/New_York:20261008T193000
+DTEND;TZID=America/New_York:20261008T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1602@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
+ e roommates and the prank war that spirals between them.\n\nDavid Lindsay-
+ Abaire's comedy set in a shared room at the Bristol Place Senior Living Fa
+ cility\, where the cantankerous Abby wants her sunny upper-floor quarters 
+ to herself and the relentlessly cheerful new arrival Marilyn refuses to bu
+ dge. What starts as a bet between the two women spirals into increasingly 
+ outrageous pranks\, and each round unearths secrets both would prefer stay
+ ed buried. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11823392/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ripcord
+DTSTART;TZID=America/New_York:20261009T193000
+DTEND;TZID=America/New_York:20261009T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1603@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
+ e roommates and the prank war that spirals between them.\n\nDavid Lindsay-
+ Abaire's comedy set in a shared room at the Bristol Place Senior Living Fa
+ cility\, where the cantankerous Abby wants her sunny upper-floor quarters 
+ to herself and the relentlessly cheerful new arrival Marilyn refuses to bu
+ dge. What starts as a bet between the two women spirals into increasingly 
+ outrageous pranks\, and each round unearths secrets both would prefer stay
+ ed buried. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11823393/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ripcord
+DTSTART;TZID=America/New_York:20261010T143000
+DTEND;TZID=America/New_York:20261010T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1604@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
+ e roommates and the prank war that spirals between them.\n\nDavid Lindsay-
+ Abaire's comedy set in a shared room at the Bristol Place Senior Living Fa
+ cility\, where the cantankerous Abby wants her sunny upper-floor quarters 
+ to herself and the relentlessly cheerful new arrival Marilyn refuses to bu
+ dge. What starts as a bet between the two women spirals into increasingly 
+ outrageous pranks\, and each round unearths secrets both would prefer stay
+ ed buried. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11823399/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ripcord
+DTSTART;TZID=America/New_York:20261010T193000
+DTEND;TZID=America/New_York:20261010T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1605@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
+ e roommates and the prank war that spirals between them.\n\nDavid Lindsay-
+ Abaire's comedy set in a shared room at the Bristol Place Senior Living Fa
+ cility\, where the cantankerous Abby wants her sunny upper-floor quarters 
+ to herself and the relentlessly cheerful new arrival Marilyn refuses to bu
+ dge. What starts as a bet between the two women spirals into increasingly 
+ outrageous pranks\, and each round unearths secrets both would prefer stay
+ ed buried. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11823390/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ripcord
+DTSTART;TZID=America/New_York:20261011T143000
+DTEND;TZID=America/New_York:20261011T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1606@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
+ e roommates and the prank war that spirals between them.\n\nDavid Lindsay-
+ Abaire's comedy set in a shared room at the Bristol Place Senior Living Fa
+ cility\, where the cantankerous Abby wants her sunny upper-floor quarters 
+ to herself and the relentlessly cheerful new arrival Marilyn refuses to bu
+ dge. What starts as a bet between the two women spirals into increasingly 
+ outrageous pranks\, and each round unearths secrets both would prefer stay
+ ed buried. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11823397/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ripcord
+DTSTART;TZID=America/New_York:20261015T193000
+DTEND;TZID=America/New_York:20261015T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1607@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
+ e roommates and the prank war that spirals between them.\n\nDavid Lindsay-
+ Abaire's comedy set in a shared room at the Bristol Place Senior Living Fa
+ cility\, where the cantankerous Abby wants her sunny upper-floor quarters 
+ to herself and the relentlessly cheerful new arrival Marilyn refuses to bu
+ dge. What starts as a bet between the two women spirals into increasingly 
+ outrageous pranks\, and each round unearths secrets both would prefer stay
+ ed buried. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11823394/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ripcord
+DTSTART;TZID=America/New_York:20261016T193000
+DTEND;TZID=America/New_York:20261016T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1608@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
+ e roommates and the prank war that spirals between them.\n\nDavid Lindsay-
+ Abaire's comedy set in a shared room at the Bristol Place Senior Living Fa
+ cility\, where the cantankerous Abby wants her sunny upper-floor quarters 
+ to herself and the relentlessly cheerful new arrival Marilyn refuses to bu
+ dge. What starts as a bet between the two women spirals into increasingly 
+ outrageous pranks\, and each round unearths secrets both would prefer stay
+ ed buried. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11823395/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ripcord
+DTSTART;TZID=America/New_York:20261017T143000
+DTEND;TZID=America/New_York:20261017T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1609@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
+ e roommates and the prank war that spirals between them.\n\nDavid Lindsay-
+ Abaire's comedy set in a shared room at the Bristol Place Senior Living Fa
+ cility\, where the cantankerous Abby wants her sunny upper-floor quarters 
+ to herself and the relentlessly cheerful new arrival Marilyn refuses to bu
+ dge. What starts as a bet between the two women spirals into increasingly 
+ outrageous pranks\, and each round unearths secrets both would prefer stay
+ ed buried. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11823400/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ripcord
+DTSTART;TZID=America/New_York:20261017T193000
+DTEND;TZID=America/New_York:20261017T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1610@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
+ e roommates and the prank war that spirals between them.\n\nDavid Lindsay-
+ Abaire's comedy set in a shared room at the Bristol Place Senior Living Fa
+ cility\, where the cantankerous Abby wants her sunny upper-floor quarters 
+ to herself and the relentlessly cheerful new arrival Marilyn refuses to bu
+ dge. What starts as a bet between the two women spirals into increasingly 
+ outrageous pranks\, and each round unearths secrets both would prefer stay
+ ed buried. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11823391/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ripcord
+DTSTART;TZID=America/New_York:20261018T143000
+DTEND;TZID=America/New_York:20261018T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1611@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
+ e roommates and the prank war that spirals between them.\n\nDavid Lindsay-
+ Abaire's comedy set in a shared room at the Bristol Place Senior Living Fa
+ cility\, where the cantankerous Abby wants her sunny upper-floor quarters 
+ to herself and the relentlessly cheerful new arrival Marilyn refuses to bu
+ dge. What starts as a bet between the two women spirals into increasingly 
+ outrageous pranks\, and each round unearths secrets both would prefer stay
+ ed buried. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11823398/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Wonderettes
+DTSTART;TZID=America/New_York:20261205T193000
+DTEND;TZID=America/New_York:20261205T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1612@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
+ -group harmonies at a hardware store party\, and Santa's gone missing.\n\n
+ A holiday installment of Roger Bean's Marvelous Wonderettes jukebox musica
+ ls\, with the four girls in tight harmony providing the entertainment at H
+ arper's Hardware annual holiday party. When Santa turns up missing\, they 
+ improvise their way to saving the night. The setlist leans on seasonal sta
+ ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
+ n\, Rudolph\, Run." From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825788/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Wonderettes
+DTSTART;TZID=America/New_York:20261206T143000
+DTEND;TZID=America/New_York:20261206T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1613@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
+ -group harmonies at a hardware store party\, and Santa's gone missing.\n\n
+ A holiday installment of Roger Bean's Marvelous Wonderettes jukebox musica
+ ls\, with the four girls in tight harmony providing the entertainment at H
+ arper's Hardware annual holiday party. When Santa turns up missing\, they 
+ improvise their way to saving the night. The setlist leans on seasonal sta
+ ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
+ n\, Rudolph\, Run." From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825795/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Wonderettes
+DTSTART;TZID=America/New_York:20261210T193000
+DTEND;TZID=America/New_York:20261210T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1614@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
+ -group harmonies at a hardware store party\, and Santa's gone missing.\n\n
+ A holiday installment of Roger Bean's Marvelous Wonderettes jukebox musica
+ ls\, with the four girls in tight harmony providing the entertainment at H
+ arper's Hardware annual holiday party. When Santa turns up missing\, they 
+ improvise their way to saving the night. The setlist leans on seasonal sta
+ ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
+ n\, Rudolph\, Run." From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825793/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Wonderettes
+DTSTART;TZID=America/New_York:20261211T193000
+DTEND;TZID=America/New_York:20261211T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1615@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
+ -group harmonies at a hardware store party\, and Santa's gone missing.\n\n
+ A holiday installment of Roger Bean's Marvelous Wonderettes jukebox musica
+ ls\, with the four girls in tight harmony providing the entertainment at H
+ arper's Hardware annual holiday party. When Santa turns up missing\, they 
+ improvise their way to saving the night. The setlist leans on seasonal sta
+ ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
+ n\, Rudolph\, Run." From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825794/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Wonderettes
+DTSTART;TZID=America/New_York:20261212T143000
+DTEND;TZID=America/New_York:20261212T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1616@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
+ -group harmonies at a hardware store party\, and Santa's gone missing.\n\n
+ A holiday installment of Roger Bean's Marvelous Wonderettes jukebox musica
+ ls\, with the four girls in tight harmony providing the entertainment at H
+ arper's Hardware annual holiday party. When Santa turns up missing\, they 
+ improvise their way to saving the night. The setlist leans on seasonal sta
+ ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
+ n\, Rudolph\, Run." From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825798/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Wonderettes
+DTSTART;TZID=America/New_York:20261212T193000
+DTEND;TZID=America/New_York:20261212T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1617@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
+ -group harmonies at a hardware store party\, and Santa's gone missing.\n\n
+ A holiday installment of Roger Bean's Marvelous Wonderettes jukebox musica
+ ls\, with the four girls in tight harmony providing the entertainment at H
+ arper's Hardware annual holiday party. When Santa turns up missing\, they 
+ improvise their way to saving the night. The setlist leans on seasonal sta
+ ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
+ n\, Rudolph\, Run." From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825789/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Wonderettes
+DTSTART;TZID=America/New_York:20261213T143000
+DTEND;TZID=America/New_York:20261213T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1618@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
+ -group harmonies at a hardware store party\, and Santa's gone missing.\n\n
+ A holiday installment of Roger Bean's Marvelous Wonderettes jukebox musica
+ ls\, with the four girls in tight harmony providing the entertainment at H
+ arper's Hardware annual holiday party. When Santa turns up missing\, they 
+ improvise their way to saving the night. The setlist leans on seasonal sta
+ ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
+ n\, Rudolph\, Run." From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825796/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Wonderettes
+DTSTART;TZID=America/New_York:20261217T193000
+DTEND;TZID=America/New_York:20261217T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1619@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
+ -group harmonies at a hardware store party\, and Santa's gone missing.\n\n
+ A holiday installment of Roger Bean's Marvelous Wonderettes jukebox musica
+ ls\, with the four girls in tight harmony providing the entertainment at H
+ arper's Hardware annual holiday party. When Santa turns up missing\, they 
+ improvise their way to saving the night. The setlist leans on seasonal sta
+ ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
+ n\, Rudolph\, Run." From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825791/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Wonderettes
+DTSTART;TZID=America/New_York:20261218T193000
+DTEND;TZID=America/New_York:20261218T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1620@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
+ -group harmonies at a hardware store party\, and Santa's gone missing.\n\n
+ A holiday installment of Roger Bean's Marvelous Wonderettes jukebox musica
+ ls\, with the four girls in tight harmony providing the entertainment at H
+ arper's Hardware annual holiday party. When Santa turns up missing\, they 
+ improvise their way to saving the night. The setlist leans on seasonal sta
+ ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
+ n\, Rudolph\, Run." From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825792/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Wonderettes
+DTSTART;TZID=America/New_York:20261219T143000
+DTEND;TZID=America/New_York:20261219T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1621@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
+ -group harmonies at a hardware store party\, and Santa's gone missing.\n\n
+ A holiday installment of Roger Bean's Marvelous Wonderettes jukebox musica
+ ls\, with the four girls in tight harmony providing the entertainment at H
+ arper's Hardware annual holiday party. When Santa turns up missing\, they 
+ improvise their way to saving the night. The setlist leans on seasonal sta
+ ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
+ n\, Rudolph\, Run." From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825799/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Wonderettes
+DTSTART;TZID=America/New_York:20261219T193000
+DTEND;TZID=America/New_York:20261219T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1622@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
+ -group harmonies at a hardware store party\, and Santa's gone missing.\n\n
+ A holiday installment of Roger Bean's Marvelous Wonderettes jukebox musica
+ ls\, with the four girls in tight harmony providing the entertainment at H
+ arper's Hardware annual holiday party. When Santa turns up missing\, they 
+ improvise their way to saving the night. The setlist leans on seasonal sta
+ ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
+ n\, Rudolph\, Run." From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825790/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Wonderettes
+DTSTART;TZID=America/New_York:20261220T143000
+DTEND;TZID=America/New_York:20261220T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1623@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
+ -group harmonies at a hardware store party\, and Santa's gone missing.\n\n
+ A holiday installment of Roger Bean's Marvelous Wonderettes jukebox musica
+ ls\, with the four girls in tight harmony providing the entertainment at H
+ arper's Hardware annual holiday party. When Santa turns up missing\, they 
+ improvise their way to saving the night. The setlist leans on seasonal sta
+ ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
+ n\, Rudolph\, Run." From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825797/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Proof
+DTSTART;TZID=America/New_York:20270206T193000
+DTEND;TZID=America/New_York:20270206T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1624@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
+ ter\, a mysterious proof\, and the question of who wrote it.\n\nDavid Aubu
+ rn's drama won the 2001 Pulitzer Prize and the Tony for Best Play. Catheri
+ ne spent years caring for her father\, a brilliant University of Chicago m
+ athematician whose mind unraveled before his death. Now one of his former 
+ students is combing through the hundred-odd notebooks he left behind\, and
+  a groundbreaking proof about prime numbers surfaces. The question of who 
+ wrote it forces Catherine to reckon with how much of her father\, genius a
+ nd instability alike\, she may have inherited. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825800/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Proof
+DTSTART;TZID=America/New_York:20270207T143000
+DTEND;TZID=America/New_York:20270207T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1625@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
+ ter\, a mysterious proof\, and the question of who wrote it.\n\nDavid Aubu
+ rn's drama won the 2001 Pulitzer Prize and the Tony for Best Play. Catheri
+ ne spent years caring for her father\, a brilliant University of Chicago m
+ athematician whose mind unraveled before his death. Now one of his former 
+ students is combing through the hundred-odd notebooks he left behind\, and
+  a groundbreaking proof about prime numbers surfaces. The question of who 
+ wrote it forces Catherine to reckon with how much of her father\, genius a
+ nd instability alike\, she may have inherited. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825814/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Proof
+DTSTART;TZID=America/New_York:20270211T193000
+DTEND;TZID=America/New_York:20270211T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1626@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
+ ter\, a mysterious proof\, and the question of who wrote it.\n\nDavid Aubu
+ rn's drama won the 2001 Pulitzer Prize and the Tony for Best Play. Catheri
+ ne spent years caring for her father\, a brilliant University of Chicago m
+ athematician whose mind unraveled before his death. Now one of his former 
+ students is combing through the hundred-odd notebooks he left behind\, and
+  a groundbreaking proof about prime numbers surfaces. The question of who 
+ wrote it forces Catherine to reckon with how much of her father\, genius a
+ nd instability alike\, she may have inherited. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825802/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Proof
+DTSTART;TZID=America/New_York:20270212T193000
+DTEND;TZID=America/New_York:20270212T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1627@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
+ ter\, a mysterious proof\, and the question of who wrote it.\n\nDavid Aubu
+ rn's drama won the 2001 Pulitzer Prize and the Tony for Best Play. Catheri
+ ne spent years caring for her father\, a brilliant University of Chicago m
+ athematician whose mind unraveled before his death. Now one of his former 
+ students is combing through the hundred-odd notebooks he left behind\, and
+  a groundbreaking proof about prime numbers surfaces. The question of who 
+ wrote it forces Catherine to reckon with how much of her father\, genius a
+ nd instability alike\, she may have inherited. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825804/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Proof
+DTSTART;TZID=America/New_York:20270213T193000
+DTEND;TZID=America/New_York:20270213T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1628@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
+ ter\, a mysterious proof\, and the question of who wrote it.\n\nDavid Aubu
+ rn's drama won the 2001 Pulitzer Prize and the Tony for Best Play. Catheri
+ ne spent years caring for her father\, a brilliant University of Chicago m
+ athematician whose mind unraveled before his death. Now one of his former 
+ students is combing through the hundred-odd notebooks he left behind\, and
+  a groundbreaking proof about prime numbers surfaces. The question of who 
+ wrote it forces Catherine to reckon with how much of her father\, genius a
+ nd instability alike\, she may have inherited. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825806/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Proof
+DTSTART;TZID=America/New_York:20270214T143000
+DTEND;TZID=America/New_York:20270214T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1629@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
+ ter\, a mysterious proof\, and the question of who wrote it.\n\nDavid Aubu
+ rn's drama won the 2001 Pulitzer Prize and the Tony for Best Play. Catheri
+ ne spent years caring for her father\, a brilliant University of Chicago m
+ athematician whose mind unraveled before his death. Now one of his former 
+ students is combing through the hundred-odd notebooks he left behind\, and
+  a groundbreaking proof about prime numbers surfaces. The question of who 
+ wrote it forces Catherine to reckon with how much of her father\, genius a
+ nd instability alike\, she may have inherited. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825815/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Proof
+DTSTART;TZID=America/New_York:20270218T193000
+DTEND;TZID=America/New_York:20270218T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1630@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
+ ter\, a mysterious proof\, and the question of who wrote it.\n\nDavid Aubu
+ rn's drama won the 2001 Pulitzer Prize and the Tony for Best Play. Catheri
+ ne spent years caring for her father\, a brilliant University of Chicago m
+ athematician whose mind unraveled before his death. Now one of his former 
+ students is combing through the hundred-odd notebooks he left behind\, and
+  a groundbreaking proof about prime numbers surfaces. The question of who 
+ wrote it forces Catherine to reckon with how much of her father\, genius a
+ nd instability alike\, she may have inherited. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825808/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Proof
+DTSTART;TZID=America/New_York:20270219T193000
+DTEND;TZID=America/New_York:20270219T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1631@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
+ ter\, a mysterious proof\, and the question of who wrote it.\n\nDavid Aubu
+ rn's drama won the 2001 Pulitzer Prize and the Tony for Best Play. Catheri
+ ne spent years caring for her father\, a brilliant University of Chicago m
+ athematician whose mind unraveled before his death. Now one of his former 
+ students is combing through the hundred-odd notebooks he left behind\, and
+  a groundbreaking proof about prime numbers surfaces. The question of who 
+ wrote it forces Catherine to reckon with how much of her father\, genius a
+ nd instability alike\, she may have inherited. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825810/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Proof
+DTSTART;TZID=America/New_York:20270220T193000
+DTEND;TZID=America/New_York:20270220T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1632@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
+ ter\, a mysterious proof\, and the question of who wrote it.\n\nDavid Aubu
+ rn's drama won the 2001 Pulitzer Prize and the Tony for Best Play. Catheri
+ ne spent years caring for her father\, a brilliant University of Chicago m
+ athematician whose mind unraveled before his death. Now one of his former 
+ students is combing through the hundred-odd notebooks he left behind\, and
+  a groundbreaking proof about prime numbers surfaces. The question of who 
+ wrote it forces Catherine to reckon with how much of her father\, genius a
+ nd instability alike\, she may have inherited. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825812/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Proof
+DTSTART;TZID=America/New_York:20270221T143000
+DTEND;TZID=America/New_York:20270221T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1633@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
+ ter\, a mysterious proof\, and the question of who wrote it.\n\nDavid Aubu
+ rn's drama won the 2001 Pulitzer Prize and the Tony for Best Play. Catheri
+ ne spent years caring for her father\, a brilliant University of Chicago m
+ athematician whose mind unraveled before his death. Now one of his former 
+ students is combing through the hundred-odd notebooks he left behind\, and
+  a groundbreaking proof about prime numbers surfaces. The question of who 
+ wrote it forces Catherine to reckon with how much of her father\, genius a
+ nd instability alike\, she may have inherited. From Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825816/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop of Horrors
+DTSTART;TZID=America/New_York:20270403T200000
+DTEND;TZID=America/New_York:20270403T223000
+DTSTAMP:20260707T000730Z
+UID:occ-1634@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
+ , a bloodthirsty plant\, and a Faustian bargain.\n\nThe 1982 horror-comedy
+  musical from Alan Menken and Howard Ashman\, the songwriting team that la
+ ter gave Disney The Little Mermaid. Meek flower-shop clerk Seymour discove
+ rs a strange plant that turns his fortunes around\, but Audrey II has a ta
+ ste for blood and an appetite that keeps growing. The score runs on early-
+ '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
+ et urchins as Greek chorus. Presented by Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825819/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop of Horrors
+DTSTART;TZID=America/New_York:20270404T130000
+DTEND;TZID=America/New_York:20270404T153000
+DTSTAMP:20260707T000730Z
+UID:occ-1635@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
+ , a bloodthirsty plant\, and a Faustian bargain.\n\nThe 1982 horror-comedy
+  musical from Alan Menken and Howard Ashman\, the songwriting team that la
+ ter gave Disney The Little Mermaid. Meek flower-shop clerk Seymour discove
+ rs a strange plant that turns his fortunes around\, but Audrey II has a ta
+ ste for blood and an appetite that keeps growing. The score runs on early-
+ '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
+ et urchins as Greek chorus. Presented by Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825828/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop of Horrors
+DTSTART;TZID=America/New_York:20270404T170000
+DTEND;TZID=America/New_York:20270404T193000
+DTSTAMP:20260707T000730Z
+UID:occ-1636@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
+ , a bloodthirsty plant\, and a Faustian bargain.\n\nThe 1982 horror-comedy
+  musical from Alan Menken and Howard Ashman\, the songwriting team that la
+ ter gave Disney The Little Mermaid. Meek flower-shop clerk Seymour discove
+ rs a strange plant that turns his fortunes around\, but Audrey II has a ta
+ ste for blood and an appetite that keeps growing. The score runs on early-
+ '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
+ et urchins as Greek chorus. Presented by Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825827/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop of Horrors
+DTSTART;TZID=America/New_York:20270408T190000
+DTEND;TZID=America/New_York:20270408T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1637@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
+ , a bloodthirsty plant\, and a Faustian bargain.\n\nThe 1982 horror-comedy
+  musical from Alan Menken and Howard Ashman\, the songwriting team that la
+ ter gave Disney The Little Mermaid. Meek flower-shop clerk Seymour discove
+ rs a strange plant that turns his fortunes around\, but Audrey II has a ta
+ ste for blood and an appetite that keeps growing. The score runs on early-
+ '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
+ et urchins as Greek chorus. Presented by Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825825/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop of Horrors
+DTSTART;TZID=America/New_York:20270410T200000
+DTEND;TZID=America/New_York:20270410T223000
+DTSTAMP:20260707T000730Z
+UID:occ-1638@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
+ , a bloodthirsty plant\, and a Faustian bargain.\n\nThe 1982 horror-comedy
+  musical from Alan Menken and Howard Ashman\, the songwriting team that la
+ ter gave Disney The Little Mermaid. Meek flower-shop clerk Seymour discove
+ rs a strange plant that turns his fortunes around\, but Audrey II has a ta
+ ste for blood and an appetite that keeps growing. The score runs on early-
+ '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
+ et urchins as Greek chorus. Presented by Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825821/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop of Horrors
+DTSTART;TZID=America/New_York:20270411T130000
+DTEND;TZID=America/New_York:20270411T153000
+DTSTAMP:20260707T000730Z
+UID:occ-1639@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
+ , a bloodthirsty plant\, and a Faustian bargain.\n\nThe 1982 horror-comedy
+  musical from Alan Menken and Howard Ashman\, the songwriting team that la
+ ter gave Disney The Little Mermaid. Meek flower-shop clerk Seymour discove
+ rs a strange plant that turns his fortunes around\, but Audrey II has a ta
+ ste for blood and an appetite that keeps growing. The score runs on early-
+ '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
+ et urchins as Greek chorus. Presented by Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825830/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop of Horrors
+DTSTART;TZID=America/New_York:20270411T170000
+DTEND;TZID=America/New_York:20270411T193000
+DTSTAMP:20260707T000730Z
+UID:occ-1640@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
+ , a bloodthirsty plant\, and a Faustian bargain.\n\nThe 1982 horror-comedy
+  musical from Alan Menken and Howard Ashman\, the songwriting team that la
+ ter gave Disney The Little Mermaid. Meek flower-shop clerk Seymour discove
+ rs a strange plant that turns his fortunes around\, but Audrey II has a ta
+ ste for blood and an appetite that keeps growing. The score runs on early-
+ '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
+ et urchins as Greek chorus. Presented by Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825829/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop of Horrors
+DTSTART;TZID=America/New_York:20270415T190000
+DTEND;TZID=America/New_York:20270415T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1641@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
+ , a bloodthirsty plant\, and a Faustian bargain.\n\nThe 1982 horror-comedy
+  musical from Alan Menken and Howard Ashman\, the songwriting team that la
+ ter gave Disney The Little Mermaid. Meek flower-shop clerk Seymour discove
+ rs a strange plant that turns his fortunes around\, but Audrey II has a ta
+ ste for blood and an appetite that keeps growing. The score runs on early-
+ '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
+ et urchins as Greek chorus. Presented by Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825826/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop of Horrors
+DTSTART;TZID=America/New_York:20270417T200000
+DTEND;TZID=America/New_York:20270417T223000
+DTSTAMP:20260707T000730Z
+UID:occ-1642@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
+ , a bloodthirsty plant\, and a Faustian bargain.\n\nThe 1982 horror-comedy
+  musical from Alan Menken and Howard Ashman\, the songwriting team that la
+ ter gave Disney The Little Mermaid. Meek flower-shop clerk Seymour discove
+ rs a strange plant that turns his fortunes around\, but Audrey II has a ta
+ ste for blood and an appetite that keeps growing. The score runs on early-
+ '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
+ et urchins as Greek chorus. Presented by Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825823/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop of Horrors
+DTSTART;TZID=America/New_York:20270418T130000
+DTEND;TZID=America/New_York:20270418T153000
+DTSTAMP:20260707T000730Z
+UID:occ-1643@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
+ , a bloodthirsty plant\, and a Faustian bargain.\n\nThe 1982 horror-comedy
+  musical from Alan Menken and Howard Ashman\, the songwriting team that la
+ ter gave Disney The Little Mermaid. Meek flower-shop clerk Seymour discove
+ rs a strange plant that turns his fortunes around\, but Audrey II has a ta
+ ste for blood and an appetite that keeps growing. The score runs on early-
+ '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
+ et urchins as Greek chorus. Presented by Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825832/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop of Horrors
+DTSTART;TZID=America/New_York:20270418T170000
+DTEND;TZID=America/New_York:20270418T193000
+DTSTAMP:20260707T000730Z
+UID:occ-1644@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
+ , a bloodthirsty plant\, and a Faustian bargain.\n\nThe 1982 horror-comedy
+  musical from Alan Menken and Howard Ashman\, the songwriting team that la
+ ter gave Disney The Little Mermaid. Meek flower-shop clerk Seymour discove
+ rs a strange plant that turns his fortunes around\, but Audrey II has a ta
+ ste for blood and an appetite that keeps growing. The score runs on early-
+ '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
+ et urchins as Greek chorus. Presented by Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825831/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Every Brilliant Thing
+DTSTART;TZID=America/New_York:20270814T193000
+DTEND;TZID=America/New_York:20270814T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1645@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
+ orth living for\, with the audience holding pieces of it.\n\nDuncan Macmil
+ lan and Jonny Donahoe's one-performer play about a narrator who\, at age s
+ even\, responds to his mother's suicide attempt by starting a list of ever
+ ything worth living for. The list grows through college\, marriage\, and a
+  depression of his own. The audience keeps the show running: some hold num
+ bered cards and shout out entries on cue (rollercoasters\, people falling 
+ over)\, and a few get drafted into roles on the spot. From Stage Door Thea
+ tre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825838/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Every Brilliant Thing
+DTSTART;TZID=America/New_York:20270815T143000
+DTEND;TZID=America/New_York:20270815T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1646@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
+ orth living for\, with the audience holding pieces of it.\n\nDuncan Macmil
+ lan and Jonny Donahoe's one-performer play about a narrator who\, at age s
+ even\, responds to his mother's suicide attempt by starting a list of ever
+ ything worth living for. The list grows through college\, marriage\, and a
+  depression of his own. The audience keeps the show running: some hold num
+ bered cards and shout out entries on cue (rollercoasters\, people falling 
+ over)\, and a few get drafted into roles on the spot. From Stage Door Thea
+ tre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825845/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Every Brilliant Thing
+DTSTART;TZID=America/New_York:20270819T193000
+DTEND;TZID=America/New_York:20270819T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1647@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
+ orth living for\, with the audience holding pieces of it.\n\nDuncan Macmil
+ lan and Jonny Donahoe's one-performer play about a narrator who\, at age s
+ even\, responds to his mother's suicide attempt by starting a list of ever
+ ything worth living for. The list grows through college\, marriage\, and a
+  depression of his own. The audience keeps the show running: some hold num
+ bered cards and shout out entries on cue (rollercoasters\, people falling 
+ over)\, and a few get drafted into roles on the spot. From Stage Door Thea
+ tre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825839/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Every Brilliant Thing
+DTSTART;TZID=America/New_York:20270820T193000
+DTEND;TZID=America/New_York:20270820T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1648@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
+ orth living for\, with the audience holding pieces of it.\n\nDuncan Macmil
+ lan and Jonny Donahoe's one-performer play about a narrator who\, at age s
+ even\, responds to his mother's suicide attempt by starting a list of ever
+ ything worth living for. The list grows through college\, marriage\, and a
+  depression of his own. The audience keeps the show running: some hold num
+ bered cards and shout out entries on cue (rollercoasters\, people falling 
+ over)\, and a few get drafted into roles on the spot. From Stage Door Thea
+ tre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825840/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Every Brilliant Thing
+DTSTART;TZID=America/New_York:20270821T193000
+DTEND;TZID=America/New_York:20270821T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1649@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
+ orth living for\, with the audience holding pieces of it.\n\nDuncan Macmil
+ lan and Jonny Donahoe's one-performer play about a narrator who\, at age s
+ even\, responds to his mother's suicide attempt by starting a list of ever
+ ything worth living for. The list grows through college\, marriage\, and a
+  depression of his own. The audience keeps the show running: some hold num
+ bered cards and shout out entries on cue (rollercoasters\, people falling 
+ over)\, and a few get drafted into roles on the spot. From Stage Door Thea
+ tre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825841/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Every Brilliant Thing
+DTSTART;TZID=America/New_York:20270822T143000
+DTEND;TZID=America/New_York:20270822T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1650@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
+ orth living for\, with the audience holding pieces of it.\n\nDuncan Macmil
+ lan and Jonny Donahoe's one-performer play about a narrator who\, at age s
+ even\, responds to his mother's suicide attempt by starting a list of ever
+ ything worth living for. The list grows through college\, marriage\, and a
+  depression of his own. The audience keeps the show running: some hold num
+ bered cards and shout out entries on cue (rollercoasters\, people falling 
+ over)\, and a few get drafted into roles on the spot. From Stage Door Thea
+ tre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825846/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Every Brilliant Thing
+DTSTART;TZID=America/New_York:20270826T193000
+DTEND;TZID=America/New_York:20270826T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1651@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
+ orth living for\, with the audience holding pieces of it.\n\nDuncan Macmil
+ lan and Jonny Donahoe's one-performer play about a narrator who\, at age s
+ even\, responds to his mother's suicide attempt by starting a list of ever
+ ything worth living for. The list grows through college\, marriage\, and a
+  depression of his own. The audience keeps the show running: some hold num
+ bered cards and shout out entries on cue (rollercoasters\, people falling 
+ over)\, and a few get drafted into roles on the spot. From Stage Door Thea
+ tre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825842/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Every Brilliant Thing
+DTSTART;TZID=America/New_York:20270827T193000
+DTEND;TZID=America/New_York:20270827T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1652@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
+ orth living for\, with the audience holding pieces of it.\n\nDuncan Macmil
+ lan and Jonny Donahoe's one-performer play about a narrator who\, at age s
+ even\, responds to his mother's suicide attempt by starting a list of ever
+ ything worth living for. The list grows through college\, marriage\, and a
+  depression of his own. The audience keeps the show running: some hold num
+ bered cards and shout out entries on cue (rollercoasters\, people falling 
+ over)\, and a few get drafted into roles on the spot. From Stage Door Thea
+ tre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825843/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Every Brilliant Thing
+DTSTART;TZID=America/New_York:20270828T193000
+DTEND;TZID=America/New_York:20270828T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1653@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
+ orth living for\, with the audience holding pieces of it.\n\nDuncan Macmil
+ lan and Jonny Donahoe's one-performer play about a narrator who\, at age s
+ even\, responds to his mother's suicide attempt by starting a list of ever
+ ything worth living for. The list grows through college\, marriage\, and a
+  depression of his own. The audience keeps the show running: some hold num
+ bered cards and shout out entries on cue (rollercoasters\, people falling 
+ over)\, and a few get drafted into roles on the spot. From Stage Door Thea
+ tre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825844/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Every Brilliant Thing
+DTSTART;TZID=America/New_York:20270829T143000
+DTEND;TZID=America/New_York:20270829T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1654@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
+ orth living for\, with the audience holding pieces of it.\n\nDuncan Macmil
+ lan and Jonny Donahoe's one-performer play about a narrator who\, at age s
+ even\, responds to his mother's suicide attempt by starting a list of ever
+ ything worth living for. The list grows through college\, marriage\, and a
+  depression of his own. The audience keeps the show running: some hold num
+ bered cards and shout out entries on cue (rollercoasters\, people falling 
+ over)\, and a few get drafted into roles on the spot. From Stage Door Thea
+ tre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11825847/selecttickets
+END:VEVENT
+END:VCALENDAR

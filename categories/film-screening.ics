@@ -1,0 +1,358 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Atlanta Event Calendar//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Atlanta Events — Film Screening
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:EST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700426T030000
+RDATE:19710425T030000,19720430T030000,19730429T030000,19740106T030000,1975
+ 0223T030000,19760425T030000,19770424T030000,19780430T030000,19790429T03000
+ 0,19800427T030000,19810426T030000,19820425T030000,19830424T030000,19840429
+ T030000,19850428T030000,19860427T030000,19870405T030000,19880403T030000,19
+ 890402T030000,19900401T030000,19910407T030000,19920405T030000,19930404T030
+ 000,19940403T030000,19950402T030000,19960407T030000,19970406T030000,199804
+ 05T030000,19990404T030000,20000402T030000,20010401T030000,20020407T030000,
+ 20030406T030000,20040404T030000,20050403T030000,20060402T030000,20070311T0
+ 30000,20080309T030000,20090308T030000,20100314T030000,20110313T030000,2012
+ 0311T030000,20130310T030000,20140309T030000,20150308T030000,20160313T03000
+ 0,20170312T030000,20180311T030000,20190310T030000,20200308T030000,20210314
+ T030000,20220313T030000,20230312T030000,20240310T030000,20250309T030000,20
+ 260308T030000,20270314T030000,20280312T030000,20290311T030000,20300310T030
+ 000,20310309T030000,20320314T030000,20330313T030000,20340312T030000,203503
+ 11T030000,20360309T030000,20370308T030000
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19701025T020000
+RDATE:19711031T020000,19721029T020000,19731028T020000,19741027T020000,1975
+ 1026T020000,19761031T020000,19771030T020000,19781029T020000,19791028T02000
+ 0,19801026T020000,19811025T020000,19821031T020000,19831030T020000,19841028
+ T020000,19851027T020000,19861026T020000,19871025T020000,19881030T020000,19
+ 891029T020000,19901028T020000,19911027T020000,19921025T020000,19931031T020
+ 000,19941030T020000,19951029T020000,19961027T020000,19971026T020000,199810
+ 25T020000,19991031T020000,20001029T020000,20011028T020000,20021027T020000,
+ 20031026T020000,20041031T020000,20051030T020000,20061029T020000,20071104T0
+ 20000,20081102T020000,20091101T020000,20101107T020000,20111106T020000,2012
+ 1104T020000,20131103T020000,20141102T020000,20151101T020000,20161106T02000
+ 0,20171105T020000,20181104T020000,20191103T020000,20201101T020000,20211107
+ T020000,20221106T020000,20231105T020000,20241103T020000,20251102T020000,20
+ 261101T020000,20271107T020000,20281105T020000,20291104T020000,20301103T020
+ 000,20311102T020000,20321107T020000,20331106T020000,20341105T020000,203511
+ 04T020000,20361102T020000,20371101T020000
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Grease Sing-A-Long (1978)
+DTSTART;TZID=America/New_York:20260801T150000
+DTEND;TZID=America/New_York:20260801T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1233@atlcal.com
+SEQUENCE:0
+CATEGORIES:Film Screening
+DESCRIPTION:The 1978 movie musical with on-screen lyrics — sing every wo
+ rd\, rated PG\, 105 minutes.\n\nThe 1978 film with John Travolta and Olivi
+ a Newton-John as Danny and Sandy\, screened sing-along style with on-scree
+ n lyrics for "Summer Nights\," "Greased Lightnin'\," and the rest. A summe
+ r romance collides with 1950s high-school social order when the pair land 
+ at the same school. Rated PG\, 1 hour 45 minutes\, and a live pre-show con
+ cert on the house Mighty Allen Theatre Organ begins thirty minutes before 
+ the film.
+GEO:33.9536122;-84.5492054
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Strand Theatre\, 117 N Park Square
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs0000
+ 0749iDMAQ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grease Sing-A-Long (1978)
+DTSTART;TZID=America/New_York:20260801T200000
+DTEND;TZID=America/New_York:20260801T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1234@atlcal.com
+SEQUENCE:0
+CATEGORIES:Film Screening
+DESCRIPTION:The 1978 movie musical with on-screen lyrics — sing every wo
+ rd\, rated PG\, 105 minutes.\n\nThe 1978 film with John Travolta and Olivi
+ a Newton-John as Danny and Sandy\, screened sing-along style with on-scree
+ n lyrics for "Summer Nights\," "Greased Lightnin'\," and the rest. A summe
+ r romance collides with 1950s high-school social order when the pair land 
+ at the same school. Rated PG\, 1 hour 45 minutes\, and a live pre-show con
+ cert on the house Mighty Allen Theatre Organ begins thirty minutes before 
+ the film.
+GEO:33.9536122;-84.5492054
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Strand Theatre\, 117 N Park Square
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs0000
+ 0749jpMAA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silent Film at The Strand: Sunrise (1927)
+DTSTART;TZID=America/New_York:20260816T150000
+DTEND;TZID=America/New_York:20260816T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1240@atlcal.com
+SEQUENCE:0
+CATEGORIES:Film Screening
+DESCRIPTION:F.W. Murnau's 1927 silent masterpiece\, scored live on the Mig
+ hty Allen Theatre Organ by house organist Ron Carter.\n\nF.W. Murnau's sil
+ ent classic follows a farmer torn between a seductive woman from the city 
+ and the wife he has left waiting at home. It won at the very first Academy
+  Awards and is still counted among the most visually inventive films ever 
+ made. House organist Ron Carter accompanies live on the Strand Theatre's M
+ ighty Allen\, a four-manual digital replica of a 1920s Wurlitzer complete 
+ with a toy counter of train whistles\, car horns\, and gunshots. An organ 
+ pops concert begins thirty minutes before showtime\; the film runs 97 minu
+ tes.
+GEO:33.9536122;-84.5492054
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Strand Theatre\, 117 N Park Square
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs0000
+ 074Co9MAE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ferris Bueller's Day Off (1986)
+DTSTART;TZID=America/New_York:20260820T190000
+DTEND;TZID=America/New_York:20260820T210000
+DTSTAMP:20260707T000730Z
+UID:occ-1239@atlcal.com
+SEQUENCE:0
+CATEGORIES:Film Screening
+DESCRIPTION:John Hughes's 1986 comedy of epic truancy\, with a Mighty Alle
+ n Theatre Organ concert beforehand.\n\nJohn Hughes's 1986 comedy about Fer
+ ris Bueller (Matthew Broderick)\, a high school senior who fakes sick and 
+ spends one glorious day loose in Chicago with his girlfriend\, his anxious
+  best friend\, and a borrowed 1961 Ferrari\, while his dean hunts him down
+ . Ferris narrates straight to the camera the whole way. The house Mighty A
+ llen Theatre Organ plays a half-hour concert before the film starts. 1 hou
+ r 43 minutes\, rated PG-13.
+GEO:33.9536122;-84.5492054
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Strand Theatre\, 117 N Park Square
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs0000
+ 074DYvMAM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamma Mia! and Margaritas!
+DTSTART;TZID=America/New_York:20260822T150000
+DTEND;TZID=America/New_York:20260822T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1657@atlcal.com
+SEQUENCE:0
+CATEGORIES:Film Screening
+DESCRIPTION:The 2008 ABBA movie musical on the big screen\, with a margari
+ ta bar and a pre-show organ concert.\n\nThe 2008 film of the ABBA jukebox 
+ musical: on a Greek island\, a bride-to-be finds three men in her mother's
+  old diary who might be her father\, and quietly adds all of them to the g
+ uest list — mom Donna (Meryl Streep) none the wiser. Pierce Brosnan\, Co
+ lin Firth\, and Stellan Skarsgård are the candidates. The Strand Theatre 
+ sells margaritas\, frozen or on the rocks\, and boas are encouraged. A liv
+ e concert on the house's Mighty Allen Theatre Organ starts thirty minutes 
+ before the film. 1 hour 48 minutes\, rated PG-13.
+GEO:33.9536122;-84.5492054
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Strand Theatre\, 117 N Park Square
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs0000
+ 075UavMAE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamma Mia! and Margaritas!
+DTSTART;TZID=America/New_York:20260822T200000
+DTEND;TZID=America/New_York:20260822T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1658@atlcal.com
+SEQUENCE:0
+CATEGORIES:Film Screening
+DESCRIPTION:The 2008 ABBA movie musical on the big screen\, with a margari
+ ta bar and a pre-show organ concert.\n\nThe 2008 film of the ABBA jukebox 
+ musical: on a Greek island\, a bride-to-be finds three men in her mother's
+  old diary who might be her father\, and quietly adds all of them to the g
+ uest list — mom Donna (Meryl Streep) none the wiser. Pierce Brosnan\, Co
+ lin Firth\, and Stellan Skarsgård are the candidates. The Strand Theatre 
+ sells margaritas\, frozen or on the rocks\, and boas are encouraged. A liv
+ e concert on the house's Mighty Allen Theatre Organ starts thirty minutes 
+ before the film. 1 hour 48 minutes\, rated PG-13.
+GEO:33.9536122;-84.5492054
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Strand Theatre\, 117 N Park Square
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs0000
+ 075UcXMAU
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamma Mia! and Margaritas!
+DTSTART;TZID=America/New_York:20260823T150000
+DTEND;TZID=America/New_York:20260823T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1659@atlcal.com
+SEQUENCE:0
+CATEGORIES:Film Screening
+DESCRIPTION:The 2008 ABBA movie musical on the big screen\, with a margari
+ ta bar and a pre-show organ concert.\n\nThe 2008 film of the ABBA jukebox 
+ musical: on a Greek island\, a bride-to-be finds three men in her mother's
+  old diary who might be her father\, and quietly adds all of them to the g
+ uest list — mom Donna (Meryl Streep) none the wiser. Pierce Brosnan\, Co
+ lin Firth\, and Stellan Skarsgård are the candidates. The Strand Theatre 
+ sells margaritas\, frozen or on the rocks\, and boas are encouraged. A liv
+ e concert on the house's Mighty Allen Theatre Organ starts thirty minutes 
+ before the film. 1 hour 48 minutes\, rated PG-13.
+GEO:33.9536122;-84.5492054
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Strand Theatre\, 117 N Park Square
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs0000
+ 075Ue9MAE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Poppins (1964)
+DTSTART;TZID=America/New_York:20260828T200000
+DTEND;TZID=America/New_York:20260828T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1660@atlcal.com
+SEQUENCE:0
+CATEGORIES:Film Screening
+DESCRIPTION:Disney's 1964 classic with Julie Andrews\, preceded by a live 
+ concert on the Mighty Allen Theatre Organ.\n\nThe 1964 Disney musical that
+  made Julie Andrews a movie star: a practically perfect nanny descends on 
+ the Banks children of Edwardian London\, with Dick Van Dyke's chimney swee
+ p Bert along for "Chim Chim Cher-ee\," "A Spoonful of Sugar\," and the res
+ t. Rated G\, 2 hours 19 minutes. A live pre-show concert on the house's Mi
+ ghty Allen Theatre Organ starts thirty minutes before the film. Note: a co
+ ncurrent Glover Park Concert closes North and East Park Streets\, so parki
+ ng in the Waddell deck is advised.
+GEO:33.9536122;-84.5492054
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Strand Theatre\, 117 N Park Square
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs0000
+ 075V5ZMAU
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shrek (2001)
+DTSTART;TZID=America/New_York:20260923T150000
+DTEND;TZID=America/New_York:20260923T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1661@atlcal.com
+SEQUENCE:0
+CATEGORIES:Film Screening
+DESCRIPTION:DreamWorks' 2001 fairy-tale spoof on the big screen — Mike M
+ yers' ogre\, Eddie Murphy's Donkey\, 89 minutes\, PG.\n\nThe 2001 DreamWor
+ ks comedy that won the first-ever Oscar for Best Animated Feature\, back o
+ n a big screen. An ogre who just wants his swamp to himself strikes a deal
+  with the fussy Lord Farquaad: rescue Princess Fiona\, get the fairy-tale 
+ squatters off his land. Mike Myers voices Shrek in the Scottish accent he 
+ insisted on re-recording every line to get\, with Eddie Murphy\, Cameron D
+ iaz\, and John Lithgow rounding out the cast\, plus a Smash Mouth-heavy so
+ undtrack that dates it precisely and fondly. Loosely based on William Stei
+ g's picture book. 89 minutes\, rated PG.
+GEO:33.9536122;-84.5492054
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Strand Theatre\, 117 N Park Square
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs0000
+ 075VwnMAE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shrek (2001)
+DTSTART;TZID=America/New_York:20260923T190000
+DTEND;TZID=America/New_York:20260923T210000
+DTSTAMP:20260707T000730Z
+UID:occ-1662@atlcal.com
+SEQUENCE:0
+CATEGORIES:Film Screening
+DESCRIPTION:DreamWorks' 2001 fairy-tale spoof on the big screen — Mike M
+ yers' ogre\, Eddie Murphy's Donkey\, 89 minutes\, PG.\n\nThe 2001 DreamWor
+ ks comedy that won the first-ever Oscar for Best Animated Feature\, back o
+ n a big screen. An ogre who just wants his swamp to himself strikes a deal
+  with the fussy Lord Farquaad: rescue Princess Fiona\, get the fairy-tale 
+ squatters off his land. Mike Myers voices Shrek in the Scottish accent he 
+ insisted on re-recording every line to get\, with Eddie Murphy\, Cameron D
+ iaz\, and John Lithgow rounding out the cast\, plus a Smash Mouth-heavy so
+ undtrack that dates it precisely and fondly. Loosely based on William Stei
+ g's picture book. 89 minutes\, rated PG.
+GEO:33.9536122;-84.5492054
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Strand Theatre\, 117 N Park Square
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs0000
+ 075VyPMAU
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sparrows (1926)
+DTSTART;TZID=America/New_York:20260927T150000
+DTEND;TZID=America/New_York:20260927T170000
+DTSTAMP:20260707T000730Z
+UID:occ-942@atlcal.com
+SEQUENCE:0
+CATEGORIES:Film Screening
+DESCRIPTION:Mary Pickford's 1926 silent melodrama\, screened with live acc
+ ompaniment on the Mighty Allen Theatre Organ.\n\nMary Pickford plays Molly
+ \, the oldest of a band of orphans held captive on a baby farm deep in an 
+ alligator-infested swamp\, who plots their escape when the children's crue
+ l keeper decides to be rid of one of them. Part of the Strand Theatre's Si
+ lent Film Series\, with house organist Ron Carter providing a live score o
+ n the Mighty Allen Theatre Organ\, whose digital toy counter supplies whis
+ tles\, thunder\, and gunshots on cue. An organ pops concert begins thirty 
+ minutes before the film. Runs 1 hour 49 minutes\; not rated.
+GEO:33.9536122;-84.5492054
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Strand Theatre\, 117 N Park Square
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs0000
+ 06X9ttMAC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indie Film Series 2026
+DTSTART;TZID=America/New_York:20261007T193000
+DTEND;TZID=America/New_York:20261007T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1230@atlcal.com
+SEQUENCE:0
+CATEGORIES:Film Screening
+DESCRIPTION:Halloween edition of the monthly indie showcase: shorts and fe
+ atures from around the world\, roughly 90 minutes.\n\nA Halloween edition 
+ of the monthly indie film night\, a compact festival packing short and fea
+ ture-length independent films into a single sitting\, about ninety minutes
+  in all. Selections come from emerging and established filmmakers across t
+ he country and abroad\, curated for originality and offbeat themes. From t
+ he Strand in partnership with the Cobb International Film Festival\; scree
+ nings are open to the public.
+GEO:33.9536122;-84.5492054
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Strand Theatre\, 117 N Park Square
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs0000
+ 073XZhMAM
+END:VEVENT
+END:VCALENDAR

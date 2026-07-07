@@ -1,0 +1,917 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Atlanta Event Calendar//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Atlanta Events — Henry Players
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:EST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700426T030000
+RDATE:19710425T030000,19720430T030000,19730429T030000,19740106T030000,1975
+ 0223T030000,19760425T030000,19770424T030000,19780430T030000,19790429T03000
+ 0,19800427T030000,19810426T030000,19820425T030000,19830424T030000,19840429
+ T030000,19850428T030000,19860427T030000,19870405T030000,19880403T030000,19
+ 890402T030000,19900401T030000,19910407T030000,19920405T030000,19930404T030
+ 000,19940403T030000,19950402T030000,19960407T030000,19970406T030000,199804
+ 05T030000,19990404T030000,20000402T030000,20010401T030000,20020407T030000,
+ 20030406T030000,20040404T030000,20050403T030000,20060402T030000,20070311T0
+ 30000,20080309T030000,20090308T030000,20100314T030000,20110313T030000,2012
+ 0311T030000,20130310T030000,20140309T030000,20150308T030000,20160313T03000
+ 0,20170312T030000,20180311T030000,20190310T030000,20200308T030000,20210314
+ T030000,20220313T030000,20230312T030000,20240310T030000,20250309T030000,20
+ 260308T030000,20270314T030000,20280312T030000,20290311T030000,20300310T030
+ 000,20310309T030000,20320314T030000,20330313T030000,20340312T030000,203503
+ 11T030000,20360309T030000,20370308T030000
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19701025T020000
+RDATE:19711031T020000,19721029T020000,19731028T020000,19741027T020000,1975
+ 1026T020000,19761031T020000,19771030T020000,19781029T020000,19791028T02000
+ 0,19801026T020000,19811025T020000,19821031T020000,19831030T020000,19841028
+ T020000,19851027T020000,19861026T020000,19871025T020000,19881030T020000,19
+ 891029T020000,19901028T020000,19911027T020000,19921025T020000,19931031T020
+ 000,19941030T020000,19951029T020000,19961027T020000,19971026T020000,199810
+ 25T020000,19991031T020000,20001029T020000,20011028T020000,20021027T020000,
+ 20031026T020000,20041031T020000,20051030T020000,20061029T020000,20071104T0
+ 20000,20081102T020000,20091101T020000,20101107T020000,20111106T020000,2012
+ 1104T020000,20131103T020000,20141102T020000,20151101T020000,20161106T02000
+ 0,20171105T020000,20181104T020000,20191103T020000,20201101T020000,20211107
+ T020000,20221106T020000,20231105T020000,20241103T020000,20251102T020000,20
+ 261101T020000,20271107T020000,20281105T020000,20291104T020000,20301103T020
+ 000,20311102T020000,20321107T020000,20331106T020000,20341105T020000,203511
+ 04T020000,20361102T020000,20371101T020000
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Arsenic and Old Lace
+DTSTART;TZID=America/New_York:20260821T193000
+DTEND;TZID=America/New_York:20260821T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1372@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Kesselring's black comedy: two sweet aunts\, a body in the win
+ dow seat\, and elderberry wine best declined.\n\nJoseph Kesselring's 1941 
+ farce\, later the Frank Capra film with Cary Grant. Drama critic Mortimer 
+ Brewster is about to announce his engagement when he finds a corpse in his
+  elderly aunts' window seat\, and the ladies are entirely unbothered by it
+ . Their elderberry wine\, it turns out\, carries more than a hint of arsen
+ ic. Also in the house: a brother convinced he is Teddy Roosevelt and a fug
+ itive sibling with a face rebuilt by a shady plastic surgeon. From the Hen
+ ry Players\, a volunteer community theatre company.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/arsenic-and-old-lace-tickets-271699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenic and Old Lace
+DTSTART;TZID=America/New_York:20260822T193000
+DTEND;TZID=America/New_York:20260822T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1373@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Kesselring's black comedy: two sweet aunts\, a body in the win
+ dow seat\, and elderberry wine best declined.\n\nJoseph Kesselring's 1941 
+ farce\, later the Frank Capra film with Cary Grant. Drama critic Mortimer 
+ Brewster is about to announce his engagement when he finds a corpse in his
+  elderly aunts' window seat\, and the ladies are entirely unbothered by it
+ . Their elderberry wine\, it turns out\, carries more than a hint of arsen
+ ic. Also in the house: a brother convinced he is Teddy Roosevelt and a fug
+ itive sibling with a face rebuilt by a shady plastic surgeon. From the Hen
+ ry Players\, a volunteer community theatre company.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/arsenic-and-old-lace-tickets-271699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenic and Old Lace
+DTSTART;TZID=America/New_York:20260823T143000
+DTEND;TZID=America/New_York:20260823T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1374@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Kesselring's black comedy: two sweet aunts\, a body in the win
+ dow seat\, and elderberry wine best declined.\n\nJoseph Kesselring's 1941 
+ farce\, later the Frank Capra film with Cary Grant. Drama critic Mortimer 
+ Brewster is about to announce his engagement when he finds a corpse in his
+  elderly aunts' window seat\, and the ladies are entirely unbothered by it
+ . Their elderberry wine\, it turns out\, carries more than a hint of arsen
+ ic. Also in the house: a brother convinced he is Teddy Roosevelt and a fug
+ itive sibling with a face rebuilt by a shady plastic surgeon. From the Hen
+ ry Players\, a volunteer community theatre company.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/arsenic-and-old-lace-tickets-271699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenic and Old Lace
+DTSTART;TZID=America/New_York:20260828T193000
+DTEND;TZID=America/New_York:20260828T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1375@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Kesselring's black comedy: two sweet aunts\, a body in the win
+ dow seat\, and elderberry wine best declined.\n\nJoseph Kesselring's 1941 
+ farce\, later the Frank Capra film with Cary Grant. Drama critic Mortimer 
+ Brewster is about to announce his engagement when he finds a corpse in his
+  elderly aunts' window seat\, and the ladies are entirely unbothered by it
+ . Their elderberry wine\, it turns out\, carries more than a hint of arsen
+ ic. Also in the house: a brother convinced he is Teddy Roosevelt and a fug
+ itive sibling with a face rebuilt by a shady plastic surgeon. From the Hen
+ ry Players\, a volunteer community theatre company.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/arsenic-and-old-lace-tickets-271699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenic and Old Lace
+DTSTART;TZID=America/New_York:20260829T143000
+DTEND;TZID=America/New_York:20260829T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1376@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Kesselring's black comedy: two sweet aunts\, a body in the win
+ dow seat\, and elderberry wine best declined.\n\nJoseph Kesselring's 1941 
+ farce\, later the Frank Capra film with Cary Grant. Drama critic Mortimer 
+ Brewster is about to announce his engagement when he finds a corpse in his
+  elderly aunts' window seat\, and the ladies are entirely unbothered by it
+ . Their elderberry wine\, it turns out\, carries more than a hint of arsen
+ ic. Also in the house: a brother convinced he is Teddy Roosevelt and a fug
+ itive sibling with a face rebuilt by a shady plastic surgeon. From the Hen
+ ry Players\, a volunteer community theatre company.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/arsenic-and-old-lace-tickets-271699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenic and Old Lace
+DTSTART;TZID=America/New_York:20260830T143000
+DTEND;TZID=America/New_York:20260830T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1377@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Kesselring's black comedy: two sweet aunts\, a body in the win
+ dow seat\, and elderberry wine best declined.\n\nJoseph Kesselring's 1941 
+ farce\, later the Frank Capra film with Cary Grant. Drama critic Mortimer 
+ Brewster is about to announce his engagement when he finds a corpse in his
+  elderly aunts' window seat\, and the ladies are entirely unbothered by it
+ . Their elderberry wine\, it turns out\, carries more than a hint of arsen
+ ic. Also in the house: a brother convinced he is Teddy Roosevelt and a fug
+ itive sibling with a face rebuilt by a shady plastic surgeon. From the Hen
+ ry Players\, a volunteer community theatre company.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/arsenic-and-old-lace-tickets-271699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ride the Cyclone
+DTSTART;TZID=America/New_York:20261016T193000
+DTEND;TZID=America/New_York:20261016T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1378@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Six choir kids die on a roller coaster and compete in song for
+  one shot back at life.\n\nJacob Richmond and Brooke Maxwell's cult dark-c
+ omedy musical: six teenagers from a small-town Canadian chamber choir peri
+ sh on a faulty coaster and wake in limbo\, where a mechanical fortune tell
+ er offers exactly one of them a return to life. Each teen pleads their cas
+ e in song\, from autotuned gangsta rap to a torchy French lament. The show
+  has local roots of a sort — its 2019 Alliance Theatre run supplied the 
+ cast for the world premiere recording. A community production from the Hen
+ ry Players.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/ride-the-cyclone-tickets-271694
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ride the Cyclone
+DTSTART;TZID=America/New_York:20261017T193000
+DTEND;TZID=America/New_York:20261017T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1379@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Six choir kids die on a roller coaster and compete in song for
+  one shot back at life.\n\nJacob Richmond and Brooke Maxwell's cult dark-c
+ omedy musical: six teenagers from a small-town Canadian chamber choir peri
+ sh on a faulty coaster and wake in limbo\, where a mechanical fortune tell
+ er offers exactly one of them a return to life. Each teen pleads their cas
+ e in song\, from autotuned gangsta rap to a torchy French lament. The show
+  has local roots of a sort — its 2019 Alliance Theatre run supplied the 
+ cast for the world premiere recording. A community production from the Hen
+ ry Players.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/ride-the-cyclone-tickets-271694
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ride the Cyclone
+DTSTART;TZID=America/New_York:20261018T143000
+DTEND;TZID=America/New_York:20261018T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1380@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Six choir kids die on a roller coaster and compete in song for
+  one shot back at life.\n\nJacob Richmond and Brooke Maxwell's cult dark-c
+ omedy musical: six teenagers from a small-town Canadian chamber choir peri
+ sh on a faulty coaster and wake in limbo\, where a mechanical fortune tell
+ er offers exactly one of them a return to life. Each teen pleads their cas
+ e in song\, from autotuned gangsta rap to a torchy French lament. The show
+  has local roots of a sort — its 2019 Alliance Theatre run supplied the 
+ cast for the world premiere recording. A community production from the Hen
+ ry Players.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/ride-the-cyclone-tickets-271694
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ride the Cyclone
+DTSTART;TZID=America/New_York:20261023T193000
+DTEND;TZID=America/New_York:20261023T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1381@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Six choir kids die on a roller coaster and compete in song for
+  one shot back at life.\n\nJacob Richmond and Brooke Maxwell's cult dark-c
+ omedy musical: six teenagers from a small-town Canadian chamber choir peri
+ sh on a faulty coaster and wake in limbo\, where a mechanical fortune tell
+ er offers exactly one of them a return to life. Each teen pleads their cas
+ e in song\, from autotuned gangsta rap to a torchy French lament. The show
+  has local roots of a sort — its 2019 Alliance Theatre run supplied the 
+ cast for the world premiere recording. A community production from the Hen
+ ry Players.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/ride-the-cyclone-tickets-271694
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ride the Cyclone
+DTSTART;TZID=America/New_York:20261024T143000
+DTEND;TZID=America/New_York:20261024T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1382@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Six choir kids die on a roller coaster and compete in song for
+  one shot back at life.\n\nJacob Richmond and Brooke Maxwell's cult dark-c
+ omedy musical: six teenagers from a small-town Canadian chamber choir peri
+ sh on a faulty coaster and wake in limbo\, where a mechanical fortune tell
+ er offers exactly one of them a return to life. Each teen pleads their cas
+ e in song\, from autotuned gangsta rap to a torchy French lament. The show
+  has local roots of a sort — its 2019 Alliance Theatre run supplied the 
+ cast for the world premiere recording. A community production from the Hen
+ ry Players.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/ride-the-cyclone-tickets-271694
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ride the Cyclone
+DTSTART;TZID=America/New_York:20261025T143000
+DTEND;TZID=America/New_York:20261025T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1383@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Six choir kids die on a roller coaster and compete in song for
+  one shot back at life.\n\nJacob Richmond and Brooke Maxwell's cult dark-c
+ omedy musical: six teenagers from a small-town Canadian chamber choir peri
+ sh on a faulty coaster and wake in limbo\, where a mechanical fortune tell
+ er offers exactly one of them a return to life. Each teen pleads their cas
+ e in song\, from autotuned gangsta rap to a torchy French lament. The show
+  has local roots of a sort — its 2019 Alliance Theatre run supplied the 
+ cast for the world premiere recording. A community production from the Hen
+ ry Players.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/ride-the-cyclone-tickets-271694
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Home for the Holidays: A Henry Players Revue
+DTSTART;TZID=America/New_York:20261204T193000
+DTEND;TZID=America/New_York:20261204T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1384@atlcal.com
+SEQUENCE:0
+CATEGORIES:Cabaret
+DESCRIPTION:A cabaret-style holiday revue with community performers of all
+  ages — songs\, dance\, comedy skits\, and spoken word.\n\nA holiday rev
+ ue in cabaret style\, back for its second year\, with community members of
+  all ages taking the stage themselves. Expect a grab bag of seasonal acts:
+  singing\, dancing\, comedy skits\, and spoken word. From the Henry Player
+ s\, the volunteer community theatre company that has served Henry County s
+ ince 1991.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/home-for-the-holidays-a-henry-players-revu
+ -tickets-271690
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Home for the Holidays: A Henry Players Revue
+DTSTART;TZID=America/New_York:20261205T193000
+DTEND;TZID=America/New_York:20261205T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1385@atlcal.com
+SEQUENCE:0
+CATEGORIES:Cabaret
+DESCRIPTION:A cabaret-style holiday revue with community performers of all
+  ages — songs\, dance\, comedy skits\, and spoken word.\n\nA holiday rev
+ ue in cabaret style\, back for its second year\, with community members of
+  all ages taking the stage themselves. Expect a grab bag of seasonal acts:
+  singing\, dancing\, comedy skits\, and spoken word. From the Henry Player
+ s\, the volunteer community theatre company that has served Henry County s
+ ince 1991.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/home-for-the-holidays-a-henry-players-revu
+ -tickets-271690
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Home for the Holidays: A Henry Players Revue
+DTSTART;TZID=America/New_York:20261206T143000
+DTEND;TZID=America/New_York:20261206T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1386@atlcal.com
+SEQUENCE:0
+CATEGORIES:Cabaret
+DESCRIPTION:A cabaret-style holiday revue with community performers of all
+  ages — songs\, dance\, comedy skits\, and spoken word.\n\nA holiday rev
+ ue in cabaret style\, back for its second year\, with community members of
+  all ages taking the stage themselves. Expect a grab bag of seasonal acts:
+  singing\, dancing\, comedy skits\, and spoken word. From the Henry Player
+ s\, the volunteer community theatre company that has served Henry County s
+ ince 1991.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/home-for-the-holidays-a-henry-players-revu
+ -tickets-271690
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Home for the Holidays: A Henry Players Revue
+DTSTART;TZID=America/New_York:20261211T193000
+DTEND;TZID=America/New_York:20261211T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1387@atlcal.com
+SEQUENCE:0
+CATEGORIES:Cabaret
+DESCRIPTION:A cabaret-style holiday revue with community performers of all
+  ages — songs\, dance\, comedy skits\, and spoken word.\n\nA holiday rev
+ ue in cabaret style\, back for its second year\, with community members of
+  all ages taking the stage themselves. Expect a grab bag of seasonal acts:
+  singing\, dancing\, comedy skits\, and spoken word. From the Henry Player
+ s\, the volunteer community theatre company that has served Henry County s
+ ince 1991.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/home-for-the-holidays-a-henry-players-revu
+ -tickets-271690
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Home for the Holidays: A Henry Players Revue
+DTSTART;TZID=America/New_York:20261212T143000
+DTEND;TZID=America/New_York:20261212T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1388@atlcal.com
+SEQUENCE:0
+CATEGORIES:Cabaret
+DESCRIPTION:A cabaret-style holiday revue with community performers of all
+  ages — songs\, dance\, comedy skits\, and spoken word.\n\nA holiday rev
+ ue in cabaret style\, back for its second year\, with community members of
+  all ages taking the stage themselves. Expect a grab bag of seasonal acts:
+  singing\, dancing\, comedy skits\, and spoken word. From the Henry Player
+ s\, the volunteer community theatre company that has served Henry County s
+ ince 1991.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/home-for-the-holidays-a-henry-players-revu
+ -tickets-271690
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Home for the Holidays: A Henry Players Revue
+DTSTART;TZID=America/New_York:20261213T143000
+DTEND;TZID=America/New_York:20261213T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1389@atlcal.com
+SEQUENCE:0
+CATEGORIES:Cabaret
+DESCRIPTION:A cabaret-style holiday revue with community performers of all
+  ages — songs\, dance\, comedy skits\, and spoken word.\n\nA holiday rev
+ ue in cabaret style\, back for its second year\, with community members of
+  all ages taking the stage themselves. Expect a grab bag of seasonal acts:
+  singing\, dancing\, comedy skits\, and spoken word. From the Henry Player
+ s\, the volunteer community theatre company that has served Henry County s
+ ince 1991.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/home-for-the-holidays-a-henry-players-revu
+ -tickets-271690
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweat
+DTSTART;TZID=America/New_York:20270205T193000
+DTEND;TZID=America/New_York:20270205T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1390@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lynn Nottage's Pulitzer-winning drama of factory friends in a 
+ Rust Belt bar as the layoffs begin.\n\nLynn Nottage's 2015 drama\, winner 
+ of the 2017 Pulitzer Prize\, set mostly in a bar in Reading\, Pennsylvania
+ \, where a circle of steel-plant workers has gathered for years. When one 
+ of the friends is promoted to management and jobs start moving to Mexico\,
+  the lines between labor and boss\, and along race\, begin to cut through 
+ the group. Nottage built the play from years of interviews with residents 
+ of Reading\, then one of the poorest cities in America. From the Henry Pla
+ yers.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/sweat-tickets-271676
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweat
+DTSTART;TZID=America/New_York:20270206T193000
+DTEND;TZID=America/New_York:20270206T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1391@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lynn Nottage's Pulitzer-winning drama of factory friends in a 
+ Rust Belt bar as the layoffs begin.\n\nLynn Nottage's 2015 drama\, winner 
+ of the 2017 Pulitzer Prize\, set mostly in a bar in Reading\, Pennsylvania
+ \, where a circle of steel-plant workers has gathered for years. When one 
+ of the friends is promoted to management and jobs start moving to Mexico\,
+  the lines between labor and boss\, and along race\, begin to cut through 
+ the group. Nottage built the play from years of interviews with residents 
+ of Reading\, then one of the poorest cities in America. From the Henry Pla
+ yers.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/sweat-tickets-271676
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweat
+DTSTART;TZID=America/New_York:20270207T143000
+DTEND;TZID=America/New_York:20270207T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1392@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lynn Nottage's Pulitzer-winning drama of factory friends in a 
+ Rust Belt bar as the layoffs begin.\n\nLynn Nottage's 2015 drama\, winner 
+ of the 2017 Pulitzer Prize\, set mostly in a bar in Reading\, Pennsylvania
+ \, where a circle of steel-plant workers has gathered for years. When one 
+ of the friends is promoted to management and jobs start moving to Mexico\,
+  the lines between labor and boss\, and along race\, begin to cut through 
+ the group. Nottage built the play from years of interviews with residents 
+ of Reading\, then one of the poorest cities in America. From the Henry Pla
+ yers.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/sweat-tickets-271676
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweat
+DTSTART;TZID=America/New_York:20270212T193000
+DTEND;TZID=America/New_York:20270212T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1393@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lynn Nottage's Pulitzer-winning drama of factory friends in a 
+ Rust Belt bar as the layoffs begin.\n\nLynn Nottage's 2015 drama\, winner 
+ of the 2017 Pulitzer Prize\, set mostly in a bar in Reading\, Pennsylvania
+ \, where a circle of steel-plant workers has gathered for years. When one 
+ of the friends is promoted to management and jobs start moving to Mexico\,
+  the lines between labor and boss\, and along race\, begin to cut through 
+ the group. Nottage built the play from years of interviews with residents 
+ of Reading\, then one of the poorest cities in America. From the Henry Pla
+ yers.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/sweat-tickets-271676
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweat
+DTSTART;TZID=America/New_York:20270213T143000
+DTEND;TZID=America/New_York:20270213T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1394@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lynn Nottage's Pulitzer-winning drama of factory friends in a 
+ Rust Belt bar as the layoffs begin.\n\nLynn Nottage's 2015 drama\, winner 
+ of the 2017 Pulitzer Prize\, set mostly in a bar in Reading\, Pennsylvania
+ \, where a circle of steel-plant workers has gathered for years. When one 
+ of the friends is promoted to management and jobs start moving to Mexico\,
+  the lines between labor and boss\, and along race\, begin to cut through 
+ the group. Nottage built the play from years of interviews with residents 
+ of Reading\, then one of the poorest cities in America. From the Henry Pla
+ yers.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/sweat-tickets-271676
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweat
+DTSTART;TZID=America/New_York:20270214T143000
+DTEND;TZID=America/New_York:20270214T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1395@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lynn Nottage's Pulitzer-winning drama of factory friends in a 
+ Rust Belt bar as the layoffs begin.\n\nLynn Nottage's 2015 drama\, winner 
+ of the 2017 Pulitzer Prize\, set mostly in a bar in Reading\, Pennsylvania
+ \, where a circle of steel-plant workers has gathered for years. When one 
+ of the friends is promoted to management and jobs start moving to Mexico\,
+  the lines between labor and boss\, and along race\, begin to cut through 
+ the group. Nottage built the play from years of interviews with residents 
+ of Reading\, then one of the poorest cities in America. From the Henry Pla
+ yers.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/sweat-tickets-271676
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Something Rotten
+DTSTART;TZID=America/New_York:20270416T193000
+DTEND;TZID=America/New_York:20270416T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1396@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Two Renaissance playwright brothers scheme to out-write Shakes
+ peare by inventing the world's first musical.\n\nThe 2015 Broadway comedy 
+ by Karey and Wayne Kirkpatrick with John O'Farrell\, set in 1595: brothers
+  Nick and Nigel Bottom run a theatre troupe stuck in the shadow of a rock-
+ star Shakespeare. Desperate for an edge\, Nick pays a soothsayer to glimps
+ e the future of theatre and learns it involves people bursting into song m
+ id-scene. The score is wall-to-wall musical-theatre in-jokes\; the show ea
+ rned ten Tony nominations. From the Henry Players community theatre compan
+ y.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/something-rotten-tickets-269298
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Something Rotten
+DTSTART;TZID=America/New_York:20270417T193000
+DTEND;TZID=America/New_York:20270417T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1397@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Two Renaissance playwright brothers scheme to out-write Shakes
+ peare by inventing the world's first musical.\n\nThe 2015 Broadway comedy 
+ by Karey and Wayne Kirkpatrick with John O'Farrell\, set in 1595: brothers
+  Nick and Nigel Bottom run a theatre troupe stuck in the shadow of a rock-
+ star Shakespeare. Desperate for an edge\, Nick pays a soothsayer to glimps
+ e the future of theatre and learns it involves people bursting into song m
+ id-scene. The score is wall-to-wall musical-theatre in-jokes\; the show ea
+ rned ten Tony nominations. From the Henry Players community theatre compan
+ y.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/something-rotten-tickets-269298
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Something Rotten
+DTSTART;TZID=America/New_York:20270418T143000
+DTEND;TZID=America/New_York:20270418T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1398@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Two Renaissance playwright brothers scheme to out-write Shakes
+ peare by inventing the world's first musical.\n\nThe 2015 Broadway comedy 
+ by Karey and Wayne Kirkpatrick with John O'Farrell\, set in 1595: brothers
+  Nick and Nigel Bottom run a theatre troupe stuck in the shadow of a rock-
+ star Shakespeare. Desperate for an edge\, Nick pays a soothsayer to glimps
+ e the future of theatre and learns it involves people bursting into song m
+ id-scene. The score is wall-to-wall musical-theatre in-jokes\; the show ea
+ rned ten Tony nominations. From the Henry Players community theatre compan
+ y.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/something-rotten-tickets-269298
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Something Rotten
+DTSTART;TZID=America/New_York:20270423T193000
+DTEND;TZID=America/New_York:20270423T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1399@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Two Renaissance playwright brothers scheme to out-write Shakes
+ peare by inventing the world's first musical.\n\nThe 2015 Broadway comedy 
+ by Karey and Wayne Kirkpatrick with John O'Farrell\, set in 1595: brothers
+  Nick and Nigel Bottom run a theatre troupe stuck in the shadow of a rock-
+ star Shakespeare. Desperate for an edge\, Nick pays a soothsayer to glimps
+ e the future of theatre and learns it involves people bursting into song m
+ id-scene. The score is wall-to-wall musical-theatre in-jokes\; the show ea
+ rned ten Tony nominations. From the Henry Players community theatre compan
+ y.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/something-rotten-tickets-269298
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Something Rotten
+DTSTART;TZID=America/New_York:20270424T143000
+DTEND;TZID=America/New_York:20270424T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1400@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Two Renaissance playwright brothers scheme to out-write Shakes
+ peare by inventing the world's first musical.\n\nThe 2015 Broadway comedy 
+ by Karey and Wayne Kirkpatrick with John O'Farrell\, set in 1595: brothers
+  Nick and Nigel Bottom run a theatre troupe stuck in the shadow of a rock-
+ star Shakespeare. Desperate for an edge\, Nick pays a soothsayer to glimps
+ e the future of theatre and learns it involves people bursting into song m
+ id-scene. The score is wall-to-wall musical-theatre in-jokes\; the show ea
+ rned ten Tony nominations. From the Henry Players community theatre compan
+ y.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/something-rotten-tickets-269298
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Something Rotten
+DTSTART;TZID=America/New_York:20270425T143000
+DTEND;TZID=America/New_York:20270425T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1401@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Two Renaissance playwright brothers scheme to out-write Shakes
+ peare by inventing the world's first musical.\n\nThe 2015 Broadway comedy 
+ by Karey and Wayne Kirkpatrick with John O'Farrell\, set in 1595: brothers
+  Nick and Nigel Bottom run a theatre troupe stuck in the shadow of a rock-
+ star Shakespeare. Desperate for an edge\, Nick pays a soothsayer to glimps
+ e the future of theatre and learns it involves people bursting into song m
+ id-scene. The score is wall-to-wall musical-theatre in-jokes\; the show ea
+ rned ten Tony nominations. From the Henry Players community theatre compan
+ y.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/something-rotten-tickets-269298
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hunchback of Notre Dame
+DTSTART;TZID=America/New_York:20270604T193000
+DTEND;TZID=America/New_York:20270604T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1402@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Disney's stage musical of Hugo's bell-ringer tale\, with the M
+ enken and Schwartz score\, from the Henry Players.\n\nThe stage musical dr
+ awn from Disney's 1996 animated film\, itself adapted from Victor Hugo's 1
+ 831 Gothic novel. Quasimodo\, the bell-ringer hidden away in Notre Dame's 
+ tower\, longs for the world beyond the cathedral walls and finds a friend 
+ in Esmeralda\, a Romani woman who stands up to his cruel guardian\, Judge 
+ Frollo. The Alan Menken and Stephen Schwartz score is darker and more seri
+ ous than most of the Disney songbook. A volunteer community production fro
+ m the Henry Players.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/the-hunchback-of-notre-dame-tickets-269295
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hunchback of Notre Dame
+DTSTART;TZID=America/New_York:20270605T193000
+DTEND;TZID=America/New_York:20270605T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1403@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Disney's stage musical of Hugo's bell-ringer tale\, with the M
+ enken and Schwartz score\, from the Henry Players.\n\nThe stage musical dr
+ awn from Disney's 1996 animated film\, itself adapted from Victor Hugo's 1
+ 831 Gothic novel. Quasimodo\, the bell-ringer hidden away in Notre Dame's 
+ tower\, longs for the world beyond the cathedral walls and finds a friend 
+ in Esmeralda\, a Romani woman who stands up to his cruel guardian\, Judge 
+ Frollo. The Alan Menken and Stephen Schwartz score is darker and more seri
+ ous than most of the Disney songbook. A volunteer community production fro
+ m the Henry Players.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/the-hunchback-of-notre-dame-tickets-269295
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hunchback of Notre Dame
+DTSTART;TZID=America/New_York:20270606T143000
+DTEND;TZID=America/New_York:20270606T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1404@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Disney's stage musical of Hugo's bell-ringer tale\, with the M
+ enken and Schwartz score\, from the Henry Players.\n\nThe stage musical dr
+ awn from Disney's 1996 animated film\, itself adapted from Victor Hugo's 1
+ 831 Gothic novel. Quasimodo\, the bell-ringer hidden away in Notre Dame's 
+ tower\, longs for the world beyond the cathedral walls and finds a friend 
+ in Esmeralda\, a Romani woman who stands up to his cruel guardian\, Judge 
+ Frollo. The Alan Menken and Stephen Schwartz score is darker and more seri
+ ous than most of the Disney songbook. A volunteer community production fro
+ m the Henry Players.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/the-hunchback-of-notre-dame-tickets-269295
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hunchback of Notre Dame
+DTSTART;TZID=America/New_York:20270611T193000
+DTEND;TZID=America/New_York:20270611T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1405@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Disney's stage musical of Hugo's bell-ringer tale\, with the M
+ enken and Schwartz score\, from the Henry Players.\n\nThe stage musical dr
+ awn from Disney's 1996 animated film\, itself adapted from Victor Hugo's 1
+ 831 Gothic novel. Quasimodo\, the bell-ringer hidden away in Notre Dame's 
+ tower\, longs for the world beyond the cathedral walls and finds a friend 
+ in Esmeralda\, a Romani woman who stands up to his cruel guardian\, Judge 
+ Frollo. The Alan Menken and Stephen Schwartz score is darker and more seri
+ ous than most of the Disney songbook. A volunteer community production fro
+ m the Henry Players.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/the-hunchback-of-notre-dame-tickets-269295
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hunchback of Notre Dame
+DTSTART;TZID=America/New_York:20270612T143000
+DTEND;TZID=America/New_York:20270612T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1406@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Disney's stage musical of Hugo's bell-ringer tale\, with the M
+ enken and Schwartz score\, from the Henry Players.\n\nThe stage musical dr
+ awn from Disney's 1996 animated film\, itself adapted from Victor Hugo's 1
+ 831 Gothic novel. Quasimodo\, the bell-ringer hidden away in Notre Dame's 
+ tower\, longs for the world beyond the cathedral walls and finds a friend 
+ in Esmeralda\, a Romani woman who stands up to his cruel guardian\, Judge 
+ Frollo. The Alan Menken and Stephen Schwartz score is darker and more seri
+ ous than most of the Disney songbook. A volunteer community production fro
+ m the Henry Players.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/the-hunchback-of-notre-dame-tickets-269295
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hunchback of Notre Dame
+DTSTART;TZID=America/New_York:20270613T143000
+DTEND;TZID=America/New_York:20270613T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1407@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Disney's stage musical of Hugo's bell-ringer tale\, with the M
+ enken and Schwartz score\, from the Henry Players.\n\nThe stage musical dr
+ awn from Disney's 1996 animated film\, itself adapted from Victor Hugo's 1
+ 831 Gothic novel. Quasimodo\, the bell-ringer hidden away in Notre Dame's 
+ tower\, longs for the world beyond the cathedral walls and finds a friend 
+ in Esmeralda\, a Romani woman who stands up to his cruel guardian\, Judge 
+ Frollo. The Alan Menken and Stephen Schwartz score is darker and more seri
+ ous than most of the Disney songbook. A volunteer community production fro
+ m the Henry Players.
+GEO:33.4486439;-84.1418279
+LAST-MODIFIED:20260706T063411Z
+LOCATION:The Henry Players Theater\, 136 Hood St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.simpletix.com/e/the-hunchback-of-notre-dame-tickets-269295
+END:VEVENT
+END:VCALENDAR

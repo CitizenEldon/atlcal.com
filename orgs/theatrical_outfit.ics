@@ -1,0 +1,2225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Atlanta Event Calendar//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Atlanta Events — Theatrical Outfit
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:EST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700426T030000
+RDATE:19710425T030000,19720430T030000,19730429T030000,19740106T030000,1975
+ 0223T030000,19760425T030000,19770424T030000,19780430T030000,19790429T03000
+ 0,19800427T030000,19810426T030000,19820425T030000,19830424T030000,19840429
+ T030000,19850428T030000,19860427T030000,19870405T030000,19880403T030000,19
+ 890402T030000,19900401T030000,19910407T030000,19920405T030000,19930404T030
+ 000,19940403T030000,19950402T030000,19960407T030000,19970406T030000,199804
+ 05T030000,19990404T030000,20000402T030000,20010401T030000,20020407T030000,
+ 20030406T030000,20040404T030000,20050403T030000,20060402T030000,20070311T0
+ 30000,20080309T030000,20090308T030000,20100314T030000,20110313T030000,2012
+ 0311T030000,20130310T030000,20140309T030000,20150308T030000,20160313T03000
+ 0,20170312T030000,20180311T030000,20190310T030000,20200308T030000,20210314
+ T030000,20220313T030000,20230312T030000,20240310T030000,20250309T030000,20
+ 260308T030000,20270314T030000,20280312T030000,20290311T030000,20300310T030
+ 000,20310309T030000,20320314T030000,20330313T030000,20340312T030000,203503
+ 11T030000,20360309T030000,20370308T030000
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19701025T020000
+RDATE:19711031T020000,19721029T020000,19731028T020000,19741027T020000,1975
+ 1026T020000,19761031T020000,19771030T020000,19781029T020000,19791028T02000
+ 0,19801026T020000,19811025T020000,19821031T020000,19831030T020000,19841028
+ T020000,19851027T020000,19861026T020000,19871025T020000,19881030T020000,19
+ 891029T020000,19901028T020000,19911027T020000,19921025T020000,19931031T020
+ 000,19941030T020000,19951029T020000,19961027T020000,19971026T020000,199810
+ 25T020000,19991031T020000,20001029T020000,20011028T020000,20021027T020000,
+ 20031026T020000,20041031T020000,20051030T020000,20061029T020000,20071104T0
+ 20000,20081102T020000,20091101T020000,20101107T020000,20111106T020000,2012
+ 1104T020000,20131103T020000,20141102T020000,20151101T020000,20161106T02000
+ 0,20171105T020000,20181104T020000,20191103T020000,20201101T020000,20211107
+ T020000,20221106T020000,20231105T020000,20241103T020000,20251102T020000,20
+ 261101T020000,20271107T020000,20281105T020000,20291104T020000,20301103T020
+ 000,20311102T020000,20321107T020000,20331106T020000,20341105T020000,203511
+ 04T020000,20361102T020000,20371101T020000
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 - BlerdMan
+DTSTART;TZID=America/New_York:20260714T193000
+DTEND;TZID=America/New_York:20260714T214500
+DTSTAMP:20260707T000730Z
+UID:occ-1003@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:An early look at a new play in development\, part of Theatrica
+ l Outfit's Launchpad 2.0 new-works festival.\n\nA new play getting an earl
+ y public showing as part of Launchpad 2.0\, Theatrical Outfit's developmen
+ t series for work still being built. It is one of four new plays performin
+ g in rotation across the festival\, alongside The Penelopes\, Queen (of th
+ e American Nail Salon)\, and I'm a Mother Fucking Superstar. Performances 
+ of BlerdMan run through July 25.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 - The Penelopes
+DTSTART;TZID=America/New_York:20260715T193000
+DTEND;TZID=America/New_York:20260715T214500
+DTSTAMP:20260707T000730Z
+UID:occ-1015@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:An early staging of a new play in development\, from Theatrica
+ l Outfit's Launchpad 2.0 new-works series.\n\nAn early look at a new play 
+ still taking shape\, presented as part of Launchpad 2.0\, Theatrical Outfi
+ t's development series for new work. It shares the slate with three other 
+ new plays running in rotation. Runs through July 25.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 - Queen (of the American Nail Salon)
+DTSTART;TZID=America/New_York:20260716T193000
+DTEND;TZID=America/New_York:20260716T214500
+DTSTAMP:20260707T000730Z
+UID:occ-1011@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:One of four new plays in rotation for Launchpad 2.0\, Theatric
+ al Outfit's new-works development series.\n\nA new play presented through 
+ Launchpad 2.0\, Theatrical Outfit's development series for new work. Four 
+ new plays share the run in rotation\, each an early look at a script still
+  taking shape\, with the audience among its first witnesses. In rotation t
+ hrough July 26.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 - I'm a Mother Fucking Superstar
+DTSTART;TZID=America/New_York:20260717T193000
+DTEND;TZID=America/New_York:20260717T214500
+DTSTAMP:20260707T000730Z
+UID:occ-1007@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A new play in development\, one of four rotating in Theatrical
+  Outfit's Launchpad 2.0 new-works series.\n\nA developmental staging of a 
+ new play from Theatrical Outfit's Launchpad 2.0 series — a script still 
+ being shaped\, put on its feet in front of an audience while the work is i
+ n progress. It rotates in repertory with three other new plays\, with the 
+ cycle running through July 26.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 - BlerdMan
+DTSTART;TZID=America/New_York:20260718T143000
+DTEND;TZID=America/New_York:20260718T164500
+DTSTAMP:20260707T000730Z
+UID:occ-1004@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:An early look at a new play in development\, part of Theatrica
+ l Outfit's Launchpad 2.0 new-works festival.\n\nA new play getting an earl
+ y public showing as part of Launchpad 2.0\, Theatrical Outfit's developmen
+ t series for work still being built. It is one of four new plays performin
+ g in rotation across the festival\, alongside The Penelopes\, Queen (of th
+ e American Nail Salon)\, and I'm a Mother Fucking Superstar. Performances 
+ of BlerdMan run through July 25.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 - The Penelopes
+DTSTART;TZID=America/New_York:20260718T193000
+DTEND;TZID=America/New_York:20260718T214500
+DTSTAMP:20260707T000730Z
+UID:occ-1016@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:An early staging of a new play in development\, from Theatrica
+ l Outfit's Launchpad 2.0 new-works series.\n\nAn early look at a new play 
+ still taking shape\, presented as part of Launchpad 2.0\, Theatrical Outfi
+ t's development series for new work. It shares the slate with three other 
+ new plays running in rotation. Runs through July 25.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 - Queen (of the American Nail Salon)
+DTSTART;TZID=America/New_York:20260719T143000
+DTEND;TZID=America/New_York:20260719T164500
+DTSTAMP:20260707T000730Z
+UID:occ-1012@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:One of four new plays in rotation for Launchpad 2.0\, Theatric
+ al Outfit's new-works development series.\n\nA new play presented through 
+ Launchpad 2.0\, Theatrical Outfit's development series for new work. Four 
+ new plays share the run in rotation\, each an early look at a script still
+  taking shape\, with the audience among its first witnesses. In rotation t
+ hrough July 26.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 - I'm a Mother Fucking Superstar
+DTSTART;TZID=America/New_York:20260719T193000
+DTEND;TZID=America/New_York:20260719T214500
+DTSTAMP:20260707T000730Z
+UID:occ-1008@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A new play in development\, one of four rotating in Theatrical
+  Outfit's Launchpad 2.0 new-works series.\n\nA developmental staging of a 
+ new play from Theatrical Outfit's Launchpad 2.0 series — a script still 
+ being shaped\, put on its feet in front of an audience while the work is i
+ n progress. It rotates in repertory with three other new plays\, with the 
+ cycle running through July 26.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 - BlerdMan
+DTSTART;TZID=America/New_York:20260721T193000
+DTEND;TZID=America/New_York:20260721T214500
+DTSTAMP:20260707T000730Z
+UID:occ-1005@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:An early look at a new play in development\, part of Theatrica
+ l Outfit's Launchpad 2.0 new-works festival.\n\nA new play getting an earl
+ y public showing as part of Launchpad 2.0\, Theatrical Outfit's developmen
+ t series for work still being built. It is one of four new plays performin
+ g in rotation across the festival\, alongside The Penelopes\, Queen (of th
+ e American Nail Salon)\, and I'm a Mother Fucking Superstar. Performances 
+ of BlerdMan run through July 25.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 - The Penelopes
+DTSTART;TZID=America/New_York:20260722T193000
+DTEND;TZID=America/New_York:20260722T214500
+DTSTAMP:20260707T000730Z
+UID:occ-1017@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:An early staging of a new play in development\, from Theatrica
+ l Outfit's Launchpad 2.0 new-works series.\n\nAn early look at a new play 
+ still taking shape\, presented as part of Launchpad 2.0\, Theatrical Outfi
+ t's development series for new work. It shares the slate with three other 
+ new plays running in rotation. Runs through July 25.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 - Queen (of the American Nail Salon)
+DTSTART;TZID=America/New_York:20260723T193000
+DTEND;TZID=America/New_York:20260723T214500
+DTSTAMP:20260707T000730Z
+UID:occ-1013@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:One of four new plays in rotation for Launchpad 2.0\, Theatric
+ al Outfit's new-works development series.\n\nA new play presented through 
+ Launchpad 2.0\, Theatrical Outfit's development series for new work. Four 
+ new plays share the run in rotation\, each an early look at a script still
+  taking shape\, with the audience among its first witnesses. In rotation t
+ hrough July 26.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 - I'm a Mother Fucking Superstar
+DTSTART;TZID=America/New_York:20260724T193000
+DTEND;TZID=America/New_York:20260724T214500
+DTSTAMP:20260707T000730Z
+UID:occ-1009@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A new play in development\, one of four rotating in Theatrical
+  Outfit's Launchpad 2.0 new-works series.\n\nA developmental staging of a 
+ new play from Theatrical Outfit's Launchpad 2.0 series — a script still 
+ being shaped\, put on its feet in front of an audience while the work is i
+ n progress. It rotates in repertory with three other new plays\, with the 
+ cycle running through July 26.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 - The Penelopes
+DTSTART;TZID=America/New_York:20260725T143000
+DTEND;TZID=America/New_York:20260725T164500
+DTSTAMP:20260707T000730Z
+UID:occ-1018@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:An early staging of a new play in development\, from Theatrica
+ l Outfit's Launchpad 2.0 new-works series.\n\nAn early look at a new play 
+ still taking shape\, presented as part of Launchpad 2.0\, Theatrical Outfi
+ t's development series for new work. It shares the slate with three other 
+ new plays running in rotation. Runs through July 25.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 - BlerdMan
+DTSTART;TZID=America/New_York:20260725T193000
+DTEND;TZID=America/New_York:20260725T214500
+DTSTAMP:20260707T000730Z
+UID:occ-1006@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:An early look at a new play in development\, part of Theatrica
+ l Outfit's Launchpad 2.0 new-works festival.\n\nA new play getting an earl
+ y public showing as part of Launchpad 2.0\, Theatrical Outfit's developmen
+ t series for work still being built. It is one of four new plays performin
+ g in rotation across the festival\, alongside The Penelopes\, Queen (of th
+ e American Nail Salon)\, and I'm a Mother Fucking Superstar. Performances 
+ of BlerdMan run through July 25.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 - I'm a Mother Fucking Superstar
+DTSTART;TZID=America/New_York:20260726T143000
+DTEND;TZID=America/New_York:20260726T164500
+DTSTAMP:20260707T000730Z
+UID:occ-1010@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A new play in development\, one of four rotating in Theatrical
+  Outfit's Launchpad 2.0 new-works series.\n\nA developmental staging of a 
+ new play from Theatrical Outfit's Launchpad 2.0 series — a script still 
+ being shaped\, put on its feet in front of an audience while the work is i
+ n progress. It rotates in repertory with three other new plays\, with the 
+ cycle running through July 26.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 - Queen (of the American Nail Salon)
+DTSTART;TZID=America/New_York:20260726T193000
+DTEND;TZID=America/New_York:20260726T214500
+DTSTAMP:20260707T000730Z
+UID:occ-1014@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:One of four new plays in rotation for Launchpad 2.0\, Theatric
+ al Outfit's new-works development series.\n\nA new play presented through 
+ Launchpad 2.0\, Theatrical Outfit's development series for new work. Four 
+ new plays share the run in rotation\, each an early look at a script still
+  taking shape\, with the audience among its first witnesses. In rotation t
+ hrough July 26.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 Residency Workshop - Triune
+DTSTART;TZID=America/New_York:20260727T193000
+DTEND;TZID=America/New_York:20260727T214500
+DTSTAMP:20260707T000730Z
+UID:occ-1020@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A workshop showing of Triune\, a new play in development\, fro
+ m Theatrical Outfit's Launchpad 2.0 residency.\n\nA workshop presentation 
+ of Triune\, a new play still taking shape — put on its feet in front of 
+ an audience while the writing is in progress. Part of Launchpad 2.0\, Thea
+ trical Outfit's residency program for developing new work.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Launchpad 2.0 Residency Workshop - In Rapping Shakespeare
+DTSTART;TZID=America/New_York:20260728T193000
+DTEND;TZID=America/New_York:20260728T214500
+DTSTAMP:20260707T000730Z
+UID:occ-1019@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:One-night workshop showing of a new work in development\, from
+  Theatrical Outfit's Launchpad 2.0 residency.\n\nA workshop presentation o
+ f a new work still taking shape\, with the staging in progress and the aud
+ ience in on the process. One of the residency showings closing out Launchp
+ ad 2.0\, Theatrical Outfit's new-play development program.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Play Haven Development Series: Hannah & Greta\, or the Cost of liv
+ ing the Dream
+DTSTART;TZID=America/New_York:20260803T193000
+DTEND;TZID=America/New_York:20260803T210000
+DTSTAMP:20260707T000730Z
+UID:occ-1038@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A new play by Bobbi Twiggs in development\, the first presenta
+ tion of Play Haven's series.\n\nAn early look at a new play by Bobbi Twigg
+ s\, still taking shape and shown here as the first presentation of Play Ha
+ ven's development series. Staged in the rehearsal hall rather than on the 
+ mainstage\, with the audience among the work's first witnesses. Hosted by 
+ Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fences
+DTSTART;TZID=America/New_York:20260916T193000
+DTEND;TZID=America/New_York:20260916T220000
+DTSTAMP:20260707T000730Z
+UID:occ-989@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
+  1950s Pittsburgh\, at war with his son's dreams.\n\nAugust Wilson's 1985 
+ drama\, sixth in his ten-play Pittsburgh Cycle and winner of the Pulitzer 
+ Prize and the Tony for Best Play. Troy Maxson was a Negro League baseball 
+ star before the color barrier broke\; now he hauls trash\, builds a fence 
+ in his yard\, and refuses to let his son chase a college football scholars
+ hip\, convinced the game will break the boy the way it broke him. Theatric
+ al Outfit produces in partnership with Dominion Entertainment Group and th
+ e Alabama Shakespeare Festival\, a two-state revival of the play.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fences
+DTSTART;TZID=America/New_York:20260917T193000
+DTEND;TZID=America/New_York:20260917T220000
+DTSTAMP:20260707T000730Z
+UID:occ-990@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
+  1950s Pittsburgh\, at war with his son's dreams.\n\nAugust Wilson's 1985 
+ drama\, sixth in his ten-play Pittsburgh Cycle and winner of the Pulitzer 
+ Prize and the Tony for Best Play. Troy Maxson was a Negro League baseball 
+ star before the color barrier broke\; now he hauls trash\, builds a fence 
+ in his yard\, and refuses to let his son chase a college football scholars
+ hip\, convinced the game will break the boy the way it broke him. Theatric
+ al Outfit produces in partnership with Dominion Entertainment Group and th
+ e Alabama Shakespeare Festival\, a two-state revival of the play.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fences
+DTSTART;TZID=America/New_York:20260918T193000
+DTEND;TZID=America/New_York:20260918T220000
+DTSTAMP:20260707T000730Z
+UID:occ-991@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
+  1950s Pittsburgh\, at war with his son's dreams.\n\nAugust Wilson's 1985 
+ drama\, sixth in his ten-play Pittsburgh Cycle and winner of the Pulitzer 
+ Prize and the Tony for Best Play. Troy Maxson was a Negro League baseball 
+ star before the color barrier broke\; now he hauls trash\, builds a fence 
+ in his yard\, and refuses to let his son chase a college football scholars
+ hip\, convinced the game will break the boy the way it broke him. Theatric
+ al Outfit produces in partnership with Dominion Entertainment Group and th
+ e Alabama Shakespeare Festival\, a two-state revival of the play.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fences
+DTSTART;TZID=America/New_York:20260919T193000
+DTEND;TZID=America/New_York:20260919T220000
+DTSTAMP:20260707T000730Z
+UID:occ-992@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
+  1950s Pittsburgh\, at war with his son's dreams.\n\nAugust Wilson's 1985 
+ drama\, sixth in his ten-play Pittsburgh Cycle and winner of the Pulitzer 
+ Prize and the Tony for Best Play. Troy Maxson was a Negro League baseball 
+ star before the color barrier broke\; now he hauls trash\, builds a fence 
+ in his yard\, and refuses to let his son chase a college football scholars
+ hip\, convinced the game will break the boy the way it broke him. Theatric
+ al Outfit produces in partnership with Dominion Entertainment Group and th
+ e Alabama Shakespeare Festival\, a two-state revival of the play.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fences
+DTSTART;TZID=America/New_York:20260920T143000
+DTEND;TZID=America/New_York:20260920T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1241@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
+  1950s Pittsburgh\, at war with his son's dreams.\n\nAugust Wilson's 1985 
+ drama\, sixth in his ten-play Pittsburgh Cycle and winner of the Pulitzer 
+ Prize and the Tony for Best Play. Troy Maxson was a Negro League baseball 
+ star before the color barrier broke\; now he hauls trash\, builds a fence 
+ in his yard\, and refuses to let his son chase a college football scholars
+ hip\, convinced the game will break the boy the way it broke him. Theatric
+ al Outfit produces in partnership with Dominion Entertainment Group and th
+ e Alabama Shakespeare Festival\, a two-state revival of the play.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fences
+DTSTART;TZID=America/New_York:20260923T193000
+DTEND;TZID=America/New_York:20260923T220000
+DTSTAMP:20260707T000730Z
+UID:occ-993@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
+  1950s Pittsburgh\, at war with his son's dreams.\n\nAugust Wilson's 1985 
+ drama\, sixth in his ten-play Pittsburgh Cycle and winner of the Pulitzer 
+ Prize and the Tony for Best Play. Troy Maxson was a Negro League baseball 
+ star before the color barrier broke\; now he hauls trash\, builds a fence 
+ in his yard\, and refuses to let his son chase a college football scholars
+ hip\, convinced the game will break the boy the way it broke him. Theatric
+ al Outfit produces in partnership with Dominion Entertainment Group and th
+ e Alabama Shakespeare Festival\, a two-state revival of the play.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fences
+DTSTART;TZID=America/New_York:20260924T193000
+DTEND;TZID=America/New_York:20260924T220000
+DTSTAMP:20260707T000730Z
+UID:occ-994@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
+  1950s Pittsburgh\, at war with his son's dreams.\n\nAugust Wilson's 1985 
+ drama\, sixth in his ten-play Pittsburgh Cycle and winner of the Pulitzer 
+ Prize and the Tony for Best Play. Troy Maxson was a Negro League baseball 
+ star before the color barrier broke\; now he hauls trash\, builds a fence 
+ in his yard\, and refuses to let his son chase a college football scholars
+ hip\, convinced the game will break the boy the way it broke him. Theatric
+ al Outfit produces in partnership with Dominion Entertainment Group and th
+ e Alabama Shakespeare Festival\, a two-state revival of the play.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fences
+DTSTART;TZID=America/New_York:20260925T193000
+DTEND;TZID=America/New_York:20260925T220000
+DTSTAMP:20260707T000730Z
+UID:occ-995@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
+  1950s Pittsburgh\, at war with his son's dreams.\n\nAugust Wilson's 1985 
+ drama\, sixth in his ten-play Pittsburgh Cycle and winner of the Pulitzer 
+ Prize and the Tony for Best Play. Troy Maxson was a Negro League baseball 
+ star before the color barrier broke\; now he hauls trash\, builds a fence 
+ in his yard\, and refuses to let his son chase a college football scholars
+ hip\, convinced the game will break the boy the way it broke him. Theatric
+ al Outfit produces in partnership with Dominion Entertainment Group and th
+ e Alabama Shakespeare Festival\, a two-state revival of the play.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fences
+DTSTART;TZID=America/New_York:20260926T193000
+DTEND;TZID=America/New_York:20260926T220000
+DTSTAMP:20260707T000730Z
+UID:occ-996@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
+  1950s Pittsburgh\, at war with his son's dreams.\n\nAugust Wilson's 1985 
+ drama\, sixth in his ten-play Pittsburgh Cycle and winner of the Pulitzer 
+ Prize and the Tony for Best Play. Troy Maxson was a Negro League baseball 
+ star before the color barrier broke\; now he hauls trash\, builds a fence 
+ in his yard\, and refuses to let his son chase a college football scholars
+ hip\, convinced the game will break the boy the way it broke him. Theatric
+ al Outfit produces in partnership with Dominion Entertainment Group and th
+ e Alabama Shakespeare Festival\, a two-state revival of the play.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fences
+DTSTART;TZID=America/New_York:20260927T143000
+DTEND;TZID=America/New_York:20260927T170000
+DTSTAMP:20260707T000730Z
+UID:occ-997@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
+  1950s Pittsburgh\, at war with his son's dreams.\n\nAugust Wilson's 1985 
+ drama\, sixth in his ten-play Pittsburgh Cycle and winner of the Pulitzer 
+ Prize and the Tony for Best Play. Troy Maxson was a Negro League baseball 
+ star before the color barrier broke\; now he hauls trash\, builds a fence 
+ in his yard\, and refuses to let his son chase a college football scholars
+ hip\, convinced the game will break the boy the way it broke him. Theatric
+ al Outfit produces in partnership with Dominion Entertainment Group and th
+ e Alabama Shakespeare Festival\, a two-state revival of the play.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fences
+DTSTART;TZID=America/New_York:20260930T193000
+DTEND;TZID=America/New_York:20260930T220000
+DTSTAMP:20260707T000730Z
+UID:occ-998@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
+  1950s Pittsburgh\, at war with his son's dreams.\n\nAugust Wilson's 1985 
+ drama\, sixth in his ten-play Pittsburgh Cycle and winner of the Pulitzer 
+ Prize and the Tony for Best Play. Troy Maxson was a Negro League baseball 
+ star before the color barrier broke\; now he hauls trash\, builds a fence 
+ in his yard\, and refuses to let his son chase a college football scholars
+ hip\, convinced the game will break the boy the way it broke him. Theatric
+ al Outfit produces in partnership with Dominion Entertainment Group and th
+ e Alabama Shakespeare Festival\, a two-state revival of the play.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fences
+DTSTART;TZID=America/New_York:20261001T193000
+DTEND;TZID=America/New_York:20261001T220000
+DTSTAMP:20260707T000730Z
+UID:occ-999@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
+  1950s Pittsburgh\, at war with his son's dreams.\n\nAugust Wilson's 1985 
+ drama\, sixth in his ten-play Pittsburgh Cycle and winner of the Pulitzer 
+ Prize and the Tony for Best Play. Troy Maxson was a Negro League baseball 
+ star before the color barrier broke\; now he hauls trash\, builds a fence 
+ in his yard\, and refuses to let his son chase a college football scholars
+ hip\, convinced the game will break the boy the way it broke him. Theatric
+ al Outfit produces in partnership with Dominion Entertainment Group and th
+ e Alabama Shakespeare Festival\, a two-state revival of the play.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fences
+DTSTART;TZID=America/New_York:20261002T193000
+DTEND;TZID=America/New_York:20261002T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1000@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
+  1950s Pittsburgh\, at war with his son's dreams.\n\nAugust Wilson's 1985 
+ drama\, sixth in his ten-play Pittsburgh Cycle and winner of the Pulitzer 
+ Prize and the Tony for Best Play. Troy Maxson was a Negro League baseball 
+ star before the color barrier broke\; now he hauls trash\, builds a fence 
+ in his yard\, and refuses to let his son chase a college football scholars
+ hip\, convinced the game will break the boy the way it broke him. Theatric
+ al Outfit produces in partnership with Dominion Entertainment Group and th
+ e Alabama Shakespeare Festival\, a two-state revival of the play.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fences
+DTSTART;TZID=America/New_York:20261004T143000
+DTEND;TZID=America/New_York:20261004T170000
+DTSTAMP:20260707T000730Z
+UID:occ-1001@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
+  1950s Pittsburgh\, at war with his son's dreams.\n\nAugust Wilson's 1985 
+ drama\, sixth in his ten-play Pittsburgh Cycle and winner of the Pulitzer 
+ Prize and the Tony for Best Play. Troy Maxson was a Negro League baseball 
+ star before the color barrier broke\; now he hauls trash\, builds a fence 
+ in his yard\, and refuses to let his son chase a college football scholars
+ hip\, convinced the game will break the boy the way it broke him. Theatric
+ al Outfit produces in partnership with Dominion Entertainment Group and th
+ e Alabama Shakespeare Festival\, a two-state revival of the play.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cotton Patch Gospel: Season 50 Return Engagement
+DTSTART;TZID=America/New_York:20261017T143000
+DTEND;TZID=America/New_York:20261017T163000
+DTSTAMP:20260707T000730Z
+UID:occ-967@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Matthew's Gospel retold in small-town Georgia with Harry Chapi
+ n's bluegrass score\, back for Theatrical Outfit's 50th season.\n\nTom Key
+  and Russell Treyz's musical transplants the Gospel of Matthew to rural Ge
+ orgia\, where Jesus is born in Gainesville and the storytelling runs on ba
+ njo and fiddle. The bluegrass score is by Harry Chapin\, his final work be
+ fore his death in 1981\, and the show draws on Clarence Jordan's homespun 
+ Cotton Patch translations of the New Testament. It returns as a special en
+ gagement in Theatrical Outfit's 50th anniversary season\, with performance
+ s through October 18.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cotton Patch Gospel: Season 50 Return Engagement
+DTSTART;TZID=America/New_York:20261018T143000
+DTEND;TZID=America/New_York:20261018T163000
+DTSTAMP:20260707T000730Z
+UID:occ-968@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Matthew's Gospel retold in small-town Georgia with Harry Chapi
+ n's bluegrass score\, back for Theatrical Outfit's 50th season.\n\nTom Key
+  and Russell Treyz's musical transplants the Gospel of Matthew to rural Ge
+ orgia\, where Jesus is born in Gainesville and the storytelling runs on ba
+ njo and fiddle. The bluegrass score is by Harry Chapin\, his final work be
+ fore his death in 1981\, and the show draws on Clarence Jordan's homespun 
+ Cotton Patch translations of the New Testament. It returns as a special en
+ gagement in Theatrical Outfit's 50th anniversary season\, with performance
+ s through October 18.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday at Herren's: 50th Season Special
+DTSTART;TZID=America/New_York:20261214T193000
+DTEND;TZID=America/New_York:20261214T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1002@atlcal.com
+SEQUENCE:0
+CATEGORIES:Cabaret
+DESCRIPTION:A one-night holiday cabaret from Theatrical Outfit\, part of t
+ he company's 50th-anniversary season.\n\nA one-night holiday cabaret marki
+ ng Theatrical Outfit's 50th season. Holiday songs delivered up close\, in 
+ cabaret's small-room style\, from a company that has been producing in Atl
+ anta since 1977.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270224T193000
+DTEND;TZID=America/New_York:20270224T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1082@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270225T193000
+DTEND;TZID=America/New_York:20270225T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1083@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270226T193000
+DTEND;TZID=America/New_York:20270226T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1084@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270227T193000
+DTEND;TZID=America/New_York:20270227T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1085@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270228T143000
+DTEND;TZID=America/New_York:20270228T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1086@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270303T193000
+DTEND;TZID=America/New_York:20270303T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1087@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270304T193000
+DTEND;TZID=America/New_York:20270304T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1088@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270305T193000
+DTEND;TZID=America/New_York:20270305T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1089@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270306T193000
+DTEND;TZID=America/New_York:20270306T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1090@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270307T143000
+DTEND;TZID=America/New_York:20270307T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1091@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270310T193000
+DTEND;TZID=America/New_York:20270310T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1092@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270311T193000
+DTEND;TZID=America/New_York:20270311T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1093@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270312T193000
+DTEND;TZID=America/New_York:20270312T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1094@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270313T193000
+DTEND;TZID=America/New_York:20270313T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1095@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270314T143000
+DTEND;TZID=America/New_York:20270314T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1096@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270317T193000
+DTEND;TZID=America/New_York:20270317T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1097@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270318T193000
+DTEND;TZID=America/New_York:20270318T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1098@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270319T193000
+DTEND;TZID=America/New_York:20270319T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1099@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270320T193000
+DTEND;TZID=America/New_York:20270320T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1100@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What the Constitution Means to Me
+DTSTART;TZID=America/New_York:20270321T143000
+DTEND;TZID=America/New_York:20270321T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1101@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
+ stitution-debate speeches\, in its Atlanta premiere.\n\nHeidi Schreck put 
+ herself through college giving prize-winning speeches about the Constituti
+ on at American Legion halls\; her 2019 Broadway play returns to those cont
+ ests\, toggling between her fifteen-year-old self and the woman she became
+ . What starts as a debate exercise opens into the stories of the women in 
+ her family and how the document actually treated them — funny\, personal
+ \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
+ ist\, it gets its Atlanta premiere from Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Season 50 Gala
+DTSTART;TZID=America/New_York:20270417T180000
+DTEND;TZID=America/New_York:20270417T210000
+DTSTAMP:20260707T000730Z
+UID:occ-1040@atlcal.com
+SEQUENCE:0
+CATEGORIES:Fundraiser
+DESCRIPTION:A benefit gala marking Theatrical Outfit's 50th season — the
+  company has been at it since 1977.\n\nA fundraising gala celebrating a mi
+ lestone: Theatrical Outfit's 50th season. The downtown Atlanta company\, f
+ ounded in 1977\, produces a mix of classic and contemporary plays alongsid
+ e new-play development programs like Launchpad\, and proceeds from the eve
+ ning support that work.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270519T193000
+DTEND;TZID=America/New_York:20270519T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1041@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270520T193000
+DTEND;TZID=America/New_York:20270520T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1042@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270521T193000
+DTEND;TZID=America/New_York:20270521T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1043@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270522T193000
+DTEND;TZID=America/New_York:20270522T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1044@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270523T143000
+DTEND;TZID=America/New_York:20270523T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1045@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270526T193000
+DTEND;TZID=America/New_York:20270526T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1046@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270527T193000
+DTEND;TZID=America/New_York:20270527T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1047@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270528T193000
+DTEND;TZID=America/New_York:20270528T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1048@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270529T193000
+DTEND;TZID=America/New_York:20270529T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1049@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270530T143000
+DTEND;TZID=America/New_York:20270530T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1050@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270602T193000
+DTEND;TZID=America/New_York:20270602T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1051@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270603T193000
+DTEND;TZID=America/New_York:20270603T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1052@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270604T193000
+DTEND;TZID=America/New_York:20270604T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1053@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270605T193000
+DTEND;TZID=America/New_York:20270605T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1054@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270606T143000
+DTEND;TZID=America/New_York:20270606T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1055@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270609T193000
+DTEND;TZID=America/New_York:20270609T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1056@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270610T193000
+DTEND;TZID=America/New_York:20270610T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1057@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270611T193000
+DTEND;TZID=America/New_York:20270611T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1058@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270612T193000
+DTEND;TZID=America/New_York:20270612T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1059@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Children
+DTSTART;TZID=America/New_York:20270613T143000
+DTEND;TZID=America/New_York:20270613T163000
+DTSTAMP:20260707T000730Z
+UID:occ-1060@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
+ sicists\, a colleague back after 38 years\, and old debts coming due.\n\nI
+ n a cottage on the British coast\, two married\, retired nuclear physicist
+ s live quietly in the wake of a disaster. Then a former colleague reappear
+ s after 38 years\, and the couple's careful equilibrium starts to crack. L
+ ucy Kirkwood's 2016 thriller\, funnier than its premise suggests\, asks wh
+ at one generation owes the one that follows\; it was a hit in London and o
+ n Broadway\, and in 2019 Guardian writers ranked it third among the greate
+ st theatrical works since 2000. Presented by Theatrical Outfit.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20270908T193000
+DTEND;TZID=America/New_York:20270908T220000
+DTSTAMP:20260707T000730Z
+UID:occ-969@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20270909T193000
+DTEND;TZID=America/New_York:20270909T220000
+DTSTAMP:20260707T000730Z
+UID:occ-970@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20270910T193000
+DTEND;TZID=America/New_York:20270910T220000
+DTSTAMP:20260707T000730Z
+UID:occ-971@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20270911T193000
+DTEND;TZID=America/New_York:20270911T220000
+DTSTAMP:20260707T000730Z
+UID:occ-972@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20270912T143000
+DTEND;TZID=America/New_York:20270912T170000
+DTSTAMP:20260707T000730Z
+UID:occ-973@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20270915T193000
+DTEND;TZID=America/New_York:20270915T220000
+DTSTAMP:20260707T000730Z
+UID:occ-974@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20270916T193000
+DTEND;TZID=America/New_York:20270916T220000
+DTSTAMP:20260707T000730Z
+UID:occ-975@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20270917T193000
+DTEND;TZID=America/New_York:20270917T220000
+DTSTAMP:20260707T000730Z
+UID:occ-976@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20270918T193000
+DTEND;TZID=America/New_York:20270918T220000
+DTSTAMP:20260707T000730Z
+UID:occ-977@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20270919T143000
+DTEND;TZID=America/New_York:20270919T170000
+DTSTAMP:20260707T000730Z
+UID:occ-978@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20270922T193000
+DTEND;TZID=America/New_York:20270922T220000
+DTSTAMP:20260707T000730Z
+UID:occ-979@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20270923T193000
+DTEND;TZID=America/New_York:20270923T220000
+DTSTAMP:20260707T000730Z
+UID:occ-980@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20270924T193000
+DTEND;TZID=America/New_York:20270924T220000
+DTSTAMP:20260707T000730Z
+UID:occ-981@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20270925T193000
+DTEND;TZID=America/New_York:20270925T220000
+DTSTAMP:20260707T000730Z
+UID:occ-982@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20270926T143000
+DTEND;TZID=America/New_York:20270926T170000
+DTSTAMP:20260707T000730Z
+UID:occ-983@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20270929T193000
+DTEND;TZID=America/New_York:20270929T220000
+DTSTAMP:20260707T000730Z
+UID:occ-984@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20270930T193000
+DTEND;TZID=America/New_York:20270930T220000
+DTSTAMP:20260707T000730Z
+UID:occ-985@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20271001T193000
+DTEND;TZID=America/New_York:20271001T220000
+DTSTAMP:20260707T000730Z
+UID:occ-986@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20271002T193000
+DTEND;TZID=America/New_York:20271002T220000
+DTSTAMP:20260707T000730Z
+UID:occ-987@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death of a Salesman
+DTSTART;TZID=America/New_York:20271003T143000
+DTEND;TZID=America/New_York:20271003T170000
+DTSTAMP:20260707T000730Z
+UID:occ-988@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
+  a salesman whose dreams keep outrunning his life.\n\nArthur Miller's 1949
+  tragedy\, told through the memories\, dreams\, and arguments of Willy Lom
+ an\, an aging traveling salesman who wants greatness for himself and his s
+ ons and cannot square that want with the life he actually has. It won both
+  the Pulitzer Prize for Drama and the Tony for Best Play\; the Daily Teleg
+ raph called it the most perceptive and moving play America had produced in
+  a long time. The closing production of Theatrical Outfit's 50th anniversa
+ ry season. Runs through September 30.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

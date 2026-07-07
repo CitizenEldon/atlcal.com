@@ -1,0 +1,644 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Atlanta Event Calendar//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Atlanta Events — Onstage Atlanta
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:EST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700426T030000
+RDATE:19710425T030000,19720430T030000,19730429T030000,19740106T030000,1975
+ 0223T030000,19760425T030000,19770424T030000,19780430T030000,19790429T03000
+ 0,19800427T030000,19810426T030000,19820425T030000,19830424T030000,19840429
+ T030000,19850428T030000,19860427T030000,19870405T030000,19880403T030000,19
+ 890402T030000,19900401T030000,19910407T030000,19920405T030000,19930404T030
+ 000,19940403T030000,19950402T030000,19960407T030000,19970406T030000,199804
+ 05T030000,19990404T030000,20000402T030000,20010401T030000,20020407T030000,
+ 20030406T030000,20040404T030000,20050403T030000,20060402T030000,20070311T0
+ 30000,20080309T030000,20090308T030000,20100314T030000,20110313T030000,2012
+ 0311T030000,20130310T030000,20140309T030000,20150308T030000,20160313T03000
+ 0,20170312T030000,20180311T030000,20190310T030000,20200308T030000,20210314
+ T030000,20220313T030000,20230312T030000,20240310T030000,20250309T030000,20
+ 260308T030000,20270314T030000,20280312T030000,20290311T030000,20300310T030
+ 000,20310309T030000,20320314T030000,20330313T030000,20340312T030000,203503
+ 11T030000,20360309T030000,20370308T030000
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19701025T020000
+RDATE:19711031T020000,19721029T020000,19731028T020000,19741027T020000,1975
+ 1026T020000,19761031T020000,19771030T020000,19781029T020000,19791028T02000
+ 0,19801026T020000,19811025T020000,19821031T020000,19831030T020000,19841028
+ T020000,19851027T020000,19861026T020000,19871025T020000,19881030T020000,19
+ 891029T020000,19901028T020000,19911027T020000,19921025T020000,19931031T020
+ 000,19941030T020000,19951029T020000,19961027T020000,19971026T020000,199810
+ 25T020000,19991031T020000,20001029T020000,20011028T020000,20021027T020000,
+ 20031026T020000,20041031T020000,20051030T020000,20061029T020000,20071104T0
+ 20000,20081102T020000,20091101T020000,20101107T020000,20111106T020000,2012
+ 1104T020000,20131103T020000,20141102T020000,20151101T020000,20161106T02000
+ 0,20171105T020000,20181104T020000,20191103T020000,20201101T020000,20211107
+ T020000,20221106T020000,20231105T020000,20241103T020000,20251102T020000,20
+ 261101T020000,20271107T020000,20281105T020000,20291104T020000,20301103T020
+ 000,20311102T020000,20321107T020000,20331106T020000,20341105T020000,203511
+ 04T020000,20361102T020000,20371101T020000
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
+DTSTART;TZID=America/New_York:20260807T200000
+DTEND;TZID=America/New_York:20260807T223000
+DTSTAMP:20260707T000730Z
+UID:occ-680@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt 
+ judge\, and Mrs. Lovett's suspiciously well-stocked pie shop.\n\nStephen S
+ ondheim and Hugh Wheeler's 1979 musical thriller\, based on Christopher Bo
+ nd's play. Benjamin Barker returns from wrongful exile as Sweeney Todd\, r
+ eopens his barbershop above Mrs. Lovett's failing pie shop\, and sharpens 
+ his razors for the judge who destroyed his family. His customers\, meanwhi
+ le\, start finding their way into the pies. Charlie Miller directs for Ons
+ tage Atlanta\; runs through August 30.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1436128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
+DTSTART;TZID=America/New_York:20260808T200000
+DTEND;TZID=America/New_York:20260808T223000
+DTSTAMP:20260707T000730Z
+UID:occ-681@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt 
+ judge\, and Mrs. Lovett's suspiciously well-stocked pie shop.\n\nStephen S
+ ondheim and Hugh Wheeler's 1979 musical thriller\, based on Christopher Bo
+ nd's play. Benjamin Barker returns from wrongful exile as Sweeney Todd\, r
+ eopens his barbershop above Mrs. Lovett's failing pie shop\, and sharpens 
+ his razors for the judge who destroyed his family. His customers\, meanwhi
+ le\, start finding their way into the pies. Charlie Miller directs for Ons
+ tage Atlanta\; runs through August 30.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1436135
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
+DTSTART;TZID=America/New_York:20260809T150000
+DTEND;TZID=America/New_York:20260809T173000
+DTSTAMP:20260707T000730Z
+UID:occ-682@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt 
+ judge\, and Mrs. Lovett's suspiciously well-stocked pie shop.\n\nStephen S
+ ondheim and Hugh Wheeler's 1979 musical thriller\, based on Christopher Bo
+ nd's play. Benjamin Barker returns from wrongful exile as Sweeney Todd\, r
+ eopens his barbershop above Mrs. Lovett's failing pie shop\, and sharpens 
+ his razors for the judge who destroyed his family. His customers\, meanwhi
+ le\, start finding their way into the pies. Charlie Miller directs for Ons
+ tage Atlanta\; runs through August 30.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1436130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
+DTSTART;TZID=America/New_York:20260814T200000
+DTEND;TZID=America/New_York:20260814T223000
+DTSTAMP:20260707T000730Z
+UID:occ-683@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt 
+ judge\, and Mrs. Lovett's suspiciously well-stocked pie shop.\n\nStephen S
+ ondheim and Hugh Wheeler's 1979 musical thriller\, based on Christopher Bo
+ nd's play. Benjamin Barker returns from wrongful exile as Sweeney Todd\, r
+ eopens his barbershop above Mrs. Lovett's failing pie shop\, and sharpens 
+ his razors for the judge who destroyed his family. His customers\, meanwhi
+ le\, start finding their way into the pies. Charlie Miller directs for Ons
+ tage Atlanta\; runs through August 30.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1436136
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
+DTSTART;TZID=America/New_York:20260815T200000
+DTEND;TZID=America/New_York:20260815T223000
+DTSTAMP:20260707T000730Z
+UID:occ-684@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt 
+ judge\, and Mrs. Lovett's suspiciously well-stocked pie shop.\n\nStephen S
+ ondheim and Hugh Wheeler's 1979 musical thriller\, based on Christopher Bo
+ nd's play. Benjamin Barker returns from wrongful exile as Sweeney Todd\, r
+ eopens his barbershop above Mrs. Lovett's failing pie shop\, and sharpens 
+ his razors for the judge who destroyed his family. His customers\, meanwhi
+ le\, start finding their way into the pies. Charlie Miller directs for Ons
+ tage Atlanta\; runs through August 30.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1436137
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
+DTSTART;TZID=America/New_York:20260816T150000
+DTEND;TZID=America/New_York:20260816T173000
+DTSTAMP:20260707T000730Z
+UID:occ-685@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt 
+ judge\, and Mrs. Lovett's suspiciously well-stocked pie shop.\n\nStephen S
+ ondheim and Hugh Wheeler's 1979 musical thriller\, based on Christopher Bo
+ nd's play. Benjamin Barker returns from wrongful exile as Sweeney Todd\, r
+ eopens his barbershop above Mrs. Lovett's failing pie shop\, and sharpens 
+ his razors for the judge who destroyed his family. His customers\, meanwhi
+ le\, start finding their way into the pies. Charlie Miller directs for Ons
+ tage Atlanta\; runs through August 30.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1436131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
+DTSTART;TZID=America/New_York:20260821T200000
+DTEND;TZID=America/New_York:20260821T223000
+DTSTAMP:20260707T000730Z
+UID:occ-686@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt 
+ judge\, and Mrs. Lovett's suspiciously well-stocked pie shop.\n\nStephen S
+ ondheim and Hugh Wheeler's 1979 musical thriller\, based on Christopher Bo
+ nd's play. Benjamin Barker returns from wrongful exile as Sweeney Todd\, r
+ eopens his barbershop above Mrs. Lovett's failing pie shop\, and sharpens 
+ his razors for the judge who destroyed his family. His customers\, meanwhi
+ le\, start finding their way into the pies. Charlie Miller directs for Ons
+ tage Atlanta\; runs through August 30.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1436138
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
+DTSTART;TZID=America/New_York:20260822T150000
+DTEND;TZID=America/New_York:20260822T173000
+DTSTAMP:20260707T000730Z
+UID:occ-687@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt 
+ judge\, and Mrs. Lovett's suspiciously well-stocked pie shop.\n\nStephen S
+ ondheim and Hugh Wheeler's 1979 musical thriller\, based on Christopher Bo
+ nd's play. Benjamin Barker returns from wrongful exile as Sweeney Todd\, r
+ eopens his barbershop above Mrs. Lovett's failing pie shop\, and sharpens 
+ his razors for the judge who destroyed his family. His customers\, meanwhi
+ le\, start finding their way into the pies. Charlie Miller directs for Ons
+ tage Atlanta\; runs through August 30.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1436134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
+DTSTART;TZID=America/New_York:20260822T200000
+DTEND;TZID=America/New_York:20260822T223000
+DTSTAMP:20260707T000730Z
+UID:occ-688@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt 
+ judge\, and Mrs. Lovett's suspiciously well-stocked pie shop.\n\nStephen S
+ ondheim and Hugh Wheeler's 1979 musical thriller\, based on Christopher Bo
+ nd's play. Benjamin Barker returns from wrongful exile as Sweeney Todd\, r
+ eopens his barbershop above Mrs. Lovett's failing pie shop\, and sharpens 
+ his razors for the judge who destroyed his family. His customers\, meanwhi
+ le\, start finding their way into the pies. Charlie Miller directs for Ons
+ tage Atlanta\; runs through August 30.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1436139
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
+DTSTART;TZID=America/New_York:20260823T150000
+DTEND;TZID=America/New_York:20260823T173000
+DTSTAMP:20260707T000730Z
+UID:occ-689@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt 
+ judge\, and Mrs. Lovett's suspiciously well-stocked pie shop.\n\nStephen S
+ ondheim and Hugh Wheeler's 1979 musical thriller\, based on Christopher Bo
+ nd's play. Benjamin Barker returns from wrongful exile as Sweeney Todd\, r
+ eopens his barbershop above Mrs. Lovett's failing pie shop\, and sharpens 
+ his razors for the judge who destroyed his family. His customers\, meanwhi
+ le\, start finding their way into the pies. Charlie Miller directs for Ons
+ tage Atlanta\; runs through August 30.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1436132
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
+DTSTART;TZID=America/New_York:20260828T200000
+DTEND;TZID=America/New_York:20260828T223000
+DTSTAMP:20260707T000730Z
+UID:occ-690@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt 
+ judge\, and Mrs. Lovett's suspiciously well-stocked pie shop.\n\nStephen S
+ ondheim and Hugh Wheeler's 1979 musical thriller\, based on Christopher Bo
+ nd's play. Benjamin Barker returns from wrongful exile as Sweeney Todd\, r
+ eopens his barbershop above Mrs. Lovett's failing pie shop\, and sharpens 
+ his razors for the judge who destroyed his family. His customers\, meanwhi
+ le\, start finding their way into the pies. Charlie Miller directs for Ons
+ tage Atlanta\; runs through August 30.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1436140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
+DTSTART;TZID=America/New_York:20260829T200000
+DTEND;TZID=America/New_York:20260829T223000
+DTSTAMP:20260707T000730Z
+UID:occ-691@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt 
+ judge\, and Mrs. Lovett's suspiciously well-stocked pie shop.\n\nStephen S
+ ondheim and Hugh Wheeler's 1979 musical thriller\, based on Christopher Bo
+ nd's play. Benjamin Barker returns from wrongful exile as Sweeney Todd\, r
+ eopens his barbershop above Mrs. Lovett's failing pie shop\, and sharpens 
+ his razors for the judge who destroyed his family. His customers\, meanwhi
+ le\, start finding their way into the pies. Charlie Miller directs for Ons
+ tage Atlanta\; runs through August 30.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1436141
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
+DTSTART;TZID=America/New_York:20260830T150000
+DTEND;TZID=America/New_York:20260830T173000
+DTSTAMP:20260707T000730Z
+UID:occ-692@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt 
+ judge\, and Mrs. Lovett's suspiciously well-stocked pie shop.\n\nStephen S
+ ondheim and Hugh Wheeler's 1979 musical thriller\, based on Christopher Bo
+ nd's play. Benjamin Barker returns from wrongful exile as Sweeney Todd\, r
+ eopens his barbershop above Mrs. Lovett's failing pie shop\, and sharpens 
+ his razors for the judge who destroyed his family. His customers\, meanwhi
+ le\, start finding their way into the pies. Charlie Miller directs for Ons
+ tage Atlanta\; runs through August 30.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1436133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Only Light in Reno
+DTSTART;TZID=America/New_York:20260911T200000
+DTEND;TZID=America/New_York:20260911T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1428@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Topher Payne's play imagines Marilyn Monroe and Elizabeth Tayl
+ or alone together in a blacked-out Reno hotel\, 1960.\n\nAugust 1960: a fo
+ rest fire has knocked out the power\, and in a darkened hotel Marilyn Monr
+ oe and Elizabeth Taylor find themselves alone in the same room for the onl
+ y time in their lives. In Atlanta playwright Topher Payne's telling\, it d
+ oes not go well. DeWayne Morgan directs for Onstage Atlanta. Runs through 
+ October 4.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1475059
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Only Light in Reno
+DTSTART;TZID=America/New_York:20260912T200000
+DTEND;TZID=America/New_York:20260912T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1429@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Topher Payne's play imagines Marilyn Monroe and Elizabeth Tayl
+ or alone together in a blacked-out Reno hotel\, 1960.\n\nAugust 1960: a fo
+ rest fire has knocked out the power\, and in a darkened hotel Marilyn Monr
+ oe and Elizabeth Taylor find themselves alone in the same room for the onl
+ y time in their lives. In Atlanta playwright Topher Payne's telling\, it d
+ oes not go well. DeWayne Morgan directs for Onstage Atlanta. Runs through 
+ October 4.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1475060
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Only Light in Reno
+DTSTART;TZID=America/New_York:20260913T150000
+DTEND;TZID=America/New_York:20260913T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1430@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Topher Payne's play imagines Marilyn Monroe and Elizabeth Tayl
+ or alone together in a blacked-out Reno hotel\, 1960.\n\nAugust 1960: a fo
+ rest fire has knocked out the power\, and in a darkened hotel Marilyn Monr
+ oe and Elizabeth Taylor find themselves alone in the same room for the onl
+ y time in their lives. In Atlanta playwright Topher Payne's telling\, it d
+ oes not go well. DeWayne Morgan directs for Onstage Atlanta. Runs through 
+ October 4.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1475061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Only Light in Reno
+DTSTART;TZID=America/New_York:20260918T200000
+DTEND;TZID=America/New_York:20260918T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1431@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Topher Payne's play imagines Marilyn Monroe and Elizabeth Tayl
+ or alone together in a blacked-out Reno hotel\, 1960.\n\nAugust 1960: a fo
+ rest fire has knocked out the power\, and in a darkened hotel Marilyn Monr
+ oe and Elizabeth Taylor find themselves alone in the same room for the onl
+ y time in their lives. In Atlanta playwright Topher Payne's telling\, it d
+ oes not go well. DeWayne Morgan directs for Onstage Atlanta. Runs through 
+ October 4.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1475062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Only Light in Reno
+DTSTART;TZID=America/New_York:20260919T200000
+DTEND;TZID=America/New_York:20260919T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1432@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Topher Payne's play imagines Marilyn Monroe and Elizabeth Tayl
+ or alone together in a blacked-out Reno hotel\, 1960.\n\nAugust 1960: a fo
+ rest fire has knocked out the power\, and in a darkened hotel Marilyn Monr
+ oe and Elizabeth Taylor find themselves alone in the same room for the onl
+ y time in their lives. In Atlanta playwright Topher Payne's telling\, it d
+ oes not go well. DeWayne Morgan directs for Onstage Atlanta. Runs through 
+ October 4.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1475063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Only Light in Reno
+DTSTART;TZID=America/New_York:20260920T150000
+DTEND;TZID=America/New_York:20260920T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1433@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Topher Payne's play imagines Marilyn Monroe and Elizabeth Tayl
+ or alone together in a blacked-out Reno hotel\, 1960.\n\nAugust 1960: a fo
+ rest fire has knocked out the power\, and in a darkened hotel Marilyn Monr
+ oe and Elizabeth Taylor find themselves alone in the same room for the onl
+ y time in their lives. In Atlanta playwright Topher Payne's telling\, it d
+ oes not go well. DeWayne Morgan directs for Onstage Atlanta. Runs through 
+ October 4.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1475068
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Only Light in Reno
+DTSTART;TZID=America/New_York:20260925T200000
+DTEND;TZID=America/New_York:20260925T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1434@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Topher Payne's play imagines Marilyn Monroe and Elizabeth Tayl
+ or alone together in a blacked-out Reno hotel\, 1960.\n\nAugust 1960: a fo
+ rest fire has knocked out the power\, and in a darkened hotel Marilyn Monr
+ oe and Elizabeth Taylor find themselves alone in the same room for the onl
+ y time in their lives. In Atlanta playwright Topher Payne's telling\, it d
+ oes not go well. DeWayne Morgan directs for Onstage Atlanta. Runs through 
+ October 4.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1475064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Only Light in Reno
+DTSTART;TZID=America/New_York:20260926T150000
+DTEND;TZID=America/New_York:20260926T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1435@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Topher Payne's play imagines Marilyn Monroe and Elizabeth Tayl
+ or alone together in a blacked-out Reno hotel\, 1960.\n\nAugust 1960: a fo
+ rest fire has knocked out the power\, and in a darkened hotel Marilyn Monr
+ oe and Elizabeth Taylor find themselves alone in the same room for the onl
+ y time in their lives. In Atlanta playwright Topher Payne's telling\, it d
+ oes not go well. DeWayne Morgan directs for Onstage Atlanta. Runs through 
+ October 4.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1475071
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Only Light in Reno
+DTSTART;TZID=America/New_York:20260926T200000
+DTEND;TZID=America/New_York:20260926T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1436@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Topher Payne's play imagines Marilyn Monroe and Elizabeth Tayl
+ or alone together in a blacked-out Reno hotel\, 1960.\n\nAugust 1960: a fo
+ rest fire has knocked out the power\, and in a darkened hotel Marilyn Monr
+ oe and Elizabeth Taylor find themselves alone in the same room for the onl
+ y time in their lives. In Atlanta playwright Topher Payne's telling\, it d
+ oes not go well. DeWayne Morgan directs for Onstage Atlanta. Runs through 
+ October 4.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1475065
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Only Light in Reno
+DTSTART;TZID=America/New_York:20260927T150000
+DTEND;TZID=America/New_York:20260927T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1437@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Topher Payne's play imagines Marilyn Monroe and Elizabeth Tayl
+ or alone together in a blacked-out Reno hotel\, 1960.\n\nAugust 1960: a fo
+ rest fire has knocked out the power\, and in a darkened hotel Marilyn Monr
+ oe and Elizabeth Taylor find themselves alone in the same room for the onl
+ y time in their lives. In Atlanta playwright Topher Payne's telling\, it d
+ oes not go well. DeWayne Morgan directs for Onstage Atlanta. Runs through 
+ October 4.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1475069
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Only Light in Reno
+DTSTART;TZID=America/New_York:20261002T200000
+DTEND;TZID=America/New_York:20261002T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1438@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Topher Payne's play imagines Marilyn Monroe and Elizabeth Tayl
+ or alone together in a blacked-out Reno hotel\, 1960.\n\nAugust 1960: a fo
+ rest fire has knocked out the power\, and in a darkened hotel Marilyn Monr
+ oe and Elizabeth Taylor find themselves alone in the same room for the onl
+ y time in their lives. In Atlanta playwright Topher Payne's telling\, it d
+ oes not go well. DeWayne Morgan directs for Onstage Atlanta. Runs through 
+ October 4.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1475067
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Only Light in Reno
+DTSTART;TZID=America/New_York:20261003T200000
+DTEND;TZID=America/New_York:20261003T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1439@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Topher Payne's play imagines Marilyn Monroe and Elizabeth Tayl
+ or alone together in a blacked-out Reno hotel\, 1960.\n\nAugust 1960: a fo
+ rest fire has knocked out the power\, and in a darkened hotel Marilyn Monr
+ oe and Elizabeth Taylor find themselves alone in the same room for the onl
+ y time in their lives. In Atlanta playwright Topher Payne's telling\, it d
+ oes not go well. DeWayne Morgan directs for Onstage Atlanta. Runs through 
+ October 4.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1475066
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Only Light in Reno
+DTSTART;TZID=America/New_York:20261004T150000
+DTEND;TZID=America/New_York:20261004T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1440@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Topher Payne's play imagines Marilyn Monroe and Elizabeth Tayl
+ or alone together in a blacked-out Reno hotel\, 1960.\n\nAugust 1960: a fo
+ rest fire has knocked out the power\, and in a darkened hotel Marilyn Monr
+ oe and Elizabeth Taylor find themselves alone in the same room for the onl
+ y time in their lives. In Atlanta playwright Topher Payne's telling\, it d
+ oes not go well. DeWayne Morgan directs for Onstage Atlanta. Runs through 
+ October 4.
+GEO:33.7932167;-84.2681503
+LAST-MODIFIED:20260706T063411Z
+LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1475070
+END:VEVENT
+END:VCALENDAR

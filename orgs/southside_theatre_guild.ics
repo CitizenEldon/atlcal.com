@@ -1,0 +1,1323 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Atlanta Event Calendar//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Atlanta Events — Southside Theatre Guild
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:EST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700426T030000
+RDATE:19710425T030000,19720430T030000,19730429T030000,19740106T030000,1975
+ 0223T030000,19760425T030000,19770424T030000,19780430T030000,19790429T03000
+ 0,19800427T030000,19810426T030000,19820425T030000,19830424T030000,19840429
+ T030000,19850428T030000,19860427T030000,19870405T030000,19880403T030000,19
+ 890402T030000,19900401T030000,19910407T030000,19920405T030000,19930404T030
+ 000,19940403T030000,19950402T030000,19960407T030000,19970406T030000,199804
+ 05T030000,19990404T030000,20000402T030000,20010401T030000,20020407T030000,
+ 20030406T030000,20040404T030000,20050403T030000,20060402T030000,20070311T0
+ 30000,20080309T030000,20090308T030000,20100314T030000,20110313T030000,2012
+ 0311T030000,20130310T030000,20140309T030000,20150308T030000,20160313T03000
+ 0,20170312T030000,20180311T030000,20190310T030000,20200308T030000,20210314
+ T030000,20220313T030000,20230312T030000,20240310T030000,20250309T030000,20
+ 260308T030000,20270314T030000,20280312T030000,20290311T030000,20300310T030
+ 000,20310309T030000,20320314T030000,20330313T030000,20340312T030000,203503
+ 11T030000,20360309T030000,20370308T030000
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19701025T020000
+RDATE:19711031T020000,19721029T020000,19731028T020000,19741027T020000,1975
+ 1026T020000,19761031T020000,19771030T020000,19781029T020000,19791028T02000
+ 0,19801026T020000,19811025T020000,19821031T020000,19831030T020000,19841028
+ T020000,19851027T020000,19861026T020000,19871025T020000,19881030T020000,19
+ 891029T020000,19901028T020000,19911027T020000,19921025T020000,19931031T020
+ 000,19941030T020000,19951029T020000,19961027T020000,19971026T020000,199810
+ 25T020000,19991031T020000,20001029T020000,20011028T020000,20021027T020000,
+ 20031026T020000,20041031T020000,20051030T020000,20061029T020000,20071104T0
+ 20000,20081102T020000,20091101T020000,20101107T020000,20111106T020000,2012
+ 1104T020000,20131103T020000,20141102T020000,20151101T020000,20161106T02000
+ 0,20171105T020000,20181104T020000,20191103T020000,20201101T020000,20211107
+ T020000,20221106T020000,20231105T020000,20241103T020000,20251102T020000,20
+ 261101T020000,20271107T020000,20281105T020000,20291104T020000,20301103T020
+ 000,20311102T020000,20321107T020000,20331106T020000,20341105T020000,203511
+ 04T020000,20361102T020000,20371101T020000
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Little Shop
+DTSTART;TZID=America/New_York:20260723T200000
+DTEND;TZID=America/New_York:20260723T220000
+DTSTAMP:20260707T000730Z
+UID:occ-820@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
+ rist and the plant that drinks blood.\n\nAlan Menken and Howard Ashman's 1
+ 982 horror-comedy musical. Seymour Krelborn\, a meek clerk in a failing sk
+ id-row flower shop\, finds a strange plant after a solar eclipse and names
+  it Audrey II\, after the co-worker he loves. The plant turns out to run o
+ n human blood\, and as it grows\, Seymour's fortunes and its appetite grow
+  together. The score works in early-sixties rock and roll\, doo-wop\, and 
+ Motown. Jared Wright and Katherine Coyne direct for Southside Theatre Guil
+ d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
+ ugust 2.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/874/1784851200000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop
+DTSTART;TZID=America/New_York:20260724T200000
+DTEND;TZID=America/New_York:20260724T223000
+DTSTAMP:20260707T000730Z
+UID:occ-821@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
+ rist and the plant that drinks blood.\n\nAlan Menken and Howard Ashman's 1
+ 982 horror-comedy musical. Seymour Krelborn\, a meek clerk in a failing sk
+ id-row flower shop\, finds a strange plant after a solar eclipse and names
+  it Audrey II\, after the co-worker he loves. The plant turns out to run o
+ n human blood\, and as it grows\, Seymour's fortunes and its appetite grow
+  together. The score works in early-sixties rock and roll\, doo-wop\, and 
+ Motown. Jared Wright and Katherine Coyne direct for Southside Theatre Guil
+ d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
+ ugust 2.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/875/1784937600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop
+DTSTART;TZID=America/New_York:20260725T143000
+DTEND;TZID=America/New_York:20260725T163000
+DTSTAMP:20260707T000730Z
+UID:occ-822@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
+ rist and the plant that drinks blood.\n\nAlan Menken and Howard Ashman's 1
+ 982 horror-comedy musical. Seymour Krelborn\, a meek clerk in a failing sk
+ id-row flower shop\, finds a strange plant after a solar eclipse and names
+  it Audrey II\, after the co-worker he loves. The plant turns out to run o
+ n human blood\, and as it grows\, Seymour's fortunes and its appetite grow
+  together. The score works in early-sixties rock and roll\, doo-wop\, and 
+ Motown. Jared Wright and Katherine Coyne direct for Southside Theatre Guil
+ d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
+ ugust 2.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/876/1785004200000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop
+DTSTART;TZID=America/New_York:20260726T143000
+DTEND;TZID=America/New_York:20260726T163000
+DTSTAMP:20260707T000730Z
+UID:occ-823@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
+ rist and the plant that drinks blood.\n\nAlan Menken and Howard Ashman's 1
+ 982 horror-comedy musical. Seymour Krelborn\, a meek clerk in a failing sk
+ id-row flower shop\, finds a strange plant after a solar eclipse and names
+  it Audrey II\, after the co-worker he loves. The plant turns out to run o
+ n human blood\, and as it grows\, Seymour's fortunes and its appetite grow
+  together. The score works in early-sixties rock and roll\, doo-wop\, and 
+ Motown. Jared Wright and Katherine Coyne direct for Southside Theatre Guil
+ d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
+ ugust 2.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/877/1785090600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop
+DTSTART;TZID=America/New_York:20260730T200000
+DTEND;TZID=America/New_York:20260730T220000
+DTSTAMP:20260707T000730Z
+UID:occ-824@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
+ rist and the plant that drinks blood.\n\nAlan Menken and Howard Ashman's 1
+ 982 horror-comedy musical. Seymour Krelborn\, a meek clerk in a failing sk
+ id-row flower shop\, finds a strange plant after a solar eclipse and names
+  it Audrey II\, after the co-worker he loves. The plant turns out to run o
+ n human blood\, and as it grows\, Seymour's fortunes and its appetite grow
+  together. The score works in early-sixties rock and roll\, doo-wop\, and 
+ Motown. Jared Wright and Katherine Coyne direct for Southside Theatre Guil
+ d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
+ ugust 2.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/878/1785456000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop
+DTSTART;TZID=America/New_York:20260731T200000
+DTEND;TZID=America/New_York:20260731T220000
+DTSTAMP:20260707T000730Z
+UID:occ-825@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
+ rist and the plant that drinks blood.\n\nAlan Menken and Howard Ashman's 1
+ 982 horror-comedy musical. Seymour Krelborn\, a meek clerk in a failing sk
+ id-row flower shop\, finds a strange plant after a solar eclipse and names
+  it Audrey II\, after the co-worker he loves. The plant turns out to run o
+ n human blood\, and as it grows\, Seymour's fortunes and its appetite grow
+  together. The score works in early-sixties rock and roll\, doo-wop\, and 
+ Motown. Jared Wright and Katherine Coyne direct for Southside Theatre Guil
+ d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
+ ugust 2.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/879/1785542400000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop
+DTSTART;TZID=America/New_York:20260801T200000
+DTEND;TZID=America/New_York:20260801T220000
+DTSTAMP:20260707T000730Z
+UID:occ-826@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
+ rist and the plant that drinks blood.\n\nAlan Menken and Howard Ashman's 1
+ 982 horror-comedy musical. Seymour Krelborn\, a meek clerk in a failing sk
+ id-row flower shop\, finds a strange plant after a solar eclipse and names
+  it Audrey II\, after the co-worker he loves. The plant turns out to run o
+ n human blood\, and as it grows\, Seymour's fortunes and its appetite grow
+  together. The score works in early-sixties rock and roll\, doo-wop\, and 
+ Motown. Jared Wright and Katherine Coyne direct for Southside Theatre Guil
+ d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
+ ugust 2.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/880/1785628800000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop
+DTSTART;TZID=America/New_York:20260802T143000
+DTEND;TZID=America/New_York:20260802T183000
+DTSTAMP:20260707T000730Z
+UID:occ-827@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
+ rist and the plant that drinks blood.\n\nAlan Menken and Howard Ashman's 1
+ 982 horror-comedy musical. Seymour Krelborn\, a meek clerk in a failing sk
+ id-row flower shop\, finds a strange plant after a solar eclipse and names
+  it Audrey II\, after the co-worker he loves. The plant turns out to run o
+ n human blood\, and as it grows\, Seymour's fortunes and its appetite grow
+  together. The score works in early-sixties rock and roll\, doo-wop\, and 
+ Motown. Jared Wright and Katherine Coyne direct for Southside Theatre Guil
+ d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
+ ugust 2.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/881/1785695400000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sidekicks Show
+DTSTART;TZID=America/New_York:20260815T193000
+DTEND;TZID=America/New_York:20260815T213000
+DTSTAMP:20260707T000730Z
+UID:occ-819@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Improv comedy from the Southside Sidekicks\, Southside Theatre
+  Guild's in-house troupe.\n\nA night of improv comedy from the Southside S
+ idekicks\, the in-house troupe of Southside Theatre Guild\, an all-volunte
+ er community theatre running since 1973. Scenes built on the spot\, shaped
+  by whatever the audience throws at them — no two shows the same.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/826/1786836600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Improv Workshop
+DTSTART;TZID=America/New_York:20260816T150000
+DTEND;TZID=America/New_York:20260816T173000
+DTSTAMP:20260707T000730Z
+UID:occ-1577@atlcal.com
+SEQUENCE:0
+CATEGORIES:Workshop or Class
+DESCRIPTION:Free hands-on improv workshop from the Southside Sidekicks\, f
+ irst of a Sunday series that ends in a showcase.\n\nThe Southside Sidekick
+ s\, the resident improv troupe of Southside Theatre Guild\, open their too
+ lkit to anyone who wants to learn the form — games\, scene work\, and th
+ e confidence to say yes-and out loud. The workshops are free and family-fr
+ iendly\, and the series runs Sundays through September 6. Participants are
+  invited to perform before a real audience in a showcase on September 13. 
+ Register at sidekicks@stgplays.com.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1072/1786906800000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Improv Workshop
+DTSTART;TZID=America/New_York:20260823T150000
+DTEND;TZID=America/New_York:20260823T173000
+DTSTAMP:20260707T000730Z
+UID:occ-1578@atlcal.com
+SEQUENCE:0
+CATEGORIES:Workshop or Class
+DESCRIPTION:Free hands-on improv workshop from the Southside Sidekicks\, f
+ irst of a Sunday series that ends in a showcase.\n\nThe Southside Sidekick
+ s\, the resident improv troupe of Southside Theatre Guild\, open their too
+ lkit to anyone who wants to learn the form — games\, scene work\, and th
+ e confidence to say yes-and out loud. The workshops are free and family-fr
+ iendly\, and the series runs Sundays through September 6. Participants are
+  invited to perform before a real audience in a showcase on September 13. 
+ Register at sidekicks@stgplays.com.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1075/1787511600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Improv Workshop
+DTSTART;TZID=America/New_York:20260830T150000
+DTEND;TZID=America/New_York:20260830T173000
+DTSTAMP:20260707T000730Z
+UID:occ-1579@atlcal.com
+SEQUENCE:0
+CATEGORIES:Workshop or Class
+DESCRIPTION:Free hands-on improv workshop from the Southside Sidekicks\, f
+ irst of a Sunday series that ends in a showcase.\n\nThe Southside Sidekick
+ s\, the resident improv troupe of Southside Theatre Guild\, open their too
+ lkit to anyone who wants to learn the form — games\, scene work\, and th
+ e confidence to say yes-and out loud. The workshops are free and family-fr
+ iendly\, and the series runs Sundays through September 6. Participants are
+  invited to perform before a real audience in a showcase on September 13. 
+ Register at sidekicks@stgplays.com.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1071/1788116400000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Improv Workshop
+DTSTART;TZID=America/New_York:20260906T150000
+DTEND;TZID=America/New_York:20260906T173000
+DTSTAMP:20260707T000730Z
+UID:occ-1580@atlcal.com
+SEQUENCE:0
+CATEGORIES:Workshop or Class
+DESCRIPTION:Free hands-on improv workshop from the Southside Sidekicks\, f
+ irst of a Sunday series that ends in a showcase.\n\nThe Southside Sidekick
+ s\, the resident improv troupe of Southside Theatre Guild\, open their too
+ lkit to anyone who wants to learn the form — games\, scene work\, and th
+ e confidence to say yes-and out loud. The workshops are free and family-fr
+ iendly\, and the series runs Sundays through September 6. Participants are
+  invited to perform before a real audience in a showcase on September 13. 
+ Register at sidekicks@stgplays.com.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1070/1788721200000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Improv Workshop Grad Show
+DTSTART;TZID=America/New_York:20260913T130000
+DTEND;TZID=America/New_York:20260913T143000
+DTSTAMP:20260707T000730Z
+UID:occ-1582@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Improv workshop graduates take the stage\, building scenes and
+  games from audience suggestions.\n\nA graduation show for an improv comed
+ y workshop: the students perform the games and scenes they've been practic
+ ing\, with the audience supplying the suggestions that set each one in mot
+ ion. Nothing scripted\, everything made up on the spot. Presented by South
+ side Theatre Guild\, an all-volunteer community theatre running since 1973
+ .
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1073/1789318800000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sidekicks Show: Seriously Scary
+DTSTART;TZID=America/New_York:20261024T193000
+DTEND;TZID=America/New_York:20261024T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1583@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Southside Theatre Guild's in-house improv troupe takes a swing
+  at the scary — scenes built from audience suggestions.\n\nThe Southside
+  Sidekicks\, the in-house improv troupe of Southside Theatre Guild\, perfo
+ rm a spooky-themed set — everything made up on the spot\, shaped by what
+ ever the audience throws at them. No script\, no rewinds\, and a different
+  show every time by definition.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1061/1792884600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miracle on 34th Street
+DTSTART;TZID=America/New_York:20261105T200000
+DTEND;TZID=America/New_York:20261105T223000
+DTSTAMP:20260707T000730Z
+UID:occ-828@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
+ o insists he's the real thing.\n\nA stage version of the 1947 film about K
+ ris Kringle\, an old man hired to play Santa at Macy's who calmly maintain
+ s that he is Santa — a claim that eventually lands him in a New York cou
+ rtroom with his sanity on trial. Between the skeptical single mother who h
+ ired him and her even more skeptical young daughter\, the question of beli
+ eving becomes the whole ballgame. From Southside Theatre Guild\, an all-vo
+ lunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1017/1793926800000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miracle on 34th Street
+DTSTART;TZID=America/New_York:20261106T200000
+DTEND;TZID=America/New_York:20261106T223000
+DTSTAMP:20260707T000730Z
+UID:occ-829@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
+ o insists he's the real thing.\n\nA stage version of the 1947 film about K
+ ris Kringle\, an old man hired to play Santa at Macy's who calmly maintain
+ s that he is Santa — a claim that eventually lands him in a New York cou
+ rtroom with his sanity on trial. Between the skeptical single mother who h
+ ired him and her even more skeptical young daughter\, the question of beli
+ eving becomes the whole ballgame. From Southside Theatre Guild\, an all-vo
+ lunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1018/1794013200000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miracle on 34th Street
+DTSTART;TZID=America/New_York:20261107T143000
+DTEND;TZID=America/New_York:20261107T170000
+DTSTAMP:20260707T000730Z
+UID:occ-830@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
+ o insists he's the real thing.\n\nA stage version of the 1947 film about K
+ ris Kringle\, an old man hired to play Santa at Macy's who calmly maintain
+ s that he is Santa — a claim that eventually lands him in a New York cou
+ rtroom with his sanity on trial. Between the skeptical single mother who h
+ ired him and her even more skeptical young daughter\, the question of beli
+ eving becomes the whole ballgame. From Southside Theatre Guild\, an all-vo
+ lunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1019/1794079800000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miracle on 34th Street
+DTSTART;TZID=America/New_York:20261108T143000
+DTEND;TZID=America/New_York:20261108T170000
+DTSTAMP:20260707T000730Z
+UID:occ-831@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
+ o insists he's the real thing.\n\nA stage version of the 1947 film about K
+ ris Kringle\, an old man hired to play Santa at Macy's who calmly maintain
+ s that he is Santa — a claim that eventually lands him in a New York cou
+ rtroom with his sanity on trial. Between the skeptical single mother who h
+ ired him and her even more skeptical young daughter\, the question of beli
+ eving becomes the whole ballgame. From Southside Theatre Guild\, an all-vo
+ lunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1020/1794166200000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miracle on 34th Street
+DTSTART;TZID=America/New_York:20261112T200000
+DTEND;TZID=America/New_York:20261112T223000
+DTSTAMP:20260707T000730Z
+UID:occ-832@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
+ o insists he's the real thing.\n\nA stage version of the 1947 film about K
+ ris Kringle\, an old man hired to play Santa at Macy's who calmly maintain
+ s that he is Santa — a claim that eventually lands him in a New York cou
+ rtroom with his sanity on trial. Between the skeptical single mother who h
+ ired him and her even more skeptical young daughter\, the question of beli
+ eving becomes the whole ballgame. From Southside Theatre Guild\, an all-vo
+ lunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1021/1794531600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miracle on 34th Street
+DTSTART;TZID=America/New_York:20261113T200000
+DTEND;TZID=America/New_York:20261113T223000
+DTSTAMP:20260707T000730Z
+UID:occ-833@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
+ o insists he's the real thing.\n\nA stage version of the 1947 film about K
+ ris Kringle\, an old man hired to play Santa at Macy's who calmly maintain
+ s that he is Santa — a claim that eventually lands him in a New York cou
+ rtroom with his sanity on trial. Between the skeptical single mother who h
+ ired him and her even more skeptical young daughter\, the question of beli
+ eving becomes the whole ballgame. From Southside Theatre Guild\, an all-vo
+ lunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1022/1794618000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miracle on 34th Street
+DTSTART;TZID=America/New_York:20261114T200000
+DTEND;TZID=America/New_York:20261114T223000
+DTSTAMP:20260707T000730Z
+UID:occ-834@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
+ o insists he's the real thing.\n\nA stage version of the 1947 film about K
+ ris Kringle\, an old man hired to play Santa at Macy's who calmly maintain
+ s that he is Santa — a claim that eventually lands him in a New York cou
+ rtroom with his sanity on trial. Between the skeptical single mother who h
+ ired him and her even more skeptical young daughter\, the question of beli
+ eving becomes the whole ballgame. From Southside Theatre Guild\, an all-vo
+ lunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1023/1794704400000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miracle on 34th Street
+DTSTART;TZID=America/New_York:20261115T143000
+DTEND;TZID=America/New_York:20261115T170000
+DTSTAMP:20260707T000730Z
+UID:occ-835@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
+ o insists he's the real thing.\n\nA stage version of the 1947 film about K
+ ris Kringle\, an old man hired to play Santa at Macy's who calmly maintain
+ s that he is Santa — a claim that eventually lands him in a New York cou
+ rtroom with his sanity on trial. Between the skeptical single mother who h
+ ired him and her even more skeptical young daughter\, the question of beli
+ eving becomes the whole ballgame. From Southside Theatre Guild\, an all-vo
+ lunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1024/1794771000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sketch Comedy Show
+DTSTART;TZID=America/New_York:20261205T200000
+DTEND;TZID=America/New_York:20261205T220000
+DTSTAMP:20260707T000730Z
+UID:occ-1584@atlcal.com
+SEQUENCE:0
+CATEGORIES:Stand-up Comedy
+DESCRIPTION:A night of short comic scenes from the all-volunteer Southside
+  Theatre Guild.\n\nSketch comedy in the classic mold: short scenes\, quick
+  blackouts\, and a new premise every few minutes\, performed live by membe
+ rs of Southside Theatre Guild\, an all-volunteer community theatre running
+  since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1082/1796518800000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sidekicks Show: Naughty or Nice List
+DTSTART;TZID=America/New_York:20261211T193000
+DTEND;TZID=America/New_York:20261211T210000
+DTSTAMP:20260707T000730Z
+UID:occ-1585@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Holiday-flavored improv from Southside Sidekicks\, the Guild's
+  in-house comedy troupe — scenes made up on the spot.\n\nImprov comedy f
+ rom the Southside Sidekicks\, the in-house troupe of Southside Theatre Gui
+ ld\, this time with a naughty-or-nice seasonal spin. Nothing is scripted: 
+ the performers build scenes and characters from audience suggestions\, so 
+ the show that happens is the one the room helps make.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1066/1797035400000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sidekicks Show: A Holly Jolly Murder Mystery
+DTSTART;TZID=America/New_York:20261212T193000
+DTEND;TZID=America/New_York:20261212T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1586@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:An improvised holiday-themed murder mystery from Southside The
+ atre Guild's in-house improv troupe\, the Southside Sidekicks.\n\nThe Sout
+ hside Sidekicks\, the resident improv troupe of Southside Theatre Guild\, 
+ spin a murder mystery with a holiday wrapping — built on the spot\, no s
+ cript\, shaped by whatever the audience throws at them. Nobody in the cast
+  knows whodunit either until the night decides.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1074/1797121800000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sidekicks Show: Choose Your Own (Improv) Adventure!
+DTSTART;TZID=America/New_York:20270123T193000
+DTEND;TZID=America/New_York:20270123T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1587@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Unscripted comedy from the Southside Sidekicks\, built on the 
+ spot from audience suggestions.\n\nNothing is scripted: the Southside Side
+ kicks make the scenes up as they go\, steered by whatever the audience thr
+ ows at them\, and the title suggests the crowd gets a say in where the nig
+ ht wanders. The Sidekicks are the in-house improv troupe of Southside Thea
+ tre Guild\, an all-volunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1062/1800750600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 Angry Jurors
+DTSTART;TZID=America/New_York:20270128T200000
+DTEND;TZID=America/New_York:20270128T223000
+DTSTAMP:20260707T000730Z
+UID:occ-836@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
+ dout\, and a murder verdict hinging on reasonable doubt.\n\nReginald Rose'
+ s classic deliberation drama\, here in the retitled version that opens the
+  jury room to a cast of any gender. A teenager stands accused of murdering
+  his father\, and the first vote comes back eleven to one for guilty. The 
+ lone holdout wants to talk it through\, and one hot afternoon in one room\
+ , the case starts to come apart. From Southside Theatre Guild\, an all-vol
+ unteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1026/1801184400000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 Angry Jurors
+DTSTART;TZID=America/New_York:20270129T200000
+DTEND;TZID=America/New_York:20270129T223000
+DTSTAMP:20260707T000730Z
+UID:occ-837@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
+ dout\, and a murder verdict hinging on reasonable doubt.\n\nReginald Rose'
+ s classic deliberation drama\, here in the retitled version that opens the
+  jury room to a cast of any gender. A teenager stands accused of murdering
+  his father\, and the first vote comes back eleven to one for guilty. The 
+ lone holdout wants to talk it through\, and one hot afternoon in one room\
+ , the case starts to come apart. From Southside Theatre Guild\, an all-vol
+ unteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1026/1801270800000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 Angry Jurors
+DTSTART;TZID=America/New_York:20270130T143000
+DTEND;TZID=America/New_York:20270130T170000
+DTSTAMP:20260707T000730Z
+UID:occ-838@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
+ dout\, and a murder verdict hinging on reasonable doubt.\n\nReginald Rose'
+ s classic deliberation drama\, here in the retitled version that opens the
+  jury room to a cast of any gender. A teenager stands accused of murdering
+  his father\, and the first vote comes back eleven to one for guilty. The 
+ lone holdout wants to talk it through\, and one hot afternoon in one room\
+ , the case starts to come apart. From Southside Theatre Guild\, an all-vol
+ unteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1026/1801357200000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 Angry Jurors
+DTSTART;TZID=America/New_York:20270131T143000
+DTEND;TZID=America/New_York:20270131T170000
+DTSTAMP:20260707T000730Z
+UID:occ-839@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
+ dout\, and a murder verdict hinging on reasonable doubt.\n\nReginald Rose'
+ s classic deliberation drama\, here in the retitled version that opens the
+  jury room to a cast of any gender. A teenager stands accused of murdering
+  his father\, and the first vote comes back eleven to one for guilty. The 
+ lone holdout wants to talk it through\, and one hot afternoon in one room\
+ , the case starts to come apart. From Southside Theatre Guild\, an all-vol
+ unteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1026/1801443600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 Angry Jurors
+DTSTART;TZID=America/New_York:20270204T200000
+DTEND;TZID=America/New_York:20270204T223000
+DTSTAMP:20260707T000730Z
+UID:occ-840@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
+ dout\, and a murder verdict hinging on reasonable doubt.\n\nReginald Rose'
+ s classic deliberation drama\, here in the retitled version that opens the
+  jury room to a cast of any gender. A teenager stands accused of murdering
+  his father\, and the first vote comes back eleven to one for guilty. The 
+ lone holdout wants to talk it through\, and one hot afternoon in one room\
+ , the case starts to come apart. From Southside Theatre Guild\, an all-vol
+ unteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1026/1801789200000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 Angry Jurors
+DTSTART;TZID=America/New_York:20270205T200000
+DTEND;TZID=America/New_York:20270205T223000
+DTSTAMP:20260707T000730Z
+UID:occ-841@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
+ dout\, and a murder verdict hinging on reasonable doubt.\n\nReginald Rose'
+ s classic deliberation drama\, here in the retitled version that opens the
+  jury room to a cast of any gender. A teenager stands accused of murdering
+  his father\, and the first vote comes back eleven to one for guilty. The 
+ lone holdout wants to talk it through\, and one hot afternoon in one room\
+ , the case starts to come apart. From Southside Theatre Guild\, an all-vol
+ unteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1026/1801875600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 Angry Jurors
+DTSTART;TZID=America/New_York:20270206T200000
+DTEND;TZID=America/New_York:20270206T223000
+DTSTAMP:20260707T000730Z
+UID:occ-842@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
+ dout\, and a murder verdict hinging on reasonable doubt.\n\nReginald Rose'
+ s classic deliberation drama\, here in the retitled version that opens the
+  jury room to a cast of any gender. A teenager stands accused of murdering
+  his father\, and the first vote comes back eleven to one for guilty. The 
+ lone holdout wants to talk it through\, and one hot afternoon in one room\
+ , the case starts to come apart. From Southside Theatre Guild\, an all-vol
+ unteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1026/1801962000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 Angry Jurors
+DTSTART;TZID=America/New_York:20270207T143000
+DTEND;TZID=America/New_York:20270207T170000
+DTSTAMP:20260707T000730Z
+UID:occ-843@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
+ dout\, and a murder verdict hinging on reasonable doubt.\n\nReginald Rose'
+ s classic deliberation drama\, here in the retitled version that opens the
+  jury room to a cast of any gender. A teenager stands accused of murdering
+  his father\, and the first vote comes back eleven to one for guilty. The 
+ lone holdout wants to talk it through\, and one hot afternoon in one room\
+ , the case starts to come apart. From Southside Theatre Guild\, an all-vol
+ unteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1026/1802048400000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sidekicks Show: The Improv School of Witchcraft & Wizardry
+DTSTART;TZID=America/New_York:20270220T193000
+DTEND;TZID=America/New_York:20270220T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1588@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Wizard-school-themed improv night from the Southside Sidekicks
+ \, Southside Theatre Guild's in-house comedy troupe.\n\nThe Southside Side
+ kicks\, Southside Theatre Guild's in-house improv troupe\, take the wizard
+ -school premise as their playground for a night of scenes and games built 
+ on the spot from audience suggestions. Nothing is scripted\, so what happe
+ ns depends on what the room throws at them.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1063/1803169800000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sidekicks Show: Improv Wars 3
+DTSTART;TZID=America/New_York:20270320T193000
+DTEND;TZID=America/New_York:20270320T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1596@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Improv comedy from the Southside Sidekicks\, the in-house trou
+ pe of Southside Theatre Guild.\n\nComedy made up on the spot: scenes and c
+ haracters built live from audience suggestions\, so no two shows are the s
+ ame. Performed by the Southside Sidekicks\, the in-house improv troupe of 
+ Southside Theatre Guild\, an all-volunteer community theatre running since
+  1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1067/1805585400000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline
+DTSTART;TZID=America/New_York:20270422T200000
+DTEND;TZID=America/New_York:20270422T223000
+DTSTAMP:20260707T000730Z
+UID:occ-844@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
+ s longest-running all-volunteer community theatre.\n\nA mainstage producti
+ on from Southside Theatre Guild\, the all-volunteer community theatre that
+  has been putting on shows since 1973 and bills itself as metro Atlanta's 
+ oldest continually running troupe of its kind. Everything here\, from the 
+ acting to the set building\, is done by volunteers.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1028/1808438400000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline
+DTSTART;TZID=America/New_York:20270423T200000
+DTEND;TZID=America/New_York:20270423T223000
+DTSTAMP:20260707T000730Z
+UID:occ-845@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
+ s longest-running all-volunteer community theatre.\n\nA mainstage producti
+ on from Southside Theatre Guild\, the all-volunteer community theatre that
+  has been putting on shows since 1973 and bills itself as metro Atlanta's 
+ oldest continually running troupe of its kind. Everything here\, from the 
+ acting to the set building\, is done by volunteers.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1028/1808524800000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline
+DTSTART;TZID=America/New_York:20270424T143000
+DTEND;TZID=America/New_York:20270424T170000
+DTSTAMP:20260707T000730Z
+UID:occ-846@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
+ s longest-running all-volunteer community theatre.\n\nA mainstage producti
+ on from Southside Theatre Guild\, the all-volunteer community theatre that
+  has been putting on shows since 1973 and bills itself as metro Atlanta's 
+ oldest continually running troupe of its kind. Everything here\, from the 
+ acting to the set building\, is done by volunteers.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1028/1808611200000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline
+DTSTART;TZID=America/New_York:20270425T143000
+DTEND;TZID=America/New_York:20270425T170000
+DTSTAMP:20260707T000730Z
+UID:occ-847@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
+ s longest-running all-volunteer community theatre.\n\nA mainstage producti
+ on from Southside Theatre Guild\, the all-volunteer community theatre that
+  has been putting on shows since 1973 and bills itself as metro Atlanta's 
+ oldest continually running troupe of its kind. Everything here\, from the 
+ acting to the set building\, is done by volunteers.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1029/1808677800000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline
+DTSTART;TZID=America/New_York:20270429T200000
+DTEND;TZID=America/New_York:20270429T223000
+DTSTAMP:20260707T000730Z
+UID:occ-848@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
+ s longest-running all-volunteer community theatre.\n\nA mainstage producti
+ on from Southside Theatre Guild\, the all-volunteer community theatre that
+  has been putting on shows since 1973 and bills itself as metro Atlanta's 
+ oldest continually running troupe of its kind. Everything here\, from the 
+ acting to the set building\, is done by volunteers.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1028/1809043200000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline
+DTSTART;TZID=America/New_York:20270430T200000
+DTEND;TZID=America/New_York:20270430T223000
+DTSTAMP:20260707T000730Z
+UID:occ-849@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
+ s longest-running all-volunteer community theatre.\n\nA mainstage producti
+ on from Southside Theatre Guild\, the all-volunteer community theatre that
+  has been putting on shows since 1973 and bills itself as metro Atlanta's 
+ oldest continually running troupe of its kind. Everything here\, from the 
+ acting to the set building\, is done by volunteers.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1028/1809129600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline
+DTSTART;TZID=America/New_York:20270501T200000
+DTEND;TZID=America/New_York:20270501T223000
+DTSTAMP:20260707T000730Z
+UID:occ-850@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
+ s longest-running all-volunteer community theatre.\n\nA mainstage producti
+ on from Southside Theatre Guild\, the all-volunteer community theatre that
+  has been putting on shows since 1973 and bills itself as metro Atlanta's 
+ oldest continually running troupe of its kind. Everything here\, from the 
+ acting to the set building\, is done by volunteers.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1028/1809216000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline
+DTSTART;TZID=America/New_York:20270502T143000
+DTEND;TZID=America/New_York:20270502T170000
+DTSTAMP:20260707T000730Z
+UID:occ-851@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
+ s longest-running all-volunteer community theatre.\n\nA mainstage producti
+ on from Southside Theatre Guild\, the all-volunteer community theatre that
+  has been putting on shows since 1973 and bills itself as metro Atlanta's 
+ oldest continually running troupe of its kind. Everything here\, from the 
+ acting to the set building\, is done by volunteers.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1029/1809282600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sidekicks Time Machine - An Improvised Musical
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DTSTAMP:20260707T000730Z
+UID:occ-1597@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:A fully improvised musical from Southside Sidekicks — songs\
+ , scenes\, and story invented on the spot.\n\nA musical made up in front o
+ f you: the Southside Sidekicks\, Southside Theatre Guild's in-house improv
+  troupe\, take audience suggestions and spin them into songs\, characters\
+ , and a story that has never existed before and never will again. The time
+ -machine premise gives the improvisers license to land anywhere in history
+  the audience points them.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1064/1810353600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stand Up for Improv - Improvised Stand-Up Show
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+DTSTAMP:20260707T000730Z
+UID:occ-1598@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Stand-up with no prepared material: comics improvise their set
+ s live from audience suggestions.\n\nA mash-up of two comedy forms: the pe
+ rformers take the stand-up mic\, but every joke is invented on the spot\, 
+ built from whatever the audience throws at them. No script\, no tested mat
+ erial\, no safety net. Presented by Southside Theatre Guild\, an all-volun
+ teer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1065/1812772800000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hairspray
+DTSTART;TZID=America/New_York:20270722T200000
+DTEND;TZID=America/New_York:20270722T223000
+DTSTAMP:20260707T000730Z
+UID:occ-852@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
+ ces her way onto TV and into the civil rights fight.\n\nBaltimore\, 1962: 
+ Tracy Turnblad\, big of hair and bigger of heart\, wins a spot on a local 
+ TV dance show and starts campaigning to integrate it. Marc Shaiman and Sco
+ tt Wittman's score runs on 1960s dance-party pop and rhythm and blues\, ad
+ apted from John Waters's 1988 film\; the Broadway production took eight To
+ ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
+  an all-volunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1031/1816300800000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hairspray
+DTSTART;TZID=America/New_York:20270723T200000
+DTEND;TZID=America/New_York:20270723T223000
+DTSTAMP:20260707T000730Z
+UID:occ-853@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
+ ces her way onto TV and into the civil rights fight.\n\nBaltimore\, 1962: 
+ Tracy Turnblad\, big of hair and bigger of heart\, wins a spot on a local 
+ TV dance show and starts campaigning to integrate it. Marc Shaiman and Sco
+ tt Wittman's score runs on 1960s dance-party pop and rhythm and blues\, ad
+ apted from John Waters's 1988 film\; the Broadway production took eight To
+ ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
+  an all-volunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1031/1816387200000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hairspray
+DTSTART;TZID=America/New_York:20270724T143000
+DTEND;TZID=America/New_York:20270724T170000
+DTSTAMP:20260707T000730Z
+UID:occ-854@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
+ ces her way onto TV and into the civil rights fight.\n\nBaltimore\, 1962: 
+ Tracy Turnblad\, big of hair and bigger of heart\, wins a spot on a local 
+ TV dance show and starts campaigning to integrate it. Marc Shaiman and Sco
+ tt Wittman's score runs on 1960s dance-party pop and rhythm and blues\, ad
+ apted from John Waters's 1988 film\; the Broadway production took eight To
+ ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
+  an all-volunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1031/1816473600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hairspray
+DTSTART;TZID=America/New_York:20270725T143000
+DTEND;TZID=America/New_York:20270725T170000
+DTSTAMP:20260707T000730Z
+UID:occ-855@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
+ ces her way onto TV and into the civil rights fight.\n\nBaltimore\, 1962: 
+ Tracy Turnblad\, big of hair and bigger of heart\, wins a spot on a local 
+ TV dance show and starts campaigning to integrate it. Marc Shaiman and Sco
+ tt Wittman's score runs on 1960s dance-party pop and rhythm and blues\, ad
+ apted from John Waters's 1988 film\; the Broadway production took eight To
+ ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
+  an all-volunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1032/1815935400000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hairspray
+DTSTART;TZID=America/New_York:20270729T200000
+DTEND;TZID=America/New_York:20270729T223000
+DTSTAMP:20260707T000730Z
+UID:occ-856@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
+ ces her way onto TV and into the civil rights fight.\n\nBaltimore\, 1962: 
+ Tracy Turnblad\, big of hair and bigger of heart\, wins a spot on a local 
+ TV dance show and starts campaigning to integrate it. Marc Shaiman and Sco
+ tt Wittman's score runs on 1960s dance-party pop and rhythm and blues\, ad
+ apted from John Waters's 1988 film\; the Broadway production took eight To
+ ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
+  an all-volunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1031/1816905600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hairspray
+DTSTART;TZID=America/New_York:20270730T200000
+DTEND;TZID=America/New_York:20270730T223000
+DTSTAMP:20260707T000730Z
+UID:occ-857@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
+ ces her way onto TV and into the civil rights fight.\n\nBaltimore\, 1962: 
+ Tracy Turnblad\, big of hair and bigger of heart\, wins a spot on a local 
+ TV dance show and starts campaigning to integrate it. Marc Shaiman and Sco
+ tt Wittman's score runs on 1960s dance-party pop and rhythm and blues\, ad
+ apted from John Waters's 1988 film\; the Broadway production took eight To
+ ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
+  an all-volunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1031/1816992000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hairspray
+DTSTART;TZID=America/New_York:20270731T200000
+DTEND;TZID=America/New_York:20270731T223000
+DTSTAMP:20260707T000730Z
+UID:occ-858@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
+ ces her way onto TV and into the civil rights fight.\n\nBaltimore\, 1962: 
+ Tracy Turnblad\, big of hair and bigger of heart\, wins a spot on a local 
+ TV dance show and starts campaigning to integrate it. Marc Shaiman and Sco
+ tt Wittman's score runs on 1960s dance-party pop and rhythm and blues\, ad
+ apted from John Waters's 1988 film\; the Broadway production took eight To
+ ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
+  an all-volunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1031/1817078400000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hairspray
+DTSTART;TZID=America/New_York:20270801T143000
+DTEND;TZID=America/New_York:20270801T170000
+DTSTAMP:20260707T000730Z
+UID:occ-859@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
+ ces her way onto TV and into the civil rights fight.\n\nBaltimore\, 1962: 
+ Tracy Turnblad\, big of hair and bigger of heart\, wins a spot on a local 
+ TV dance show and starts campaigning to integrate it. Marc Shaiman and Sco
+ tt Wittman's score runs on 1960s dance-party pop and rhythm and blues\, ad
+ apted from John Waters's 1988 film\; the Broadway production took eight To
+ ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
+  an all-volunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1032/1816540200000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Price is Ri-FUNNY
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+DTSTAMP:20260707T000730Z
+UID:occ-1599@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Live improv comedy — scenes and characters built on the spot
+  from audience suggestions.\n\nA night of improv comedy: nothing scripted\
+ , everything built in the moment from whatever the audience throws out\, s
+ o no two performances are the same show. Presented by Southside Theatre Gu
+ ild\, an all-volunteer community theatre in operation since 1973 and home 
+ to the improv troupe Southside Sidekicks.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1068/1817611200000
+END:VEVENT
+END:VCALENDAR

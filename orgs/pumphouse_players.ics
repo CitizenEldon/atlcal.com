@@ -1,0 +1,1100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Atlanta Event Calendar//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Atlanta Events — Pumphouse Players
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:EST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700426T030000
+RDATE:19710425T030000,19720430T030000,19730429T030000,19740106T030000,1975
+ 0223T030000,19760425T030000,19770424T030000,19780430T030000,19790429T03000
+ 0,19800427T030000,19810426T030000,19820425T030000,19830424T030000,19840429
+ T030000,19850428T030000,19860427T030000,19870405T030000,19880403T030000,19
+ 890402T030000,19900401T030000,19910407T030000,19920405T030000,19930404T030
+ 000,19940403T030000,19950402T030000,19960407T030000,19970406T030000,199804
+ 05T030000,19990404T030000,20000402T030000,20010401T030000,20020407T030000,
+ 20030406T030000,20040404T030000,20050403T030000,20060402T030000,20070311T0
+ 30000,20080309T030000,20090308T030000,20100314T030000,20110313T030000,2012
+ 0311T030000,20130310T030000,20140309T030000,20150308T030000,20160313T03000
+ 0,20170312T030000,20180311T030000,20190310T030000,20200308T030000,20210314
+ T030000,20220313T030000,20230312T030000,20240310T030000,20250309T030000,20
+ 260308T030000,20270314T030000,20280312T030000,20290311T030000,20300310T030
+ 000,20310309T030000,20320314T030000,20330313T030000,20340312T030000,203503
+ 11T030000,20360309T030000,20370308T030000
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19701025T020000
+RDATE:19711031T020000,19721029T020000,19731028T020000,19741027T020000,1975
+ 1026T020000,19761031T020000,19771030T020000,19781029T020000,19791028T02000
+ 0,19801026T020000,19811025T020000,19821031T020000,19831030T020000,19841028
+ T020000,19851027T020000,19861026T020000,19871025T020000,19881030T020000,19
+ 891029T020000,19901028T020000,19911027T020000,19921025T020000,19931031T020
+ 000,19941030T020000,19951029T020000,19961027T020000,19971026T020000,199810
+ 25T020000,19991031T020000,20001029T020000,20011028T020000,20021027T020000,
+ 20031026T020000,20041031T020000,20051030T020000,20061029T020000,20071104T0
+ 20000,20081102T020000,20091101T020000,20101107T020000,20111106T020000,2012
+ 1104T020000,20131103T020000,20141102T020000,20151101T020000,20161106T02000
+ 0,20171105T020000,20181104T020000,20191103T020000,20201101T020000,20211107
+ T020000,20221106T020000,20231105T020000,20241103T020000,20251102T020000,20
+ 261101T020000,20271107T020000,20281105T020000,20291104T020000,20301103T020
+ 000,20311102T020000,20321107T020000,20331106T020000,20341105T020000,203511
+ 04T020000,20361102T020000,20371101T020000
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Brave Little Tailor
+DTSTART;TZID=America/New_York:20260717T190000
+DTEND;TZID=America/New_York:20260717T211500
+DTSTAMP:20260707T000730Z
+UID:occ-1187@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:The Grimms' fairy tale of a boastful tailor\, seven swatted fl
+ ies\, and some very gullible giants\, from Pumphouse Players.\n\nA stage a
+ daptation of the Brothers Grimm fairy tale. A tailor kills seven flies wit
+ h one swat\, stitches himself a belt boasting "Seven at One Blow\," and le
+ ts everyone assume he means seven men. On the strength of that misundersta
+ nding he takes on giants and a scheming king\, armed with nothing but nerv
+ e and quick thinking. From Pumphouse Players\, the Cartersville community 
+ theatre\, which last staged the tale in 2019.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/brave-little-tailor-tickets-1989767364751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brave Little Tailor
+DTSTART;TZID=America/New_York:20260718T150000
+DTEND;TZID=America/New_York:20260718T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1188@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:The Grimms' fairy tale of a boastful tailor\, seven swatted fl
+ ies\, and some very gullible giants\, from Pumphouse Players.\n\nA stage a
+ daptation of the Brothers Grimm fairy tale. A tailor kills seven flies wit
+ h one swat\, stitches himself a belt boasting "Seven at One Blow\," and le
+ ts everyone assume he means seven men. On the strength of that misundersta
+ nding he takes on giants and a scheming king\, armed with nothing but nerv
+ e and quick thinking. From Pumphouse Players\, the Cartersville community 
+ theatre\, which last staged the tale in 2019.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/brave-little-tailor-tickets-1989767364751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brave Little Tailor
+DTSTART;TZID=America/New_York:20260718T190000
+DTEND;TZID=America/New_York:20260718T211500
+DTSTAMP:20260707T000730Z
+UID:occ-1189@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:The Grimms' fairy tale of a boastful tailor\, seven swatted fl
+ ies\, and some very gullible giants\, from Pumphouse Players.\n\nA stage a
+ daptation of the Brothers Grimm fairy tale. A tailor kills seven flies wit
+ h one swat\, stitches himself a belt boasting "Seven at One Blow\," and le
+ ts everyone assume he means seven men. On the strength of that misundersta
+ nding he takes on giants and a scheming king\, armed with nothing but nerv
+ e and quick thinking. From Pumphouse Players\, the Cartersville community 
+ theatre\, which last staged the tale in 2019.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/brave-little-tailor-tickets-1989767364751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twelfth Night
+DTSTART;TZID=America/New_York:20260821T200000
+DTEND;TZID=America/New_York:20260821T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1191@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Shakespeare's shipwreck comedy: twins separated at sea\, a wom
+ an in disguise\, and a love triangle nobody can untangle.\n\nShakespeare's
+  comedy of mistaken identity. Shipwrecked and separated from her twin brot
+ her\, Viola disguises herself as a young man and enters Duke Orsino's serv
+ ice\, only to fall for him while carrying his love letters to a countess w
+ ho promptly falls for her. Meanwhile a forged letter and a pair of yellow 
+ stockings send the pompous steward Malvolio into humiliating raptures. Fro
+ m Pumphouse Players\, one of Georgia's oldest continuously operating commu
+ nity theatre companies.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/twelfth-night-tickets-1989767660636
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twelfth Night
+DTSTART;TZID=America/New_York:20260822T200000
+DTEND;TZID=America/New_York:20260822T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1192@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Shakespeare's shipwreck comedy: twins separated at sea\, a wom
+ an in disguise\, and a love triangle nobody can untangle.\n\nShakespeare's
+  comedy of mistaken identity. Shipwrecked and separated from her twin brot
+ her\, Viola disguises herself as a young man and enters Duke Orsino's serv
+ ice\, only to fall for him while carrying his love letters to a countess w
+ ho promptly falls for her. Meanwhile a forged letter and a pair of yellow 
+ stockings send the pompous steward Malvolio into humiliating raptures. Fro
+ m Pumphouse Players\, one of Georgia's oldest continuously operating commu
+ nity theatre companies.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/twelfth-night-tickets-1989767660636
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twelfth Night
+DTSTART;TZID=America/New_York:20260823T150000
+DTEND;TZID=America/New_York:20260823T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1193@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Shakespeare's shipwreck comedy: twins separated at sea\, a wom
+ an in disguise\, and a love triangle nobody can untangle.\n\nShakespeare's
+  comedy of mistaken identity. Shipwrecked and separated from her twin brot
+ her\, Viola disguises herself as a young man and enters Duke Orsino's serv
+ ice\, only to fall for him while carrying his love letters to a countess w
+ ho promptly falls for her. Meanwhile a forged letter and a pair of yellow 
+ stockings send the pompous steward Malvolio into humiliating raptures. Fro
+ m Pumphouse Players\, one of Georgia's oldest continuously operating commu
+ nity theatre companies.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/twelfth-night-tickets-1989767660636
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twelfth Night
+DTSTART;TZID=America/New_York:20260828T200000
+DTEND;TZID=America/New_York:20260828T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1194@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Shakespeare's shipwreck comedy: twins separated at sea\, a wom
+ an in disguise\, and a love triangle nobody can untangle.\n\nShakespeare's
+  comedy of mistaken identity. Shipwrecked and separated from her twin brot
+ her\, Viola disguises herself as a young man and enters Duke Orsino's serv
+ ice\, only to fall for him while carrying his love letters to a countess w
+ ho promptly falls for her. Meanwhile a forged letter and a pair of yellow 
+ stockings send the pompous steward Malvolio into humiliating raptures. Fro
+ m Pumphouse Players\, one of Georgia's oldest continuously operating commu
+ nity theatre companies.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/twelfth-night-tickets-1989767660636
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twelfth Night
+DTSTART;TZID=America/New_York:20260829T200000
+DTEND;TZID=America/New_York:20260829T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1195@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Shakespeare's shipwreck comedy: twins separated at sea\, a wom
+ an in disguise\, and a love triangle nobody can untangle.\n\nShakespeare's
+  comedy of mistaken identity. Shipwrecked and separated from her twin brot
+ her\, Viola disguises herself as a young man and enters Duke Orsino's serv
+ ice\, only to fall for him while carrying his love letters to a countess w
+ ho promptly falls for her. Meanwhile a forged letter and a pair of yellow 
+ stockings send the pompous steward Malvolio into humiliating raptures. Fro
+ m Pumphouse Players\, one of Georgia's oldest continuously operating commu
+ nity theatre companies.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/twelfth-night-tickets-1989767660636
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twelfth Night
+DTSTART;TZID=America/New_York:20260830T150000
+DTEND;TZID=America/New_York:20260830T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1196@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Shakespeare's shipwreck comedy: twins separated at sea\, a wom
+ an in disguise\, and a love triangle nobody can untangle.\n\nShakespeare's
+  comedy of mistaken identity. Shipwrecked and separated from her twin brot
+ her\, Viola disguises herself as a young man and enters Duke Orsino's serv
+ ice\, only to fall for him while carrying his love letters to a countess w
+ ho promptly falls for her. Meanwhile a forged letter and a pair of yellow 
+ stockings send the pompous steward Malvolio into humiliating raptures. Fro
+ m Pumphouse Players\, one of Georgia's oldest continuously operating commu
+ nity theatre companies.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/twelfth-night-tickets-1989767660636
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankenstein: The Monster Play
+DTSTART;TZID=America/New_York:20261016T200000
+DTEND;TZID=America/New_York:20261016T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1197@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Mary Shelley's gothic tale onstage: a scientist\, the creature
+  he abandons\, and the reckoning between them.\n\nA stage adaptation of Ma
+ ry Shelley's 1818 novel. Victor Frankenstein stitches life together from t
+ he dead\, recoils from what he's made\, and flees\; the abandoned creature
+ \, left to learn the world alone\, goes looking for his maker. From Pumpho
+ use Players\, one of Georgia's oldest continuously operating community the
+ atres\, performing in a 70-seat house where nobody sits far from the monst
+ er.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/frankenstein-the-monster-play-tickets-198
+ 9768069860
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankenstein: The Monster Play
+DTSTART;TZID=America/New_York:20261017T200000
+DTEND;TZID=America/New_York:20261017T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1198@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Mary Shelley's gothic tale onstage: a scientist\, the creature
+  he abandons\, and the reckoning between them.\n\nA stage adaptation of Ma
+ ry Shelley's 1818 novel. Victor Frankenstein stitches life together from t
+ he dead\, recoils from what he's made\, and flees\; the abandoned creature
+ \, left to learn the world alone\, goes looking for his maker. From Pumpho
+ use Players\, one of Georgia's oldest continuously operating community the
+ atres\, performing in a 70-seat house where nobody sits far from the monst
+ er.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/frankenstein-the-monster-play-tickets-198
+ 9768069860
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankenstein: The Monster Play
+DTSTART;TZID=America/New_York:20261018T150000
+DTEND;TZID=America/New_York:20261018T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1199@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Mary Shelley's gothic tale onstage: a scientist\, the creature
+  he abandons\, and the reckoning between them.\n\nA stage adaptation of Ma
+ ry Shelley's 1818 novel. Victor Frankenstein stitches life together from t
+ he dead\, recoils from what he's made\, and flees\; the abandoned creature
+ \, left to learn the world alone\, goes looking for his maker. From Pumpho
+ use Players\, one of Georgia's oldest continuously operating community the
+ atres\, performing in a 70-seat house where nobody sits far from the monst
+ er.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/frankenstein-the-monster-play-tickets-198
+ 9768069860
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankenstein: The Monster Play
+DTSTART;TZID=America/New_York:20261023T200000
+DTEND;TZID=America/New_York:20261023T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1200@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Mary Shelley's gothic tale onstage: a scientist\, the creature
+  he abandons\, and the reckoning between them.\n\nA stage adaptation of Ma
+ ry Shelley's 1818 novel. Victor Frankenstein stitches life together from t
+ he dead\, recoils from what he's made\, and flees\; the abandoned creature
+ \, left to learn the world alone\, goes looking for his maker. From Pumpho
+ use Players\, one of Georgia's oldest continuously operating community the
+ atres\, performing in a 70-seat house where nobody sits far from the monst
+ er.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/frankenstein-the-monster-play-tickets-198
+ 9768069860
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankenstein: The Monster Play
+DTSTART;TZID=America/New_York:20261024T200000
+DTEND;TZID=America/New_York:20261024T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1201@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Mary Shelley's gothic tale onstage: a scientist\, the creature
+  he abandons\, and the reckoning between them.\n\nA stage adaptation of Ma
+ ry Shelley's 1818 novel. Victor Frankenstein stitches life together from t
+ he dead\, recoils from what he's made\, and flees\; the abandoned creature
+ \, left to learn the world alone\, goes looking for his maker. From Pumpho
+ use Players\, one of Georgia's oldest continuously operating community the
+ atres\, performing in a 70-seat house where nobody sits far from the monst
+ er.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/frankenstein-the-monster-play-tickets-198
+ 9768069860
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankenstein: The Monster Play
+DTSTART;TZID=America/New_York:20261025T150000
+DTEND;TZID=America/New_York:20261025T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1202@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Mary Shelley's gothic tale onstage: a scientist\, the creature
+  he abandons\, and the reckoning between them.\n\nA stage adaptation of Ma
+ ry Shelley's 1818 novel. Victor Frankenstein stitches life together from t
+ he dead\, recoils from what he's made\, and flees\; the abandoned creature
+ \, left to learn the world alone\, goes looking for his maker. From Pumpho
+ use Players\, one of Georgia's oldest continuously operating community the
+ atres\, performing in a 70-seat house where nobody sits far from the monst
+ er.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/frankenstein-the-monster-play-tickets-198
+ 9768069860
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Just in the Nick of Time
+DTSTART;TZID=America/New_York:20261204T200000
+DTEND;TZID=America/New_York:20261204T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1203@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A play from Pumphouse Players\, staged in their 70-seat conver
+ ted 1940s cinema.\n\nA play from Pumphouse Players\, one of Georgia's olde
+ st continuously operating community theatre companies. The company perform
+ s in a converted 1940s cinema with just 70 seats\, so no one watches from 
+ a distance.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/just-in-the-nick-of-time-tickets-19897681
+ 64142
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Just in the Nick of Time
+DTSTART;TZID=America/New_York:20261205T200000
+DTEND;TZID=America/New_York:20261205T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1441@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A play from Pumphouse Players\, staged in their 70-seat conver
+ ted 1940s cinema.\n\nA play from Pumphouse Players\, one of Georgia's olde
+ st continuously operating community theatre companies. The company perform
+ s in a converted 1940s cinema with just 70 seats\, so no one watches from 
+ a distance.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/just-in-the-nick-of-time-tickets-19897681
+ 64142
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Just in the Nick of Time
+DTSTART;TZID=America/New_York:20261206T150000
+DTEND;TZID=America/New_York:20261206T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1442@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A play from Pumphouse Players\, staged in their 70-seat conver
+ ted 1940s cinema.\n\nA play from Pumphouse Players\, one of Georgia's olde
+ st continuously operating community theatre companies. The company perform
+ s in a converted 1940s cinema with just 70 seats\, so no one watches from 
+ a distance.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/just-in-the-nick-of-time-tickets-19897681
+ 64142
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Just in the Nick of Time
+DTSTART;TZID=America/New_York:20261211T200000
+DTEND;TZID=America/New_York:20261211T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1443@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A play from Pumphouse Players\, staged in their 70-seat conver
+ ted 1940s cinema.\n\nA play from Pumphouse Players\, one of Georgia's olde
+ st continuously operating community theatre companies. The company perform
+ s in a converted 1940s cinema with just 70 seats\, so no one watches from 
+ a distance.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/just-in-the-nick-of-time-tickets-19897681
+ 64142
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Just in the Nick of Time
+DTSTART;TZID=America/New_York:20261212T200000
+DTEND;TZID=America/New_York:20261212T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1444@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A play from Pumphouse Players\, staged in their 70-seat conver
+ ted 1940s cinema.\n\nA play from Pumphouse Players\, one of Georgia's olde
+ st continuously operating community theatre companies. The company perform
+ s in a converted 1940s cinema with just 70 seats\, so no one watches from 
+ a distance.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/just-in-the-nick-of-time-tickets-19897681
+ 64142
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Just in the Nick of Time
+DTSTART;TZID=America/New_York:20261213T150000
+DTEND;TZID=America/New_York:20261213T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1445@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A play from Pumphouse Players\, staged in their 70-seat conver
+ ted 1940s cinema.\n\nA play from Pumphouse Players\, one of Georgia's olde
+ st continuously operating community theatre companies. The company perform
+ s in a converted 1940s cinema with just 70 seats\, so no one watches from 
+ a distance.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/just-in-the-nick-of-time-tickets-19897681
+ 64142
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time Stands Still
+DTSTART;TZID=America/New_York:20270212T200000
+DTEND;TZID=America/New_York:20270212T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1204@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Donald Margulies's drama of a war photographer home from Iraq\
+ , deciding whether she can want an ordinary life.\n\nSarah\, a photojourna
+ list\, is back in Brooklyn after a roadside bomb in Iraq nearly killed her
+ . Her boyfriend James\, a reporter who left the assignment before it happe
+ ned\, carries the guilt. A visit from an old friend and his much younger n
+ ew girlfriend sharpens the question of whether the couple can trade the fr
+ ont lines for something conventional. Donald Margulies's play earned a Ton
+ y nomination for Best Play\, with the New York Daily News praising its "in
+ telligence and humor." From Pumphouse Players\, staged in a 70-seat conver
+ ted 1940s cinema.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/time-stands-still-tickets-1989768541270
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time Stands Still
+DTSTART;TZID=America/New_York:20270213T200000
+DTEND;TZID=America/New_York:20270213T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1205@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Donald Margulies's drama of a war photographer home from Iraq\
+ , deciding whether she can want an ordinary life.\n\nSarah\, a photojourna
+ list\, is back in Brooklyn after a roadside bomb in Iraq nearly killed her
+ . Her boyfriend James\, a reporter who left the assignment before it happe
+ ned\, carries the guilt. A visit from an old friend and his much younger n
+ ew girlfriend sharpens the question of whether the couple can trade the fr
+ ont lines for something conventional. Donald Margulies's play earned a Ton
+ y nomination for Best Play\, with the New York Daily News praising its "in
+ telligence and humor." From Pumphouse Players\, staged in a 70-seat conver
+ ted 1940s cinema.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/time-stands-still-tickets-1989768541270
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time Stands Still
+DTSTART;TZID=America/New_York:20270214T150000
+DTEND;TZID=America/New_York:20270214T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1206@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Donald Margulies's drama of a war photographer home from Iraq\
+ , deciding whether she can want an ordinary life.\n\nSarah\, a photojourna
+ list\, is back in Brooklyn after a roadside bomb in Iraq nearly killed her
+ . Her boyfriend James\, a reporter who left the assignment before it happe
+ ned\, carries the guilt. A visit from an old friend and his much younger n
+ ew girlfriend sharpens the question of whether the couple can trade the fr
+ ont lines for something conventional. Donald Margulies's play earned a Ton
+ y nomination for Best Play\, with the New York Daily News praising its "in
+ telligence and humor." From Pumphouse Players\, staged in a 70-seat conver
+ ted 1940s cinema.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/time-stands-still-tickets-1989768541270
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time Stands Still
+DTSTART;TZID=America/New_York:20270219T200000
+DTEND;TZID=America/New_York:20270219T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1207@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Donald Margulies's drama of a war photographer home from Iraq\
+ , deciding whether she can want an ordinary life.\n\nSarah\, a photojourna
+ list\, is back in Brooklyn after a roadside bomb in Iraq nearly killed her
+ . Her boyfriend James\, a reporter who left the assignment before it happe
+ ned\, carries the guilt. A visit from an old friend and his much younger n
+ ew girlfriend sharpens the question of whether the couple can trade the fr
+ ont lines for something conventional. Donald Margulies's play earned a Ton
+ y nomination for Best Play\, with the New York Daily News praising its "in
+ telligence and humor." From Pumphouse Players\, staged in a 70-seat conver
+ ted 1940s cinema.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/time-stands-still-tickets-1989768541270
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time Stands Still
+DTSTART;TZID=America/New_York:20270220T200000
+DTEND;TZID=America/New_York:20270220T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1208@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Donald Margulies's drama of a war photographer home from Iraq\
+ , deciding whether she can want an ordinary life.\n\nSarah\, a photojourna
+ list\, is back in Brooklyn after a roadside bomb in Iraq nearly killed her
+ . Her boyfriend James\, a reporter who left the assignment before it happe
+ ned\, carries the guilt. A visit from an old friend and his much younger n
+ ew girlfriend sharpens the question of whether the couple can trade the fr
+ ont lines for something conventional. Donald Margulies's play earned a Ton
+ y nomination for Best Play\, with the New York Daily News praising its "in
+ telligence and humor." From Pumphouse Players\, staged in a 70-seat conver
+ ted 1940s cinema.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/time-stands-still-tickets-1989768541270
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time Stands Still
+DTSTART;TZID=America/New_York:20270221T150000
+DTEND;TZID=America/New_York:20270221T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1209@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Donald Margulies's drama of a war photographer home from Iraq\
+ , deciding whether she can want an ordinary life.\n\nSarah\, a photojourna
+ list\, is back in Brooklyn after a roadside bomb in Iraq nearly killed her
+ . Her boyfriend James\, a reporter who left the assignment before it happe
+ ned\, carries the guilt. A visit from an old friend and his much younger n
+ ew girlfriend sharpens the question of whether the couple can trade the fr
+ ont lines for something conventional. Donald Margulies's play earned a Ton
+ y nomination for Best Play\, with the New York Daily News praising its "in
+ telligence and humor." From Pumphouse Players\, staged in a 70-seat conver
+ ted 1940s cinema.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/time-stands-still-tickets-1989768541270
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Great American Trailer Park Musical
+DTSTART;TZID=America/New_York:20270409T200000
+DTEND;TZID=America/New_York:20270409T223000
+DTSTAMP:20260707T000730Z
+UID:occ-1210@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Nehls and Kelso's raunchy comedy of a stripper on the run and 
+ one very stuck marriage in a Florida trailer park.\n\nDavid Nehls and Bets
+ y Kelso's Off-Broadway comedy set in Armadillo Acres\, a trailer park in S
+ tarke\, Florida. Jeannie hasn't left her trailer since her son was abducte
+ d two decades ago\; her tollbooth-collector husband Norbert hopes annivers
+ ary Ice Capades tickets will finally coax her out. Then Pippi\, a stripper
+  fleeing a marker-sniffing ex-boyfriend\, moves in and complicates everyth
+ ing. From Pumphouse Players.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/the-great-american-trailer-park-musical-t
+ ickets-1989768581390
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Great American Trailer Park Musical
+DTSTART;TZID=America/New_York:20270410T200000
+DTEND;TZID=America/New_York:20270410T223000
+DTSTAMP:20260707T000730Z
+UID:occ-1211@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Nehls and Kelso's raunchy comedy of a stripper on the run and 
+ one very stuck marriage in a Florida trailer park.\n\nDavid Nehls and Bets
+ y Kelso's Off-Broadway comedy set in Armadillo Acres\, a trailer park in S
+ tarke\, Florida. Jeannie hasn't left her trailer since her son was abducte
+ d two decades ago\; her tollbooth-collector husband Norbert hopes annivers
+ ary Ice Capades tickets will finally coax her out. Then Pippi\, a stripper
+  fleeing a marker-sniffing ex-boyfriend\, moves in and complicates everyth
+ ing. From Pumphouse Players.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/the-great-american-trailer-park-musical-t
+ ickets-1989768581390
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Great American Trailer Park Musical
+DTSTART;TZID=America/New_York:20270411T150000
+DTEND;TZID=America/New_York:20270411T173000
+DTSTAMP:20260707T000730Z
+UID:occ-1212@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Nehls and Kelso's raunchy comedy of a stripper on the run and 
+ one very stuck marriage in a Florida trailer park.\n\nDavid Nehls and Bets
+ y Kelso's Off-Broadway comedy set in Armadillo Acres\, a trailer park in S
+ tarke\, Florida. Jeannie hasn't left her trailer since her son was abducte
+ d two decades ago\; her tollbooth-collector husband Norbert hopes annivers
+ ary Ice Capades tickets will finally coax her out. Then Pippi\, a stripper
+  fleeing a marker-sniffing ex-boyfriend\, moves in and complicates everyth
+ ing. From Pumphouse Players.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/the-great-american-trailer-park-musical-t
+ ickets-1989768581390
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Great American Trailer Park Musical
+DTSTART;TZID=America/New_York:20270416T200000
+DTEND;TZID=America/New_York:20270416T223000
+DTSTAMP:20260707T000730Z
+UID:occ-1213@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Nehls and Kelso's raunchy comedy of a stripper on the run and 
+ one very stuck marriage in a Florida trailer park.\n\nDavid Nehls and Bets
+ y Kelso's Off-Broadway comedy set in Armadillo Acres\, a trailer park in S
+ tarke\, Florida. Jeannie hasn't left her trailer since her son was abducte
+ d two decades ago\; her tollbooth-collector husband Norbert hopes annivers
+ ary Ice Capades tickets will finally coax her out. Then Pippi\, a stripper
+  fleeing a marker-sniffing ex-boyfriend\, moves in and complicates everyth
+ ing. From Pumphouse Players.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/the-great-american-trailer-park-musical-t
+ ickets-1989768581390
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Great American Trailer Park Musical
+DTSTART;TZID=America/New_York:20270417T200000
+DTEND;TZID=America/New_York:20270417T223000
+DTSTAMP:20260707T000730Z
+UID:occ-1214@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Nehls and Kelso's raunchy comedy of a stripper on the run and 
+ one very stuck marriage in a Florida trailer park.\n\nDavid Nehls and Bets
+ y Kelso's Off-Broadway comedy set in Armadillo Acres\, a trailer park in S
+ tarke\, Florida. Jeannie hasn't left her trailer since her son was abducte
+ d two decades ago\; her tollbooth-collector husband Norbert hopes annivers
+ ary Ice Capades tickets will finally coax her out. Then Pippi\, a stripper
+  fleeing a marker-sniffing ex-boyfriend\, moves in and complicates everyth
+ ing. From Pumphouse Players.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/the-great-american-trailer-park-musical-t
+ ickets-1989768581390
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Great American Trailer Park Musical
+DTSTART;TZID=America/New_York:20270418T150000
+DTEND;TZID=America/New_York:20270418T173000
+DTSTAMP:20260707T000730Z
+UID:occ-1215@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Nehls and Kelso's raunchy comedy of a stripper on the run and 
+ one very stuck marriage in a Florida trailer park.\n\nDavid Nehls and Bets
+ y Kelso's Off-Broadway comedy set in Armadillo Acres\, a trailer park in S
+ tarke\, Florida. Jeannie hasn't left her trailer since her son was abducte
+ d two decades ago\; her tollbooth-collector husband Norbert hopes annivers
+ ary Ice Capades tickets will finally coax her out. Then Pippi\, a stripper
+  fleeing a marker-sniffing ex-boyfriend\, moves in and complicates everyth
+ ing. From Pumphouse Players.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/the-great-american-trailer-park-musical-t
+ ickets-1989768581390
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arcadia
+DTSTART;TZID=America/New_York:20270514T200000
+DTEND;TZID=America/New_York:20270514T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1216@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Tom Stoppard's 1993 comedy of chaos theory\, Byron gossip\, an
+ d one country house across two centuries.\n\nTom Stoppard's 1993 play unfo
+ lds in a single English country-house room across two centuries. In 1809\,
+  teenage math prodigy Thomasina Coverly scribbles ideas decades ahead of h
+ er time while her tutor dodges a duel over another man's wife. In the pres
+ ent day\, two rival academics comb the same house for evidence of a scanda
+ l involving Lord Byron\, and keep getting the past wrong. One 1993 critic 
+ grumbled it was 'too clever by about two-and-three-quarters'\; many others
+  rank it as Stoppard's finest play. From Pumphouse Players.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/arcadia-tickets-1989768662633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arcadia
+DTSTART;TZID=America/New_York:20270515T200000
+DTEND;TZID=America/New_York:20270515T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1217@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Tom Stoppard's 1993 comedy of chaos theory\, Byron gossip\, an
+ d one country house across two centuries.\n\nTom Stoppard's 1993 play unfo
+ lds in a single English country-house room across two centuries. In 1809\,
+  teenage math prodigy Thomasina Coverly scribbles ideas decades ahead of h
+ er time while her tutor dodges a duel over another man's wife. In the pres
+ ent day\, two rival academics comb the same house for evidence of a scanda
+ l involving Lord Byron\, and keep getting the past wrong. One 1993 critic 
+ grumbled it was 'too clever by about two-and-three-quarters'\; many others
+  rank it as Stoppard's finest play. From Pumphouse Players.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/arcadia-tickets-1989768662633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arcadia
+DTSTART;TZID=America/New_York:20270516T150000
+DTEND;TZID=America/New_York:20270516T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1218@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Tom Stoppard's 1993 comedy of chaos theory\, Byron gossip\, an
+ d one country house across two centuries.\n\nTom Stoppard's 1993 play unfo
+ lds in a single English country-house room across two centuries. In 1809\,
+  teenage math prodigy Thomasina Coverly scribbles ideas decades ahead of h
+ er time while her tutor dodges a duel over another man's wife. In the pres
+ ent day\, two rival academics comb the same house for evidence of a scanda
+ l involving Lord Byron\, and keep getting the past wrong. One 1993 critic 
+ grumbled it was 'too clever by about two-and-three-quarters'\; many others
+  rank it as Stoppard's finest play. From Pumphouse Players.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/arcadia-tickets-1989768662633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arcadia
+DTSTART;TZID=America/New_York:20270521T200000
+DTEND;TZID=America/New_York:20270521T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1219@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Tom Stoppard's 1993 comedy of chaos theory\, Byron gossip\, an
+ d one country house across two centuries.\n\nTom Stoppard's 1993 play unfo
+ lds in a single English country-house room across two centuries. In 1809\,
+  teenage math prodigy Thomasina Coverly scribbles ideas decades ahead of h
+ er time while her tutor dodges a duel over another man's wife. In the pres
+ ent day\, two rival academics comb the same house for evidence of a scanda
+ l involving Lord Byron\, and keep getting the past wrong. One 1993 critic 
+ grumbled it was 'too clever by about two-and-three-quarters'\; many others
+  rank it as Stoppard's finest play. From Pumphouse Players.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/arcadia-tickets-1989768662633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arcadia
+DTSTART;TZID=America/New_York:20270522T200000
+DTEND;TZID=America/New_York:20270522T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1220@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Tom Stoppard's 1993 comedy of chaos theory\, Byron gossip\, an
+ d one country house across two centuries.\n\nTom Stoppard's 1993 play unfo
+ lds in a single English country-house room across two centuries. In 1809\,
+  teenage math prodigy Thomasina Coverly scribbles ideas decades ahead of h
+ er time while her tutor dodges a duel over another man's wife. In the pres
+ ent day\, two rival academics comb the same house for evidence of a scanda
+ l involving Lord Byron\, and keep getting the past wrong. One 1993 critic 
+ grumbled it was 'too clever by about two-and-three-quarters'\; many others
+  rank it as Stoppard's finest play. From Pumphouse Players.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/arcadia-tickets-1989768662633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arcadia
+DTSTART;TZID=America/New_York:20270523T150000
+DTEND;TZID=America/New_York:20270523T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1221@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Tom Stoppard's 1993 comedy of chaos theory\, Byron gossip\, an
+ d one country house across two centuries.\n\nTom Stoppard's 1993 play unfo
+ lds in a single English country-house room across two centuries. In 1809\,
+  teenage math prodigy Thomasina Coverly scribbles ideas decades ahead of h
+ er time while her tutor dodges a duel over another man's wife. In the pres
+ ent day\, two rival academics comb the same house for evidence of a scanda
+ l involving Lord Byron\, and keep getting the past wrong. One 1993 critic 
+ grumbled it was 'too clever by about two-and-three-quarters'\; many others
+  rank it as Stoppard's finest play. From Pumphouse Players.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/arcadia-tickets-1989768662633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anthropology
+DTSTART;TZID=America/New_York:20270618T200000
+DTEND;TZID=America/New_York:20270618T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1446@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A mainstage play from Pumphouse Players\, one of Georgia's old
+ est continuously operating community theatre companies.\n\nA play from Pum
+ phouse Players\, one of Georgia's oldest continuously operating community 
+ theatre companies. Their home is a converted 1940s cinema with just 70 sea
+ ts\, so no one sits far from the action.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/anthropology-tickets-1989768740867
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anthropology
+DTSTART;TZID=America/New_York:20270619T200000
+DTEND;TZID=America/New_York:20270619T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1447@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A mainstage play from Pumphouse Players\, one of Georgia's old
+ est continuously operating community theatre companies.\n\nA play from Pum
+ phouse Players\, one of Georgia's oldest continuously operating community 
+ theatre companies. Their home is a converted 1940s cinema with just 70 sea
+ ts\, so no one sits far from the action.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/anthropology-tickets-1989768740867
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anthropology
+DTSTART;TZID=America/New_York:20270620T150000
+DTEND;TZID=America/New_York:20270620T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1448@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A mainstage play from Pumphouse Players\, one of Georgia's old
+ est continuously operating community theatre companies.\n\nA play from Pum
+ phouse Players\, one of Georgia's oldest continuously operating community 
+ theatre companies. Their home is a converted 1940s cinema with just 70 sea
+ ts\, so no one sits far from the action.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/anthropology-tickets-1989768740867
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anthropology
+DTSTART;TZID=America/New_York:20270625T200000
+DTEND;TZID=America/New_York:20270625T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1449@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A mainstage play from Pumphouse Players\, one of Georgia's old
+ est continuously operating community theatre companies.\n\nA play from Pum
+ phouse Players\, one of Georgia's oldest continuously operating community 
+ theatre companies. Their home is a converted 1940s cinema with just 70 sea
+ ts\, so no one sits far from the action.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/anthropology-tickets-1989768740867
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anthropology
+DTSTART;TZID=America/New_York:20270626T200000
+DTEND;TZID=America/New_York:20270626T221500
+DTSTAMP:20260707T000730Z
+UID:occ-1450@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A mainstage play from Pumphouse Players\, one of Georgia's old
+ est continuously operating community theatre companies.\n\nA play from Pum
+ phouse Players\, one of Georgia's oldest continuously operating community 
+ theatre companies. Their home is a converted 1940s cinema with just 70 sea
+ ts\, so no one sits far from the action.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/anthropology-tickets-1989768740867
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anthropology
+DTSTART;TZID=America/New_York:20270627T150000
+DTEND;TZID=America/New_York:20270627T171500
+DTSTAMP:20260707T000730Z
+UID:occ-1451@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A mainstage play from Pumphouse Players\, one of Georgia's old
+ est continuously operating community theatre companies.\n\nA play from Pum
+ phouse Players\, one of Georgia's oldest continuously operating community 
+ theatre companies. Their home is a converted 1940s cinema with just 70 sea
+ ts\, so no one sits far from the action.
+GEO:34.1644344;-84.7971239
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Pumphouse Players\, 114 W Main St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/anthropology-tickets-1989768740867
+END:VEVENT
+END:VCALENDAR

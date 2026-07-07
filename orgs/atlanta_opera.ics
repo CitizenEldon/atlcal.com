@@ -1,0 +1,963 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Atlanta Event Calendar//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Atlanta Events — Atlanta Opera
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:EST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700426T030000
+RDATE:19710425T030000,19720430T030000,19730429T030000,19740106T030000,1975
+ 0223T030000,19760425T030000,19770424T030000,19780430T030000,19790429T03000
+ 0,19800427T030000,19810426T030000,19820425T030000,19830424T030000,19840429
+ T030000,19850428T030000,19860427T030000,19870405T030000,19880403T030000,19
+ 890402T030000,19900401T030000,19910407T030000,19920405T030000,19930404T030
+ 000,19940403T030000,19950402T030000,19960407T030000,19970406T030000,199804
+ 05T030000,19990404T030000,20000402T030000,20010401T030000,20020407T030000,
+ 20030406T030000,20040404T030000,20050403T030000,20060402T030000,20070311T0
+ 30000,20080309T030000,20090308T030000,20100314T030000,20110313T030000,2012
+ 0311T030000,20130310T030000,20140309T030000,20150308T030000,20160313T03000
+ 0,20170312T030000,20180311T030000,20190310T030000,20200308T030000,20210314
+ T030000,20220313T030000,20230312T030000,20240310T030000,20250309T030000,20
+ 260308T030000,20270314T030000,20280312T030000,20290311T030000,20300310T030
+ 000,20310309T030000,20320314T030000,20330313T030000,20340312T030000,203503
+ 11T030000,20360309T030000,20370308T030000
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19701025T020000
+RDATE:19711031T020000,19721029T020000,19731028T020000,19741027T020000,1975
+ 1026T020000,19761031T020000,19771030T020000,19781029T020000,19791028T02000
+ 0,19801026T020000,19811025T020000,19821031T020000,19831030T020000,19841028
+ T020000,19851027T020000,19861026T020000,19871025T020000,19881030T020000,19
+ 891029T020000,19901028T020000,19911027T020000,19921025T020000,19931031T020
+ 000,19941030T020000,19951029T020000,19961027T020000,19971026T020000,199810
+ 25T020000,19991031T020000,20001029T020000,20011028T020000,20021027T020000,
+ 20031026T020000,20041031T020000,20051030T020000,20061029T020000,20071104T0
+ 20000,20081102T020000,20091101T020000,20101107T020000,20111106T020000,2012
+ 1104T020000,20131103T020000,20141102T020000,20151101T020000,20161106T02000
+ 0,20171105T020000,20181104T020000,20191103T020000,20201101T020000,20211107
+ T020000,20221106T020000,20231105T020000,20241103T020000,20251102T020000,20
+ 261101T020000,20271107T020000,20281105T020000,20291104T020000,20301103T020
+ 000,20311102T020000,20321107T020000,20331106T020000,20341105T020000,203511
+ 04T020000,20361102T020000,20371101T020000
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Silent Night
+DTSTART;TZID=America/New_York:20261107T193000
+DTEND;TZID=America/New_York:20261107T220100
+DTSTAMP:20260707T000730Z
+UID:occ-370@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:Kevin Puts's Pulitzer-winning opera about the 1914 Christmas t
+ ruce\, sung in five languages.\n\nKevin Puts's first opera\, with a libret
+ to by Mark Campbell adapted from the film Joyeux Noël\, dramatizes the re
+ al Christmas truce of 1914\, when German\, French\, and Scottish soldiers 
+ put down their weapons and met in no-man's-land. A German tenor's carol\, 
+ answered by a Scottish bagpipe\, sparks the cease-fire\; the generals back
+  at headquarters are considerably less moved. The score earned Puts a Puli
+ tzer in 2012. Sung in English\, French\, German\, Italian\, and Latin. Fro
+ m The Atlanta Opera\; runs through November 15.
+GEO:33.88471;-84.4585962
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/145901/145902
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silent Night
+DTSTART;TZID=America/New_York:20261110T193000
+DTEND;TZID=America/New_York:20261110T220100
+DTSTAMP:20260707T000730Z
+UID:occ-371@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:Kevin Puts's Pulitzer-winning opera about the 1914 Christmas t
+ ruce\, sung in five languages.\n\nKevin Puts's first opera\, with a libret
+ to by Mark Campbell adapted from the film Joyeux Noël\, dramatizes the re
+ al Christmas truce of 1914\, when German\, French\, and Scottish soldiers 
+ put down their weapons and met in no-man's-land. A German tenor's carol\, 
+ answered by a Scottish bagpipe\, sparks the cease-fire\; the generals back
+  at headquarters are considerably less moved. The score earned Puts a Puli
+ tzer in 2012. Sung in English\, French\, German\, Italian\, and Latin. Fro
+ m The Atlanta Opera\; runs through November 15.
+GEO:33.88471;-84.4585962
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/145901/145903
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silent Night
+DTSTART;TZID=America/New_York:20261113T193000
+DTEND;TZID=America/New_York:20261113T220100
+DTSTAMP:20260707T000730Z
+UID:occ-372@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:Kevin Puts's Pulitzer-winning opera about the 1914 Christmas t
+ ruce\, sung in five languages.\n\nKevin Puts's first opera\, with a libret
+ to by Mark Campbell adapted from the film Joyeux Noël\, dramatizes the re
+ al Christmas truce of 1914\, when German\, French\, and Scottish soldiers 
+ put down their weapons and met in no-man's-land. A German tenor's carol\, 
+ answered by a Scottish bagpipe\, sparks the cease-fire\; the generals back
+  at headquarters are considerably less moved. The score earned Puts a Puli
+ tzer in 2012. Sung in English\, French\, German\, Italian\, and Latin. Fro
+ m The Atlanta Opera\; runs through November 15.
+GEO:33.88471;-84.4585962
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/145901/145904
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silent Night
+DTSTART;TZID=America/New_York:20261115T150000
+DTEND;TZID=America/New_York:20261115T173100
+DTSTAMP:20260707T000730Z
+UID:occ-373@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:Kevin Puts's Pulitzer-winning opera about the 1914 Christmas t
+ ruce\, sung in five languages.\n\nKevin Puts's first opera\, with a libret
+ to by Mark Campbell adapted from the film Joyeux Noël\, dramatizes the re
+ al Christmas truce of 1914\, when German\, French\, and Scottish soldiers 
+ put down their weapons and met in no-man's-land. A German tenor's carol\, 
+ answered by a Scottish bagpipe\, sparks the cease-fire\; the generals back
+  at headquarters are considerably less moved. The score earned Puts a Puli
+ tzer in 2012. Sung in English\, French\, German\, Italian\, and Latin. Fro
+ m The Atlanta Opera\; runs through November 15.
+GEO:33.88471;-84.4585962
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/145901/145905
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261202T193000
+DTEND;TZID=America/New_York:20261202T210000
+DTSTAMP:20260707T000730Z
+UID:occ-374@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/63801/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261203T193000
+DTEND;TZID=America/New_York:20261203T210000
+DTSTAMP:20260707T000730Z
+UID:occ-375@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/63802
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261204T193000
+DTEND;TZID=America/New_York:20261204T210000
+DTSTAMP:20260707T000730Z
+UID:occ-376@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/63803
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261205T193000
+DTEND;TZID=America/New_York:20261205T210000
+DTSTAMP:20260707T000730Z
+UID:occ-377@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/64201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261206T143000
+DTEND;TZID=America/New_York:20261206T160000
+DTSTAMP:20260707T000730Z
+UID:occ-378@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/64401
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261209T193000
+DTEND;TZID=America/New_York:20261209T210000
+DTSTAMP:20260707T000730Z
+UID:occ-379@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/63804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261210T193000
+DTEND;TZID=America/New_York:20261210T210000
+DTSTAMP:20260707T000730Z
+UID:occ-380@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/63805
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261211T193000
+DTEND;TZID=America/New_York:20261211T210000
+DTSTAMP:20260707T000730Z
+UID:occ-381@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/63806
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261212T193000
+DTEND;TZID=America/New_York:20261212T210000
+DTSTAMP:20260707T000730Z
+UID:occ-382@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/64202
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261213T143000
+DTEND;TZID=America/New_York:20261213T160000
+DTSTAMP:20260707T000730Z
+UID:occ-383@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/64402
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261216T193000
+DTEND;TZID=America/New_York:20261216T210000
+DTSTAMP:20260707T000730Z
+UID:occ-384@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/63807
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261217T193000
+DTEND;TZID=America/New_York:20261217T210000
+DTSTAMP:20260707T000730Z
+UID:occ-385@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/63808
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261218T193000
+DTEND;TZID=America/New_York:20261218T210000
+DTSTAMP:20260707T000730Z
+UID:occ-386@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/63809
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261219T193000
+DTEND;TZID=America/New_York:20261219T210000
+DTSTAMP:20260707T000730Z
+UID:occ-387@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/64203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261220T143000
+DTEND;TZID=America/New_York:20261220T160000
+DTSTAMP:20260707T000730Z
+UID:occ-388@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/64403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261223T193000
+DTEND;TZID=America/New_York:20261223T210000
+DTSTAMP:20260707T000730Z
+UID:occ-389@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/63810
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261224T130000
+DTEND;TZID=America/New_York:20261224T143000
+DTSTAMP:20260707T000730Z
+UID:occ-390@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/64001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261226T193000
+DTEND;TZID=America/New_York:20261226T210000
+DTSTAMP:20260707T000730Z
+UID:occ-391@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/64204
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All is Calm: The Christmas Truce of 1914
+DTSTART;TZID=America/New_York:20261227T143000
+DTEND;TZID=America/New_York:20261227T160000
+DTSTAMP:20260707T000730Z
+UID:occ-392@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
+ uce\, built from soldiers' letters and period songs.\n\nOn Christmas Eve 1
+ 914\, soldiers along the Western Front laid down their rifles\, crossed no
+ -man's land\, and sang together. Peter Rothstein's documentary-style music
+ al tells that true story through trench songs\, patriotic tunes\, and caro
+ ls\, sung a cappella and woven with the soldiers' own words from letters a
+ nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
+  Atlanta Opera as part of its Discoveries series.
+GEO:33.757035;-84.389486
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Theatrical Outfit\, 84 Luckie St NW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.theatricaloutfit.org/whats-on/all-is-calm-the-christmas-tr
+ uce-of-1914/book/64404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carmen
+DTSTART;TZID=America/New_York:20270130T193000
+DTEND;TZID=America/New_York:20270130T224200
+DTSTAMP:20260707T000730Z
+UID:occ-393@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:Bizet's tragedy of obsession: a soldier\, a bullfighter\, and 
+ the woman who refuses to be owned.\n\nGeorges Bizet's 1875 opera\, set in 
+ Seville: Carmen\, a factory worker who answers to no one\, throws a flower
+  at the one soldier ignoring her. Don José picks it up and unravels — d
+ eserting the army\, abandoning his sweetheart\, and following Carmen into 
+ the mountains\, only to lose her to the bullfighter Escamillo. The score h
+ olds some of opera's most familiar melodies\, the Habanera and the Toreado
+ r Song among them\, though its first Paris audiences were scandalized by s
+ o much lawlessness on the Opéra-Comique stage. From The Atlanta Opera.
+GEO:33.88471;-84.4585962
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/145907/145908
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carmen
+DTSTART;TZID=America/New_York:20270202T193000
+DTEND;TZID=America/New_York:20270202T224200
+DTSTAMP:20260707T000730Z
+UID:occ-394@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:Bizet's tragedy of obsession: a soldier\, a bullfighter\, and 
+ the woman who refuses to be owned.\n\nGeorges Bizet's 1875 opera\, set in 
+ Seville: Carmen\, a factory worker who answers to no one\, throws a flower
+  at the one soldier ignoring her. Don José picks it up and unravels — d
+ eserting the army\, abandoning his sweetheart\, and following Carmen into 
+ the mountains\, only to lose her to the bullfighter Escamillo. The score h
+ olds some of opera's most familiar melodies\, the Habanera and the Toreado
+ r Song among them\, though its first Paris audiences were scandalized by s
+ o much lawlessness on the Opéra-Comique stage. From The Atlanta Opera.
+GEO:33.88471;-84.4585962
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/145907/145975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carmen
+DTSTART;TZID=America/New_York:20270205T193000
+DTEND;TZID=America/New_York:20270205T224200
+DTSTAMP:20260707T000730Z
+UID:occ-395@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:Bizet's tragedy of obsession: a soldier\, a bullfighter\, and 
+ the woman who refuses to be owned.\n\nGeorges Bizet's 1875 opera\, set in 
+ Seville: Carmen\, a factory worker who answers to no one\, throws a flower
+  at the one soldier ignoring her. Don José picks it up and unravels — d
+ eserting the army\, abandoning his sweetheart\, and following Carmen into 
+ the mountains\, only to lose her to the bullfighter Escamillo. The score h
+ olds some of opera's most familiar melodies\, the Habanera and the Toreado
+ r Song among them\, though its first Paris audiences were scandalized by s
+ o much lawlessness on the Opéra-Comique stage. From The Atlanta Opera.
+GEO:33.88471;-84.4585962
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/145907/145976
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carmen
+DTSTART;TZID=America/New_York:20270207T150000
+DTEND;TZID=America/New_York:20270207T181200
+DTSTAMP:20260707T000730Z
+UID:occ-396@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:Bizet's tragedy of obsession: a soldier\, a bullfighter\, and 
+ the woman who refuses to be owned.\n\nGeorges Bizet's 1875 opera\, set in 
+ Seville: Carmen\, a factory worker who answers to no one\, throws a flower
+  at the one soldier ignoring her. Don José picks it up and unravels — d
+ eserting the army\, abandoning his sweetheart\, and following Carmen into 
+ the mountains\, only to lose her to the bullfighter Escamillo. The score h
+ olds some of opera's most familiar melodies\, the Habanera and the Toreado
+ r Song among them\, though its first Paris audiences were scandalized by s
+ o much lawlessness on the Opéra-Comique stage. From The Atlanta Opera.
+GEO:33.88471;-84.4585962
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/145907/145977
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flying Dutchman
+DTSTART;TZID=America/New_York:20270313T193000
+DTEND;TZID=America/New_York:20270313T220000
+DTSTAMP:20260707T000730Z
+UID:occ-397@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:Wagner's ghost-ship opera: a captain cursed to sail forever\, 
+ ashore once every seven years seeking love.\n\nRichard Wagner's early oper
+ a built on the old maritime legend of a phantom ship doomed never to make 
+ port. Its captain is allowed ashore once every seven years to search for a
+  woman whose faithful love can break the curse\, and in the sea captain's 
+ daughter Senta he may have found her. Wagner's storm-tossed score made thi
+ s his first enduring success. Presented by the Atlanta Opera.
+GEO:33.88471;-84.4585962
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/145974/145978
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flying Dutchman
+DTSTART;TZID=America/New_York:20270316T193000
+DTEND;TZID=America/New_York:20270316T220000
+DTSTAMP:20260707T000730Z
+UID:occ-398@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:Wagner's ghost-ship opera: a captain cursed to sail forever\, 
+ ashore once every seven years seeking love.\n\nRichard Wagner's early oper
+ a built on the old maritime legend of a phantom ship doomed never to make 
+ port. Its captain is allowed ashore once every seven years to search for a
+  woman whose faithful love can break the curse\, and in the sea captain's 
+ daughter Senta he may have found her. Wagner's storm-tossed score made thi
+ s his first enduring success. Presented by the Atlanta Opera.
+GEO:33.88471;-84.4585962
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/145974/145979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flying Dutchman
+DTSTART;TZID=America/New_York:20270319T193000
+DTEND;TZID=America/New_York:20270319T220000
+DTSTAMP:20260707T000730Z
+UID:occ-399@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:Wagner's ghost-ship opera: a captain cursed to sail forever\, 
+ ashore once every seven years seeking love.\n\nRichard Wagner's early oper
+ a built on the old maritime legend of a phantom ship doomed never to make 
+ port. Its captain is allowed ashore once every seven years to search for a
+  woman whose faithful love can break the curse\, and in the sea captain's 
+ daughter Senta he may have found her. Wagner's storm-tossed score made thi
+ s his first enduring success. Presented by the Atlanta Opera.
+GEO:33.88471;-84.4585962
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/145974/145980
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flying Dutchman
+DTSTART;TZID=America/New_York:20270321T150000
+DTEND;TZID=America/New_York:20270321T173000
+DTSTAMP:20260707T000730Z
+UID:occ-400@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:Wagner's ghost-ship opera: a captain cursed to sail forever\, 
+ ashore once every seven years seeking love.\n\nRichard Wagner's early oper
+ a built on the old maritime legend of a phantom ship doomed never to make 
+ port. Its captain is allowed ashore once every seven years to search for a
+  woman whose faithful love can break the curse\, and in the sea captain's 
+ daughter Senta he may have found her. Wagner's storm-tossed score made thi
+ s his first enduring success. Presented by the Atlanta Opera.
+GEO:33.88471;-84.4585962
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/145974/145981
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tosca
+DTSTART;TZID=America/New_York:20270501T193000
+DTEND;TZID=America/New_York:20270501T221500
+DTSTAMP:20260707T000730Z
+UID:occ-401@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:Puccini's melodrama of a diva\, her painter lover\, and Rome's
+  predatory police chief\, sung in Italian.\n\nPuccini's 1900 melodrama of 
+ jealousy\, torture\, and betrayal\, set in Rome in June 1800 with Napoleon
+ 's army on the march. The singer Floria Tosca and her painter lover Cavara
+ dossi run afoul of Scarpia\, the city's chief of police\, who wants Cavara
+ dossi dead and Tosca for himself. Musicologist Joseph Kerman famously dism
+ issed it as a 'shabby little shocker\,' yet it remains among the most perf
+ ormed operas anywhere\, its score carrying 'Vissi d'arte' and 'E lucevan l
+ e stelle.' Presented by the Atlanta Opera.
+GEO:33.88471;-84.4585962
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/145983/145984
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tosca
+DTSTART;TZID=America/New_York:20270504T193000
+DTEND;TZID=America/New_York:20270504T221500
+DTSTAMP:20260707T000730Z
+UID:occ-402@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:Puccini's melodrama of a diva\, her painter lover\, and Rome's
+  predatory police chief\, sung in Italian.\n\nPuccini's 1900 melodrama of 
+ jealousy\, torture\, and betrayal\, set in Rome in June 1800 with Napoleon
+ 's army on the march. The singer Floria Tosca and her painter lover Cavara
+ dossi run afoul of Scarpia\, the city's chief of police\, who wants Cavara
+ dossi dead and Tosca for himself. Musicologist Joseph Kerman famously dism
+ issed it as a 'shabby little shocker\,' yet it remains among the most perf
+ ormed operas anywhere\, its score carrying 'Vissi d'arte' and 'E lucevan l
+ e stelle.' Presented by the Atlanta Opera.
+GEO:33.88471;-84.4585962
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/145983/145986
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tosca
+DTSTART;TZID=America/New_York:20270507T193000
+DTEND;TZID=America/New_York:20270507T221500
+DTSTAMP:20260707T000730Z
+UID:occ-403@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:Puccini's melodrama of a diva\, her painter lover\, and Rome's
+  predatory police chief\, sung in Italian.\n\nPuccini's 1900 melodrama of 
+ jealousy\, torture\, and betrayal\, set in Rome in June 1800 with Napoleon
+ 's army on the march. The singer Floria Tosca and her painter lover Cavara
+ dossi run afoul of Scarpia\, the city's chief of police\, who wants Cavara
+ dossi dead and Tosca for himself. Musicologist Joseph Kerman famously dism
+ issed it as a 'shabby little shocker\,' yet it remains among the most perf
+ ormed operas anywhere\, its score carrying 'Vissi d'arte' and 'E lucevan l
+ e stelle.' Presented by the Atlanta Opera.
+GEO:33.88471;-84.4585962
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/145983/145987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tosca
+DTSTART;TZID=America/New_York:20270509T150000
+DTEND;TZID=America/New_York:20270509T174500
+DTSTAMP:20260707T000730Z
+UID:occ-404@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:Puccini's melodrama of a diva\, her painter lover\, and Rome's
+  predatory police chief\, sung in Italian.\n\nPuccini's 1900 melodrama of 
+ jealousy\, torture\, and betrayal\, set in Rome in June 1800 with Napoleon
+ 's army on the march. The singer Floria Tosca and her painter lover Cavara
+ dossi run afoul of Scarpia\, the city's chief of police\, who wants Cavara
+ dossi dead and Tosca for himself. Musicologist Joseph Kerman famously dism
+ issed it as a 'shabby little shocker\,' yet it remains among the most perf
+ ormed operas anywhere\, its score carrying 'Vissi d'arte' and 'E lucevan l
+ e stelle.' Presented by the Atlanta Opera.
+GEO:33.88471;-84.4585962
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/145983/145988
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubilee
+DTSTART;TZID=America/New_York:20270605T193000
+DTEND;TZID=America/New_York:20270605T215500
+DTSTAMP:20260707T000730Z
+UID:occ-405@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:An opera written and directed by Tazewell Thompson\, librettis
+ t of Blue\, with a score by Dianne Adams McDowell.\n\nTazewell Thompson wr
+ ote the libretto and directs\; his previous opera\, Blue\, written with co
+ mposer Jeanine Tesori\, was named a New York Times Best in Classical Music
+  pick for 2019. The score is by Dianne Adams McDowell\, the Broadway vocal
+  arranger behind A Gentleman's Guide to Love & Murder. The piece has alrea
+ dy been staged at Arena Stage and Seattle Opera\; this production comes fr
+ om The Atlanta Opera.
+GEO:33.7439061;-84.4168227
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Ray Charles Performing Arts Center\, 900 West End Avenue Southwes
+ t
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/147042/147043
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubilee
+DTSTART;TZID=America/New_York:20270606T150000
+DTEND;TZID=America/New_York:20270606T172500
+DTSTAMP:20260707T000730Z
+UID:occ-406@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:An opera written and directed by Tazewell Thompson\, librettis
+ t of Blue\, with a score by Dianne Adams McDowell.\n\nTazewell Thompson wr
+ ote the libretto and directs\; his previous opera\, Blue\, written with co
+ mposer Jeanine Tesori\, was named a New York Times Best in Classical Music
+  pick for 2019. The score is by Dianne Adams McDowell\, the Broadway vocal
+  arranger behind A Gentleman's Guide to Love & Murder. The piece has alrea
+ dy been staged at Arena Stage and Seattle Opera\; this production comes fr
+ om The Atlanta Opera.
+GEO:33.7439061;-84.4168227
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Ray Charles Performing Arts Center\, 900 West End Avenue Southwes
+ t
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/147042/147044
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubilee
+DTSTART;TZID=America/New_York:20270610T193000
+DTEND;TZID=America/New_York:20270610T215500
+DTSTAMP:20260707T000730Z
+UID:occ-407@atlcal.com
+SEQUENCE:0
+CATEGORIES:Opera
+DESCRIPTION:An opera written and directed by Tazewell Thompson\, librettis
+ t of Blue\, with a score by Dianne Adams McDowell.\n\nTazewell Thompson wr
+ ote the libretto and directs\; his previous opera\, Blue\, written with co
+ mposer Jeanine Tesori\, was named a New York Times Best in Classical Music
+  pick for 2019. The score is by Dianne Adams McDowell\, the Broadway vocal
+  arranger behind A Gentleman's Guide to Love & Murder. The piece has alrea
+ dy been staged at Arena Stage and Seattle Opera\; this production comes fr
+ om The Atlanta Opera.
+GEO:33.7439061;-84.4168227
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Ray Charles Performing Arts Center\, 900 West End Avenue Southwes
+ t
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tickets.atlantaopera.org/147042/147045
+END:VEVENT
+END:VCALENDAR

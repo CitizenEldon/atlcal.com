@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Atlanta Event Calendar//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Atlanta Events — Conyers Rockdale Council for the Arts
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:EST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700426T030000
+RDATE:19710425T030000,19720430T030000,19730429T030000,19740106T030000,1975
+ 0223T030000,19760425T030000,19770424T030000,19780430T030000,19790429T03000
+ 0,19800427T030000,19810426T030000,19820425T030000,19830424T030000,19840429
+ T030000,19850428T030000,19860427T030000,19870405T030000,19880403T030000,19
+ 890402T030000,19900401T030000,19910407T030000,19920405T030000,19930404T030
+ 000,19940403T030000,19950402T030000,19960407T030000,19970406T030000,199804
+ 05T030000,19990404T030000,20000402T030000,20010401T030000,20020407T030000,
+ 20030406T030000,20040404T030000,20050403T030000,20060402T030000,20070311T0
+ 30000,20080309T030000,20090308T030000,20100314T030000,20110313T030000,2012
+ 0311T030000,20130310T030000,20140309T030000,20150308T030000,20160313T03000
+ 0,20170312T030000,20180311T030000,20190310T030000,20200308T030000,20210314
+ T030000,20220313T030000,20230312T030000,20240310T030000,20250309T030000,20
+ 260308T030000,20270314T030000,20280312T030000,20290311T030000,20300310T030
+ 000,20310309T030000,20320314T030000,20330313T030000,20340312T030000,203503
+ 11T030000,20360309T030000,20370308T030000
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19701025T020000
+RDATE:19711031T020000,19721029T020000,19731028T020000,19741027T020000,1975
+ 1026T020000,19761031T020000,19771030T020000,19781029T020000,19791028T02000
+ 0,19801026T020000,19811025T020000,19821031T020000,19831030T020000,19841028
+ T020000,19851027T020000,19861026T020000,19871025T020000,19881030T020000,19
+ 891029T020000,19901028T020000,19911027T020000,19921025T020000,19931031T020
+ 000,19941030T020000,19951029T020000,19961027T020000,19971026T020000,199810
+ 25T020000,19991031T020000,20001029T020000,20011028T020000,20021027T020000,
+ 20031026T020000,20041031T020000,20051030T020000,20061029T020000,20071104T0
+ 20000,20081102T020000,20091101T020000,20101107T020000,20111106T020000,2012
+ 1104T020000,20131103T020000,20141102T020000,20151101T020000,20161106T02000
+ 0,20171105T020000,20181104T020000,20191103T020000,20201101T020000,20211107
+ T020000,20221106T020000,20231105T020000,20241103T020000,20251102T020000,20
+ 261101T020000,20271107T020000,20281105T020000,20291104T020000,20301103T020
+ 000,20311102T020000,20321107T020000,20331106T020000,20341105T020000,203511
+ 04T020000,20361102T020000,20371101T020000
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Cadillac Crew
+DTSTART;TZID=America/New_York:20261023T193000
+DTEND;TZID=America/New_York:20261023T213000
+DTSTAMP:20260707T000730Z
+UID:occ-468@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Tori Sampson's drama: four activists in a Virginia civil right
+ s office ask whether the movement's equality includes women.\n\nTori Samps
+ on's play unfolds in a Virginia civil rights office on the day of a much-a
+ nticipated Rosa Parks speech\, where four activists start asking whether t
+ he movement's promise of equality extends to women. It reclaims the storie
+ s of the overlooked organizers behind desegregation\, with more humor than
+  the setup suggests. Karlotta Washington directs for the Conyers Rockdale 
+ Council for the Arts. Runs through October 25.
+GEO:33.6671075;-84.0180229
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://conyersarts.org/calender-of-events/cadillac-crew/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cadillac Crew
+DTSTART;TZID=America/New_York:20261024T150000
+DTEND;TZID=America/New_York:20261024T170000
+DTSTAMP:20260707T000730Z
+UID:occ-469@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Tori Sampson's drama: four activists in a Virginia civil right
+ s office ask whether the movement's equality includes women.\n\nTori Samps
+ on's play unfolds in a Virginia civil rights office on the day of a much-a
+ nticipated Rosa Parks speech\, where four activists start asking whether t
+ he movement's promise of equality extends to women. It reclaims the storie
+ s of the overlooked organizers behind desegregation\, with more humor than
+  the setup suggests. Karlotta Washington directs for the Conyers Rockdale 
+ Council for the Arts. Runs through October 25.
+GEO:33.6671075;-84.0180229
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://conyersarts.org/calender-of-events/cadillac-crew/var/ri-1.l-L1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cadillac Crew
+DTSTART;TZID=America/New_York:20261025T150000
+DTEND;TZID=America/New_York:20261025T170000
+DTSTAMP:20260707T000730Z
+UID:occ-470@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:Tori Sampson's drama: four activists in a Virginia civil right
+ s office ask whether the movement's equality includes women.\n\nTori Samps
+ on's play unfolds in a Virginia civil rights office on the day of a much-a
+ nticipated Rosa Parks speech\, where four activists start asking whether t
+ he movement's promise of equality extends to women. It reclaims the storie
+ s of the overlooked organizers behind desegregation\, with more humor than
+  the setup suggests. Karlotta Washington directs for the Conyers Rockdale 
+ Council for the Arts. Runs through October 25.
+GEO:33.6671075;-84.0180229
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://conyersarts.org/calender-of-events/cadillac-crew/var/ri-2.l-L1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Gift
+DTSTART;TZID=America/New_York:20261120T183000
+DTEND;TZID=America/New_York:20261120T203000
+DTSTAMP:20260707T000730Z
+UID:occ-1690@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:World-premiere Christmas play about a crotchety nursing-home r
+ esident and the young child who wins him over.\n\nA new play set in a nurs
+ ing home around the Christmas holidays\, where a young child works on the 
+ defenses of a crotchety old man. Atlanta playwright Earnest Lewis\, also a
+  children's book author\, wrote it\, weaving in elder care\, adoption\, lo
+ neliness\, and family. Dave Di Pietro directs this world premiere for the 
+ Conyers Rockdale Council for the Arts. Runs through November 22.
+GEO:33.6671075;-84.0180229
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://conyersarts.org/calender-of-events/the-last-gift/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Gift
+DTSTART;TZID=America/New_York:20261120T193000
+DTEND;TZID=America/New_York:20261120T213000
+DTSTAMP:20260707T000730Z
+UID:occ-471@atlcal.com
+SEQUENCE:1
+CATEGORIES:Play
+DESCRIPTION:World-premiere Christmas play about a crotchety nursing-home r
+ esident and the young child who wins him over.\n\nA new play set in a nurs
+ ing home around the Christmas holidays\, where a young child works on the 
+ defenses of a crotchety old man. Atlanta playwright Earnest Lewis\, also a
+  children's book author\, wrote it\, weaving in elder care\, adoption\, lo
+ neliness\, and family. Dave Di Pietro directs this world premiere for the 
+ Conyers Rockdale Council for the Arts. Runs through November 22.
+GEO:33.6671075;-84.0180229
+LAST-MODIFIED:20260704T211224Z
+LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+URL:https://tickets.conyersarts.org/LastGift/4925628/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Gift
+DTSTART;TZID=America/New_York:20261121T140000
+DTEND;TZID=America/New_York:20261121T160000
+DTSTAMP:20260707T000730Z
+UID:occ-1691@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:World-premiere Christmas play about a crotchety nursing-home r
+ esident and the young child who wins him over.\n\nA new play set in a nurs
+ ing home around the Christmas holidays\, where a young child works on the 
+ defenses of a crotchety old man. Atlanta playwright Earnest Lewis\, also a
+  children's book author\, wrote it\, weaving in elder care\, adoption\, lo
+ neliness\, and family. Dave Di Pietro directs this world premiere for the 
+ Conyers Rockdale Council for the Arts. Runs through November 22.
+GEO:33.6671075;-84.0180229
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://conyersarts.org/calender-of-events/the-last-gift/var/ri-1.l-L1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Gift
+DTSTART;TZID=America/New_York:20261121T150000
+DTEND;TZID=America/New_York:20261121T170000
+DTSTAMP:20260707T000730Z
+UID:occ-472@atlcal.com
+SEQUENCE:1
+CATEGORIES:Play
+DESCRIPTION:World-premiere Christmas play about a crotchety nursing-home r
+ esident and the young child who wins him over.\n\nA new play set in a nurs
+ ing home around the Christmas holidays\, where a young child works on the 
+ defenses of a crotchety old man. Atlanta playwright Earnest Lewis\, also a
+  children's book author\, wrote it\, weaving in elder care\, adoption\, lo
+ neliness\, and family. Dave Di Pietro directs this world premiere for the 
+ Conyers Rockdale Council for the Arts. Runs through November 22.
+GEO:33.6671075;-84.0180229
+LAST-MODIFIED:20260704T211224Z
+LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+URL:https://tickets.conyersarts.org/LastGift/4925629/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Gift
+DTSTART;TZID=America/New_York:20261122T140000
+DTEND;TZID=America/New_York:20261122T160000
+DTSTAMP:20260707T000730Z
+UID:occ-1692@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:World-premiere Christmas play about a crotchety nursing-home r
+ esident and the young child who wins him over.\n\nA new play set in a nurs
+ ing home around the Christmas holidays\, where a young child works on the 
+ defenses of a crotchety old man. Atlanta playwright Earnest Lewis\, also a
+  children's book author\, wrote it\, weaving in elder care\, adoption\, lo
+ neliness\, and family. Dave Di Pietro directs this world premiere for the 
+ Conyers Rockdale Council for the Arts. Runs through November 22.
+GEO:33.6671075;-84.0180229
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://conyersarts.org/calender-of-events/the-last-gift/var/ri-2.l-L1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Gift
+DTSTART;TZID=America/New_York:20261122T150000
+DTEND;TZID=America/New_York:20261122T170000
+DTSTAMP:20260707T000730Z
+UID:occ-473@atlcal.com
+SEQUENCE:1
+CATEGORIES:Play
+DESCRIPTION:World-premiere Christmas play about a crotchety nursing-home r
+ esident and the young child who wins him over.\n\nA new play set in a nurs
+ ing home around the Christmas holidays\, where a young child works on the 
+ defenses of a crotchety old man. Atlanta playwright Earnest Lewis\, also a
+  children's book author\, wrote it\, weaving in elder care\, adoption\, lo
+ neliness\, and family. Dave Di Pietro directs this world premiere for the 
+ Conyers Rockdale Council for the Arts. Runs through November 22.
+GEO:33.6671075;-84.0180229
+LAST-MODIFIED:20260704T211224Z
+LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+URL:https://tickets.conyersarts.org/LastGift/4925630/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:At All Cost
+DTSTART;TZID=America/New_York:20261128T130000
+DTEND;TZID=America/New_York:20261128T150000
+DTSTAMP:20260707T000730Z
+UID:occ-1693@atlcal.com
+SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:A drama about Black WWII veterans denied their promised GI Bil
+ l benefits\, presented by Conyers Rockdale Council for the Arts.\n\nA dram
+ a following a Black soldier home from World War II\, where the GI Bill's p
+ romises of housing\, education\, and opportunity quietly evaporate at the 
+ point of delivery. The play traces how that denial rippled through generat
+ ions of Black families in America. Presented by the Conyers Rockdale Counc
+ il for the Arts\, with artistic director Rashida Costa among the cast.
+GEO:33.6671075;-84.0180229
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://conyersarts.org/calender-of-events/at-all-cost/
+END:VEVENT
+END:VCALENDAR

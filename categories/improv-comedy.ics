@@ -1,0 +1,407 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Atlanta Event Calendar//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Atlanta Events — Improv Comedy
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:EST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700426T030000
+RDATE:19710425T030000,19720430T030000,19730429T030000,19740106T030000,1975
+ 0223T030000,19760425T030000,19770424T030000,19780430T030000,19790429T03000
+ 0,19800427T030000,19810426T030000,19820425T030000,19830424T030000,19840429
+ T030000,19850428T030000,19860427T030000,19870405T030000,19880403T030000,19
+ 890402T030000,19900401T030000,19910407T030000,19920405T030000,19930404T030
+ 000,19940403T030000,19950402T030000,19960407T030000,19970406T030000,199804
+ 05T030000,19990404T030000,20000402T030000,20010401T030000,20020407T030000,
+ 20030406T030000,20040404T030000,20050403T030000,20060402T030000,20070311T0
+ 30000,20080309T030000,20090308T030000,20100314T030000,20110313T030000,2012
+ 0311T030000,20130310T030000,20140309T030000,20150308T030000,20160313T03000
+ 0,20170312T030000,20180311T030000,20190310T030000,20200308T030000,20210314
+ T030000,20220313T030000,20230312T030000,20240310T030000,20250309T030000,20
+ 260308T030000,20270314T030000,20280312T030000,20290311T030000,20300310T030
+ 000,20310309T030000,20320314T030000,20330313T030000,20340312T030000,203503
+ 11T030000,20360309T030000,20370308T030000
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19701025T020000
+RDATE:19711031T020000,19721029T020000,19731028T020000,19741027T020000,1975
+ 1026T020000,19761031T020000,19771030T020000,19781029T020000,19791028T02000
+ 0,19801026T020000,19811025T020000,19821031T020000,19831030T020000,19841028
+ T020000,19851027T020000,19861026T020000,19871025T020000,19881030T020000,19
+ 891029T020000,19901028T020000,19911027T020000,19921025T020000,19931031T020
+ 000,19941030T020000,19951029T020000,19961027T020000,19971026T020000,199810
+ 25T020000,19991031T020000,20001029T020000,20011028T020000,20021027T020000,
+ 20031026T020000,20041031T020000,20051030T020000,20061029T020000,20071104T0
+ 20000,20081102T020000,20091101T020000,20101107T020000,20111106T020000,2012
+ 1104T020000,20131103T020000,20141102T020000,20151101T020000,20161106T02000
+ 0,20171105T020000,20181104T020000,20191103T020000,20201101T020000,20211107
+ T020000,20221106T020000,20231105T020000,20241103T020000,20251102T020000,20
+ 261101T020000,20271107T020000,20281105T020000,20291104T020000,20301103T020
+ 000,20311102T020000,20321107T020000,20331106T020000,20341105T020000,203511
+ 04T020000,20361102T020000,20371101T020000
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Sidekicks Show
+DTSTART;TZID=America/New_York:20260815T193000
+DTEND;TZID=America/New_York:20260815T213000
+DTSTAMP:20260707T000730Z
+UID:occ-819@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Improv comedy from the Southside Sidekicks\, Southside Theatre
+  Guild's in-house troupe.\n\nA night of improv comedy from the Southside S
+ idekicks\, the in-house troupe of Southside Theatre Guild\, an all-volunte
+ er community theatre running since 1973. Scenes built on the spot\, shaped
+  by whatever the audience throws at them — no two shows the same.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/826/1786836600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dad's Garage 2026
+DTSTART;TZID=America/New_York:20260815T193000
+DTEND;TZID=America/New_York:20260815T213000
+DTSTAMP:20260707T000730Z
+UID:occ-861@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Improvisers from Atlanta's Dad's Garage make the whole show up
+  from audience suggestions.\n\nPerformers from Dad's Garage\, Atlanta's lo
+ ng-running improv comedy company\, build the entire show in the moment: sc
+ enes\, characters\, and games sparked by whatever the audience calls out. 
+ No script\, no repeats. Presented by Stage Door Theatre.
+GEO:33.9447222;-84.3319444
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ci.ovationtix.com/36385/performance/11804720/selecttickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Improv Workshop Grad Show
+DTSTART;TZID=America/New_York:20260913T130000
+DTEND;TZID=America/New_York:20260913T143000
+DTSTAMP:20260707T000730Z
+UID:occ-1582@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Improv workshop graduates take the stage\, building scenes and
+  games from audience suggestions.\n\nA graduation show for an improv comed
+ y workshop: the students perform the games and scenes they've been practic
+ ing\, with the audience supplying the suggestions that set each one in mot
+ ion. Nothing scripted\, everything made up on the spot. Presented by South
+ side Theatre Guild\, an all-volunteer community theatre running since 1973
+ .
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1073/1789318800000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sidekicks Show: Seriously Scary
+DTSTART;TZID=America/New_York:20261024T193000
+DTEND;TZID=America/New_York:20261024T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1583@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Southside Theatre Guild's in-house improv troupe takes a swing
+  at the scary — scenes built from audience suggestions.\n\nThe Southside
+  Sidekicks\, the in-house improv troupe of Southside Theatre Guild\, perfo
+ rm a spooky-themed set — everything made up on the spot\, shaped by what
+ ever the audience throws at them. No script\, no rewinds\, and a different
+  show every time by definition.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1061/1792884600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sidekicks Show: Naughty or Nice List
+DTSTART;TZID=America/New_York:20261211T193000
+DTEND;TZID=America/New_York:20261211T210000
+DTSTAMP:20260707T000730Z
+UID:occ-1585@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Holiday-flavored improv from Southside Sidekicks\, the Guild's
+  in-house comedy troupe — scenes made up on the spot.\n\nImprov comedy f
+ rom the Southside Sidekicks\, the in-house troupe of Southside Theatre Gui
+ ld\, this time with a naughty-or-nice seasonal spin. Nothing is scripted: 
+ the performers build scenes and characters from audience suggestions\, so 
+ the show that happens is the one the room helps make.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1066/1797035400000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sidekicks Show: A Holly Jolly Murder Mystery
+DTSTART;TZID=America/New_York:20261212T193000
+DTEND;TZID=America/New_York:20261212T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1586@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:An improvised holiday-themed murder mystery from Southside The
+ atre Guild's in-house improv troupe\, the Southside Sidekicks.\n\nThe Sout
+ hside Sidekicks\, the resident improv troupe of Southside Theatre Guild\, 
+ spin a murder mystery with a holiday wrapping — built on the spot\, no s
+ cript\, shaped by whatever the audience throws at them. Nobody in the cast
+  knows whodunit either until the night decides.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1074/1797121800000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Whole Weekend of Out of a Hat
+DTSTART;TZID=America/New_York:20270108T193000
+DTEND;TZID=America/New_York:20270108T204500
+DTSTAMP:20260707T000730Z
+UID:occ-1505@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Shakespeare roulette: the play and every role drawn from a hat
+  minutes before curtain.\n\nThe Atlanta Shakespeare Company's resident act
+ ors perform a full Shakespeare play without knowing which one until moment
+ s before the show — the title comes out of a hat\, and roles are assigne
+ d two minutes to curtain. Part improv\, mostly Shakespeare\, entirely depe
+ ndent on nerve and a deep memory for verse. Performed tavern-style\, with 
+ table seating and food and drink service during the show. These Out of a H
+ at nights tend to sell out.
+GEO:33.768171;-84.3851523
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.shakespearetavern.com/on-stage/company/a-whole-weekend-of-
+ out-of-a-hat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Whole Weekend of Out of a Hat
+DTSTART;TZID=America/New_York:20270109T193000
+DTEND;TZID=America/New_York:20270109T204500
+DTSTAMP:20260707T000730Z
+UID:occ-1506@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Shakespeare roulette: the play and every role drawn from a hat
+  minutes before curtain.\n\nThe Atlanta Shakespeare Company's resident act
+ ors perform a full Shakespeare play without knowing which one until moment
+ s before the show — the title comes out of a hat\, and roles are assigne
+ d two minutes to curtain. Part improv\, mostly Shakespeare\, entirely depe
+ ndent on nerve and a deep memory for verse. Performed tavern-style\, with 
+ table seating and food and drink service during the show. These Out of a H
+ at nights tend to sell out.
+GEO:33.768171;-84.3851523
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.shakespearetavern.com/on-stage/company/a-whole-weekend-of-
+ out-of-a-hat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sidekicks Show: Choose Your Own (Improv) Adventure!
+DTSTART;TZID=America/New_York:20270123T193000
+DTEND;TZID=America/New_York:20270123T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1587@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Unscripted comedy from the Southside Sidekicks\, built on the 
+ spot from audience suggestions.\n\nNothing is scripted: the Southside Side
+ kicks make the scenes up as they go\, steered by whatever the audience thr
+ ows at them\, and the title suggests the crowd gets a say in where the nig
+ ht wanders. The Sidekicks are the in-house improv troupe of Southside Thea
+ tre Guild\, an all-volunteer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1062/1800750600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sidekicks Show: The Improv School of Witchcraft & Wizardry
+DTSTART;TZID=America/New_York:20270220T193000
+DTEND;TZID=America/New_York:20270220T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1588@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Wizard-school-themed improv night from the Southside Sidekicks
+ \, Southside Theatre Guild's in-house comedy troupe.\n\nThe Southside Side
+ kicks\, Southside Theatre Guild's in-house improv troupe\, take the wizard
+ -school premise as their playground for a night of scenes and games built 
+ on the spot from audience suggestions. Nothing is scripted\, so what happe
+ ns depends on what the room throws at them.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1063/1803169800000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shakespeare Out of a Hat: Romeo and Juliet
+DTSTART;TZID=America/New_York:20270225T193000
+DTEND;TZID=America/New_York:20270225T204500
+DTSTAMP:20260707T000730Z
+UID:occ-1528@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Romeo and Juliet with roles drawn from a hat two minutes befor
+ e curtain — and a happy ending.\n\nThe play is set\, but the casting isn
+ 't: the Atlanta Shakespeare Company's actors pull their roles out of a hat
+  moments before the show starts\, so nobody knows who's playing Romeo\, Ju
+ liet\, or the Nurse until it's underway. Part improv\, part Shakespeare\, 
+ and this version promises the star-crossed lovers a happy ending. A one-ni
+ ght-only special event\, performed with the company's usual table seating 
+ and food and drink service.
+GEO:33.768171;-84.3851523
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.shakespearetavern.com/on-stage/company/shakespeare-out-of-
+ a-hat-romeo-and-juliet-one-night-only
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shakespeare Out of a Hat: Julius Caesar
+DTSTART;TZID=America/New_York:20270315T193000
+DTEND;TZID=America/New_York:20270315T204500
+DTSTAMP:20260707T000730Z
+UID:occ-1542@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Improv meets Shakespeare: actors draw their Julius Caesar role
+ s from a hat two minutes before the show begins.\n\nThe Atlanta Shakespear
+ e Company's classically trained actors know the script\; nobody knows who'
+ s playing whom until roles come out of a hat moments before curtain. The p
+ lay in question is Julius Caesar\, the conspiracy drama that made the Ides
+  of March infamous\, so Brutus could be anyone. A one-night-only event\, p
+ erformed with the company's usual table seating and food and drink service
+  during the show.
+GEO:33.768171;-84.3851523
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.shakespearetavern.com/on-stage/company/shakespeare-out-of-
+ a-hat-julius-caesar-on-the-ides-of-march
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sidekicks Show: Improv Wars 3
+DTSTART;TZID=America/New_York:20270320T193000
+DTEND;TZID=America/New_York:20270320T213000
+DTSTAMP:20260707T000730Z
+UID:occ-1596@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Improv comedy from the Southside Sidekicks\, the in-house trou
+ pe of Southside Theatre Guild.\n\nComedy made up on the spot: scenes and c
+ haracters built live from audience suggestions\, so no two shows are the s
+ ame. Performed by the Southside Sidekicks\, the in-house improv troupe of 
+ Southside Theatre Guild\, an all-volunteer community theatre running since
+  1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1067/1805585400000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sidekicks Time Machine - An Improvised Musical
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DTSTAMP:20260707T000730Z
+UID:occ-1597@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:A fully improvised musical from Southside Sidekicks — songs\
+ , scenes\, and story invented on the spot.\n\nA musical made up in front o
+ f you: the Southside Sidekicks\, Southside Theatre Guild's in-house improv
+  troupe\, take audience suggestions and spin them into songs\, characters\
+ , and a story that has never existed before and never will again. The time
+ -machine premise gives the improvisers license to land anywhere in history
+  the audience points them.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1064/1810353600000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stand Up for Improv - Improvised Stand-Up Show
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+DTSTAMP:20260707T000730Z
+UID:occ-1598@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Stand-up with no prepared material: comics improvise their set
+ s live from audience suggestions.\n\nA mash-up of two comedy forms: the pe
+ rformers take the stand-up mic\, but every joke is invented on the spot\, 
+ built from whatever the audience throws at them. No script\, no tested mat
+ erial\, no safety net. Presented by Southside Theatre Guild\, an all-volun
+ teer community theatre running since 1973.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1065/1812772800000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Price is Ri-FUNNY
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+DTSTAMP:20260707T000730Z
+UID:occ-1599@atlcal.com
+SEQUENCE:0
+CATEGORIES:Improv Comedy
+DESCRIPTION:Live improv comedy — scenes and characters built on the spot
+  from audience suggestions.\n\nA night of improv comedy: nothing scripted\
+ , everything built in the moment from whatever the audience throws out\, s
+ o no two performances are the same show. Presented by Southside Theatre Gu
+ ild\, an all-volunteer community theatre in operation since 1973 and home 
+ to the improv troupe Southside Sidekicks.
+GEO:33.5672762;-84.5821546
+LAST-MODIFIED:20260706T063411Z
+LOCATION:Southside Theatre Guild\, 20 W Campbellton St
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://tockify.com/stgevents/detail/1068/1817611200000
+END:VEVENT
+END:VCALENDAR
