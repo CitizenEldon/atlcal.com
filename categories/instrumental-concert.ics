@@ -57,12 +57,70 @@ TZOFFSETTO:-0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:UNDERTALE: The Determination Symphony
+DTSTART;TZID=America/New_York:20260925T200000
+DTEND;TZID=America/New_York:20260925T214500
+DTSTAMP:20260708T065306Z
+UID:occ-1714@atlcal.com
+SEQUENCE:0
+CATEGORIES:Instrumental Concert
+GEO:33.7726136;-84.3853395
+LAST-MODIFIED:20260708T063625Z
+LOCATION:Fox Theatre\, 660 Peachtree St NE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://foxtheatre.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupC
+ ode=UND&linkID=fta&shopperContext=&caller=&appCode=
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outlander in Concert
+DTSTART;TZID=America/New_York:20261018T160000
+DTEND;TZID=America/New_York:20261018T174500
+DTSTAMP:20260708T065306Z
+UID:occ-1715@atlcal.com
+SEQUENCE:0
+CATEGORIES:Instrumental Concert
+DESCRIPTION:Bear McCreary's Outlander score played by a live orchestra\, w
+ ith the series' key scenes on a cinema-sized screen.\n\nThe officially lic
+ ensed Outlander concert\, created with showrunner Matthew B. Roberts and t
+ he show's Emmy-winning composer Bear McCreary as the series heads toward i
+ ts 2026 conclusion. A live orchestra performs McCreary's score while the s
+ how's most stirring moments play on a cinema-sized screen\, tracing Claire
+  and Jamie's story from the standing stones of Craigh na Dun onward. The t
+ ouring production premiered in Scotland and is licensed by Sony Pictures T
+ elevision in collaboration with Starz. Recommended for ages 12 and up with
+  parental guidance.
+GEO:33.7726136;-84.3853395
+LAST-MODIFIED:20260708T063625Z
+LOCATION:Fox Theatre\, 660 Peachtree St NE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://foxtheatre.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupC
+ ode=OUT&linkID=fta&shopperContext=&caller=&appCode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic Live In Concert
+DTSTART;TZID=America/New_York:20261024T193000
+DTEND;TZID=America/New_York:20261024T211500
+DTSTAMP:20260708T065306Z
+UID:occ-1716@atlcal.com
+SEQUENCE:0
+CATEGORIES:Instrumental Concert
+GEO:33.7726136;-84.3853395
+LAST-MODIFIED:20260708T063625Z
+LOCATION:Fox Theatre\, 660 Peachtree St NE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://foxtheatre.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupC
+ ode=SON&linkID=fta&shopperContext=&caller=&appCode=
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NieR: Orchestra Concert 12026 [YoRHa]!
 DTSTART;TZID=America/New_York:20261107T200000
 DTEND;TZID=America/New_York:20261107T214500
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-497@atlcal.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Instrumental Concert
 DESCRIPTION:Music from Square Enix's NieR games — full orchestra\, choru
  s\, original vocalists\, and a new narrated Automata prequel story.\n\nThe
@@ -75,9 +133,9 @@ DESCRIPTION:Music from Square Enix's NieR games — full orchestra\, choru
  omata\, with visuals on a giant screen. A follow-up from the team behind t
  he earlier NieR:Orchestra Concert [the end of data] tour.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260701T035939Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
-STATUS:CANCELLED
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://foxtheatre.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupC
  ode=NIE&linkID=fta&shopperContext=&caller=&appCode

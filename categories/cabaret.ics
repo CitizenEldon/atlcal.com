@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Spinoff! The One Man Show(girl)
 DTSTART;TZID=America/New_York:20260709T193000
 DTEND;TZID=America/New_York:20260709T213000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-1655@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -73,7 +73,7 @@ DESCRIPTION:One man sings Broadway's leading ladies — a 30-seat lounge c
  The Strand Theatre in a 30-seat lounge setting\, with one drink ticket per
   ticket and the bar open after the show\; guests must be 21 or older.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -84,19 +84,18 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260710T200000
 DTEND;TZID=America/New_York:20260710T220000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-918@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
-DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\, 
- the Bee Gees\, ABBA — with a live band.\n\nA musical revue of the disco 
- era: singers and dancers work through the chart hits made famous by Donna 
- Summer\, the Bee Gees\, ABBA\, and their contemporaries\, backed by a live
-  band rather than a track. Sequined costumes and full-company choreography
-  aim the whole thing at a Studio 54 mood\, and the audience is expected to
-  sing along. Groups of ten or more can call the box office for a discount.
+DESCRIPTION:A song-and-dance revue of disco hits — Donna Summer\, Bee Ge
+ es\, and ABBA covers with a live band.\n\nA revue of 1970s disco hits\, wi
+ th singers and dancers backed by a live band working through songs made fa
+ mous by Donna Summer\, the Bee Gees\, ABBA\, and others. Expect sequins\, 
+ choreography\, and a crowd on its feet by the second number. Presented by 
+ the Strand Theatre. Note: the production may include flashing lights.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -107,19 +106,18 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260711T150000
 DTEND;TZID=America/New_York:20260711T170000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-919@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
-DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\, 
- the Bee Gees\, ABBA — with a live band.\n\nA musical revue of the disco 
- era: singers and dancers work through the chart hits made famous by Donna 
- Summer\, the Bee Gees\, ABBA\, and their contemporaries\, backed by a live
-  band rather than a track. Sequined costumes and full-company choreography
-  aim the whole thing at a Studio 54 mood\, and the audience is expected to
-  sing along. Groups of ten or more can call the box office for a discount.
+DESCRIPTION:A song-and-dance revue of disco hits — Donna Summer\, Bee Ge
+ es\, and ABBA covers with a live band.\n\nA revue of 1970s disco hits\, wi
+ th singers and dancers backed by a live band working through songs made fa
+ mous by Donna Summer\, the Bee Gees\, ABBA\, and others. Expect sequins\, 
+ choreography\, and a crowd on its feet by the second number. Presented by 
+ the Strand Theatre. Note: the production may include flashing lights.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -130,19 +128,18 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260711T200000
 DTEND;TZID=America/New_York:20260711T220000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-920@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
-DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\, 
- the Bee Gees\, ABBA — with a live band.\n\nA musical revue of the disco 
- era: singers and dancers work through the chart hits made famous by Donna 
- Summer\, the Bee Gees\, ABBA\, and their contemporaries\, backed by a live
-  band rather than a track. Sequined costumes and full-company choreography
-  aim the whole thing at a Studio 54 mood\, and the audience is expected to
-  sing along. Groups of ten or more can call the box office for a discount.
+DESCRIPTION:A song-and-dance revue of disco hits — Donna Summer\, Bee Ge
+ es\, and ABBA covers with a live band.\n\nA revue of 1970s disco hits\, wi
+ th singers and dancers backed by a live band working through songs made fa
+ mous by Donna Summer\, the Bee Gees\, ABBA\, and others. Expect sequins\, 
+ choreography\, and a crowd on its feet by the second number. Presented by 
+ the Strand Theatre. Note: the production may include flashing lights.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -153,19 +150,18 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260712T150000
 DTEND;TZID=America/New_York:20260712T170000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-921@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
-DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\, 
- the Bee Gees\, ABBA — with a live band.\n\nA musical revue of the disco 
- era: singers and dancers work through the chart hits made famous by Donna 
- Summer\, the Bee Gees\, ABBA\, and their contemporaries\, backed by a live
-  band rather than a track. Sequined costumes and full-company choreography
-  aim the whole thing at a Studio 54 mood\, and the audience is expected to
-  sing along. Groups of ten or more can call the box office for a discount.
+DESCRIPTION:A song-and-dance revue of disco hits — Donna Summer\, Bee Ge
+ es\, and ABBA covers with a live band.\n\nA revue of 1970s disco hits\, wi
+ th singers and dancers backed by a live band working through songs made fa
+ mous by Donna Summer\, the Bee Gees\, ABBA\, and others. Expect sequins\, 
+ choreography\, and a crowd on its feet by the second number. Presented by 
+ the Strand Theatre. Note: the production may include flashing lights.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -176,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:Wit & Wisdom
 DTSTART;TZID=America/New_York:20260716T193000
 DTEND;TZID=America/New_York:20260716T213000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-1656@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -190,7 +186,7 @@ DESCRIPTION:Three Smoke on the Mountain castmates sing Broadway's roles fo
  ticket includes a drink ticket\, and the room is 21 and up\; the lounge st
  ays open after the show.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -201,19 +197,18 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260716T200000
 DTEND;TZID=America/New_York:20260716T220000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-922@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
-DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\, 
- the Bee Gees\, ABBA — with a live band.\n\nA musical revue of the disco 
- era: singers and dancers work through the chart hits made famous by Donna 
- Summer\, the Bee Gees\, ABBA\, and their contemporaries\, backed by a live
-  band rather than a track. Sequined costumes and full-company choreography
-  aim the whole thing at a Studio 54 mood\, and the audience is expected to
-  sing along. Groups of ten or more can call the box office for a discount.
+DESCRIPTION:A song-and-dance revue of disco hits — Donna Summer\, Bee Ge
+ es\, and ABBA covers with a live band.\n\nA revue of 1970s disco hits\, wi
+ th singers and dancers backed by a live band working through songs made fa
+ mous by Donna Summer\, the Bee Gees\, ABBA\, and others. Expect sequins\, 
+ choreography\, and a crowd on its feet by the second number. Presented by 
+ the Strand Theatre. Note: the production may include flashing lights.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -224,19 +219,18 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260717T200000
 DTEND;TZID=America/New_York:20260717T220000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-923@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
-DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\, 
- the Bee Gees\, ABBA — with a live band.\n\nA musical revue of the disco 
- era: singers and dancers work through the chart hits made famous by Donna 
- Summer\, the Bee Gees\, ABBA\, and their contemporaries\, backed by a live
-  band rather than a track. Sequined costumes and full-company choreography
-  aim the whole thing at a Studio 54 mood\, and the audience is expected to
-  sing along. Groups of ten or more can call the box office for a discount.
+DESCRIPTION:A song-and-dance revue of disco hits — Donna Summer\, Bee Ge
+ es\, and ABBA covers with a live band.\n\nA revue of 1970s disco hits\, wi
+ th singers and dancers backed by a live band working through songs made fa
+ mous by Donna Summer\, the Bee Gees\, ABBA\, and others. Expect sequins\, 
+ choreography\, and a crowd on its feet by the second number. Presented by 
+ the Strand Theatre. Note: the production may include flashing lights.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -247,19 +241,18 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260718T150000
 DTEND;TZID=America/New_York:20260718T170000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-924@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
-DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\, 
- the Bee Gees\, ABBA — with a live band.\n\nA musical revue of the disco 
- era: singers and dancers work through the chart hits made famous by Donna 
- Summer\, the Bee Gees\, ABBA\, and their contemporaries\, backed by a live
-  band rather than a track. Sequined costumes and full-company choreography
-  aim the whole thing at a Studio 54 mood\, and the audience is expected to
-  sing along. Groups of ten or more can call the box office for a discount.
+DESCRIPTION:A song-and-dance revue of disco hits — Donna Summer\, Bee Ge
+ es\, and ABBA covers with a live band.\n\nA revue of 1970s disco hits\, wi
+ th singers and dancers backed by a live band working through songs made fa
+ mous by Donna Summer\, the Bee Gees\, ABBA\, and others. Expect sequins\, 
+ choreography\, and a crowd on its feet by the second number. Presented by 
+ the Strand Theatre. Note: the production may include flashing lights.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -270,19 +263,18 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260718T200000
 DTEND;TZID=America/New_York:20260718T220000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-925@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
-DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\, 
- the Bee Gees\, ABBA — with a live band.\n\nA musical revue of the disco 
- era: singers and dancers work through the chart hits made famous by Donna 
- Summer\, the Bee Gees\, ABBA\, and their contemporaries\, backed by a live
-  band rather than a track. Sequined costumes and full-company choreography
-  aim the whole thing at a Studio 54 mood\, and the audience is expected to
-  sing along. Groups of ten or more can call the box office for a discount.
+DESCRIPTION:A song-and-dance revue of disco hits — Donna Summer\, Bee Ge
+ es\, and ABBA covers with a live band.\n\nA revue of 1970s disco hits\, wi
+ th singers and dancers backed by a live band working through songs made fa
+ mous by Donna Summer\, the Bee Gees\, ABBA\, and others. Expect sequins\, 
+ choreography\, and a crowd on its feet by the second number. Presented by 
+ the Strand Theatre. Note: the production may include flashing lights.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -293,19 +285,18 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Giants: Disco Fever!
 DTSTART;TZID=America/New_York:20260719T150000
 DTEND;TZID=America/New_York:20260719T170000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-926@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
-DESCRIPTION:A song-and-dance revue of 1970s disco hits — Donna Summer\, 
- the Bee Gees\, ABBA — with a live band.\n\nA musical revue of the disco 
- era: singers and dancers work through the chart hits made famous by Donna 
- Summer\, the Bee Gees\, ABBA\, and their contemporaries\, backed by a live
-  band rather than a track. Sequined costumes and full-company choreography
-  aim the whole thing at a Studio 54 mood\, and the audience is expected to
-  sing along. Groups of ten or more can call the box office for a discount.
+DESCRIPTION:A song-and-dance revue of disco hits — Donna Summer\, Bee Ge
+ es\, and ABBA covers with a live band.\n\nA revue of 1970s disco hits\, wi
+ th singers and dancers backed by a live band working through songs made fa
+ mous by Donna Summer\, the Bee Gees\, ABBA\, and others. Expect sequins\, 
+ choreography\, and a crowd on its feet by the second number. Presented by 
+ the Strand Theatre. Note: the production may include flashing lights.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -316,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261204T193000
 DTEND;TZID=America/New_York:20261204T213000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-1384@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -328,7 +319,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -339,7 +330,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261205T193000
 DTEND;TZID=America/New_York:20261205T213000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-1385@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -351,7 +342,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -362,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261206T143000
 DTEND;TZID=America/New_York:20261206T163000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-1386@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -374,7 +365,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -385,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261211T193000
 DTEND;TZID=America/New_York:20261211T213000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-1387@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -397,7 +388,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -408,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261211T200000
 DTEND;TZID=America/New_York:20261211T220000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-956@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -419,7 +410,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -430,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261212T143000
 DTEND;TZID=America/New_York:20261212T163000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-1388@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -442,7 +433,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -453,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261212T150000
 DTEND;TZID=America/New_York:20261212T170000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-957@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -464,7 +455,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -475,7 +466,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261212T200000
 DTEND;TZID=America/New_York:20261212T220000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-958@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -486,7 +477,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -497,7 +488,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261213T143000
 DTEND;TZID=America/New_York:20261213T163000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-1389@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -509,7 +500,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -520,7 +511,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261213T150000
 DTEND;TZID=America/New_York:20261213T170000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-959@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -531,7 +522,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -542,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday at Herren's: 50th Season Special
 DTSTART;TZID=America/New_York:20261214T193000
 DTEND;TZID=America/New_York:20261214T213000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-1002@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -552,7 +543,7 @@ DESCRIPTION:A one-night holiday cabaret from Theatrical Outfit\, part of t
  cabaret's small-room style\, from a company that has been producing in Atl
  anta since 1977.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -561,7 +552,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261216T193000
 DTEND;TZID=America/New_York:20261216T213000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-960@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -572,7 +563,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -583,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261217T193000
 DTEND;TZID=America/New_York:20261217T213000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-961@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -594,7 +585,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -605,7 +596,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261218T200000
 DTEND;TZID=America/New_York:20261218T220000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-962@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -616,7 +607,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -627,7 +618,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261219T150000
 DTEND;TZID=America/New_York:20261219T170000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-963@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -638,7 +629,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -649,7 +640,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261219T200000
 DTEND;TZID=America/New_York:20261219T220000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-964@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -660,7 +651,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -671,7 +662,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261220T150000
 DTEND;TZID=America/New_York:20261220T170000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-965@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -682,7 +673,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -693,7 +684,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261221T193000
 DTEND;TZID=America/New_York:20261221T213000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-966@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -704,7 +695,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

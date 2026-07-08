@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260807T200000
 DTEND;TZID=America/New_York:20260807T223000
-DTSTAMP:20260707T064157Z
+DTSTAMP:20260708T065306Z
 UID:occ-680@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -73,10 +73,114 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260707T063344Z
+LAST-MODIFIED:20260708T063625Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1436128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crossroads & Cyphers
+DTSTART;TZID=America/New_York:20261014T193000
+DTEND;TZID=America/New_York:20261014T213000
+DTSTAMP:20260708T065306Z
+UID:occ-1709@atlcal.com
+SEQUENCE:0
+CATEGORIES:Staged Reading
+DESCRIPTION:An immersive theatre-and-live-music work tracing rap's lineage
+  from work songs and blues to hip-hop freestyle.\n\nAn immersive theatrica
+ l and live-music experience from Atlanta artists Alex Acosta and ANON The 
+ Griot\, tracing the evolution of Black musical expression from enslaved Af
+ rican work songs and Southern blues to contemporary hip-hop freestyle. Bui
+ lt around two ideas — the crossroads and the cypher — it blends spoken
+  word\, live instrumentation\, freestyle\, and theatrical narrative to exp
+ lore how music has long served as a tool for survival\, resistance\, heali
+ ng\, and community. Led by artists from Soul Food Cypher\, the piece prese
+ rves cultural memory while introducing audiences to the historical roots a
+ nd social significance of hip-hop.
+GEO:33.7973338;-84.3881531
+LAST-MODIFIED:20260707T192102Z
+LOCATION:Synchronicity Theatre\, 1545 Peachtree St NE\, #102
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://synchrotheatre.com/plays-events/new-play-development/stripped-
+ bare/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hannah & Greta\, or The Cost of Livin' The Dream
+DTSTART;TZID=America/New_York:20261021T193000
+DTEND;TZID=America/New_York:20261021T213000
+DTSTAMP:20260708T065306Z
+UID:occ-1710@atlcal.com
+SEQUENCE:0
+CATEGORIES:Staged Reading
+DESCRIPTION:A loose Hansel-and-Gretel retelling: two new grads chase inter
+ net fame and a job that promises them everything.\n\nA loose adaptation of
+  Hansel and Gretel following two recent college grads and would-be interne
+ t-famous friends who fall for a job that promises everything — a decent 
+ paycheck\, health insurance\, and a chance to actually use their degrees. 
+ As the temptations pull them in\, they're forced to ask how much of themse
+ lves they are willing to give up to live their dreams. A new work by Atlan
+ ta playwright Bobbi Twiggs\, directed by Charis Sellick.
+GEO:33.7973338;-84.3881531
+LAST-MODIFIED:20260707T192102Z
+LOCATION:Synchronicity Theatre\, 1545 Peachtree St NE\, #102
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://synchrotheatre.com/plays-events/new-play-development/stripped-
+ bare/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Daughter\, My Karma
+DTSTART;TZID=America/New_York:20270414T193000
+DTEND;TZID=America/New_York:20270414T213000
+DTSTAMP:20260708T065306Z
+UID:occ-1711@atlcal.com
+SEQUENCE:0
+CATEGORIES:Staged Reading
+DESCRIPTION:Choreographer Hiroko Kelly blends contemporary dance and spoke
+ n word to trace inherited values across immigrant generations.\n\nChoreogr
+ apher Hiroko Kelly combines contemporary dance\, spoken word\, and origina
+ l dialogue to explore intergenerational relationships and cross-cultural i
+ dentity. Rooted in the second-generation immigrant experience\, the piece 
+ examines how cultural memory\, care\, and inherited values move through th
+ e body across generations\, asking how our ancestors' choices shape presen
+ t-day karma. It considers the humanity and resilience of the immigrant exp
+ erience\, and the cultural practices that tether us to identity across tim
+ e and place. Directed by Jacque Pritz.
+GEO:33.7973338;-84.3881531
+LAST-MODIFIED:20260707T192102Z
+LOCATION:Synchronicity Theatre\, 1545 Peachtree St NE\, #102
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://synchrotheatre.com/plays-events/new-play-development/stripped-
+ bare/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Welfare Queen
+DTSTART;TZID=America/New_York:20270421T193000
+DTEND;TZID=America/New_York:20270421T213000
+DTSTAMP:20260708T065306Z
+UID:occ-1712@atlcal.com
+SEQUENCE:0
+CATEGORIES:Staged Reading
+DESCRIPTION:A two-person Southern drama: a food-stamp applicant and a rule
+ -bound caseworker find how much they share.\n\nA two-person play set insid
+ e a worn Department of Family and Children Services office in the contempo
+ rary South. Through humor\, confrontation\, and spoken word\, it follows I
+ dea Jasmine — a whimsical young woman applying for food stamps while pur
+ suing her dream of opening a hair studio — and Masque Hollow\, a blunt\,
+  rule-hugging caseworker nearing retirement. As their meetings unfold\, bo
+ th women confront the stories they've been told about poverty\, motherhood
+ \, and success\, until a public reckoning threatens the very office servin
+ g families like Idea's own. A new work by Atlanta playwright Brazil Remani
+ .
+GEO:33.7973338;-84.3881531
+LAST-MODIFIED:20260707T192102Z
+LOCATION:Synchronicity Theatre\, 1545 Peachtree St NE\, #102
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://synchrotheatre.com/plays-events/new-play-development/stripped-
+ bare/
 END:VEVENT
 END:VCALENDAR
