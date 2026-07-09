@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Ballet 2: Cinderella
 DTSTART;TZID=America/New_York:20261016T193000
 DTEND;TZID=America/New_York:20261016T210000
-DTSTAMP:20260709T185512Z
+DTSTAMP:20260709T203453Z
 UID:occ-1345@atlcal.com
 SEQUENCE:0
 CATEGORIES:Dance Performance
@@ -72,7 +72,7 @@ DESCRIPTION:A narrated\, kid-friendly Cinderella ballet from Atlanta Balle
   a narrator walks young audiences through the plot as the dancers tell it.
   Runs an hour and fifteen minutes\, including a 20-minute intermission.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260709T185511Z
+LAST-MODIFIED:20260709T203452Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Ballet 2: Cinderella
 DTSTART;TZID=America/New_York:20261017T130000
 DTEND;TZID=America/New_York:20261017T143000
-DTSTAMP:20260709T185512Z
+DTSTAMP:20260709T203453Z
 UID:occ-1346@atlcal.com
 SEQUENCE:0
 CATEGORIES:Dance Performance
@@ -94,7 +94,7 @@ DESCRIPTION:A narrated\, kid-friendly Cinderella ballet from Atlanta Balle
   a narrator walks young audiences through the plot as the dancers tell it.
   Runs an hour and fifteen minutes\, including a 20-minute intermission.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260709T185511Z
+LAST-MODIFIED:20260709T203452Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Ballet 2: Cinderella
 DTSTART;TZID=America/New_York:20261017T170000
 DTEND;TZID=America/New_York:20261017T183000
-DTSTAMP:20260709T185512Z
+DTSTAMP:20260709T203453Z
 UID:occ-1347@atlcal.com
 SEQUENCE:0
 CATEGORIES:Dance Performance
@@ -116,7 +116,7 @@ DESCRIPTION:A narrated\, kid-friendly Cinderella ballet from Atlanta Balle
   a narrator walks young audiences through the plot as the dancers tell it.
   Runs an hour and fifteen minutes\, including a 20-minute intermission.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260709T185511Z
+LAST-MODIFIED:20260709T203452Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:NUTCRACKER! Magical Christmas Ballet
 DTSTART;TZID=America/New_York:20261223T150000
 DTEND;TZID=America/New_York:20261223T163000
-DTSTAMP:20260709T185512Z
+DTSTAMP:20260709T203453Z
 UID:occ-1717@atlcal.com
 SEQUENCE:0
 CATEGORIES:Dance Performance
@@ -137,7 +137,7 @@ DESCRIPTION:Tchaikovsky's Nutcracker as touring spectacle: international d
  lls itself as North America's largest Nutcracker\, with an international c
  ast\, acrobatics\, and towering puppets sharing the stage.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260709T185511Z
+LAST-MODIFIED:20260709T203452Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:NUTCRACKER! Magical Christmas Ballet
 DTSTART;TZID=America/New_York:20261223T190000
 DTEND;TZID=America/New_York:20261223T203000
-DTSTAMP:20260709T185512Z
+DTSTAMP:20260709T203453Z
 UID:occ-1718@atlcal.com
 SEQUENCE:0
 CATEGORIES:Dance Performance
@@ -159,7 +159,7 @@ DESCRIPTION:Tchaikovsky's Nutcracker as touring spectacle: international d
  lls itself as North America's largest Nutcracker\, with an international c
  ast\, acrobatics\, and towering puppets sharing the stage.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260709T185511Z
+LAST-MODIFIED:20260709T203452Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:NUTCRACKER! Magical Christmas Ballet
 DTSTART;TZID=America/New_York:20261224T130000
 DTEND;TZID=America/New_York:20261224T143000
-DTSTAMP:20260709T185512Z
+DTSTAMP:20260709T203453Z
 UID:occ-1719@atlcal.com
 SEQUENCE:0
 CATEGORIES:Dance Performance
@@ -181,7 +181,7 @@ DESCRIPTION:Tchaikovsky's Nutcracker as touring spectacle: international d
  lls itself as North America's largest Nutcracker\, with an international c
  ast\, acrobatics\, and towering puppets sharing the stage.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260709T185511Z
+LAST-MODIFIED:20260709T203452Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
