@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Bipolar
 DTSTART;TZID=America/New_York:20260709T200000
 DTEND;TZID=America/New_York:20260709T210000
-DTSTAMP:20260708T065306Z
+DTSTAMP:20260709T110220Z
 UID:occ-1247@atlcal.com
 SEQUENCE:0
 CATEGORIES:Stand-up Comedy
@@ -74,7 +74,7 @@ DESCRIPTION:Atlanta comedian Maria Mainelli's solo hour about getting a bi
  ealth advocate. Presented by 7 Stages. Advisory: strong language and theme
  s some may find triggering.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260708T063625Z
+LAST-MODIFIED:20260709T063637Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Bipolar
 DTSTART;TZID=America/New_York:20260717T200000
 DTEND;TZID=America/New_York:20260717T210000
-DTSTAMP:20260708T065306Z
+DTSTAMP:20260709T110220Z
 UID:occ-1248@atlcal.com
 SEQUENCE:0
 CATEGORIES:Stand-up Comedy
@@ -98,7 +98,7 @@ DESCRIPTION:Atlanta comedian Maria Mainelli's solo hour about getting a bi
  ealth advocate. Presented by 7 Stages. Advisory: strong language and theme
  s some may find triggering.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260708T063625Z
+LAST-MODIFIED:20260709T063637Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Luke Null
 DTSTART;TZID=America/New_York:20260724T200000
 DTEND;TZID=America/New_York:20260724T211500
-DTSTAMP:20260708T065306Z
+DTSTAMP:20260709T110220Z
 UID:occ-927@atlcal.com
 SEQUENCE:0
 CATEGORIES:Stand-up Comedy
@@ -120,7 +120,7 @@ DESCRIPTION:Musical comedy from a former SNL featured player — dirty son
  ube\, tells you exactly what you're in for. Part of the Comedy at The Stra
  nd series. 90 minutes\, no intermission.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260708T063625Z
+LAST-MODIFIED:20260709T063637Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:Comedy at the Den
 DTSTART;TZID=America/New_York:20260821T200000
 DTEND;TZID=America/New_York:20260821T213000
-DTSTAMP:20260708T065306Z
+DTSTAMP:20260709T110220Z
 UID:occ-1185@atlcal.com
 SEQUENCE:3
 CATEGORIES:Stand-up Comedy
@@ -142,7 +142,7 @@ DESCRIPTION:A stand-up showcase in a deliberately small room\, hosted by A
  tionally small\, with limited seats and almost no distance between you and
   the performers. Presented by Out of Box Theatre.
 GEO:33.9379056;-84.5126414
-LAST-MODIFIED:20260708T063625Z
+LAST-MODIFIED:20260709T063637Z
 LOCATION:Artisan Resource Center\, 585 Cobb Parkway Southeast
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Comedy at the Den
 DTSTART;TZID=America/New_York:20260822T190000
 DTEND;TZID=America/New_York:20260822T200000
-DTSTAMP:20260708T065306Z
+DTSTAMP:20260709T110220Z
 UID:occ-701@atlcal.com
 SEQUENCE:1
 CATEGORIES:Stand-up Comedy
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:Comedy at the Den
 DTSTART;TZID=America/New_York:20261107T190000
 DTEND;TZID=America/New_York:20261107T210000
-DTSTAMP:20260708T065306Z
+DTSTAMP:20260709T110220Z
 UID:occ-702@atlcal.com
 SEQUENCE:3
 CATEGORIES:Stand-up Comedy
@@ -197,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:Sketch Comedy Show
 DTSTART;TZID=America/New_York:20261205T200000
 DTEND;TZID=America/New_York:20261205T220000
-DTSTAMP:20260708T065306Z
+DTSTAMP:20260709T110220Z
 UID:occ-1584@atlcal.com
 SEQUENCE:0
 CATEGORIES:Stand-up Comedy
@@ -207,7 +207,7 @@ DESCRIPTION:A night of short comic scenes from the all-volunteer Southside
  rs of Southside Theatre Guild\, an all-volunteer community theatre running
   since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260708T063625Z
+LAST-MODIFIED:20260709T063637Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

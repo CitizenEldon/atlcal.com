@@ -57,33 +57,10 @@ TZOFFSETTO:-0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
-DTSTART;TZID=America/New_York:20260807T200000
-DTEND;TZID=America/New_York:20260807T223000
-DTSTAMP:20260708T065306Z
-UID:occ-680@atlcal.com
-SEQUENCE:0
-CATEGORIES:Musical Theatre
-DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt 
- judge\, and Mrs. Lovett's suspiciously well-stocked pie shop.\n\nStephen S
- ondheim and Hugh Wheeler's 1979 musical thriller\, based on Christopher Bo
- nd's play. Benjamin Barker returns from wrongful exile as Sweeney Todd\, r
- eopens his barbershop above Mrs. Lovett's failing pie shop\, and sharpens 
- his razors for the judge who destroyed his family. His customers\, meanwhi
- le\, start finding their way into the pies. Charlie Miller directs for Ons
- tage Atlanta\; runs through August 30.
-GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260708T063625Z
-LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.tix.com/ticket-sales/onstageatlanta/612/event/1436128
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Crossroads & Cyphers
 DTSTART;TZID=America/New_York:20261014T193000
 DTEND;TZID=America/New_York:20261014T213000
-DTSTAMP:20260708T065306Z
+DTSTAMP:20260709T110220Z
 UID:occ-1709@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -110,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Hannah & Greta\, or The Cost of Livin' The Dream
 DTSTART;TZID=America/New_York:20261021T193000
 DTEND;TZID=America/New_York:20261021T213000
-DTSTAMP:20260708T065306Z
+DTSTAMP:20260709T110220Z
 UID:occ-1710@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -134,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:My Daughter\, My Karma
 DTSTART;TZID=America/New_York:20270414T193000
 DTEND;TZID=America/New_York:20270414T213000
-DTSTAMP:20260708T065306Z
+DTSTAMP:20260709T110220Z
 UID:occ-1711@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -160,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:The Welfare Queen
 DTSTART;TZID=America/New_York:20270421T193000
 DTEND;TZID=America/New_York:20270421T213000
-DTSTAMP:20260708T065306Z
+DTSTAMP:20260709T110220Z
 UID:occ-1712@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
