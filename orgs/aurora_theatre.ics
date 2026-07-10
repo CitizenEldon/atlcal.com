@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260820T200000
 DTEND;TZID=America/New_York:20260820T223000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1669@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -75,7 +75,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260821T200000
 DTEND;TZID=America/New_York:20260821T223000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1670@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -100,7 +100,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260822T143000
 DTEND;TZID=America/New_York:20260822T170000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1671@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -125,7 +125,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260822T200000
 DTEND;TZID=America/New_York:20260822T223000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1672@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -150,7 +150,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260823T143000
 DTEND;TZID=America/New_York:20260823T170000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1673@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -175,7 +175,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260826T100000
 DTEND;TZID=America/New_York:20260826T123000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1674@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -200,7 +200,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260827T200000
 DTEND;TZID=America/New_York:20260827T223000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1675@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -225,7 +225,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -235,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260828T200000
 DTEND;TZID=America/New_York:20260828T223000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1676@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -250,7 +250,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260829T143000
 DTEND;TZID=America/New_York:20260829T170000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1677@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -275,7 +275,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260829T200000
 DTEND;TZID=America/New_York:20260829T223000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1678@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -300,7 +300,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260830T143000
 DTEND;TZID=America/New_York:20260830T170000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1679@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -325,7 +325,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260903T200000
 DTEND;TZID=America/New_York:20260903T223000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1680@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -350,7 +350,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -360,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260904T200000
 DTEND;TZID=America/New_York:20260904T223000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1681@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -375,7 +375,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260905T143000
 DTEND;TZID=America/New_York:20260905T170000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1682@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -400,7 +400,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -410,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260905T200000
 DTEND;TZID=America/New_York:20260905T223000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1683@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -425,7 +425,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -435,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260906T143000
 DTEND;TZID=America/New_York:20260906T170000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1684@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -450,7 +450,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -460,7 +460,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260910T200000
 DTEND;TZID=America/New_York:20260910T223000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1685@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -475,7 +475,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -485,7 +485,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260911T200000
 DTEND;TZID=America/New_York:20260911T223000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1686@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -500,7 +500,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -510,7 +510,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260912T143000
 DTEND;TZID=America/New_York:20260912T170000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1687@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -525,7 +525,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -535,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260912T200000
 DTEND;TZID=America/New_York:20260912T223000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1688@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -550,7 +550,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -560,7 +560,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260913T143000
 DTEND;TZID=America/New_York:20260913T170000
-DTSTAMP:20260709T203453Z
+DTSTAMP:20260710T043905Z
 UID:occ-1689@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -575,7 +575,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260709T203452Z
+LAST-MODIFIED:20260710T043457Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
