@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Bipolar
 DTSTART;TZID=America/New_York:20260709T200000
 DTEND;TZID=America/New_York:20260709T210000
-DTSTAMP:20260710T043905Z
+DTSTAMP:20260710T153338Z
 UID:occ-1247@atlcal.com
 SEQUENCE:0
 CATEGORIES:Stand-up Comedy
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Experimental Fest
 DTSTART;TZID=America/New_York:20260710T160000
 DTEND;TZID=America/New_York:20260711T010000
-DTSTAMP:20260710T043905Z
+DTSTAMP:20260710T153338Z
 UID:occ-1706@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -96,7 +96,7 @@ DESCRIPTION:A festival showcase of experimental film: abstract animation\,
  ists genre labels altogether. Presented by 7 Stages\, the Little Five Poin
  ts company with a long history of experimental programming.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260710T043457Z
+LAST-MODIFIED:20260710T153337Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Micro Short Film Festival
 DTSTART;TZID=America/New_York:20260711T140000
 DTEND;TZID=America/New_York:20260712T000000
-DTSTAMP:20260710T043905Z
+DTSTAMP:20260710T153338Z
 UID:occ-1707@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -118,7 +118,7 @@ DESCRIPTION:Over 120 micro shorts in one afternoon\, each six minutes or l
  perimental work. Presented by 7 Stages\, in a theatre that started life as
   a movie house.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260710T043457Z
+LAST-MODIFIED:20260710T153337Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Bipolar
 DTSTART;TZID=America/New_York:20260717T200000
 DTEND;TZID=America/New_York:20260717T210000
-DTSTAMP:20260710T043905Z
+DTSTAMP:20260710T153338Z
 UID:occ-1248@atlcal.com
 SEQUENCE:0
 CATEGORIES:Stand-up Comedy
@@ -142,7 +142,7 @@ DESCRIPTION:Atlanta comedian Maria Mainelli's solo hour about getting a bi
  ealth advocate. Presented by 7 Stages. Advisory: strong language and theme
  s some may find triggering.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260710T043457Z
+LAST-MODIFIED:20260710T153337Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
