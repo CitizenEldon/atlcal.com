@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz Talks with Trey Wright
 DTSTART;TZID=America/New_York:20260813T193000
 DTEND;TZID=America/New_York:20260813T203000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-1235@atlcal.com
 SEQUENCE:0
 CATEGORIES:Lecture
@@ -74,7 +74,7 @@ DESCRIPTION:Coltrane's A Love Supreme\, unpacked by jazz guitarist and KSU
  The Strand series. Admission includes one drink ticket\; seating is capped
   at 30\, and guests must be 21 or older.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203458Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz Talks with Trey Wright
 DTSTART;TZID=America/New_York:20260910T193000
 DTEND;TZID=America/New_York:20260910T203000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-1236@atlcal.com
 SEQUENCE:0
 CATEGORIES:Lecture
@@ -99,7 +99,7 @@ DESCRIPTION:Coltrane's A Love Supreme\, unpacked by jazz guitarist and KSU
  The Strand series. Admission includes one drink ticket\; seating is capped
   at 30\, and guests must be 21 or older.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203458Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz Talks with Trey Wright
 DTSTART;TZID=America/New_York:20261008T193000
 DTEND;TZID=America/New_York:20261008T203000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-1237@atlcal.com
 SEQUENCE:0
 CATEGORIES:Lecture
@@ -124,7 +124,7 @@ DESCRIPTION:Coltrane's A Love Supreme\, unpacked by jazz guitarist and KSU
  The Strand series. Admission includes one drink ticket\; seating is capped
   at 30\, and guests must be 21 or older.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203458Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz Talks with Trey Wright
 DTSTART;TZID=America/New_York:20261105T193000
 DTEND;TZID=America/New_York:20261105T203000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-1238@atlcal.com
 SEQUENCE:0
 CATEGORIES:Lecture
@@ -149,7 +149,7 @@ DESCRIPTION:Coltrane's A Love Supreme\, unpacked by jazz guitarist and KSU
  The Strand series. Admission includes one drink ticket\; seating is capped
   at 30\, and guests must be 21 or older.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203458Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Experimental Fest
 DTSTART;TZID=America/New_York:20260710T160000
 DTEND;TZID=America/New_York:20260711T010000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-1706@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -72,7 +72,7 @@ DESCRIPTION:A festival showcase of experimental film: abstract animation\,
  ists genre labels altogether. Presented by 7 Stages\, the Little Five Poin
  ts company with a long history of experimental programming.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203457Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Micro Short Film Festival
 DTSTART;TZID=America/New_York:20260711T140000
 DTEND;TZID=America/New_York:20260712T000000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-1707@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -94,7 +94,7 @@ DESCRIPTION:Over 120 micro shorts in one afternoon\, each six minutes or l
  perimental work. Presented by 7 Stages\, in a theatre that started life as
   a movie house.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203457Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Grease Sing-A-Long (1978)
 DTSTART;TZID=America/New_York:20260801T150000
 DTEND;TZID=America/New_York:20260801T170000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-1233@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -117,7 +117,7 @@ DESCRIPTION:The 1978 movie musical with on-screen lyrics — sing every wo
  cert on the house Mighty Allen Theatre Organ begins thirty minutes before 
  the film.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203458Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Grease Sing-A-Long (1978)
 DTSTART;TZID=America/New_York:20260801T200000
 DTEND;TZID=America/New_York:20260801T220000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-1234@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -141,7 +141,7 @@ DESCRIPTION:The 1978 movie musical with on-screen lyrics — sing every wo
  cert on the house Mighty Allen Theatre Organ begins thirty minutes before 
  the film.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203458Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Film at The Strand: Sunrise (1927)
 DTSTART;TZID=America/New_York:20260816T150000
 DTEND;TZID=America/New_York:20260816T170000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-1240@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -167,7 +167,7 @@ DESCRIPTION:F.W. Murnau's 1927 silent masterpiece\, scored live on the Mig
  pops concert begins thirty minutes before showtime\; the film runs 97 minu
  tes.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203458Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Ferris Bueller's Day Off (1986)
 DTSTART;TZID=America/New_York:20260820T190000
 DTEND;TZID=America/New_York:20260820T210000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-1239@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -191,7 +191,7 @@ DESCRIPTION:John Hughes's 1986 comedy of epic truancy\, with a Mighty Alle
  llen Theatre Organ plays a half-hour concert before the film starts. 1 hou
  r 43 minutes\, rated PG-13.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203458Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -202,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:Mamma Mia! and Margaritas!
 DTSTART;TZID=America/New_York:20260822T150000
 DTEND;TZID=America/New_York:20260822T170000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-1657@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -216,7 +216,7 @@ DESCRIPTION:The 2008 ABBA movie musical on the big screen\, with a margari
  e concert on the house's Mighty Allen Theatre Organ starts thirty minutes 
  before the film. 1 hour 48 minutes\, rated PG-13.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203458Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -227,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:Mamma Mia! and Margaritas!
 DTSTART;TZID=America/New_York:20260822T200000
 DTEND;TZID=America/New_York:20260822T220000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-1658@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -241,7 +241,7 @@ DESCRIPTION:The 2008 ABBA movie musical on the big screen\, with a margari
  e concert on the house's Mighty Allen Theatre Organ starts thirty minutes 
  before the film. 1 hour 48 minutes\, rated PG-13.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203458Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:Mamma Mia! and Margaritas!
 DTSTART;TZID=America/New_York:20260823T150000
 DTEND;TZID=America/New_York:20260823T170000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-1659@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -266,7 +266,7 @@ DESCRIPTION:The 2008 ABBA movie musical on the big screen\, with a margari
  e concert on the house's Mighty Allen Theatre Organ starts thirty minutes 
  before the film. 1 hour 48 minutes\, rated PG-13.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203458Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:Mary Poppins (1964)
 DTSTART;TZID=America/New_York:20260828T200000
 DTEND;TZID=America/New_York:20260828T220000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-1660@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -291,7 +291,7 @@ DESCRIPTION:Disney's 1964 classic with Julie Andrews\, preceded by a live
  ncurrent Glover Park Concert closes North and East Park Streets\, so parki
  ng in the Waddell deck is advised.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203458Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -302,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:Shrek (2001)
 DTSTART;TZID=America/New_York:20260923T150000
 DTEND;TZID=America/New_York:20260923T170000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-1661@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -317,7 +317,7 @@ DESCRIPTION:DreamWorks' 2001 fairy-tale spoof on the big screen — Mike M
  undtrack that dates it precisely and fondly. Loosely based on William Stei
  g's picture book. 89 minutes\, rated PG.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203458Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -328,7 +328,7 @@ BEGIN:VEVENT
 SUMMARY:Shrek (2001)
 DTSTART;TZID=America/New_York:20260923T190000
 DTEND;TZID=America/New_York:20260923T210000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-1662@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -343,7 +343,7 @@ DESCRIPTION:DreamWorks' 2001 fairy-tale spoof on the big screen — Mike M
  undtrack that dates it precisely and fondly. Loosely based on William Stei
  g's picture book. 89 minutes\, rated PG.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203458Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -354,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:Sparrows (1926)
 DTSTART;TZID=America/New_York:20260927T150000
 DTEND;TZID=America/New_York:20260927T170000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-942@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -368,7 +368,7 @@ DESCRIPTION:Mary Pickford's 1926 silent melodrama\, screened with live acc
  tles\, thunder\, and gunshots on cue. An organ pops concert begins thirty 
  minutes before the film. Runs 1 hour 49 minutes\; not rated.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203458Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -379,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:Indie Film Series 2026
 DTSTART;TZID=America/New_York:20261007T193000
 DTEND;TZID=America/New_York:20261007T213000
-DTSTAMP:20260710T153338Z
+DTSTAMP:20260710T203459Z
 UID:occ-1230@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -392,7 +392,7 @@ DESCRIPTION:Halloween edition of the monthly indie showcase: shorts and fe
  he Strand in partnership with the Cobb International Film Festival\; scree
  nings are open to the public.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260710T153337Z
+LAST-MODIFIED:20260710T203458Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
