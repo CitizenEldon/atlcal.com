@@ -60,11 +60,18 @@ BEGIN:VEVENT
 SUMMARY:Comedy Class Showcase
 DTSTART;TZID=America/New_York:20260816T190000
 DTEND;TZID=America/New_York:20260816T203000
-DTSTAMP:20260710T203459Z
+DTSTAMP:20260711T043903Z
 UID:occ-1769@atlcal.com
 SEQUENCE:0
+CATEGORIES:Stand-up Comedy
+DESCRIPTION:Graduates of Out of Box Theatre's first stand-up class perform
+  the sets they built over eight weeks.\n\nThe debut of Out of Box Theatre'
+ s first Stand-Up Comedy Class: after eight weeks of writing and workshoppi
+ ng\, the students step up to the mic to deliver the material they built\, 
+ one night only. New comics\, fresh jokes\, and a room ready to root for th
+ em.
 GEO:33.9148699;-84.3601692
-LAST-MODIFIED:20260710T203458Z
+LAST-MODIFIED:20260711T043436Z
 LOCATION:Out of Box Theatre\, 585 Cobb Pkwy SE\, Suite G-1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -74,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Comedy at the Den
 DTSTART;TZID=America/New_York:20260821T200000
 DTEND;TZID=America/New_York:20260821T213000
-DTSTAMP:20260710T203459Z
+DTSTAMP:20260711T043903Z
 UID:occ-1185@atlcal.com
 SEQUENCE:3
 CATEGORIES:Stand-up Comedy
@@ -85,7 +92,7 @@ DESCRIPTION:A stand-up showcase in a deliberately small room\, hosted by A
  tionally small\, with limited seats and almost no distance between you and
   the performers. Presented by Out of Box Theatre.
 GEO:33.9379056;-84.5126414
-LAST-MODIFIED:20260710T203458Z
+LAST-MODIFIED:20260711T043436Z
 LOCATION:Artisan Resource Center\, 585 Cobb Parkway Southeast
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -96,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Comedy at the Den
 DTSTART;TZID=America/New_York:20260822T190000
 DTEND;TZID=America/New_York:20260822T200000
-DTSTAMP:20260710T203459Z
+DTSTAMP:20260711T043903Z
 UID:occ-701@atlcal.com
 SEQUENCE:1
 CATEGORIES:Stand-up Comedy
@@ -118,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Comedy at the Den
 DTSTART;TZID=America/New_York:20261107T190000
 DTEND;TZID=America/New_York:20261107T210000
-DTSTAMP:20260710T203459Z
+DTSTAMP:20260711T043903Z
 UID:occ-702@atlcal.com
 SEQUENCE:3
 CATEGORIES:Stand-up Comedy

@@ -57,34 +57,10 @@ TZOFFSETTO:-0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Baby Bipolar
-DTSTART;TZID=America/New_York:20260709T200000
-DTEND;TZID=America/New_York:20260709T210000
-DTSTAMP:20260710T203459Z
-UID:occ-1247@atlcal.com
-SEQUENCE:0
-CATEGORIES:Stand-up Comedy
-DESCRIPTION:Atlanta comedian Maria Mainelli's solo hour about getting a bi
- polar 1 diagnosis and deciding it doesn't run the story.\n\nMaria Mainelli
-  has feelings about MyChart and at least one bad therapist review in her d
- rafts. Her solo show follows one woman from a bipolar 1 diagnosis to a lif
- e where that diagnosis doesn't have to be the bad part. Mainelli\, an Atla
- nta-based writer and comedian who has performed across the US and UK\, arr
- ives fresh off touring her debut hour\, Fly Trap\, and is a vocal mental-h
- ealth advocate. Presented by 7 Stages. Advisory: strong language and theme
- s some may find triggering.
-GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260709T203452Z
-LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.eventbrite.com/e/baby-bipolar-tickets-1989350129790
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atlanta Experimental Fest
 DTSTART;TZID=America/New_York:20260710T160000
 DTEND;TZID=America/New_York:20260711T010000
-DTSTAMP:20260710T203459Z
+DTSTAMP:20260711T043903Z
 UID:occ-1706@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -106,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Micro Short Film Festival
 DTSTART;TZID=America/New_York:20260711T140000
 DTEND;TZID=America/New_York:20260712T000000
-DTSTAMP:20260710T203459Z
+DTSTAMP:20260711T043903Z
 UID:occ-1707@atlcal.com
 SEQUENCE:0
 CATEGORIES:Film Screening
@@ -118,7 +94,7 @@ DESCRIPTION:Over 120 micro shorts in one afternoon\, each six minutes or l
  perimental work. Presented by 7 Stages\, in a theatre that started life as
   a movie house.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260710T203457Z
+LAST-MODIFIED:20260711T043435Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -128,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Bipolar
 DTSTART;TZID=America/New_York:20260717T200000
 DTEND;TZID=America/New_York:20260717T210000
-DTSTAMP:20260710T203459Z
+DTSTAMP:20260711T043903Z
 UID:occ-1248@atlcal.com
 SEQUENCE:0
 CATEGORIES:Stand-up Comedy
@@ -142,7 +118,7 @@ DESCRIPTION:Atlanta comedian Maria Mainelli's solo hour about getting a bi
  ealth advocate. Presented by 7 Stages. Advisory: strong language and theme
  s some may find triggering.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260710T203457Z
+LAST-MODIFIED:20260711T043435Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
