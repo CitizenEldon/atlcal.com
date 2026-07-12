@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Fox Archives Day
 DTSTART;TZID=America/New_York:20260823T150000
 DTEND;TZID=America/New_York:20260823T180000
-DTSTAMP:20260711T203547Z
+DTSTAMP:20260712T044330Z
 UID:occ-1320@atlcal.com
 SEQUENCE:0
 CATEGORIES:Heritage Exhibition
@@ -73,7 +73,7 @@ DESCRIPTION:The Fox opens its archives — artifacts and archival material
  nd Egyptian Ballroom\, so browsing doubles as a look inside two of the the
  atre's ornate event spaces.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260711T203537Z
+LAST-MODIFIED:20260712T043811Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
