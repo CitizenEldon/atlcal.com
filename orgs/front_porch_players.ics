@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260807T193000
 DTEND;TZID=America/New_York:20260807T220000
-DTSTAMP:20260712T153920Z
+DTSTAMP:20260712T203753Z
 UID:occ-1134@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -74,7 +74,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260712T153805Z
+LAST-MODIFIED:20260712T203640Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260808T193000
 DTEND;TZID=America/New_York:20260808T220000
-DTSTAMP:20260712T153920Z
+DTSTAMP:20260712T203753Z
 UID:occ-1137@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -99,7 +99,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260712T153805Z
+LAST-MODIFIED:20260712T203640Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260809T143000
 DTEND;TZID=America/New_York:20260809T170000
-DTSTAMP:20260712T153920Z
+DTSTAMP:20260712T203753Z
 UID:occ-1139@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -124,7 +124,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260712T153805Z
+LAST-MODIFIED:20260712T203640Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260814T193000
 DTEND;TZID=America/New_York:20260814T220000
-DTSTAMP:20260712T153920Z
+DTSTAMP:20260712T203753Z
 UID:occ-1138@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -149,7 +149,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260712T153805Z
+LAST-MODIFIED:20260712T203640Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260815T193000
 DTEND;TZID=America/New_York:20260815T220000
-DTSTAMP:20260712T153920Z
+DTSTAMP:20260712T203753Z
 UID:occ-1135@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -174,7 +174,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260712T153805Z
+LAST-MODIFIED:20260712T203640Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260816T143000
 DTEND;TZID=America/New_York:20260816T170000
-DTSTAMP:20260712T153920Z
+DTSTAMP:20260712T203753Z
 UID:occ-1136@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -199,7 +199,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260712T153805Z
+LAST-MODIFIED:20260712T203640Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
