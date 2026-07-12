@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Dad's Garage 2026
 DTSTART;TZID=America/New_York:20260815T193000
 DTEND;TZID=America/New_York:20260815T213000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-861@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -70,7 +70,7 @@ DESCRIPTION:Improvisers from Atlanta's Dad's Garage make the whole show up
  enes\, characters\, and games sparked by whatever the audience calls out. 
  No script\, no repeats. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Ripcord
 DTSTART;TZID=America/New_York:20261003T193000
 DTEND;TZID=America/New_York:20261003T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1600@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -93,7 +93,7 @@ DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
  outrageous pranks\, and each round unearths secrets both would prefer stay
  ed buried. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Ripcord
 DTSTART;TZID=America/New_York:20261004T143000
 DTEND;TZID=America/New_York:20261004T170000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1601@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -116,7 +116,7 @@ DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
  outrageous pranks\, and each round unearths secrets both would prefer stay
  ed buried. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Ripcord
 DTSTART;TZID=America/New_York:20261008T193000
 DTEND;TZID=America/New_York:20261008T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1602@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -139,7 +139,7 @@ DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
  outrageous pranks\, and each round unearths secrets both would prefer stay
  ed buried. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Ripcord
 DTSTART;TZID=America/New_York:20261009T193000
 DTEND;TZID=America/New_York:20261009T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1603@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -162,7 +162,7 @@ DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
  outrageous pranks\, and each round unearths secrets both would prefer stay
  ed buried. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:Ripcord
 DTSTART;TZID=America/New_York:20261010T143000
 DTEND;TZID=America/New_York:20261010T170000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1604@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -185,7 +185,7 @@ DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
  outrageous pranks\, and each round unearths secrets both would prefer stay
  ed buried. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -195,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:Ripcord
 DTSTART;TZID=America/New_York:20261010T193000
 DTEND;TZID=America/New_York:20261010T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1605@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -208,7 +208,7 @@ DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
  outrageous pranks\, and each round unearths secrets both would prefer stay
  ed buried. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:Ripcord
 DTSTART;TZID=America/New_York:20261011T143000
 DTEND;TZID=America/New_York:20261011T170000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1606@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -231,7 +231,7 @@ DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
  outrageous pranks\, and each round unearths secrets both would prefer stay
  ed buried. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:Ripcord
 DTSTART;TZID=America/New_York:20261015T193000
 DTEND;TZID=America/New_York:20261015T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1607@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -254,7 +254,7 @@ DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
  outrageous pranks\, and each round unearths secrets both would prefer stay
  ed buried. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:Ripcord
 DTSTART;TZID=America/New_York:20261016T193000
 DTEND;TZID=America/New_York:20261016T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1608@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -277,7 +277,7 @@ DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
  outrageous pranks\, and each round unearths secrets both would prefer stay
  ed buried. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -287,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:Ripcord
 DTSTART;TZID=America/New_York:20261017T143000
 DTEND;TZID=America/New_York:20261017T170000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1609@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -300,7 +300,7 @@ DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
  outrageous pranks\, and each round unearths secrets both would prefer stay
  ed buried. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:Ripcord
 DTSTART;TZID=America/New_York:20261017T193000
 DTEND;TZID=America/New_York:20261017T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1610@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -323,7 +323,7 @@ DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
  outrageous pranks\, and each round unearths secrets both would prefer stay
  ed buried. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Ripcord
 DTSTART;TZID=America/New_York:20261018T143000
 DTEND;TZID=America/New_York:20261018T170000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1611@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -346,7 +346,7 @@ DESCRIPTION:David Lindsay-Abaire's comedy of two mismatched retirement-hom
  outrageous pranks\, and each round unearths secrets both would prefer stay
  ed buried. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -356,7 +356,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261205T193000
 DTEND;TZID=America/New_York:20261205T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1612@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -369,7 +369,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -379,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261206T143000
 DTEND;TZID=America/New_York:20261206T170000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1613@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -392,7 +392,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -402,7 +402,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261210T193000
 DTEND;TZID=America/New_York:20261210T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1614@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -415,7 +415,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261211T193000
 DTEND;TZID=America/New_York:20261211T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1615@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -438,7 +438,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -448,7 +448,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261212T143000
 DTEND;TZID=America/New_York:20261212T170000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1616@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -461,7 +461,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -471,7 +471,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261212T193000
 DTEND;TZID=America/New_York:20261212T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1617@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -484,7 +484,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -494,7 +494,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261213T143000
 DTEND;TZID=America/New_York:20261213T170000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1618@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -507,7 +507,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -517,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261217T193000
 DTEND;TZID=America/New_York:20261217T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1619@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -530,7 +530,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -540,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261218T193000
 DTEND;TZID=America/New_York:20261218T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1620@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -553,7 +553,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -563,7 +563,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261219T143000
 DTEND;TZID=America/New_York:20261219T170000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1621@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -576,7 +576,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -586,7 +586,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261219T193000
 DTEND;TZID=America/New_York:20261219T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1622@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -599,7 +599,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -609,7 +609,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261220T143000
 DTEND;TZID=America/New_York:20261220T170000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1623@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -622,7 +622,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -632,7 +632,7 @@ BEGIN:VEVENT
 SUMMARY:Proof
 DTSTART;TZID=America/New_York:20270206T193000
 DTEND;TZID=America/New_York:20270206T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1624@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -646,7 +646,7 @@ DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
  wrote it forces Catherine to reckon with how much of her father\, genius a
  nd instability alike\, she may have inherited. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -656,7 +656,7 @@ BEGIN:VEVENT
 SUMMARY:Proof
 DTSTART;TZID=America/New_York:20270207T143000
 DTEND;TZID=America/New_York:20270207T170000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1625@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -670,7 +670,7 @@ DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
  wrote it forces Catherine to reckon with how much of her father\, genius a
  nd instability alike\, she may have inherited. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -680,7 +680,7 @@ BEGIN:VEVENT
 SUMMARY:Proof
 DTSTART;TZID=America/New_York:20270211T193000
 DTEND;TZID=America/New_York:20270211T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1626@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -694,7 +694,7 @@ DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
  wrote it forces Catherine to reckon with how much of her father\, genius a
  nd instability alike\, she may have inherited. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -704,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:Proof
 DTSTART;TZID=America/New_York:20270212T193000
 DTEND;TZID=America/New_York:20270212T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1627@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -718,7 +718,7 @@ DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
  wrote it forces Catherine to reckon with how much of her father\, genius a
  nd instability alike\, she may have inherited. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -728,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:Proof
 DTSTART;TZID=America/New_York:20270213T193000
 DTEND;TZID=America/New_York:20270213T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1628@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -742,7 +742,7 @@ DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
  wrote it forces Catherine to reckon with how much of her father\, genius a
  nd instability alike\, she may have inherited. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -752,7 +752,7 @@ BEGIN:VEVENT
 SUMMARY:Proof
 DTSTART;TZID=America/New_York:20270214T143000
 DTEND;TZID=America/New_York:20270214T170000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1629@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -766,7 +766,7 @@ DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
  wrote it forces Catherine to reckon with how much of her father\, genius a
  nd instability alike\, she may have inherited. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -776,7 +776,7 @@ BEGIN:VEVENT
 SUMMARY:Proof
 DTSTART;TZID=America/New_York:20270218T193000
 DTEND;TZID=America/New_York:20270218T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1630@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -790,7 +790,7 @@ DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
  wrote it forces Catherine to reckon with how much of her father\, genius a
  nd instability alike\, she may have inherited. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -800,7 +800,7 @@ BEGIN:VEVENT
 SUMMARY:Proof
 DTSTART;TZID=America/New_York:20270219T193000
 DTEND;TZID=America/New_York:20270219T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1631@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -814,7 +814,7 @@ DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
  wrote it forces Catherine to reckon with how much of her father\, genius a
  nd instability alike\, she may have inherited. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -824,7 +824,7 @@ BEGIN:VEVENT
 SUMMARY:Proof
 DTSTART;TZID=America/New_York:20270220T193000
 DTEND;TZID=America/New_York:20270220T220000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1632@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -838,7 +838,7 @@ DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
  wrote it forces Catherine to reckon with how much of her father\, genius a
  nd instability alike\, she may have inherited. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -848,7 +848,7 @@ BEGIN:VEVENT
 SUMMARY:Proof
 DTSTART;TZID=America/New_York:20270221T143000
 DTEND;TZID=America/New_York:20270221T170000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1633@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -862,7 +862,7 @@ DESCRIPTION:David Auburn's Pulitzer-winning drama: a mathematician's daugh
  wrote it forces Catherine to reckon with how much of her father\, genius a
  nd instability alike\, she may have inherited. From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -872,7 +872,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270403T200000
 DTEND;TZID=America/New_York:20270403T223000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1634@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -885,7 +885,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -895,7 +895,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270404T130000
 DTEND;TZID=America/New_York:20270404T153000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1635@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -908,7 +908,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -918,7 +918,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270404T170000
 DTEND;TZID=America/New_York:20270404T193000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1636@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -931,7 +931,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -941,7 +941,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270408T190000
 DTEND;TZID=America/New_York:20270408T213000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1637@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -954,7 +954,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -964,7 +964,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270410T200000
 DTEND;TZID=America/New_York:20270410T223000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1638@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -977,7 +977,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -987,7 +987,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270411T130000
 DTEND;TZID=America/New_York:20270411T153000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1639@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1000,7 +1000,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1010,7 +1010,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270411T170000
 DTEND;TZID=America/New_York:20270411T193000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1640@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1023,7 +1023,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1033,7 +1033,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270415T190000
 DTEND;TZID=America/New_York:20270415T213000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1641@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1046,7 +1046,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1056,7 +1056,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270417T200000
 DTEND;TZID=America/New_York:20270417T223000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1642@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1069,7 +1069,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1079,7 +1079,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270418T130000
 DTEND;TZID=America/New_York:20270418T153000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1643@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1092,7 +1092,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1102,7 +1102,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270418T170000
 DTEND;TZID=America/New_York:20270418T193000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1644@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1115,7 +1115,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1125,7 +1125,7 @@ BEGIN:VEVENT
 SUMMARY:Every Brilliant Thing
 DTSTART;TZID=America/New_York:20270814T193000
 DTEND;TZID=America/New_York:20270814T213000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1645@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1139,7 +1139,7 @@ DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
  over)\, and a few get drafted into roles on the spot. From Stage Door Thea
  tre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1149,7 +1149,7 @@ BEGIN:VEVENT
 SUMMARY:Every Brilliant Thing
 DTSTART;TZID=America/New_York:20270815T143000
 DTEND;TZID=America/New_York:20270815T163000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1646@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1163,7 +1163,7 @@ DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
  over)\, and a few get drafted into roles on the spot. From Stage Door Thea
  tre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1173,7 +1173,7 @@ BEGIN:VEVENT
 SUMMARY:Every Brilliant Thing
 DTSTART;TZID=America/New_York:20270819T193000
 DTEND;TZID=America/New_York:20270819T213000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1647@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1187,7 +1187,7 @@ DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
  over)\, and a few get drafted into roles on the spot. From Stage Door Thea
  tre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1197,7 +1197,7 @@ BEGIN:VEVENT
 SUMMARY:Every Brilliant Thing
 DTSTART;TZID=America/New_York:20270820T193000
 DTEND;TZID=America/New_York:20270820T213000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1648@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1211,7 +1211,7 @@ DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
  over)\, and a few get drafted into roles on the spot. From Stage Door Thea
  tre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1221,7 +1221,7 @@ BEGIN:VEVENT
 SUMMARY:Every Brilliant Thing
 DTSTART;TZID=America/New_York:20270821T193000
 DTEND;TZID=America/New_York:20270821T213000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1649@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1235,7 +1235,7 @@ DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
  over)\, and a few get drafted into roles on the spot. From Stage Door Thea
  tre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1245,7 +1245,7 @@ BEGIN:VEVENT
 SUMMARY:Every Brilliant Thing
 DTSTART;TZID=America/New_York:20270822T143000
 DTEND;TZID=America/New_York:20270822T163000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1650@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1259,7 +1259,7 @@ DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
  over)\, and a few get drafted into roles on the spot. From Stage Door Thea
  tre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1269,7 +1269,7 @@ BEGIN:VEVENT
 SUMMARY:Every Brilliant Thing
 DTSTART;TZID=America/New_York:20270826T193000
 DTEND;TZID=America/New_York:20270826T213000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1651@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1283,7 +1283,7 @@ DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
  over)\, and a few get drafted into roles on the spot. From Stage Door Thea
  tre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1293,7 +1293,7 @@ BEGIN:VEVENT
 SUMMARY:Every Brilliant Thing
 DTSTART;TZID=America/New_York:20270827T193000
 DTEND;TZID=America/New_York:20270827T213000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1652@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1307,7 +1307,7 @@ DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
  over)\, and a few get drafted into roles on the spot. From Stage Door Thea
  tre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1317,7 +1317,7 @@ BEGIN:VEVENT
 SUMMARY:Every Brilliant Thing
 DTSTART;TZID=America/New_York:20270828T193000
 DTEND;TZID=America/New_York:20270828T213000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1653@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1331,7 +1331,7 @@ DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
  over)\, and a few get drafted into roles on the spot. From Stage Door Thea
  tre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1341,7 +1341,7 @@ BEGIN:VEVENT
 SUMMARY:Every Brilliant Thing
 DTSTART;TZID=America/New_York:20270829T143000
 DTEND;TZID=America/New_York:20270829T163000
-DTSTAMP:20260712T044330Z
+DTSTAMP:20260712T153920Z
 UID:occ-1654@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1355,7 +1355,7 @@ DESCRIPTION:Duncan Macmillan's one-performer play about a list of things w
  over)\, and a few get drafted into roles on the spot. From Stage Door Thea
  tre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260712T043856Z
+LAST-MODIFIED:20260712T153852Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
