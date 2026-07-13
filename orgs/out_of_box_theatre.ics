@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:CREATOR'S DEN CABARET
 DTSTART;TZID=America/New_York:20260724T200000
 DTEND;TZID=America/New_York:20260724T213000
-DTSTAMP:20260713T161540Z
+DTSTAMP:20260713T211145Z
 UID:occ-2578@atlcal.com
 SEQUENCE:0
 DESCRIPTION:A three-singer cabaret of divas\, drama\, and bad decisions\, 
@@ -69,7 +69,7 @@ DESCRIPTION:A three-singer cabaret of divas\, drama\, and bad decisions\,
  x regulars: Emily Kalat\, MK Penley\, and Emily Sams Brown. The title is t
  he setlist: divas\, drama\, and bad decisions\, in song.
 GEO:33.9379056;-84.5126414
-LAST-MODIFIED:20260713T161459Z
+LAST-MODIFIED:20260713T211105Z
 LOCATION:Artisan Resource Center\, 585 Cobb Parkway Southeast
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:CREATOR'S DEN CABARET
 DTSTART;TZID=America/New_York:20260726T150000
 DTEND;TZID=America/New_York:20260726T163000
-DTSTAMP:20260713T161540Z
+DTSTAMP:20260713T211145Z
 UID:occ-2579@atlcal.com
 SEQUENCE:0
 DESCRIPTION:A three-singer cabaret of divas\, drama\, and bad decisions\, 
@@ -89,7 +89,7 @@ DESCRIPTION:A three-singer cabaret of divas\, drama\, and bad decisions\,
  x regulars: Emily Kalat\, MK Penley\, and Emily Sams Brown. The title is t
  he setlist: divas\, drama\, and bad decisions\, in song.
 GEO:33.9379056;-84.5126414
-LAST-MODIFIED:20260713T161459Z
+LAST-MODIFIED:20260713T211105Z
 LOCATION:Artisan Resource Center\, 585 Cobb Parkway Southeast
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Comedy Class Showcase
 DTSTART;TZID=America/New_York:20260816T190000
 DTEND;TZID=America/New_York:20260816T203000
-DTSTAMP:20260713T161540Z
+DTSTAMP:20260713T211145Z
 UID:occ-1769@atlcal.com
 SEQUENCE:0
 CATEGORIES:Stand-up Comedy
@@ -111,7 +111,7 @@ DESCRIPTION:Graduates of Out of Box Theatre's first stand-up class perform
  one night only. New comics\, fresh jokes\, and a room ready to root for th
  em.
 GEO:33.9148699;-84.3601692
-LAST-MODIFIED:20260713T161459Z
+LAST-MODIFIED:20260713T211106Z
 LOCATION:Out of Box Theatre\, 585 Cobb Pkwy SE\, Suite G-1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:Comedy at the Den
 DTSTART;TZID=America/New_York:20260821T200000
 DTEND;TZID=America/New_York:20260821T213000
-DTSTAMP:20260713T161540Z
+DTSTAMP:20260713T211145Z
 UID:occ-1185@atlcal.com
 SEQUENCE:3
 CATEGORIES:Stand-up Comedy
@@ -132,7 +132,7 @@ DESCRIPTION:A stand-up showcase in a deliberately small room\, hosted by A
  tionally small\, with limited seats and almost no distance between you and
   the performers. Presented by Out of Box Theatre.
 GEO:33.9379056;-84.5126414
-LAST-MODIFIED:20260713T161459Z
+LAST-MODIFIED:20260713T211106Z
 LOCATION:Artisan Resource Center\, 585 Cobb Parkway Southeast
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:Comedy at the Den
 DTSTART;TZID=America/New_York:20260822T190000
 DTEND;TZID=America/New_York:20260822T200000
-DTSTAMP:20260713T161540Z
+DTSTAMP:20260713T211145Z
 UID:occ-701@atlcal.com
 SEQUENCE:1
 CATEGORIES:Stand-up Comedy
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Comedy at the Den
 DTSTART;TZID=America/New_York:20261107T190000
 DTEND;TZID=America/New_York:20261107T210000
-DTSTAMP:20260713T161540Z
+DTSTAMP:20260713T211145Z
 UID:occ-702@atlcal.com
 SEQUENCE:3
 CATEGORIES:Stand-up Comedy
