@@ -57,32 +57,10 @@ TZOFFSETTO:-0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Atlanta Micro Short Film Festival
-DTSTART;TZID=America/New_York:20260711T140000
-DTEND;TZID=America/New_York:20260712T000000
-DTSTAMP:20260712T203753Z
-UID:occ-1707@atlcal.com
-SEQUENCE:0
-CATEGORIES:Film Screening
-DESCRIPTION:Over 120 micro shorts in one afternoon\, each six minutes or l
- ess\, from animation to horror to documentary.\n\nA single fast-moving aft
- ernoon packed with more than 120 short films\, every one of them clocking 
- in at six minutes or under. Filmmakers from around the world contribute ac
- ross the board: animation\, horror\, documentary\, comedy\, drama\, and ex
- perimental work. Presented by 7 Stages\, in a theatre that started life as
-  a movie house.
-GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260711T203530Z
-LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://atlantafilmseries.tix.page/e/atlanta-micro-short-film-festival
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Baby Bipolar
 DTSTART;TZID=America/New_York:20260717T200000
 DTEND;TZID=America/New_York:20260717T210000
-DTSTAMP:20260712T203753Z
+DTSTAMP:20260713T051240Z
 UID:occ-1248@atlcal.com
 SEQUENCE:0
 CATEGORIES:Stand-up Comedy
@@ -96,7 +74,7 @@ DESCRIPTION:Atlanta comedian Maria Mainelli's solo hour about getting a bi
  ealth advocate. Presented by 7 Stages. Advisory: strong language and theme
  s some may find triggering.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260712T203604Z
+LAST-MODIFIED:20260713T050440Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
