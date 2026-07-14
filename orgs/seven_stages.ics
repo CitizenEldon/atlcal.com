@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Bipolar
 DTSTART;TZID=America/New_York:20260717T200000
 DTEND;TZID=America/New_York:20260717T210000
-DTSTAMP:20260713T211145Z
+DTSTAMP:20260714T051736Z
 UID:occ-1248@atlcal.com
 SEQUENCE:0
 CATEGORIES:Stand-up Comedy
@@ -74,7 +74,7 @@ DESCRIPTION:Atlanta comedian Maria Mainelli's solo hour about getting a bi
  ealth advocate. Presented by 7 Stages. Advisory: strong language and theme
  s some may find triggering.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260713T211004Z
+LAST-MODIFIED:20260714T051152Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
