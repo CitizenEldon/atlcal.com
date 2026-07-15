@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Calendar, Atlanta Event Calendar</title>
   <meta name="description" content="A month grid of Atlanta arts events. Filter by category, organization, or free admission. Times in Eastern time.">
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="../assets/site.css">
 </head>
 <body>
@@ -38,7 +39,8 @@
       </div>
     </div>
 
-    <div id="cal-out" aria-live="polite" aria-busy="true"></div>
+    <p id="cal-status" class="sr-only" role="status" aria-live="polite"></p>
+    <div id="cal-out" aria-busy="true"></div>
   </main>
 
   <footer class="site-footer">

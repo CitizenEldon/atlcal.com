@@ -21,15 +21,21 @@
 
   var out = document.getElementById("agenda-out");
   var empty = document.getElementById("agenda-empty");
+  var statusEl = document.getElementById("agenda-status");
 
   /* ---- terminal states ---- */
   AEC.onError(function (s) {
-    out.removeAttribute("aria-busy");
     if (s.kind === "loading") {
+      out.setAttribute("aria-busy", "true");
+      statusEl.textContent = "Loading calendar events.";
       out.innerHTML = '<div class="skel-stack">' + skeletonRow().outerHTML + skeletonRow().outerHTML + skeletonRow().outerHTML + skeletonRow().outerHTML + '</div>';
     } else if (s.kind === "fetch-error") {
+      out.removeAttribute("aria-busy");
+      statusEl.textContent = "The calendar could not load.";
       out.innerHTML = '<div class="state"><h2>The calendar could not load. Try again shortly.</h2></div>';
     } else if (s.kind === "schema-changed") {
+      out.removeAttribute("aria-busy");
+      statusEl.textContent = "The calendar data format is not supported.";
       out.innerHTML = '<div class="state"><h2>The calendar data format changed. This page needs an update.</h2></div>';
     }
   });
@@ -49,6 +55,7 @@
     renderFilters();
     filterBar.hidden = false;
     render();
+    statusEl.textContent = "Agenda loaded.";
   });
 
   /* ====================================================================
@@ -311,6 +318,7 @@
     modal.innerHTML = "";
     modal.appendChild(buildModal(e));
     document.addEventListener("keydown", onKey);
+    AEC.setPageInert(true);
     // focus the close button after paint
     var close = modal.querySelector(".modal__close");
     if (close) close.focus();
@@ -321,6 +329,7 @@
     modal.setAttribute("aria-hidden", "true");
     modal.innerHTML = "";
     document.removeEventListener("keydown", onKey);
+    AEC.setPageInert(false);
     document.body.style.overflow = "";
     if (lastFocus && typeof lastFocus.focus === "function") lastFocus.focus();
     lastFocus = null;
@@ -357,8 +366,9 @@
     var org = state.M.orgs[e.org_id];
     if (org) {
       var orgEl = el("p", { class: "modal__org" });
-      if (org.website_url != null) {
-        var a = el("a", { href: org.website_url, target: "_blank", rel: "noopener noreferrer" });
+      var orgUrl = AEC.safeHttpUrl(org.website_url);
+      if (orgUrl != null) {
+        var a = el("a", { href: orgUrl, target: "_blank", rel: "noopener noreferrer" });
         a.textContent = org.name; orgEl.appendChild(document.createTextNode("Presented by ")); orgEl.appendChild(a);
       } else {
         orgEl.textContent = "Presented by " + org.name;

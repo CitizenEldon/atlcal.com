@@ -1,0 +1,235 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://atlcal.com/events-v1.schema.json",
+  "title": "AtlCal published events",
+  "description": "The version 1 pipeline-to-website contract. This file is canonical in CitizenEldon/atlcal and is copied to the public deployment as a generated artifact.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "_readme",
+    "schema_version",
+    "generated_at",
+    "timezone",
+    "feeds",
+    "categories",
+    "areas",
+    "orgs",
+    "venues",
+    "events"
+  ],
+  "properties": {
+    "_readme": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "schema_version": { "const": 1 },
+    "generated_at": { "$ref": "#/$defs/epochSeconds" },
+    "timezone": { "const": "America/New_York" },
+    "feeds": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["all", "free"],
+      "properties": {
+        "all": { "const": "all.ics" },
+        "free": { "const": "free.ics" }
+      }
+    },
+    "categories": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/category" }
+    },
+    "areas": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/area" }
+    },
+    "orgs": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/organization" }
+    },
+    "venues": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/venue" }
+    },
+    "events": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/event" }
+    }
+  },
+  "$defs": {
+    "id": { "type": "integer", "minimum": 1 },
+    "epochSeconds": { "type": "integer", "minimum": 0 },
+    "nullableId": {
+      "anyOf": [
+        { "$ref": "#/$defs/id" },
+        { "type": "null" }
+      ]
+    },
+    "nullableString": {
+      "anyOf": [
+        { "type": "string", "minLength": 1 },
+        { "type": "null" }
+      ]
+    },
+    "nullableHttpUrl": {
+      "anyOf": [
+        { "type": "string", "pattern": "^https?://", "minLength": 8 },
+        { "type": "null" }
+      ]
+    },
+    "nullableNonNegativeInteger": {
+      "anyOf": [
+        { "type": "integer", "minimum": 0 },
+        { "type": "null" }
+      ]
+    },
+    "category": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "name", "slug", "ics"],
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "name": { "type": "string", "minLength": 1 },
+        "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+        "ics": { "type": "string", "pattern": "^categories/[a-z0-9-]+\\.ics$" }
+      }
+    },
+    "area": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["slug", "name", "phrase", "group"],
+      "properties": {
+        "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+        "name": { "type": "string", "minLength": 1 },
+        "phrase": { "type": "string", "minLength": 1 },
+        "group": { "enum": ["itp", "otp", "satellite"] }
+      }
+    },
+    "organization": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "name", "slug", "website_url", "ics"],
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "name": { "type": "string", "minLength": 1 },
+        "slug": {
+          "anyOf": [
+            { "type": "string", "pattern": "^[a-z0-9]+(?:_[a-z0-9]+)*$" },
+            { "type": "null" }
+          ]
+        },
+        "website_url": { "$ref": "#/$defs/nullableHttpUrl" },
+        "ics": {
+          "anyOf": [
+            { "type": "string", "pattern": "^orgs/[a-z0-9_]+\\.ics$" },
+            { "type": "null" }
+          ]
+        }
+      }
+    },
+    "venue": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "street",
+        "city",
+        "state",
+        "zip",
+        "lat",
+        "lng",
+        "area",
+        "is_itp",
+        "neighborhood"
+      ],
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "name": { "type": "string", "minLength": 1 },
+        "street": { "$ref": "#/$defs/nullableString" },
+        "city": { "$ref": "#/$defs/nullableString" },
+        "state": { "type": "string", "minLength": 1 },
+        "zip": { "$ref": "#/$defs/nullableString" },
+        "lat": { "type": ["number", "null"] },
+        "lng": { "type": ["number", "null"] },
+        "area": {
+          "anyOf": [
+            { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+            { "type": "null" }
+          ]
+        },
+        "is_itp": { "type": ["boolean", "null"] },
+        "neighborhood": { "$ref": "#/$defs/nullableString" }
+      }
+    },
+    "event": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "org_id",
+        "category_id",
+        "venue_id",
+        "name",
+        "subtitle",
+        "description_short",
+        "description_full",
+        "ticket_url",
+        "occurrences"
+      ],
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "org_id": { "$ref": "#/$defs/id" },
+        "category_id": { "$ref": "#/$defs/nullableId" },
+        "venue_id": { "$ref": "#/$defs/nullableId" },
+        "name": { "type": "string", "minLength": 1 },
+        "subtitle": { "$ref": "#/$defs/nullableString" },
+        "description_short": { "$ref": "#/$defs/nullableString" },
+        "description_full": { "$ref": "#/$defs/nullableString" },
+        "ticket_url": { "$ref": "#/$defs/nullableHttpUrl" },
+        "occurrences": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/occurrence" }
+        }
+      }
+    },
+    "occurrence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "starts_at",
+        "ends_at",
+        "venue_id",
+        "subvenue",
+        "is_all_day",
+        "is_free",
+        "status",
+        "ticket_url",
+        "description",
+        "price_min",
+        "price_max"
+      ],
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "starts_at": { "$ref": "#/$defs/epochSeconds" },
+        "ends_at": {
+          "anyOf": [
+            { "$ref": "#/$defs/epochSeconds" },
+            { "type": "null" }
+          ]
+        },
+        "venue_id": { "$ref": "#/$defs/nullableId" },
+        "subvenue": { "$ref": "#/$defs/nullableString" },
+        "is_all_day": { "type": "boolean" },
+        "is_free": { "type": "boolean" },
+        "status": { "enum": ["scheduled", "cancelled"] },
+        "ticket_url": { "$ref": "#/$defs/nullableHttpUrl" },
+        "description": { "$ref": "#/$defs/nullableString" },
+        "price_min": { "$ref": "#/$defs/nullableNonNegativeInteger" },
+        "price_max": { "$ref": "#/$defs/nullableNonNegativeInteger" }
+      }
+    }
+  }
+}

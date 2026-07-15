@@ -24,15 +24,21 @@
 
   var out = document.getElementById("cal-out");
   var titleEl = document.getElementById("cal-title");
+  var statusEl = document.getElementById("cal-status");
 
   /* ---- terminal states ---- */
   AEC.onError(function (s) {
-    out.removeAttribute("aria-busy");
     if (s.kind === "loading") {
+      out.setAttribute("aria-busy", "true");
+      statusEl.textContent = "Loading calendar events.";
       out.innerHTML = '<div class="skel-stack"><div class="skeleton" style="height:120px"></div><div class="skeleton" style="height:120px"></div><div class="skeleton" style="height:120px"></div></div>';
     } else if (s.kind === "fetch-error") {
+      out.removeAttribute("aria-busy");
+      statusEl.textContent = "The calendar could not load.";
       out.innerHTML = '<div class="state"><h2>The calendar could not load. Try again shortly.</h2></div>';
     } else if (s.kind === "schema-changed") {
+      out.removeAttribute("aria-busy");
+      statusEl.textContent = "The calendar data format is not supported.";
       out.innerHTML = '<div class="state"><h2>The calendar data format changed. This page needs an update.</h2></div>';
     }
   });
@@ -53,6 +59,7 @@
     filterBar.hidden = false;
     wireNav();
     render();
+    statusEl.textContent = "Calendar loaded.";
   });
 
   /* ====================================================================
@@ -430,6 +437,7 @@
     modal.appendChild(frag);
     state._lastFocus = invoker || document.activeElement;
     document.addEventListener("keydown", onKey);
+    AEC.setPageInert(true);
     close.focus();
     document.body.style.overflow = "hidden";
   }
@@ -449,6 +457,7 @@
     modal.innerHTML = ""; modal.classList.add("modal--open"); modal.setAttribute("aria-hidden", "false");
     modal.appendChild(buildModal(e));
     document.addEventListener("keydown", onKey);
+    AEC.setPageInert(true);
     var close = modal.querySelector(".modal__close");
     if (close) close.focus();
     document.body.style.overflow = "hidden";
@@ -457,6 +466,7 @@
     var modal = document.getElementById("detail-modal");
     modal.classList.remove("modal--open"); modal.setAttribute("aria-hidden", "true"); modal.innerHTML = "";
     document.removeEventListener("keydown", onKey);
+    AEC.setPageInert(false);
     document.body.style.overflow = "";
     if (state._lastFocus && typeof state._lastFocus.focus === "function") state._lastFocus.focus();
     state._lastFocus = null;
@@ -488,15 +498,19 @@
     var org = state.M.orgs[e.org_id];
     if (org) {
       var orgEl = el("p", { class: "modal__org" });
-      if (org.website_url != null) {
-        var a = el("a", { href: org.website_url, target: "_blank", rel: "noopener noreferrer" }); a.textContent = org.name;
+      var orgUrl = AEC.safeHttpUrl(org.website_url);
+      if (orgUrl != null) {
+        var a = el("a", { href: orgUrl, target: "_blank", rel: "noopener noreferrer" }); a.textContent = org.name;
         orgEl.appendChild(document.createTextNode("Presented by ")); orgEl.appendChild(a);
       } else { orgEl.textContent = "Presented by " + org.name; }
       body.appendChild(orgEl);
     }
     if (e.category_id != null) {
       var cat = state.M.categories[e.category_id];
-      if (cat) { body.appendChild(el("p", classTag(cat.name))); }
+      if (cat) {
+        var tag = el("p"); tag.appendChild(classTag(cat.name));
+        body.appendChild(tag);
+      }
     }
     body.appendChild(el("p", { class: "muted", text: rangeSentence(e) }));
 

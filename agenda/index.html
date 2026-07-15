@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Agenda, Atlanta Event Calendar</title>
   <meta name="description" content="Every upcoming event, in date order. Filter by category, organization, or free admission.">
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="../assets/site.css">
 </head>
 <body>
@@ -28,7 +29,8 @@
 
     <section id="filters" class="filters" aria-label="Filters" hidden></section>
 
-    <div id="agenda-out" aria-live="polite" aria-busy="true"></div>
+    <p id="agenda-status" class="sr-only" role="status" aria-live="polite"></p>
+    <div id="agenda-out" aria-busy="true"></div>
     <div id="agenda-empty" class="state" hidden></div>
   </main>
 

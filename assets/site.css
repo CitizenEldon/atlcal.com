@@ -145,7 +145,7 @@ button { font: inherit; color: inherit; }
   margin: 0 auto;
   padding: 0 var(--s-4);
   min-height: var(--header-h);
-  display: flex; align-items: center; gap: var(--s-4);
+  display: flex; align-items: center; gap: var(--s-4); flex-wrap: wrap;
   justify-content: space-between;
 }
 .brand {
@@ -180,6 +180,7 @@ main { display: block; }
 }
 .page-head { margin-bottom: var(--s-5); padding-top: var(--s-2); }
 .page-head h1 { font-size: var(--step-4); letter-spacing: -0.02em; line-height: 1.15; }
+.page-head h1, .page-head p { overflow-wrap: anywhere; }
 .page-head p { margin-top: var(--s-2); color: var(--text-soft); max-width: 65ch; }
 
 /* ---- Filter bar ---------------------------------------------------- */
@@ -245,6 +246,10 @@ select:focus-visible, .field input:focus-visible {
 .btn--primary:hover { background: color-mix(in srgb, var(--accent) 86%, #000 14%); }
 .btn--ghost { background: transparent; border-color: var(--border); }
 .btn--sm { min-height: 32px; padding: var(--s-1) var(--s-3); font-size: var(--step--1); }
+@media (pointer: coarse) {
+  .btn, .btn--sm, .site-nav a, .modal__close { min-height: 44px; min-width: 44px; }
+  .site-nav a { display: inline-flex; align-items: center; }
+}
 
 /* ---- Calendar grid ------------------------------------------------- */
 .cal-toolbar {
@@ -443,7 +448,7 @@ select:focus-visible, .field input:focus-visible {
 .feed-card {
   display: flex; flex-direction: column; gap: var(--s-3);
   padding: var(--s-4); background: var(--surface); border: 1px solid var(--border);
-  border-radius: var(--radius-md); box-shadow: var(--shadow);
+  border-radius: var(--radius-md); box-shadow: var(--shadow); min-width: 0;
 }
 .feed-card__name { font-size: var(--step-1); font-weight: 700; display: flex; align-items: center; gap: 6px; }
 .feed-card__name svg { flex: none; width: 14px; height: 14px; display: block; }
@@ -454,7 +459,7 @@ select:focus-visible, .field input:focus-visible {
   background: var(--surface-2); border: 1px solid var(--border); border-radius: var(--radius-sm);
   padding: var(--s-2) var(--s-3); word-break: break-all; min-width: 0; margin-top: var(--s-2);
 }
-.feed-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: var(--s-4); }
+.feed-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(280px, 100%), 1fr)); gap: var(--s-4); }
 .feed-grid--pair { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 @media (max-width: 640px) { .feed-grid--pair { grid-template-columns: 1fr; } }
 

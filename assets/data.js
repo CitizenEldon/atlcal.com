@@ -61,7 +61,7 @@
         return resp.json();
       })
       .then(function (data) {
-        if (!data || data.schema_version !== SUPPORTED_SCHEMA_VERSION) {
+        if (!isSupportedDocument(data)) {
           // Not the contract we were built against. Do not render.
           _fetchPromise = null;
           fail("schema-changed");
@@ -77,6 +77,20 @@
       });
 
     return _fetchPromise;
+  }
+
+  function isSupportedDocument(data) {
+    return Boolean(
+      data &&
+      data.schema_version === SUPPORTED_SCHEMA_VERSION &&
+      Number.isFinite(data.generated_at) &&
+      typeof data.timezone === "string" &&
+      Array.isArray(data.categories) &&
+      Array.isArray(data.areas) &&
+      Array.isArray(data.orgs) &&
+      Array.isArray(data.venues) &&
+      Array.isArray(data.events)
+    );
   }
 
   /* ------------------------------------------------------------------ *
@@ -153,8 +167,18 @@
   }
 
   // (c) Ticket precedence = occ.ticket_url ?? event.ticket_url.
+  function safeHttpUrl(value) {
+    if (typeof value !== "string" || !/^https?:\/\//i.test(value)) return null;
+    try {
+      var parsed = new URL(value);
+      return parsed.protocol === "http:" || parsed.protocol === "https:" ? parsed.href : null;
+    } catch (err) {
+      return null;
+    }
+  }
+
   function resolveTicketUrl(e, o) {
-    return o.ticket_url != null ? o.ticket_url : e.ticket_url;
+    return safeHttpUrl(o.ticket_url != null ? o.ticket_url : e.ticket_url);
   }
 
   // (e) Detail body = occ.description ?? event.description_full.
@@ -310,7 +334,16 @@
    * ------------------------------------------------------------------ */
   function updatedString(data, tz) {
     var f = fmt(tz, { dateStyle: "long" });
-    return "Updated " + f.format(new Date(data.generated_at * 1000));
+    var ageHours = (Date.now() / 1000 - data.generated_at) / 3600;
+    return "Updated " + f.format(new Date(data.generated_at * 1000)) +
+      (ageHours > 48 ? " · Refresh overdue" : "");
+  }
+
+  function setPageInert(enabled) {
+    var children = document.body.children;
+    for (var i = 0; i < children.length; i++) {
+      if (!children[i].classList.contains("modal")) children[i].inert = enabled;
+    }
   }
 
   /* ------------------------------------------------------------------ *
@@ -329,6 +362,7 @@
     occurrenceDays: occurrenceDays,
     fmt: fmt,
     resolveVenueId: resolveVenueId,
+    safeHttpUrl: safeHttpUrl,
     resolveTicketUrl: resolveTicketUrl,
     resolveDetailBody: resolveDetailBody,
     resolveListLine: resolveListLine,
@@ -342,6 +376,7 @@
     feedBase: feedBase,
     feedUrl: feedUrl,
     feedUrlWebcal: feedUrlWebcal,
-    updatedString: updatedString
+    updatedString: updatedString,
+    setPageInert: setPageInert
   };
 })(window);
