@@ -1,5 +1,5 @@
 /*
- * data.js - single source of truth for the Atlanta Event Calendar site.
+ * data.js - single source of truth for the atlcal site.
  *
  * Responsibilities (one place each, per the build contract):
  *   - Fetch events.json ONCE, cache the parsed object.

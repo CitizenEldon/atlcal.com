@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://atlcal.com/events-v1.schema.json",
-  "title": "AtlCal published events",
+  "title": "atlcal published events",
   "description": "The version 1 pipeline-to-website contract. This file is canonical in CitizenEldon/atlcal and is copied to the public deployment as a generated artifact.",
   "type": "object",
   "additionalProperties": false,

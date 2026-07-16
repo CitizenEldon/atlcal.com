@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Atlanta Event Calendar//NONSGML v1.0//EN
+PRODID:-//atlcal//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Atlanta Events — Heritage Exhibition
 X-WR-TIMEZONE:America/New_York
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Fox Archives Day
 DTSTART;TZID=America/New_York:20260823T150000
 DTEND;TZID=America/New_York:20260823T180000
-DTSTAMP:20260715T203558Z
+DTSTAMP:20260716T091039Z
 UID:occ-1320@atlcal.com
 SEQUENCE:0
 CATEGORIES:Heritage Exhibition
@@ -73,7 +73,7 @@ DESCRIPTION:The Fox opens its archives — artifacts and archival material
  nd Egyptian Ballroom\, so browsing doubles as a look inside two of the the
  atre's ornate event spaces.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260715T203457Z
+LAST-MODIFIED:20260716T090950Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
