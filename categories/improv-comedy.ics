@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show
 DTSTART;TZID=America/New_York:20260815T193000
 DTEND;TZID=America/New_York:20260815T213000
-DTSTAMP:20260717T153653Z
+DTSTAMP:20260717T203621Z
 UID:occ-819@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -70,7 +70,7 @@ DESCRIPTION:Improv comedy from the Southside Sidekicks\, Southside Theatre
  er community theatre running since 1973. Scenes built on the spot\, shaped
   by whatever the audience throws at them — no two shows the same.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260717T153649Z
+LAST-MODIFIED:20260717T203603Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Dad's Garage 2026
 DTSTART;TZID=America/New_York:20260815T193000
 DTEND;TZID=America/New_York:20260815T213000
-DTSTAMP:20260717T153653Z
+DTSTAMP:20260717T203621Z
 UID:occ-861@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -90,7 +90,7 @@ DESCRIPTION:Improvisers from Atlanta's Dad's Garage make the whole show up
  enes\, characters\, and games sparked by whatever the audience calls out. 
  No script\, no repeats. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260717T153649Z
+LAST-MODIFIED:20260717T203603Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Improv Workshop Grad Show
 DTSTART;TZID=America/New_York:20260913T130000
 DTEND;TZID=America/New_York:20260913T143000
-DTSTAMP:20260717T153653Z
+DTSTAMP:20260717T203621Z
 UID:occ-1582@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -112,7 +112,7 @@ DESCRIPTION:Improv workshop graduates take the stage\, building scenes and
  side Theatre Guild\, an all-volunteer community theatre running since 1973
  .
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260717T153649Z
+LAST-MODIFIED:20260717T203603Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -122,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: Seriously Scary
 DTSTART;TZID=America/New_York:20261024T193000
 DTEND;TZID=America/New_York:20261024T213000
-DTSTAMP:20260717T153653Z
+DTSTAMP:20260717T203621Z
 UID:occ-1583@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -133,7 +133,7 @@ DESCRIPTION:Southside Theatre Guild's in-house improv troupe takes a swing
  ever the audience throws at them. No script\, no rewinds\, and a different
   show every time by definition.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260717T153649Z
+LAST-MODIFIED:20260717T203603Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: Naughty or Nice List
 DTSTART;TZID=America/New_York:20261211T193000
 DTEND;TZID=America/New_York:20261211T210000
-DTSTAMP:20260717T153653Z
+DTSTAMP:20260717T203621Z
 UID:occ-1585@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -154,7 +154,7 @@ DESCRIPTION:Holiday-flavored improv from Southside Sidekicks\, the Guild's
  the performers build scenes and characters from audience suggestions\, so 
  the show that happens is the one the room helps make.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260717T153649Z
+LAST-MODIFIED:20260717T203603Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: A Holly Jolly Murder Mystery
 DTSTART;TZID=America/New_York:20261212T193000
 DTEND;TZID=America/New_York:20261212T213000
-DTSTAMP:20260717T153653Z
+DTSTAMP:20260717T203621Z
 UID:occ-1586@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -175,7 +175,7 @@ DESCRIPTION:An improvised holiday-themed murder mystery from Southside The
  cript\, shaped by whatever the audience throws at them. Nobody in the cast
   knows whodunit either until the night decides.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260717T153649Z
+LAST-MODIFIED:20260717T203603Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:A Whole Weekend of Out of a Hat
 DTSTART;TZID=America/New_York:20270108T193000
 DTEND;TZID=America/New_York:20270108T204500
-DTSTAMP:20260717T153653Z
+DTSTAMP:20260717T203621Z
 UID:occ-1505@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -198,7 +198,7 @@ DESCRIPTION:Shakespeare roulette: the play and every role drawn from a hat
  table seating and food and drink service during the show. These Out of a H
  at nights tend to sell out.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260717T153649Z
+LAST-MODIFIED:20260717T203603Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:A Whole Weekend of Out of a Hat
 DTSTART;TZID=America/New_York:20270109T193000
 DTEND;TZID=America/New_York:20270109T204500
-DTSTAMP:20260717T153653Z
+DTSTAMP:20260717T203621Z
 UID:occ-1506@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -222,7 +222,7 @@ DESCRIPTION:Shakespeare roulette: the play and every role drawn from a hat
  table seating and food and drink service during the show. These Out of a H
  at nights tend to sell out.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260717T153649Z
+LAST-MODIFIED:20260717T203603Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: Choose Your Own (Improv) Adventure!
 DTSTART;TZID=America/New_York:20270123T193000
 DTEND;TZID=America/New_York:20270123T213000
-DTSTAMP:20260717T153653Z
+DTSTAMP:20260717T203621Z
 UID:occ-1587@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -244,7 +244,7 @@ DESCRIPTION:Unscripted comedy from the Southside Sidekicks\, built on the
  ht wanders. The Sidekicks are the in-house improv troupe of Southside Thea
  tre Guild\, an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260717T153649Z
+LAST-MODIFIED:20260717T203603Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: The Improv School of Witchcraft & Wizardry
 DTSTART;TZID=America/New_York:20270220T193000
 DTEND;TZID=America/New_York:20270220T213000
-DTSTAMP:20260717T153653Z
+DTSTAMP:20260717T203621Z
 UID:occ-1588@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -265,7 +265,7 @@ DESCRIPTION:Wizard-school-themed improv night from the Southside Sidekicks
  on the spot from audience suggestions. Nothing is scripted\, so what happe
  ns depends on what the room throws at them.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260717T153649Z
+LAST-MODIFIED:20260717T203603Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -275,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:Shakespeare Out of a Hat: Romeo and Juliet
 DTSTART;TZID=America/New_York:20270225T193000
 DTEND;TZID=America/New_York:20270225T204500
-DTSTAMP:20260717T153653Z
+DTSTAMP:20260717T203621Z
 UID:occ-1528@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -288,7 +288,7 @@ DESCRIPTION:Romeo and Juliet with roles drawn from a hat two minutes befor
  ght-only special event\, performed with the company's usual table seating 
  and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260717T075139Z
+LAST-MODIFIED:20260717T203603Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:Shakespeare Out of a Hat: Julius Caesar
 DTSTART;TZID=America/New_York:20270315T193000
 DTEND;TZID=America/New_York:20270315T204500
-DTSTAMP:20260717T153653Z
+DTSTAMP:20260717T203621Z
 UID:occ-1542@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -312,7 +312,7 @@ DESCRIPTION:Improv meets Shakespeare: actors draw their Julius Caesar role
  erformed with the company's usual table seating and food and drink service
   during the show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260717T153649Z
+LAST-MODIFIED:20260717T203603Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: Improv Wars 3
 DTSTART;TZID=America/New_York:20270320T193000
 DTEND;TZID=America/New_York:20270320T213000
-DTSTAMP:20260717T153653Z
+DTSTAMP:20260717T203621Z
 UID:occ-1596@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -334,7 +334,7 @@ DESCRIPTION:Improv comedy from the Southside Sidekicks\, the in-house trou
  Southside Theatre Guild\, an all-volunteer community theatre running since
   1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260717T153649Z
+LAST-MODIFIED:20260717T203603Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -344,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Time Machine - An Improvised Musical
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-DTSTAMP:20260717T153653Z
+DTSTAMP:20260717T203621Z
 UID:occ-1597@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -356,7 +356,7 @@ DESCRIPTION:A fully improvised musical from Southside Sidekicks — songs\
  -machine premise gives the improvisers license to land anywhere in history
   the audience points them.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260717T153649Z
+LAST-MODIFIED:20260717T203603Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -366,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:Stand Up for Improv - Improvised Stand-Up Show
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
-DTSTAMP:20260717T153653Z
+DTSTAMP:20260717T203621Z
 UID:occ-1598@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -377,7 +377,7 @@ DESCRIPTION:Stand-up with no prepared material: comics improvise their set
  erial\, no safety net. Presented by Southside Theatre Guild\, an all-volun
  teer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260717T153649Z
+LAST-MODIFIED:20260717T203603Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:The Price is Ri-FUNNY
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
-DTSTAMP:20260717T153653Z
+DTSTAMP:20260717T203621Z
 UID:occ-1599@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -398,7 +398,7 @@ DESCRIPTION:Live improv comedy — scenes and characters built on the spot
  ild\, an all-volunteer community theatre in operation since 1973 and home 
  to the improv troupe Southside Sidekicks.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260717T153649Z
+LAST-MODIFIED:20260717T203603Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
