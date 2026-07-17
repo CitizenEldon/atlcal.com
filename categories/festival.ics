@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Bourbon Bash
 DTSTART;TZID=America/New_York:20260718T130000
 DTEND;TZID=America/New_York:20260718T170000
-DTSTAMP:20260716T203848Z
+DTSTAMP:20260717T075355Z
 UID:occ-1319@atlcal.com
 SEQUENCE:0
 CATEGORIES:Festival
@@ -72,7 +72,7 @@ DESCRIPTION:Whiskey tasting festival: 60-plus bourbons and whiskies from m
   ballots for the standout whiskey of the day. Admission includes a Lexus-b
  randed gift\; drinks beyond the tasting pours cost extra.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260716T203838Z
+LAST-MODIFIED:20260717T075122Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
