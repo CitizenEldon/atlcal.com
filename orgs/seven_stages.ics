@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Bipolar
 DTSTART;TZID=America/New_York:20260717T200000
 DTEND;TZID=America/New_York:20260717T210000
-DTSTAMP:20260717T203621Z
+DTSTAMP:20260718T091704Z
 UID:occ-1248@atlcal.com
 SEQUENCE:0
 CATEGORIES:Stand-up Comedy
@@ -84,11 +84,20 @@ BEGIN:VEVENT
 SUMMARY:Human Mind Youth Creates 2026
 DTSTART;TZID=America/New_York:20260724T193000
 DTEND;TZID=America/New_York:20260724T203000
-DTSTAMP:20260717T203621Z
+DTSTAMP:20260718T091704Z
 UID:occ-4121@atlcal.com
 SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:An original devised play about artificial intelligence\, creat
+ ed and performed by the Youth Creates 2026 Ensemble.\n\nHuman Mind is an o
+ riginal play about artificial intelligence and its impact\, devised by the
+  Youth Creates 2026 Ensemble. Each summer\, 7 Stages' young performers wor
+ k with teaching artists to build a production from scratch\, drawing on th
+ eir workshops and their own experience of the world\; this performance is 
+ the result. Tickets use a tiered pricing structure\, with a 'Pay it Forwar
+ d' option that subsidizes lower-cost seats.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260717T203535Z
+LAST-MODIFIED:20260718T091526Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -97,11 +106,20 @@ BEGIN:VEVENT
 SUMMARY:Human Mind Youth Creates 2026
 DTSTART;TZID=America/New_York:20260725T143000
 DTEND;TZID=America/New_York:20260725T153000
-DTSTAMP:20260717T203621Z
+DTSTAMP:20260718T091704Z
 UID:occ-4122@atlcal.com
 SEQUENCE:0
+CATEGORIES:Play
+DESCRIPTION:An original devised play about artificial intelligence\, creat
+ ed and performed by the Youth Creates 2026 Ensemble.\n\nHuman Mind is an o
+ riginal play about artificial intelligence and its impact\, devised by the
+  Youth Creates 2026 Ensemble. Each summer\, 7 Stages' young performers wor
+ k with teaching artists to build a production from scratch\, drawing on th
+ eir workshops and their own experience of the world\; this performance is 
+ the result. Tickets use a tiered pricing structure\, with a 'Pay it Forwar
+ d' option that subsidizes lower-cost seats.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260717T203535Z
+LAST-MODIFIED:20260718T091526Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

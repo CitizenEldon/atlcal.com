@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:POTUS
 DTSTART;TZID=America/New_York:20260717T193000
 DTEND;TZID=America/New_York:20260717T214500
-DTSTAMP:20260717T203621Z
+DTSTAMP:20260718T091704Z
 UID:occ-1143@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:POTUS
 DTSTART;TZID=America/New_York:20260718T193000
 DTEND;TZID=America/New_York:20260718T214500
-DTSTAMP:20260717T203621Z
+DTSTAMP:20260718T091704Z
 UID:occ-1144@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -98,17 +98,17 @@ DESCRIPTION:Selina Fillinger's Broadway farce: seven women scramble to kee
  ended for ages 18 and up for severe language\, adult situations\, and viol
  ence.
 GEO:33.9964675;-84.1609898
-LAST-MODIFIED:20260717T203553Z
+LAST-MODIFIED:20260718T091558Z
 LOCATION:Live Arts Theatre\, 3700 Pleasant Hill Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://app.arts-people.com/index.php?actions=6&p=2
+URL:https://app.arts-people.com/index.php?actions=4&p=2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:POTUS
 DTSTART;TZID=America/New_York:20260724T193000
 DTEND;TZID=America/New_York:20260724T214500
-DTSTAMP:20260717T203621Z
+DTSTAMP:20260718T091704Z
 UID:occ-1145@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -122,17 +122,17 @@ DESCRIPTION:Selina Fillinger's Broadway farce: seven women scramble to kee
  ended for ages 18 and up for severe language\, adult situations\, and viol
  ence.
 GEO:33.9964675;-84.1609898
-LAST-MODIFIED:20260717T203553Z
+LAST-MODIFIED:20260718T091558Z
 LOCATION:Live Arts Theatre\, 3700 Pleasant Hill Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://app.arts-people.com/index.php?actions=8&p=2
+URL:https://app.arts-people.com/index.php?actions=6&p=2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:POTUS
 DTSTART;TZID=America/New_York:20260725T193000
 DTEND;TZID=America/New_York:20260725T214500
-DTSTAMP:20260717T203621Z
+DTSTAMP:20260718T091704Z
 UID:occ-1146@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -146,10 +146,10 @@ DESCRIPTION:Selina Fillinger's Broadway farce: seven women scramble to kee
  ended for ages 18 and up for severe language\, adult situations\, and viol
  ence.
 GEO:33.9964675;-84.1609898
-LAST-MODIFIED:20260717T203553Z
+LAST-MODIFIED:20260718T091558Z
 LOCATION:Live Arts Theatre\, 3700 Pleasant Hill Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://app.arts-people.com/index.php?actions=10&p=2
+URL:https://app.arts-people.com/index.php?actions=8&p=2
 END:VEVENT
 END:VCALENDAR

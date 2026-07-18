@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Cinderella - Prince Street Players Version
 DTSTART;TZID=America/New_York:20260724T193000
 DTEND;TZID=America/New_York:20260724T220000
-DTSTAMP:20260717T203621Z
+DTSTAMP:20260718T091704Z
 UID:occ-1663@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -74,7 +74,7 @@ DESCRIPTION:The Prince Street Players musical of Perrault's Cinderella\, s
  the show support Feeding Barrow\, a weekend meal program for Barrow County
   students. Runs through July 26.
 GEO:33.9908372;-83.7196428
-LAST-MODIFIED:20260717T203621Z
+LAST-MODIFIED:20260718T091613Z
 LOCATION:Winder Cultural Arts Center\, 105 E Athens St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Cinderella - Prince Street Players Version
 DTSTART;TZID=America/New_York:20260725T140000
 DTEND;TZID=America/New_York:20260725T163000
-DTSTAMP:20260717T203621Z
+DTSTAMP:20260718T091704Z
 UID:occ-1664@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -99,7 +99,7 @@ DESCRIPTION:The Prince Street Players musical of Perrault's Cinderella\, s
  the show support Feeding Barrow\, a weekend meal program for Barrow County
   students. Runs through July 26.
 GEO:33.9908372;-83.7196428
-LAST-MODIFIED:20260717T203621Z
+LAST-MODIFIED:20260718T091613Z
 LOCATION:Winder Cultural Arts Center\, 105 E Athens St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Cinderella - Prince Street Players Version
 DTSTART;TZID=America/New_York:20260725T193000
 DTEND;TZID=America/New_York:20260725T220000
-DTSTAMP:20260717T203621Z
+DTSTAMP:20260718T091704Z
 UID:occ-1665@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -124,7 +124,7 @@ DESCRIPTION:The Prince Street Players musical of Perrault's Cinderella\, s
  the show support Feeding Barrow\, a weekend meal program for Barrow County
   students. Runs through July 26.
 GEO:33.9908372;-83.7196428
-LAST-MODIFIED:20260717T203621Z
+LAST-MODIFIED:20260718T091613Z
 LOCATION:Winder Cultural Arts Center\, 105 E Athens St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Cinderella - Prince Street Players Version
 DTSTART;TZID=America/New_York:20260726T150000
 DTEND;TZID=America/New_York:20260726T173000
-DTSTAMP:20260717T203621Z
+DTSTAMP:20260718T091704Z
 UID:occ-1666@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -149,7 +149,7 @@ DESCRIPTION:The Prince Street Players musical of Perrault's Cinderella\, s
  the show support Feeding Barrow\, a weekend meal program for Barrow County
   students. Runs through July 26.
 GEO:33.9908372;-83.7196428
-LAST-MODIFIED:20260717T203621Z
+LAST-MODIFIED:20260718T091613Z
 LOCATION:Winder Cultural Arts Center\, 105 E Athens St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
