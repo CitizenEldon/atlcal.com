@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Bipolar
 DTSTART;TZID=America/New_York:20260717T200000
 DTEND;TZID=America/New_York:20260717T210000
-DTSTAMP:20260718T091704Z
+DTSTAMP:20260718T153544Z
 UID:occ-1248@atlcal.com
 SEQUENCE:0
 CATEGORIES:Stand-up Comedy
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:Human Mind Youth Creates 2026
 DTSTART;TZID=America/New_York:20260724T193000
 DTEND;TZID=America/New_York:20260724T203000
-DTSTAMP:20260718T091704Z
+DTSTAMP:20260718T153544Z
 UID:occ-4121@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -97,7 +97,7 @@ DESCRIPTION:An original devised play about artificial intelligence\, creat
  the result. Tickets use a tiered pricing structure\, with a 'Pay it Forwar
  d' option that subsidizes lower-cost seats.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260718T091526Z
+LAST-MODIFIED:20260718T153520Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Human Mind Youth Creates 2026
 DTSTART;TZID=America/New_York:20260725T143000
 DTEND;TZID=America/New_York:20260725T153000
-DTSTAMP:20260718T091704Z
+DTSTAMP:20260718T153544Z
 UID:occ-4122@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -119,7 +119,7 @@ DESCRIPTION:An original devised play about artificial intelligence\, creat
  the result. Tickets use a tiered pricing structure\, with a 'Pay it Forwar
  d' option that subsidizes lower-cost seats.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260718T091526Z
+LAST-MODIFIED:20260718T153520Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
