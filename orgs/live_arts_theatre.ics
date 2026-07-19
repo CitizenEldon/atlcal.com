@@ -58,33 +58,9 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:POTUS
-DTSTART;TZID=America/New_York:20260717T193000
-DTEND;TZID=America/New_York:20260717T214500
-DTSTAMP:20260718T203507Z
-UID:occ-1143@atlcal.com
-SEQUENCE:0
-CATEGORIES:Play
-DESCRIPTION:Selina Fillinger's Broadway farce: seven women scramble to kee
- p a catastrophically inept president out of trouble.\n\nSelina Fillinger's
-  2022 Broadway farce about the seven women who actually keep the White Hou
- se running. When the president's stray four-letter word snowballs from PR 
- headache into global crisis\, the beleaguered women in his orbit scramble 
- to keep him upright and the country intact. The Washington Post's critic l
- ikened it to a cross between SNL and Veep. From Live Arts Theatre\; recomm
- ended for ages 18 and up for severe language\, adult situations\, and viol
- ence.
-GEO:33.9964675;-84.1609898
-LAST-MODIFIED:20260717T203553Z
-LOCATION:Live Arts Theatre\, 3700 Pleasant Hill Rd
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://app.arts-people.com/index.php?actions=4&p=2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POTUS
 DTSTART;TZID=America/New_York:20260718T193000
 DTEND;TZID=America/New_York:20260718T214500
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-1144@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -108,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:POTUS
 DTSTART;TZID=America/New_York:20260724T193000
 DTEND;TZID=America/New_York:20260724T214500
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-1145@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -122,17 +98,17 @@ DESCRIPTION:Selina Fillinger's Broadway farce: seven women scramble to kee
  ended for ages 18 and up for severe language\, adult situations\, and viol
  ence.
 GEO:33.9964675;-84.1609898
-LAST-MODIFIED:20260718T203455Z
+LAST-MODIFIED:20260719T092757Z
 LOCATION:Live Arts Theatre\, 3700 Pleasant Hill Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://app.arts-people.com/index.php?actions=6&p=2
+URL:https://app.arts-people.com/index.php?actions=4&p=2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:POTUS
 DTSTART;TZID=America/New_York:20260725T193000
 DTEND;TZID=America/New_York:20260725T214500
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-1146@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -146,10 +122,10 @@ DESCRIPTION:Selina Fillinger's Broadway farce: seven women scramble to kee
  ended for ages 18 and up for severe language\, adult situations\, and viol
  ence.
 GEO:33.9964675;-84.1609898
-LAST-MODIFIED:20260718T203455Z
+LAST-MODIFIED:20260719T092757Z
 LOCATION:Live Arts Theatre\, 3700 Pleasant Hill Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://app.arts-people.com/index.php?actions=8&p=2
+URL:https://app.arts-people.com/index.php?actions=6&p=2
 END:VEVENT
 END:VCALENDAR

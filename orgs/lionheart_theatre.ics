@@ -58,34 +58,9 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:The Somewhat True Tale of Robin Hood
-DTSTART;TZID=America/New_York:20260717T193000
-DTEND;TZID=America/New_York:20260717T210000
-DTSTAMP:20260718T203507Z
-UID:occ-604@atlcal.com
-SEQUENCE:0
-CATEGORIES:Play
-DESCRIPTION:Mary Lynn Dobson's Monty Python-flavored Robin Hood spoof\, wi
- th spoon-wielding Merry Men and dessert at intermission.\n\nMary Lynn Dobs
- on's parody sends up the Robin Hood legend in full Monty Python spirit: a 
- preening hero in green\, a damsel fixated on her skin conditions\, a sheri
- ff who would rather be bowling\, and a band of Merry Men armed with spoons
-  and a collective IQ of six. A cheerful "Town's Guy" keeps wandering into 
- scenes he has no business in. Walker Scott directs for Lionheart Theatre\,
-  the Norcross community company\, and every ticket includes dessert at int
- ermission. Runs through July 19.
-GEO:33.9421741;-84.2112431
-LAST-MODIFIED:20260717T203553Z
-LOCATION:Lionheart Theatre\, 10 College St
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://ci.ovationtix.com/35819/production/1270020/performance/1178630
- 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Somewhat True Tale of Robin Hood
 DTSTART;TZID=America/New_York:20260718T110000
 DTEND;TZID=America/New_York:20260718T123000
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-605@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -110,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:The Somewhat True Tale of Robin Hood
 DTSTART;TZID=America/New_York:20260718T140000
 DTEND;TZID=America/New_York:20260718T153000
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-606@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -135,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:The Somewhat True Tale of Robin Hood
 DTSTART;TZID=America/New_York:20260718T193000
 DTEND;TZID=America/New_York:20260718T210000
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-607@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -160,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:The Somewhat True Tale of Robin Hood
 DTSTART;TZID=America/New_York:20260719T140000
 DTEND;TZID=America/New_York:20260719T153000
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-608@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -174,7 +149,7 @@ DESCRIPTION:Mary Lynn Dobson's Monty Python-flavored Robin Hood spoof\, wi
   the Norcross community company\, and every ticket includes dessert at int
  ermission. Runs through July 19.
 GEO:33.9421741;-84.2112431
-LAST-MODIFIED:20260718T203455Z
+LAST-MODIFIED:20260719T092757Z
 LOCATION:Lionheart Theatre\, 10 College St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -185,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:The Philadelphia Story
 DTSTART;TZID=America/New_York:20260911T193000
 DTEND;TZID=America/New_York:20260911T220000
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-593@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -200,7 +175,7 @@ DESCRIPTION:Philip Barry's 1939 high-society comedy: a socialite's second
  rt Theatre\, where every ticket includes dessert at intermission\; runs th
  rough September 27.
 GEO:33.9421741;-84.2112431
-LAST-MODIFIED:20260718T203455Z
+LAST-MODIFIED:20260719T092757Z
 LOCATION:Lionheart Theatre\, 10 College St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -211,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:The Philadelphia Story
 DTSTART;TZID=America/New_York:20260912T193000
 DTEND;TZID=America/New_York:20260912T220000
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-594@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -226,7 +201,7 @@ DESCRIPTION:Philip Barry's 1939 high-society comedy: a socialite's second
  rt Theatre\, where every ticket includes dessert at intermission\; runs th
  rough September 27.
 GEO:33.9421741;-84.2112431
-LAST-MODIFIED:20260718T203455Z
+LAST-MODIFIED:20260719T092757Z
 LOCATION:Lionheart Theatre\, 10 College St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -237,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:The Philadelphia Story
 DTSTART;TZID=America/New_York:20260913T140000
 DTEND;TZID=America/New_York:20260913T163000
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-595@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -252,7 +227,7 @@ DESCRIPTION:Philip Barry's 1939 high-society comedy: a socialite's second
  rt Theatre\, where every ticket includes dessert at intermission\; runs th
  rough September 27.
 GEO:33.9421741;-84.2112431
-LAST-MODIFIED:20260718T203455Z
+LAST-MODIFIED:20260719T092757Z
 LOCATION:Lionheart Theatre\, 10 College St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -263,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:The Philadelphia Story
 DTSTART;TZID=America/New_York:20260918T193000
 DTEND;TZID=America/New_York:20260918T220000
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-596@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -278,7 +253,7 @@ DESCRIPTION:Philip Barry's 1939 high-society comedy: a socialite's second
  rt Theatre\, where every ticket includes dessert at intermission\; runs th
  rough September 27.
 GEO:33.9421741;-84.2112431
-LAST-MODIFIED:20260718T203455Z
+LAST-MODIFIED:20260719T092757Z
 LOCATION:Lionheart Theatre\, 10 College St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -289,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:The Philadelphia Story
 DTSTART;TZID=America/New_York:20260919T193000
 DTEND;TZID=America/New_York:20260919T220000
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-597@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -304,7 +279,7 @@ DESCRIPTION:Philip Barry's 1939 high-society comedy: a socialite's second
  rt Theatre\, where every ticket includes dessert at intermission\; runs th
  rough September 27.
 GEO:33.9421741;-84.2112431
-LAST-MODIFIED:20260718T203455Z
+LAST-MODIFIED:20260719T092757Z
 LOCATION:Lionheart Theatre\, 10 College St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -315,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:The Philadelphia Story
 DTSTART;TZID=America/New_York:20260920T140000
 DTEND;TZID=America/New_York:20260920T163000
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-598@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -330,7 +305,7 @@ DESCRIPTION:Philip Barry's 1939 high-society comedy: a socialite's second
  rt Theatre\, where every ticket includes dessert at intermission\; runs th
  rough September 27.
 GEO:33.9421741;-84.2112431
-LAST-MODIFIED:20260718T203455Z
+LAST-MODIFIED:20260719T092757Z
 LOCATION:Lionheart Theatre\, 10 College St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -341,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:The Philadelphia Story
 DTSTART;TZID=America/New_York:20260925T193000
 DTEND;TZID=America/New_York:20260925T220000
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-599@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -356,7 +331,7 @@ DESCRIPTION:Philip Barry's 1939 high-society comedy: a socialite's second
  rt Theatre\, where every ticket includes dessert at intermission\; runs th
  rough September 27.
 GEO:33.9421741;-84.2112431
-LAST-MODIFIED:20260718T203455Z
+LAST-MODIFIED:20260719T092757Z
 LOCATION:Lionheart Theatre\, 10 College St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -367,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:The Philadelphia Story
 DTSTART;TZID=America/New_York:20260926T140000
 DTEND;TZID=America/New_York:20260926T163000
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-600@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -382,7 +357,7 @@ DESCRIPTION:Philip Barry's 1939 high-society comedy: a socialite's second
  rt Theatre\, where every ticket includes dessert at intermission\; runs th
  rough September 27.
 GEO:33.9421741;-84.2112431
-LAST-MODIFIED:20260718T203455Z
+LAST-MODIFIED:20260719T092757Z
 LOCATION:Lionheart Theatre\, 10 College St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -393,7 +368,7 @@ BEGIN:VEVENT
 SUMMARY:The Philadelphia Story
 DTSTART;TZID=America/New_York:20260926T193000
 DTEND;TZID=America/New_York:20260926T220000
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-601@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -408,7 +383,7 @@ DESCRIPTION:Philip Barry's 1939 high-society comedy: a socialite's second
  rt Theatre\, where every ticket includes dessert at intermission\; runs th
  rough September 27.
 GEO:33.9421741;-84.2112431
-LAST-MODIFIED:20260718T203455Z
+LAST-MODIFIED:20260719T092757Z
 LOCATION:Lionheart Theatre\, 10 College St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -419,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:The Philadelphia Story
 DTSTART;TZID=America/New_York:20260927T140000
 DTEND;TZID=America/New_York:20260927T163000
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-602@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -434,7 +409,7 @@ DESCRIPTION:Philip Barry's 1939 high-society comedy: a socialite's second
  rt Theatre\, where every ticket includes dessert at intermission\; runs th
  rough September 27.
 GEO:33.9421741;-84.2112431
-LAST-MODIFIED:20260718T203455Z
+LAST-MODIFIED:20260719T092757Z
 LOCATION:Lionheart Theatre\, 10 College St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

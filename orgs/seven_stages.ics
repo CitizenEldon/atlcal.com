@@ -57,34 +57,10 @@ TZOFFSETTO:-0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Baby Bipolar
-DTSTART;TZID=America/New_York:20260717T200000
-DTEND;TZID=America/New_York:20260717T210000
-DTSTAMP:20260718T203507Z
-UID:occ-1248@atlcal.com
-SEQUENCE:0
-CATEGORIES:Stand-up Comedy
-DESCRIPTION:Atlanta comedian Maria Mainelli's solo hour about getting a bi
- polar 1 diagnosis and deciding it doesn't run the story.\n\nMaria Mainelli
-  has feelings about MyChart and at least one bad therapist review in her d
- rafts. Her solo show follows one woman from a bipolar 1 diagnosis to a lif
- e where that diagnosis doesn't have to be the bad part. Mainelli\, an Atla
- nta-based writer and comedian who has performed across the US and UK\, arr
- ives fresh off touring her debut hour\, Fly Trap\, and is a vocal mental-h
- ealth advocate. Presented by 7 Stages. Advisory: strong language and theme
- s some may find triggering.
-GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260717T203535Z
-LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.eventbrite.com/e/baby-bipolar-tickets-1989350129790
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Human Mind Youth Creates 2026
 DTSTART;TZID=America/New_York:20260724T193000
 DTEND;TZID=America/New_York:20260724T203000
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-4121@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -97,7 +73,7 @@ DESCRIPTION:An original devised play about artificial intelligence\, creat
  the result. Tickets use a tiered pricing structure\, with a 'Pay it Forwar
  d' option that subsidizes lower-cost seats.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260718T203442Z
+LAST-MODIFIED:20260719T092732Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -106,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Human Mind Youth Creates 2026
 DTSTART;TZID=America/New_York:20260725T143000
 DTEND;TZID=America/New_York:20260725T153000
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-4122@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -119,7 +95,7 @@ DESCRIPTION:An original devised play about artificial intelligence\, creat
  the result. Tickets use a tiered pricing structure\, with a 'Pay it Forwar
  d' option that subsidizes lower-cost seats.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260718T203442Z
+LAST-MODIFIED:20260719T092732Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

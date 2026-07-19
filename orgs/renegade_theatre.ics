@@ -58,34 +58,9 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:The Foreigner
-DTSTART;TZID=America/New_York:20260717T200000
-DTEND;TZID=America/New_York:20260717T221500
-DTSTAMP:20260718T203507Z
-UID:occ-1110@atlcal.com
-SEQUENCE:0
-CATEGORIES:Play
-DESCRIPTION:Larry Shue's 1984 farce: a painfully shy Englishman fakes spea
- king no English\, and a Georgia fishing lodge spills its secrets.\n\nLarry
-  Shue's much-revived 1984 comedy\, winner of two Obie Awards. Charlie Bake
- r\, shy to the point of paralysis\, arrives at a rural Georgia fishing lod
- ge\, where a well-meaning friend passes him off as a foreigner who underst
- ands no English. The other guests promptly air their secrets\, schemes\, a
- nd romances right in front of him\, and Charlie finds unexpected nerve in 
- playing along. A community production from Renegade Theatre Company\, whic
- h donates a portion of each show's proceeds to charity.
-GEO:33.7813812;-84.3632461
-LAST-MODIFIED:20260718T203459Z
-LOCATION:Virginia-Highland Church\, 743 Virginia Ave NE
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://docs.google.com/forms/d/e/1FAIpQLSdmL5Ji8ouLElNxwnJZsqqArsGhqG
- BsGUYVxmtW1MSc3AU9KA/viewform?usp=header
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Foreigner
 DTSTART;TZID=America/New_York:20260718T140000
 DTEND;TZID=America/New_York:20260718T161500
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-1111@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -99,7 +74,7 @@ DESCRIPTION:Larry Shue's 1984 farce: a painfully shy Englishman fakes spea
  playing along. A community production from Renegade Theatre Company\, whic
  h donates a portion of each show's proceeds to charity.
 GEO:33.7813812;-84.3632461
-LAST-MODIFIED:20260718T203459Z
+LAST-MODIFIED:20260719T092805Z
 LOCATION:Virginia-Highland Church\, 743 Virginia Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -110,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:The Foreigner
 DTSTART;TZID=America/New_York:20260718T200000
 DTEND;TZID=America/New_York:20260718T221500
-DTSTAMP:20260718T203507Z
+DTSTAMP:20260719T092929Z
 UID:occ-1112@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -124,7 +99,7 @@ DESCRIPTION:Larry Shue's 1984 farce: a painfully shy Englishman fakes spea
  playing along. A community production from Renegade Theatre Company\, whic
  h donates a portion of each show's proceeds to charity.
 GEO:33.7813812;-84.3632461
-LAST-MODIFIED:20260718T203459Z
+LAST-MODIFIED:20260719T092805Z
 LOCATION:Virginia-Highland Church\, 743 Virginia Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
