@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop
 DTSTART;TZID=America/New_York:20260723T200000
 DTEND;TZID=America/New_York:20260723T220000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-820@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -75,7 +75,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
  d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
  ugust 2.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop
 DTSTART;TZID=America/New_York:20260724T200000
 DTEND;TZID=America/New_York:20260724T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-821@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -100,7 +100,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
  d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
  ugust 2.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop
 DTSTART;TZID=America/New_York:20260725T143000
 DTEND;TZID=America/New_York:20260725T163000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-822@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -125,7 +125,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
  d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
  ugust 2.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop
 DTSTART;TZID=America/New_York:20260726T143000
 DTEND;TZID=America/New_York:20260726T163000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-823@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -150,7 +150,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
  d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
  ugust 2.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop
 DTSTART;TZID=America/New_York:20260730T200000
 DTEND;TZID=America/New_York:20260730T220000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-824@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -175,7 +175,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
  d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
  ugust 2.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop
 DTSTART;TZID=America/New_York:20260731T200000
 DTEND;TZID=America/New_York:20260731T220000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-825@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -200,7 +200,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
  d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
  ugust 2.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop
 DTSTART;TZID=America/New_York:20260801T200000
 DTEND;TZID=America/New_York:20260801T220000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-826@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -225,7 +225,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
  d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
  ugust 2.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -235,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop
 DTSTART;TZID=America/New_York:20260802T143000
 DTEND;TZID=America/New_York:20260802T183000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-827@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -250,7 +250,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
  d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
  ugust 2.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show
 DTSTART;TZID=America/New_York:20260815T193000
 DTEND;TZID=America/New_York:20260815T213000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-819@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -270,7 +270,7 @@ DESCRIPTION:Improv comedy from the Southside Sidekicks\, Southside Theatre
  er community theatre running since 1973. Scenes built on the spot\, shaped
   by whatever the audience throws at them — no two shows the same.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:Improv Workshop
 DTSTART;TZID=America/New_York:20260816T150000
 DTEND;TZID=America/New_York:20260816T173000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-1577@atlcal.com
 SEQUENCE:0
 CATEGORIES:Workshop or Class
@@ -293,7 +293,7 @@ DESCRIPTION:Free hands-on improv workshop from the Southside Sidekicks\, f
   invited to perform before a real audience in a showcase on September 13. 
  Register at sidekicks@stgplays.com.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:Improv Workshop
 DTSTART;TZID=America/New_York:20260823T150000
 DTEND;TZID=America/New_York:20260823T173000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-1578@atlcal.com
 SEQUENCE:0
 CATEGORIES:Workshop or Class
@@ -316,7 +316,7 @@ DESCRIPTION:Free hands-on improv workshop from the Southside Sidekicks\, f
   invited to perform before a real audience in a showcase on September 13. 
  Register at sidekicks@stgplays.com.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -326,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:Improv Workshop
 DTSTART;TZID=America/New_York:20260830T150000
 DTEND;TZID=America/New_York:20260830T173000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-1579@atlcal.com
 SEQUENCE:0
 CATEGORIES:Workshop or Class
@@ -339,7 +339,7 @@ DESCRIPTION:Free hands-on improv workshop from the Southside Sidekicks\, f
   invited to perform before a real audience in a showcase on September 13. 
  Register at sidekicks@stgplays.com.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -349,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Improv Workshop
 DTSTART;TZID=America/New_York:20260906T150000
 DTEND;TZID=America/New_York:20260906T173000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-1580@atlcal.com
 SEQUENCE:0
 CATEGORIES:Workshop or Class
@@ -362,7 +362,7 @@ DESCRIPTION:Free hands-on improv workshop from the Southside Sidekicks\, f
   invited to perform before a real audience in a showcase on September 13. 
  Register at sidekicks@stgplays.com.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:Improv Workshop Grad Show
 DTSTART;TZID=America/New_York:20260913T130000
 DTEND;TZID=America/New_York:20260913T143000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-1582@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -384,7 +384,7 @@ DESCRIPTION:Improv workshop graduates take the stage\, building scenes and
  side Theatre Guild\, an all-volunteer community theatre running since 1973
  .
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -394,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: Seriously Scary
 DTSTART;TZID=America/New_York:20261024T193000
 DTEND;TZID=America/New_York:20261024T213000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-1583@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -405,7 +405,7 @@ DESCRIPTION:Southside Theatre Guild's in-house improv troupe takes a swing
  ever the audience throws at them. No script\, no rewinds\, and a different
   show every time by definition.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -415,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261105T200000
 DTEND;TZID=America/New_York:20261105T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-828@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -428,7 +428,7 @@ DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
  eving becomes the whole ballgame. From Southside Theatre Guild\, an all-vo
  lunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -438,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261106T200000
 DTEND;TZID=America/New_York:20261106T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-829@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -451,7 +451,7 @@ DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
  eving becomes the whole ballgame. From Southside Theatre Guild\, an all-vo
  lunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -461,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261107T143000
 DTEND;TZID=America/New_York:20261107T170000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-830@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -474,7 +474,7 @@ DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
  eving becomes the whole ballgame. From Southside Theatre Guild\, an all-vo
  lunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -484,7 +484,7 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261108T143000
 DTEND;TZID=America/New_York:20261108T170000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-831@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -497,7 +497,7 @@ DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
  eving becomes the whole ballgame. From Southside Theatre Guild\, an all-vo
  lunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -507,7 +507,7 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261112T200000
 DTEND;TZID=America/New_York:20261112T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-832@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -520,7 +520,7 @@ DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
  eving becomes the whole ballgame. From Southside Theatre Guild\, an all-vo
  lunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -530,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261113T200000
 DTEND;TZID=America/New_York:20261113T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-833@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -543,7 +543,7 @@ DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
  eving becomes the whole ballgame. From Southside Theatre Guild\, an all-vo
  lunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -553,7 +553,7 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261114T200000
 DTEND;TZID=America/New_York:20261114T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-834@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -566,7 +566,7 @@ DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
  eving becomes the whole ballgame. From Southside Theatre Guild\, an all-vo
  lunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -576,7 +576,7 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261115T143000
 DTEND;TZID=America/New_York:20261115T170000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-835@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -589,7 +589,7 @@ DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
  eving becomes the whole ballgame. From Southside Theatre Guild\, an all-vo
  lunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203433Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -599,7 +599,7 @@ BEGIN:VEVENT
 SUMMARY:Sketch Comedy Show
 DTSTART;TZID=America/New_York:20261205T200000
 DTEND;TZID=America/New_York:20261205T220000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-1584@atlcal.com
 SEQUENCE:0
 CATEGORIES:Stand-up Comedy
@@ -609,7 +609,7 @@ DESCRIPTION:A night of short comic scenes from the all-volunteer Southside
  rs of Southside Theatre Guild\, an all-volunteer community theatre running
   since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -619,7 +619,7 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: Naughty or Nice List
 DTSTART;TZID=America/New_York:20261211T193000
 DTEND;TZID=America/New_York:20261211T210000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-1585@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -630,7 +630,7 @@ DESCRIPTION:Holiday-flavored improv from Southside Sidekicks\, the Guild's
  the performers build scenes and characters from audience suggestions\, so 
  the show that happens is the one the room helps make.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -640,7 +640,7 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: A Holly Jolly Murder Mystery
 DTSTART;TZID=America/New_York:20261212T193000
 DTEND;TZID=America/New_York:20261212T213000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-1586@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -651,7 +651,7 @@ DESCRIPTION:An improvised holiday-themed murder mystery from Southside The
  cript\, shaped by whatever the audience throws at them. Nobody in the cast
   knows whodunit either until the night decides.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -661,7 +661,7 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: Choose Your Own (Improv) Adventure!
 DTSTART;TZID=America/New_York:20270123T193000
 DTEND;TZID=America/New_York:20270123T213000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-1587@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -672,7 +672,7 @@ DESCRIPTION:Unscripted comedy from the Southside Sidekicks\, built on the
  ht wanders. The Sidekicks are the in-house improv troupe of Southside Thea
  tre Guild\, an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -682,7 +682,7 @@ BEGIN:VEVENT
 SUMMARY:12 Angry Jurors
 DTSTART;TZID=America/New_York:20270128T200000
 DTEND;TZID=America/New_York:20270128T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-836@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -695,7 +695,7 @@ DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
  , the case starts to come apart. From Southside Theatre Guild\, an all-vol
  unteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -705,7 +705,7 @@ BEGIN:VEVENT
 SUMMARY:12 Angry Jurors
 DTSTART;TZID=America/New_York:20270129T200000
 DTEND;TZID=America/New_York:20270129T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-837@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -718,7 +718,7 @@ DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
  , the case starts to come apart. From Southside Theatre Guild\, an all-vol
  unteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -728,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:12 Angry Jurors
 DTSTART;TZID=America/New_York:20270130T143000
 DTEND;TZID=America/New_York:20270130T170000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-838@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -741,7 +741,7 @@ DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
  , the case starts to come apart. From Southside Theatre Guild\, an all-vol
  unteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -751,7 +751,7 @@ BEGIN:VEVENT
 SUMMARY:12 Angry Jurors
 DTSTART;TZID=America/New_York:20270131T143000
 DTEND;TZID=America/New_York:20270131T170000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-839@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -764,7 +764,7 @@ DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
  , the case starts to come apart. From Southside Theatre Guild\, an all-vol
  unteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -774,7 +774,7 @@ BEGIN:VEVENT
 SUMMARY:12 Angry Jurors
 DTSTART;TZID=America/New_York:20270204T200000
 DTEND;TZID=America/New_York:20270204T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-840@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -787,7 +787,7 @@ DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
  , the case starts to come apart. From Southside Theatre Guild\, an all-vol
  unteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -797,7 +797,7 @@ BEGIN:VEVENT
 SUMMARY:12 Angry Jurors
 DTSTART;TZID=America/New_York:20270205T200000
 DTEND;TZID=America/New_York:20270205T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-841@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -810,7 +810,7 @@ DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
  , the case starts to come apart. From Southside Theatre Guild\, an all-vol
  unteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -820,7 +820,7 @@ BEGIN:VEVENT
 SUMMARY:12 Angry Jurors
 DTSTART;TZID=America/New_York:20270206T200000
 DTEND;TZID=America/New_York:20270206T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-842@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -833,7 +833,7 @@ DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
  , the case starts to come apart. From Southside Theatre Guild\, an all-vol
  unteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -843,7 +843,7 @@ BEGIN:VEVENT
 SUMMARY:12 Angry Jurors
 DTSTART;TZID=America/New_York:20270207T143000
 DTEND;TZID=America/New_York:20270207T170000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-843@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -856,7 +856,7 @@ DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
  , the case starts to come apart. From Southside Theatre Guild\, an all-vol
  unteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -866,7 +866,7 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: The Improv School of Witchcraft & Wizardry
 DTSTART;TZID=America/New_York:20270220T193000
 DTEND;TZID=America/New_York:20270220T213000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-1588@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -877,7 +877,7 @@ DESCRIPTION:Wizard-school-themed improv night from the Southside Sidekicks
  on the spot from audience suggestions. Nothing is scripted\, so what happe
  ns depends on what the room throws at them.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -887,7 +887,7 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: Improv Wars 3
 DTSTART;TZID=America/New_York:20270320T193000
 DTEND;TZID=America/New_York:20270320T213000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-1596@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -898,7 +898,7 @@ DESCRIPTION:Improv comedy from the Southside Sidekicks\, the in-house trou
  Southside Theatre Guild\, an all-volunteer community theatre running since
   1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -908,7 +908,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline
 DTSTART;TZID=America/New_York:20270422T200000
 DTEND;TZID=America/New_York:20270422T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-844@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -919,7 +919,7 @@ DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
  oldest continually running troupe of its kind. Everything here\, from the 
  acting to the set building\, is done by volunteers.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -929,7 +929,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline
 DTSTART;TZID=America/New_York:20270423T200000
 DTEND;TZID=America/New_York:20270423T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-845@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -940,7 +940,7 @@ DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
  oldest continually running troupe of its kind. Everything here\, from the 
  acting to the set building\, is done by volunteers.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -950,7 +950,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline
 DTSTART;TZID=America/New_York:20270424T143000
 DTEND;TZID=America/New_York:20270424T170000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-846@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -961,7 +961,7 @@ DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
  oldest continually running troupe of its kind. Everything here\, from the 
  acting to the set building\, is done by volunteers.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -971,7 +971,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline
 DTSTART;TZID=America/New_York:20270425T143000
 DTEND;TZID=America/New_York:20270425T170000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-847@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -982,7 +982,7 @@ DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
  oldest continually running troupe of its kind. Everything here\, from the 
  acting to the set building\, is done by volunteers.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -992,7 +992,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline
 DTSTART;TZID=America/New_York:20270429T200000
 DTEND;TZID=America/New_York:20270429T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-848@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1003,7 +1003,7 @@ DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
  oldest continually running troupe of its kind. Everything here\, from the 
  acting to the set building\, is done by volunteers.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1013,7 +1013,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline
 DTSTART;TZID=America/New_York:20270430T200000
 DTEND;TZID=America/New_York:20270430T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-849@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1024,7 +1024,7 @@ DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
  oldest continually running troupe of its kind. Everything here\, from the 
  acting to the set building\, is done by volunteers.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1034,7 +1034,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline
 DTSTART;TZID=America/New_York:20270501T200000
 DTEND;TZID=America/New_York:20270501T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-850@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1045,7 +1045,7 @@ DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
  oldest continually running troupe of its kind. Everything here\, from the 
  acting to the set building\, is done by volunteers.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1055,7 +1055,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline
 DTSTART;TZID=America/New_York:20270502T143000
 DTEND;TZID=America/New_York:20270502T170000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-851@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1066,7 +1066,7 @@ DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
  oldest continually running troupe of its kind. Everything here\, from the 
  acting to the set building\, is done by volunteers.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1076,7 +1076,7 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Time Machine - An Improvised Musical
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-1597@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -1088,7 +1088,7 @@ DESCRIPTION:A fully improvised musical from Southside Sidekicks — songs\
  -machine premise gives the improvisers license to land anywhere in history
   the audience points them.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1098,7 +1098,7 @@ BEGIN:VEVENT
 SUMMARY:Stand Up for Improv - Improvised Stand-Up Show
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-1598@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -1109,7 +1109,7 @@ DESCRIPTION:Stand-up with no prepared material: comics improvise their set
  erial\, no safety net. Presented by Southside Theatre Guild\, an all-volun
  teer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1119,7 +1119,7 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270722T200000
 DTEND;TZID=America/New_York:20270722T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-852@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1132,7 +1132,7 @@ DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
   an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1142,7 +1142,7 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270723T200000
 DTEND;TZID=America/New_York:20270723T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-853@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1155,7 +1155,7 @@ DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
   an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1165,7 +1165,7 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270724T143000
 DTEND;TZID=America/New_York:20270724T170000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-854@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1178,7 +1178,7 @@ DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
   an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1188,7 +1188,7 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270725T143000
 DTEND;TZID=America/New_York:20270725T170000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-855@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1201,7 +1201,7 @@ DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
   an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1211,7 +1211,7 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270729T200000
 DTEND;TZID=America/New_York:20270729T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-856@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1224,7 +1224,7 @@ DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
   an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1234,7 +1234,7 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270730T200000
 DTEND;TZID=America/New_York:20270730T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-857@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1247,7 +1247,7 @@ DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
   an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1257,7 +1257,7 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270731T200000
 DTEND;TZID=America/New_York:20270731T223000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-858@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1270,7 +1270,7 @@ DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
   an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1280,7 +1280,7 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270801T143000
 DTEND;TZID=America/New_York:20270801T170000
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-859@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1293,7 +1293,7 @@ DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
   an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1303,7 +1303,7 @@ BEGIN:VEVENT
 SUMMARY:The Price is Ri-FUNNY
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
-DTSTAMP:20260719T153609Z
+DTSTAMP:20260719T203437Z
 UID:occ-1599@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -1314,7 +1314,7 @@ DESCRIPTION:Live improv comedy — scenes and characters built on the spot
  ild\, an all-volunteer community theatre in operation since 1973 and home 
  to the improv troupe Southside Sidekicks.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260719T153605Z
+LAST-MODIFIED:20260719T203434Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
