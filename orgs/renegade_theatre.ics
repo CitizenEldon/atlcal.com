@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:The Foreigner
 DTSTART;TZID=America/New_York:20260718T140000
 DTEND;TZID=America/New_York:20260718T161500
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1111@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -74,7 +74,7 @@ DESCRIPTION:Larry Shue's 1984 farce: a painfully shy Englishman fakes spea
  playing along. A community production from Renegade Theatre Company\, whic
  h donates a portion of each show's proceeds to charity.
 GEO:33.7813812;-84.3632461
-LAST-MODIFIED:20260719T092805Z
+LAST-MODIFIED:20260719T153602Z
 LOCATION:Virginia-Highland Church\, 743 Virginia Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:The Foreigner
 DTSTART;TZID=America/New_York:20260718T200000
 DTEND;TZID=America/New_York:20260718T221500
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1112@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -99,7 +99,7 @@ DESCRIPTION:Larry Shue's 1984 farce: a painfully shy Englishman fakes spea
  playing along. A community production from Renegade Theatre Company\, whic
  h donates a portion of each show's proceeds to charity.
 GEO:33.7813812;-84.3632461
-LAST-MODIFIED:20260719T092805Z
+LAST-MODIFIED:20260719T153602Z
 LOCATION:Virginia-Highland Church\, 743 Virginia Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

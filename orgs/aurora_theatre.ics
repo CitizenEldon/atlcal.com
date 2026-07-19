@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260818T200000
 DTEND;TZID=America/New_York:20260818T223000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3021@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -75,7 +75,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260820T200000
 DTEND;TZID=America/New_York:20260820T223000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1669@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -100,7 +100,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260821T200000
 DTEND;TZID=America/New_York:20260821T223000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1670@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -125,7 +125,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260822T143000
 DTEND;TZID=America/New_York:20260822T170000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1671@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -150,7 +150,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260822T200000
 DTEND;TZID=America/New_York:20260822T223000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1672@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -175,7 +175,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260823T143000
 DTEND;TZID=America/New_York:20260823T170000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1673@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -200,7 +200,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260826T100000
 DTEND;TZID=America/New_York:20260826T123000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1674@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -225,7 +225,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -235,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260827T200000
 DTEND;TZID=America/New_York:20260827T223000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1675@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -250,7 +250,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260828T200000
 DTEND;TZID=America/New_York:20260828T223000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1676@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -275,7 +275,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260829T143000
 DTEND;TZID=America/New_York:20260829T170000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1677@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -300,7 +300,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260829T200000
 DTEND;TZID=America/New_York:20260829T223000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1678@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -325,7 +325,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260830T143000
 DTEND;TZID=America/New_York:20260830T170000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1679@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -350,7 +350,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -360,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260903T200000
 DTEND;TZID=America/New_York:20260903T223000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1680@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -375,7 +375,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260904T200000
 DTEND;TZID=America/New_York:20260904T223000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1681@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -400,7 +400,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -410,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260905T143000
 DTEND;TZID=America/New_York:20260905T170000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1682@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -425,7 +425,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -435,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260905T200000
 DTEND;TZID=America/New_York:20260905T223000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1683@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -450,7 +450,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -460,7 +460,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260906T143000
 DTEND;TZID=America/New_York:20260906T170000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1684@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -475,7 +475,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -485,7 +485,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260910T200000
 DTEND;TZID=America/New_York:20260910T223000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1685@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -500,7 +500,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -510,7 +510,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260911T200000
 DTEND;TZID=America/New_York:20260911T223000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1686@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -525,7 +525,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -535,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260912T143000
 DTEND;TZID=America/New_York:20260912T170000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1687@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -550,7 +550,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -560,7 +560,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260912T200000
 DTEND;TZID=America/New_York:20260912T223000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1688@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -575,7 +575,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -585,7 +585,7 @@ BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260913T143000
 DTEND;TZID=America/New_York:20260913T170000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-1689@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -600,7 +600,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -610,7 +610,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20260918T193000
 DTEND;TZID=America/New_York:20260918T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3101@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -633,7 +633,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20260918T193000
 DTEND;TZID=America/New_York:20260918T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4303@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -643,7 +643,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -653,7 +653,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20260919T193000
 DTEND;TZID=America/New_York:20260919T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3102@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -676,7 +676,7 @@ BEGIN:VEVENT
 SUMMARY:Brews and Boos 2026
 DTSTART;TZID=America/New_York:20260919T193000
 DTEND;TZID=America/New_York:20260919T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3132@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -698,7 +698,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20260919T193000
 DTEND;TZID=America/New_York:20260919T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4304@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -708,7 +708,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -718,7 +718,7 @@ BEGIN:VEVENT
 SUMMARY:Brews & Boos: Haunted Pub Crawl
 DTSTART;TZID=America/New_York:20260919T193000
 DTEND;TZID=America/New_York:20260919T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4334@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -730,7 +730,7 @@ DESCRIPTION:A grown-up ghost tour with drink stops along the way\, from Au
  n Aurora Theatre's Lawrenceville Ghost Tours: guided ghost stories with pu
  b stops built in\, so you can steady your nerves between hauntings.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -740,7 +740,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20260925T193000
 DTEND;TZID=America/New_York:20260925T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3103@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -763,7 +763,7 @@ BEGIN:VEVENT
 SUMMARY:Brews and Boos 2026
 DTSTART;TZID=America/New_York:20260925T193000
 DTEND;TZID=America/New_York:20260925T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3133@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -785,7 +785,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20260925T193000
 DTEND;TZID=America/New_York:20260925T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4305@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -795,7 +795,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -805,7 +805,7 @@ BEGIN:VEVENT
 SUMMARY:Brews & Boos: Haunted Pub Crawl
 DTSTART;TZID=America/New_York:20260925T193000
 DTEND;TZID=America/New_York:20260925T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4335@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -817,7 +817,7 @@ DESCRIPTION:A grown-up ghost tour with drink stops along the way\, from Au
  n Aurora Theatre's Lawrenceville Ghost Tours: guided ghost stories with pu
  b stops built in\, so you can steady your nerves between hauntings.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -827,7 +827,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20260926T193000
 DTEND;TZID=America/New_York:20260926T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3104@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -850,7 +850,7 @@ BEGIN:VEVENT
 SUMMARY:Brews and Boos 2026
 DTSTART;TZID=America/New_York:20260926T193000
 DTEND;TZID=America/New_York:20260926T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3134@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -872,7 +872,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20260926T193000
 DTEND;TZID=America/New_York:20260926T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4306@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -882,7 +882,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -892,7 +892,7 @@ BEGIN:VEVENT
 SUMMARY:Brews & Boos: Haunted Pub Crawl
 DTSTART;TZID=America/New_York:20260926T193000
 DTEND;TZID=America/New_York:20260926T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4336@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -904,7 +904,7 @@ DESCRIPTION:A grown-up ghost tour with drink stops along the way\, from Au
  n Aurora Theatre's Lawrenceville Ghost Tours: guided ghost stories with pu
  b stops built in\, so you can steady your nerves between hauntings.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -914,7 +914,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours 2026
 DTSTART;TZID=America/New_York:20260926T200000
 DTEND;TZID=America/New_York:20260926T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3147@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -936,7 +936,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours
 DTSTART;TZID=America/New_York:20260926T200000
 DTEND;TZID=America/New_York:20260926T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4349@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -947,7 +947,7 @@ DESCRIPTION:An after-dark guided ghost walk through a historic cemetery\,
  the sleeping ghosts and set off a wave of paranormal reports. Part of the 
  Lawrenceville Ghost Tours\, the haunted-attraction side of Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -957,7 +957,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3105@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -980,7 +980,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4307@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -990,7 +990,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1000,7 +1000,7 @@ BEGIN:VEVENT
 SUMMARY:Brews and Boos 2026
 DTSTART;TZID=America/New_York:20261002T193000
 DTEND;TZID=America/New_York:20261002T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3135@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1022,7 +1022,7 @@ BEGIN:VEVENT
 SUMMARY:Brews & Boos: Haunted Pub Crawl
 DTSTART;TZID=America/New_York:20261002T193000
 DTEND;TZID=America/New_York:20261002T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4337@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1034,7 +1034,7 @@ DESCRIPTION:A grown-up ghost tour with drink stops along the way\, from Au
  n Aurora Theatre's Lawrenceville Ghost Tours: guided ghost stories with pu
  b stops built in\, so you can steady your nerves between hauntings.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1044,7 +1044,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours 2026
 DTSTART;TZID=America/New_York:20261002T200000
 DTEND;TZID=America/New_York:20261002T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3148@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1066,7 +1066,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours
 DTSTART;TZID=America/New_York:20261002T200000
 DTEND;TZID=America/New_York:20261002T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4350@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1077,7 +1077,7 @@ DESCRIPTION:An after-dark guided ghost walk through a historic cemetery\,
  the sleeping ghosts and set off a wave of paranormal reports. Part of the 
  Lawrenceville Ghost Tours\, the haunted-attraction side of Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1087,7 +1087,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261002T210000
 DTEND;TZID=America/New_York:20261002T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3106@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1110,7 +1110,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261002T210000
 DTEND;TZID=America/New_York:20261002T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4308@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1120,7 +1120,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1130,7 +1130,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3107@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1153,7 +1153,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4309@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1163,7 +1163,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1173,7 +1173,7 @@ BEGIN:VEVENT
 SUMMARY:Brews and Boos 2026
 DTSTART;TZID=America/New_York:20261003T193000
 DTEND;TZID=America/New_York:20261003T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3136@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1195,7 +1195,7 @@ BEGIN:VEVENT
 SUMMARY:Brews & Boos: Haunted Pub Crawl
 DTSTART;TZID=America/New_York:20261003T193000
 DTEND;TZID=America/New_York:20261003T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4338@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1207,7 +1207,7 @@ DESCRIPTION:A grown-up ghost tour with drink stops along the way\, from Au
  n Aurora Theatre's Lawrenceville Ghost Tours: guided ghost stories with pu
  b stops built in\, so you can steady your nerves between hauntings.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1217,7 +1217,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours 2026
 DTSTART;TZID=America/New_York:20261003T200000
 DTEND;TZID=America/New_York:20261003T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3149@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1239,7 +1239,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours
 DTSTART;TZID=America/New_York:20261003T200000
 DTEND;TZID=America/New_York:20261003T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4351@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1250,7 +1250,7 @@ DESCRIPTION:An after-dark guided ghost walk through a historic cemetery\,
  the sleeping ghosts and set off a wave of paranormal reports. Part of the 
  Lawrenceville Ghost Tours\, the haunted-attraction side of Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1260,7 +1260,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261003T210000
 DTEND;TZID=America/New_York:20261003T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3108@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1283,7 +1283,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261003T210000
 DTEND;TZID=America/New_York:20261003T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4310@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1293,7 +1293,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1303,7 +1303,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261004T193000
 DTEND;TZID=America/New_York:20261004T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3109@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1326,7 +1326,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261004T193000
 DTEND;TZID=America/New_York:20261004T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4311@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1336,7 +1336,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1346,7 +1346,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261009T190000
 DTEND;TZID=America/New_York:20261009T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3110@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1369,7 +1369,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261009T190000
 DTEND;TZID=America/New_York:20261009T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4312@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1379,7 +1379,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1389,7 +1389,7 @@ BEGIN:VEVENT
 SUMMARY:Brews and Boos 2026
 DTSTART;TZID=America/New_York:20261009T193000
 DTEND;TZID=America/New_York:20261009T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3137@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1411,7 +1411,7 @@ BEGIN:VEVENT
 SUMMARY:Brews & Boos: Haunted Pub Crawl
 DTSTART;TZID=America/New_York:20261009T193000
 DTEND;TZID=America/New_York:20261009T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4339@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1423,7 +1423,7 @@ DESCRIPTION:A grown-up ghost tour with drink stops along the way\, from Au
  n Aurora Theatre's Lawrenceville Ghost Tours: guided ghost stories with pu
  b stops built in\, so you can steady your nerves between hauntings.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1433,7 +1433,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261009T210000
 DTEND;TZID=America/New_York:20261009T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3111@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1456,7 +1456,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261009T210000
 DTEND;TZID=America/New_York:20261009T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4313@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1466,7 +1466,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1476,7 +1476,7 @@ BEGIN:VEVENT
 SUMMARY:Brews and Boos 2026
 DTSTART;TZID=America/New_York:20261010T193000
 DTEND;TZID=America/New_York:20261010T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3138@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1498,7 +1498,7 @@ BEGIN:VEVENT
 SUMMARY:Brews & Boos: Haunted Pub Crawl
 DTSTART;TZID=America/New_York:20261010T193000
 DTEND;TZID=America/New_York:20261010T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4340@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1510,7 +1510,7 @@ DESCRIPTION:A grown-up ghost tour with drink stops along the way\, from Au
  n Aurora Theatre's Lawrenceville Ghost Tours: guided ghost stories with pu
  b stops built in\, so you can steady your nerves between hauntings.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1520,7 +1520,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261011T193000
 DTEND;TZID=America/New_York:20261011T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3112@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1543,7 +1543,7 @@ BEGIN:VEVENT
 SUMMARY:Brews and Boos 2026
 DTSTART;TZID=America/New_York:20261011T193000
 DTEND;TZID=America/New_York:20261011T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3139@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1565,7 +1565,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261011T193000
 DTEND;TZID=America/New_York:20261011T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4314@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1575,7 +1575,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1585,7 +1585,7 @@ BEGIN:VEVENT
 SUMMARY:Brews & Boos: Haunted Pub Crawl
 DTSTART;TZID=America/New_York:20261011T193000
 DTEND;TZID=America/New_York:20261011T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4341@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1597,7 +1597,7 @@ DESCRIPTION:A grown-up ghost tour with drink stops along the way\, from Au
  n Aurora Theatre's Lawrenceville Ghost Tours: guided ghost stories with pu
  b stops built in\, so you can steady your nerves between hauntings.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1607,7 +1607,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261016T190000
 DTEND;TZID=America/New_York:20261016T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3113@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1630,7 +1630,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261016T190000
 DTEND;TZID=America/New_York:20261016T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4315@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1640,7 +1640,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1650,7 +1650,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours 2026
 DTSTART;TZID=America/New_York:20261016T200000
 DTEND;TZID=America/New_York:20261016T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3150@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1672,7 +1672,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours
 DTSTART;TZID=America/New_York:20261016T200000
 DTEND;TZID=America/New_York:20261016T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4352@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1683,7 +1683,7 @@ DESCRIPTION:An after-dark guided ghost walk through a historic cemetery\,
  the sleeping ghosts and set off a wave of paranormal reports. Part of the 
  Lawrenceville Ghost Tours\, the haunted-attraction side of Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1693,7 +1693,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261016T210000
 DTEND;TZID=America/New_York:20261016T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3114@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1716,7 +1716,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261016T210000
 DTEND;TZID=America/New_York:20261016T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4316@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1726,7 +1726,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1736,7 +1736,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261017T190000
 DTEND;TZID=America/New_York:20261017T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3115@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1759,7 +1759,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261017T190000
 DTEND;TZID=America/New_York:20261017T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4317@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1769,7 +1769,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1779,7 +1779,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261017T210000
 DTEND;TZID=America/New_York:20261017T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3116@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1802,7 +1802,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261017T210000
 DTEND;TZID=America/New_York:20261017T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4318@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1812,7 +1812,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1822,7 +1822,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261018T193000
 DTEND;TZID=America/New_York:20261018T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3117@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1845,7 +1845,7 @@ BEGIN:VEVENT
 SUMMARY:Brews and Boos 2026
 DTSTART;TZID=America/New_York:20261018T193000
 DTEND;TZID=America/New_York:20261018T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3140@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1867,7 +1867,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261018T193000
 DTEND;TZID=America/New_York:20261018T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4319@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1877,7 +1877,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1887,7 +1887,7 @@ BEGIN:VEVENT
 SUMMARY:Brews & Boos: Haunted Pub Crawl
 DTSTART;TZID=America/New_York:20261018T193000
 DTEND;TZID=America/New_York:20261018T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4342@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1899,7 +1899,7 @@ DESCRIPTION:A grown-up ghost tour with drink stops along the way\, from Au
  n Aurora Theatre's Lawrenceville Ghost Tours: guided ghost stories with pu
  b stops built in\, so you can steady your nerves between hauntings.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1909,7 +1909,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours 2026
 DTSTART;TZID=America/New_York:20261018T200000
 DTEND;TZID=America/New_York:20261018T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3151@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1931,7 +1931,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours
 DTSTART;TZID=America/New_York:20261018T200000
 DTEND;TZID=America/New_York:20261018T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4353@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1942,7 +1942,7 @@ DESCRIPTION:An after-dark guided ghost walk through a historic cemetery\,
  the sleeping ghosts and set off a wave of paranormal reports. Part of the 
  Lawrenceville Ghost Tours\, the haunted-attraction side of Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1952,7 +1952,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261023T190000
 DTEND;TZID=America/New_York:20261023T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3118@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1975,7 +1975,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261023T190000
 DTEND;TZID=America/New_York:20261023T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4320@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -1985,7 +1985,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1995,7 +1995,7 @@ BEGIN:VEVENT
 SUMMARY:Brews and Boos 2026
 DTSTART;TZID=America/New_York:20261023T193000
 DTEND;TZID=America/New_York:20261023T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3141@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2017,7 +2017,7 @@ BEGIN:VEVENT
 SUMMARY:Brews & Boos: Haunted Pub Crawl
 DTSTART;TZID=America/New_York:20261023T193000
 DTEND;TZID=America/New_York:20261023T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4343@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2029,7 +2029,7 @@ DESCRIPTION:A grown-up ghost tour with drink stops along the way\, from Au
  n Aurora Theatre's Lawrenceville Ghost Tours: guided ghost stories with pu
  b stops built in\, so you can steady your nerves between hauntings.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2039,7 +2039,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261023T210000
 DTEND;TZID=America/New_York:20261023T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3119@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2062,7 +2062,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261023T210000
 DTEND;TZID=America/New_York:20261023T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4321@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2072,7 +2072,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2082,7 +2082,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261024T190000
 DTEND;TZID=America/New_York:20261024T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3120@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2105,7 +2105,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261024T190000
 DTEND;TZID=America/New_York:20261024T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4322@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2115,7 +2115,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2125,7 +2125,7 @@ BEGIN:VEVENT
 SUMMARY:Brews and Boos 2026
 DTSTART;TZID=America/New_York:20261024T193000
 DTEND;TZID=America/New_York:20261024T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3142@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2147,7 +2147,7 @@ BEGIN:VEVENT
 SUMMARY:Brews & Boos: Haunted Pub Crawl
 DTSTART;TZID=America/New_York:20261024T193000
 DTEND;TZID=America/New_York:20261024T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4344@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2159,7 +2159,7 @@ DESCRIPTION:A grown-up ghost tour with drink stops along the way\, from Au
  n Aurora Theatre's Lawrenceville Ghost Tours: guided ghost stories with pu
  b stops built in\, so you can steady your nerves between hauntings.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2169,7 +2169,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours 2026
 DTSTART;TZID=America/New_York:20261024T200000
 DTEND;TZID=America/New_York:20261024T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3152@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2191,7 +2191,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours
 DTSTART;TZID=America/New_York:20261024T200000
 DTEND;TZID=America/New_York:20261024T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4354@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2202,7 +2202,7 @@ DESCRIPTION:An after-dark guided ghost walk through a historic cemetery\,
  the sleeping ghosts and set off a wave of paranormal reports. Part of the 
  Lawrenceville Ghost Tours\, the haunted-attraction side of Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2212,7 +2212,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261024T210000
 DTEND;TZID=America/New_York:20261024T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3121@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2235,7 +2235,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261024T210000
 DTEND;TZID=America/New_York:20261024T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4323@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2245,7 +2245,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2255,7 +2255,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261025T193000
 DTEND;TZID=America/New_York:20261025T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3122@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2278,7 +2278,7 @@ BEGIN:VEVENT
 SUMMARY:Brews and Boos 2026
 DTSTART;TZID=America/New_York:20261025T193000
 DTEND;TZID=America/New_York:20261025T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3143@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2300,7 +2300,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261025T193000
 DTEND;TZID=America/New_York:20261025T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4324@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2310,7 +2310,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2320,7 +2320,7 @@ BEGIN:VEVENT
 SUMMARY:Brews & Boos: Haunted Pub Crawl
 DTSTART;TZID=America/New_York:20261025T193000
 DTEND;TZID=America/New_York:20261025T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4345@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2332,7 +2332,7 @@ DESCRIPTION:A grown-up ghost tour with drink stops along the way\, from Au
  n Aurora Theatre's Lawrenceville Ghost Tours: guided ghost stories with pu
  b stops built in\, so you can steady your nerves between hauntings.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2342,7 +2342,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours 2026
 DTSTART;TZID=America/New_York:20261025T200000
 DTEND;TZID=America/New_York:20261025T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3153@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2364,7 +2364,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours
 DTSTART;TZID=America/New_York:20261025T200000
 DTEND;TZID=America/New_York:20261025T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4355@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2375,7 +2375,7 @@ DESCRIPTION:An after-dark guided ghost walk through a historic cemetery\,
  the sleeping ghosts and set off a wave of paranormal reports. Part of the 
  Lawrenceville Ghost Tours\, the haunted-attraction side of Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2385,7 +2385,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261026T193000
 DTEND;TZID=America/New_York:20261026T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3123@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2408,7 +2408,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261026T193000
 DTEND;TZID=America/New_York:20261026T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4325@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2418,7 +2418,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2428,7 +2428,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261027T193000
 DTEND;TZID=America/New_York:20261027T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3124@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2451,7 +2451,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261027T193000
 DTEND;TZID=America/New_York:20261027T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4326@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2461,7 +2461,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2471,7 +2471,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261028T193000
 DTEND;TZID=America/New_York:20261028T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3125@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2494,7 +2494,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261028T193000
 DTEND;TZID=America/New_York:20261028T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4327@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2504,7 +2504,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2514,7 +2514,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261029T193000
 DTEND;TZID=America/New_York:20261029T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3126@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2537,7 +2537,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261029T193000
 DTEND;TZID=America/New_York:20261029T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4328@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2547,7 +2547,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2557,7 +2557,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261030T190000
 DTEND;TZID=America/New_York:20261030T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3127@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2580,7 +2580,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261030T190000
 DTEND;TZID=America/New_York:20261030T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4329@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2590,7 +2590,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2600,7 +2600,7 @@ BEGIN:VEVENT
 SUMMARY:Brews and Boos 2026
 DTSTART;TZID=America/New_York:20261030T193000
 DTEND;TZID=America/New_York:20261030T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3144@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2622,7 +2622,7 @@ BEGIN:VEVENT
 SUMMARY:Brews & Boos: Haunted Pub Crawl
 DTSTART;TZID=America/New_York:20261030T193000
 DTEND;TZID=America/New_York:20261030T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4346@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2634,7 +2634,7 @@ DESCRIPTION:A grown-up ghost tour with drink stops along the way\, from Au
  n Aurora Theatre's Lawrenceville Ghost Tours: guided ghost stories with pu
  b stops built in\, so you can steady your nerves between hauntings.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2644,7 +2644,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours 2026
 DTSTART;TZID=America/New_York:20261030T200000
 DTEND;TZID=America/New_York:20261030T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3154@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2666,7 +2666,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours
 DTSTART;TZID=America/New_York:20261030T200000
 DTEND;TZID=America/New_York:20261030T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4356@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2677,7 +2677,7 @@ DESCRIPTION:An after-dark guided ghost walk through a historic cemetery\,
  the sleeping ghosts and set off a wave of paranormal reports. Part of the 
  Lawrenceville Ghost Tours\, the haunted-attraction side of Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2687,7 +2687,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261030T210000
 DTEND;TZID=America/New_York:20261030T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3128@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2710,7 +2710,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261030T210000
 DTEND;TZID=America/New_York:20261030T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4330@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2720,7 +2720,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2730,7 +2730,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261031T190000
 DTEND;TZID=America/New_York:20261031T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3129@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2753,7 +2753,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261031T190000
 DTEND;TZID=America/New_York:20261031T200000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4331@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2763,7 +2763,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2773,7 +2773,7 @@ BEGIN:VEVENT
 SUMMARY:Brews and Boos 2026
 DTSTART;TZID=America/New_York:20261031T193000
 DTEND;TZID=America/New_York:20261031T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3145@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2795,7 +2795,7 @@ BEGIN:VEVENT
 SUMMARY:Brews & Boos: Haunted Pub Crawl
 DTSTART;TZID=America/New_York:20261031T193000
 DTEND;TZID=America/New_York:20261031T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4347@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2807,7 +2807,7 @@ DESCRIPTION:A grown-up ghost tour with drink stops along the way\, from Au
  n Aurora Theatre's Lawrenceville Ghost Tours: guided ghost stories with pu
  b stops built in\, so you can steady your nerves between hauntings.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2817,7 +2817,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261031T210000
 DTEND;TZID=America/New_York:20261031T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3130@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2840,7 +2840,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261031T210000
 DTEND;TZID=America/New_York:20261031T220000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4332@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2850,7 +2850,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2860,7 +2860,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Tours 2026
 DTSTART;TZID=America/New_York:20261101T193000
 DTEND;TZID=America/New_York:20261101T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3131@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2883,7 +2883,7 @@ BEGIN:VEVENT
 SUMMARY:Brews and Boos 2026
 DTSTART;TZID=America/New_York:20261101T193000
 DTEND;TZID=America/New_York:20261101T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3146@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2905,7 +2905,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrenceville Ghost Tours
 DTSTART;TZID=America/New_York:20261101T193000
 DTEND;TZID=America/New_York:20261101T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4333@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2915,7 +2915,7 @@ DESCRIPTION:A guided ghost walk through the oldest city in metro Atlanta\,
  ury renovations to the historic downtown stirred up the resident spirits\,
   and reports of paranormal activity followed. Presented by Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2925,7 +2925,7 @@ BEGIN:VEVENT
 SUMMARY:Brews & Boos: Haunted Pub Crawl
 DTSTART;TZID=America/New_York:20261101T193000
 DTEND;TZID=America/New_York:20261101T203000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4348@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2937,7 +2937,7 @@ DESCRIPTION:A grown-up ghost tour with drink stops along the way\, from Au
  n Aurora Theatre's Lawrenceville Ghost Tours: guided ghost stories with pu
  b stops built in\, so you can steady your nerves between hauntings.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2947,7 +2947,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours 2026
 DTSTART;TZID=America/New_York:20261101T200000
 DTEND;TZID=America/New_York:20261101T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-3155@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2969,7 +2969,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Cemetery Tours
 DTSTART;TZID=America/New_York:20261101T200000
 DTEND;TZID=America/New_York:20261101T210000
-DTSTAMP:20260719T092929Z
+DTSTAMP:20260719T153609Z
 UID:occ-4357@atlcal.com
 SEQUENCE:0
 CATEGORIES:Guided Tour
@@ -2980,7 +2980,7 @@ DESCRIPTION:An after-dark guided ghost walk through a historic cemetery\,
  the sleeping ghosts and set off a wave of paranormal reports. Part of the 
  Lawrenceville Ghost Tours\, the haunted-attraction side of Aurora Theatre.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260719T092746Z
+LAST-MODIFIED:20260719T153552Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
