@@ -58,33 +58,9 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:The Wizard of Oz
-DTSTART;TZID=America/New_York:20260719T140000
-DTEND;TZID=America/New_York:20260719T160000
-DTSTAMP:20260720T153526Z
-UID:occ-1423@atlcal.com
-SEQUENCE:0
-CATEGORIES:Musical Theatre
-DESCRIPTION:The 1939 MGM songbook onstage\, Toto played by a puppet\, from
-  Walton County's community theatre.\n\nThe stage adaptation of the 1939 MG
- M film\, with the Harold Arlen and E. Y. Harburg songs intact\, 'Over the 
- Rainbow' included. A Kansas farm girl is swept into Oz and heads down the 
- yellow brick road with a scarecrow\, a tin man\, and a cowardly lion\, hop
- ing the Wizard can send her home. In this production Toto is a puppet in t
- he Lion King mold\, and the Munchkins are played mostly by children. Marc 
- Hammes directs for On Stage Playhouse\, Walton County's community theatre\
- ; runs through July 26.
-GEO:33.7934843;-83.7059787
-LAST-MODIFIED:20260719T153559Z
-LOCATION:On Stage Playhouse\, 215 High School Ave
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.tickettailor.com/events/onstageinc/2277615
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wizard of Oz
 DTSTART;TZID=America/New_York:20260721T193000
 DTEND;TZID=America/New_York:20260721T213000
-DTSTAMP:20260720T153526Z
+DTSTAMP:20260720T203550Z
 UID:occ-1427@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -98,7 +74,7 @@ DESCRIPTION:The 1939 MGM songbook onstage\, Toto played by a puppet\, from
  Hammes directs for On Stage Playhouse\, Walton County's community theatre\
  ; runs through July 26.
 GEO:33.7934843;-83.7059787
-LAST-MODIFIED:20260720T153516Z
+LAST-MODIFIED:20260720T203541Z
 LOCATION:On Stage Playhouse\, 215 High School Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -108,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:The Wizard of Oz
 DTSTART;TZID=America/New_York:20260724T200000
 DTEND;TZID=America/New_York:20260724T220000
-DTSTAMP:20260720T153526Z
+DTSTAMP:20260720T203550Z
 UID:occ-1424@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -122,7 +98,7 @@ DESCRIPTION:The 1939 MGM songbook onstage\, Toto played by a puppet\, from
  Hammes directs for On Stage Playhouse\, Walton County's community theatre\
  ; runs through July 26.
 GEO:33.7934843;-83.7059787
-LAST-MODIFIED:20260720T153516Z
+LAST-MODIFIED:20260720T203541Z
 LOCATION:On Stage Playhouse\, 215 High School Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -132,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:The Wizard of Oz
 DTSTART;TZID=America/New_York:20260725T200000
 DTEND;TZID=America/New_York:20260725T220000
-DTSTAMP:20260720T153526Z
+DTSTAMP:20260720T203550Z
 UID:occ-1425@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -146,7 +122,7 @@ DESCRIPTION:The 1939 MGM songbook onstage\, Toto played by a puppet\, from
  Hammes directs for On Stage Playhouse\, Walton County's community theatre\
  ; runs through July 26.
 GEO:33.7934843;-83.7059787
-LAST-MODIFIED:20260720T153516Z
+LAST-MODIFIED:20260720T203541Z
 LOCATION:On Stage Playhouse\, 215 High School Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -156,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:The Wizard of Oz
 DTSTART;TZID=America/New_York:20260726T140000
 DTEND;TZID=America/New_York:20260726T160000
-DTSTAMP:20260720T153526Z
+DTSTAMP:20260720T203550Z
 UID:occ-1426@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -170,7 +146,7 @@ DESCRIPTION:The 1939 MGM songbook onstage\, Toto played by a puppet\, from
  Hammes directs for On Stage Playhouse\, Walton County's community theatre\
  ; runs through July 26.
 GEO:33.7934843;-83.7059787
-LAST-MODIFIED:20260720T153516Z
+LAST-MODIFIED:20260720T203541Z
 LOCATION:On Stage Playhouse\, 215 High School Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
