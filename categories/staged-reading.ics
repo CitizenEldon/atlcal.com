@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Staged Readings
 DTSTART;TZID=America/New_York:20260809T170000
 DTEND;TZID=America/New_York:20260809T190000
-DTSTAMP:20260721T085036Z
+DTSTAMP:20260721T153610Z
 UID:occ-1764@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -70,7 +70,7 @@ DESCRIPTION:Actors read never-before-produced scripts by local playwrights
  and little more than a sketch of staging. The words carry the whole show\,
   and the audience gets first crack at them. Presented by Merely Players.
 GEO:33.9031178;-84.2776526
-LAST-MODIFIED:20260721T084858Z
+LAST-MODIFIED:20260721T153559Z
 LOCATION:Merely Players Presents\, 3785 King Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Reading: Brooklyn Laundry
 DTSTART;TZID=America/New_York:20260815T200000
 DTEND;TZID=America/New_York:20260815T213000
-DTSTAMP:20260721T085036Z
+DTSTAMP:20260721T153610Z
 UID:occ-5440@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -94,7 +94,7 @@ DESCRIPTION:A book-in-hand reading of John Patrick Shanley's midlife roman
  as a staged reading: actors script in hand\, staging kept minimal\, the wo
  rds doing the work.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260721T084845Z
+LAST-MODIFIED:20260721T153551Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Staged Readings
 DTSTART;TZID=America/New_York:20260816T170000
 DTEND;TZID=America/New_York:20260816T190000
-DTSTAMP:20260721T085036Z
+DTSTAMP:20260721T153610Z
 UID:occ-1765@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -114,7 +114,7 @@ DESCRIPTION:Actors read never-before-produced scripts by local playwrights
  and little more than a sketch of staging. The words carry the whole show\,
   and the audience gets first crack at them. Presented by Merely Players.
 GEO:33.9031178;-84.2776526
-LAST-MODIFIED:20260721T084858Z
+LAST-MODIFIED:20260721T153559Z
 LOCATION:Merely Players Presents\, 3785 King Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Reading: Red
 DTSTART;TZID=America/New_York:20260822T200000
 DTEND;TZID=America/New_York:20260822T213000
-DTSTAMP:20260721T085036Z
+DTSTAMP:20260721T153610Z
 UID:occ-5441@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -135,7 +135,7 @@ DESCRIPTION:A book-in-hand staged reading from Authenticity Theater\, scri
  ds and the voices in the room. Presented by Authenticity Theater\, a young
   Atlanta company that gravitates toward socially minded American plays.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260721T084845Z
+LAST-MODIFIED:20260721T153551Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:Staged Readings
 DTSTART;TZID=America/New_York:20260823T170000
 DTEND;TZID=America/New_York:20260823T190000
-DTSTAMP:20260721T085036Z
+DTSTAMP:20260721T153610Z
 UID:occ-1766@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -155,7 +155,7 @@ DESCRIPTION:Actors read never-before-produced scripts by local playwrights
  and little more than a sketch of staging. The words carry the whole show\,
   and the audience gets first crack at them. Presented by Merely Players.
 GEO:33.9031178;-84.2776526
-LAST-MODIFIED:20260721T084858Z
+LAST-MODIFIED:20260721T153559Z
 LOCATION:Merely Players Presents\, 3785 King Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Crossroads & Cyphers
 DTSTART;TZID=America/New_York:20261014T193000
 DTEND;TZID=America/New_York:20261014T213000
-DTSTAMP:20260721T085036Z
+DTSTAMP:20260721T153610Z
 UID:occ-1709@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:Hannah & Greta\, or The Cost of Livin' The Dream
 DTSTART;TZID=America/New_York:20261021T193000
 DTEND;TZID=America/New_York:20261021T213000
-DTSTAMP:20260721T085036Z
+DTSTAMP:20260721T153610Z
 UID:occ-1710@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:Mel Konner’s Sixteen Springs or Four Loves (Staged Reading)
 DTSTART;TZID=America/New_York:20261114T143000
 DTEND;TZID=America/New_York:20261114T160000
-DTSTAMP:20260721T085036Z
+DTSTAMP:20260721T153610Z
 UID:occ-1494@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -230,7 +230,7 @@ DESCRIPTION:A book-in-hand reading of a new play filling in the sixteen mi
  nt fates. A staged reading from the Atlanta Shakespeare Company\, ahead of
   a full production in Spring 2027.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260721T084912Z
+LAST-MODIFIED:20260721T153607Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:My Daughter\, My Karma
 DTSTART;TZID=America/New_York:20270414T193000
 DTEND;TZID=America/New_York:20270414T213000
-DTSTAMP:20260721T085036Z
+DTSTAMP:20260721T153610Z
 UID:occ-1711@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:The Welfare Queen
 DTSTART;TZID=America/New_York:20270421T193000
 DTEND;TZID=America/New_York:20270421T213000
-DTSTAMP:20260721T085036Z
+DTSTAMP:20260721T153610Z
 UID:occ-1712@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
