@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:CREATOR'S DEN CABARET
 DTSTART;TZID=America/New_York:20260724T200000
 DTEND;TZID=America/New_York:20260724T213000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-2578@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -71,7 +71,7 @@ DESCRIPTION:Divas\, Drama & Bad Decisions: a small-room song set from thre
  of regulars from the company's stages: Emily Kalat\, Emily Sams Brown\, an
  d MK Penley.
 GEO:33.9379056;-84.5126414
-LAST-MODIFIED:20260721T153600Z
+LAST-MODIFIED:20260721T203532Z
 LOCATION:Artisan Resource Center\, 585 Cobb Parkway Southeast
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:CREATOR'S DEN CABARET
 DTSTART;TZID=America/New_York:20260726T150000
 DTEND;TZID=America/New_York:20260726T163000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-2579@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -93,7 +93,7 @@ DESCRIPTION:Divas\, Drama & Bad Decisions: a small-room song set from thre
  of regulars from the company's stages: Emily Kalat\, Emily Sams Brown\, an
  d MK Penley.
 GEO:33.9379056;-84.5126414
-LAST-MODIFIED:20260721T153600Z
+LAST-MODIFIED:20260721T203532Z
 LOCATION:Artisan Resource Center\, 585 Cobb Parkway Southeast
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261204T193000
 DTEND;TZID=America/New_York:20261204T213000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-1384@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -116,7 +116,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260721T153558Z
+LAST-MODIFIED:20260721T203530Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261205T193000
 DTEND;TZID=America/New_York:20261205T213000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-1385@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -139,7 +139,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260721T153558Z
+LAST-MODIFIED:20260721T203530Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261206T143000
 DTEND;TZID=America/New_York:20261206T163000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-1386@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -162,7 +162,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260721T153558Z
+LAST-MODIFIED:20260721T203530Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261211T193000
 DTEND;TZID=America/New_York:20261211T213000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-1387@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -185,7 +185,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260721T153558Z
+LAST-MODIFIED:20260721T203530Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261211T200000
 DTEND;TZID=America/New_York:20261211T220000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-956@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -207,7 +207,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260721T153609Z
+LAST-MODIFIED:20260721T203540Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261212T143000
 DTEND;TZID=America/New_York:20261212T163000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-1388@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -230,7 +230,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260721T153558Z
+LAST-MODIFIED:20260721T203530Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261212T150000
 DTEND;TZID=America/New_York:20261212T170000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-957@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -252,7 +252,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260721T153609Z
+LAST-MODIFIED:20260721T203540Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -263,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261212T200000
 DTEND;TZID=America/New_York:20261212T220000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-958@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -274,7 +274,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260721T153609Z
+LAST-MODIFIED:20260721T203540Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261213T143000
 DTEND;TZID=America/New_York:20261213T163000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-1389@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -297,7 +297,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260721T153558Z
+LAST-MODIFIED:20260721T203530Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261213T150000
 DTEND;TZID=America/New_York:20261213T170000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-959@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -319,7 +319,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260721T153609Z
+LAST-MODIFIED:20260721T203540Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -330,7 +330,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday at Herren's: 50th Season Special
 DTSTART;TZID=America/New_York:20261214T193000
 DTEND;TZID=America/New_York:20261214T213000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-1002@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -340,7 +340,7 @@ DESCRIPTION:A one-night holiday cabaret from Theatrical Outfit\, part of t
  cabaret's small-room style\, from a company that has been producing in Atl
  anta since 1977.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260721T153609Z
+LAST-MODIFIED:20260721T203540Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -349,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261216T193000
 DTEND;TZID=America/New_York:20261216T213000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-960@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -360,7 +360,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260721T153609Z
+LAST-MODIFIED:20260721T203540Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -371,7 +371,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261217T193000
 DTEND;TZID=America/New_York:20261217T213000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-961@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -382,7 +382,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260721T153609Z
+LAST-MODIFIED:20260721T203540Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -393,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261218T200000
 DTEND;TZID=America/New_York:20261218T220000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-962@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -404,7 +404,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260721T153609Z
+LAST-MODIFIED:20260721T203540Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -415,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261219T150000
 DTEND;TZID=America/New_York:20261219T170000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-963@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -426,7 +426,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260721T153609Z
+LAST-MODIFIED:20260721T203540Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261219T200000
 DTEND;TZID=America/New_York:20261219T220000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-964@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -448,7 +448,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260721T153609Z
+LAST-MODIFIED:20260721T203540Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -459,7 +459,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261220T150000
 DTEND;TZID=America/New_York:20261220T170000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-965@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -470,7 +470,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260721T153609Z
+LAST-MODIFIED:20260721T203540Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -481,7 +481,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261221T193000
 DTEND;TZID=America/New_York:20261221T213000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-966@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -492,7 +492,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260721T153609Z
+LAST-MODIFIED:20260721T203540Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-3248@atlcal.com
 SEQUENCE:1
 CATEGORIES:Opera
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night
 DTSTART;TZID=America/New_York:20261107T193000
 DTEND;TZID=America/New_York:20261107T220100
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-370@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -98,7 +98,7 @@ DESCRIPTION:Kevin Puts's Pulitzer-winning opera about the 1914 Christmas t
  tzer in 2012. Sung in English\, French\, German\, Italian\, and Latin. Fro
  m The Atlanta Opera\; runs through November 15.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night
 DTSTART;TZID=America/New_York:20261110T193000
 DTEND;TZID=America/New_York:20261110T220100
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-371@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -122,7 +122,7 @@ DESCRIPTION:Kevin Puts's Pulitzer-winning opera about the 1914 Christmas t
  tzer in 2012. Sung in English\, French\, German\, Italian\, and Latin. Fro
  m The Atlanta Opera\; runs through November 15.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night
 DTSTART;TZID=America/New_York:20261113T193000
 DTEND;TZID=America/New_York:20261113T220100
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-372@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -146,7 +146,7 @@ DESCRIPTION:Kevin Puts's Pulitzer-winning opera about the 1914 Christmas t
  tzer in 2012. Sung in English\, French\, German\, Italian\, and Latin. Fro
  m The Atlanta Opera\; runs through November 15.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night
 DTSTART;TZID=America/New_York:20261115T150000
 DTEND;TZID=America/New_York:20261115T173100
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-373@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -170,7 +170,7 @@ DESCRIPTION:Kevin Puts's Pulitzer-winning opera about the 1914 Christmas t
  tzer in 2012. Sung in English\, French\, German\, Italian\, and Latin. Fro
  m The Atlanta Opera\; runs through November 15.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Carmen
 DTSTART;TZID=America/New_York:20270130T193000
 DTEND;TZID=America/New_York:20270130T224200
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-393@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -194,7 +194,7 @@ DESCRIPTION:Bizet's tragedy of obsession: a soldier\, a bullfighter\, and
  r Song among them\, though its first Paris audiences were scandalized by s
  o much lawlessness on the Opéra-Comique stage. From The Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Carmen
 DTSTART;TZID=America/New_York:20270202T193000
 DTEND;TZID=America/New_York:20270202T224200
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-394@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -218,7 +218,7 @@ DESCRIPTION:Bizet's tragedy of obsession: a soldier\, a bullfighter\, and
  r Song among them\, though its first Paris audiences were scandalized by s
  o much lawlessness on the Opéra-Comique stage. From The Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Carmen
 DTSTART;TZID=America/New_York:20270205T193000
 DTEND;TZID=America/New_York:20270205T224200
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-395@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -242,7 +242,7 @@ DESCRIPTION:Bizet's tragedy of obsession: a soldier\, a bullfighter\, and
  r Song among them\, though its first Paris audiences were scandalized by s
  o much lawlessness on the Opéra-Comique stage. From The Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:Carmen
 DTSTART;TZID=America/New_York:20270207T150000
 DTEND;TZID=America/New_York:20270207T181200
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-396@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -266,7 +266,7 @@ DESCRIPTION:Bizet's tragedy of obsession: a soldier\, a bullfighter\, and
  r Song among them\, though its first Paris audiences were scandalized by s
  o much lawlessness on the Opéra-Comique stage. From The Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -276,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:The Flying Dutchman
 DTSTART;TZID=America/New_York:20270313T193000
 DTEND;TZID=America/New_York:20270313T220000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-397@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -288,7 +288,7 @@ DESCRIPTION:Wagner's ghost-ship opera: a captain cursed to sail forever\,
  daughter Senta he may have found her. Wagner's storm-tossed score made thi
  s his first enduring success. Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:The Flying Dutchman
 DTSTART;TZID=America/New_York:20270316T193000
 DTEND;TZID=America/New_York:20270316T220000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-398@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -310,7 +310,7 @@ DESCRIPTION:Wagner's ghost-ship opera: a captain cursed to sail forever\,
  daughter Senta he may have found her. Wagner's storm-tossed score made thi
  s his first enduring success. Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:The Flying Dutchman
 DTSTART;TZID=America/New_York:20270319T193000
 DTEND;TZID=America/New_York:20270319T220000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-399@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -332,7 +332,7 @@ DESCRIPTION:Wagner's ghost-ship opera: a captain cursed to sail forever\,
  daughter Senta he may have found her. Wagner's storm-tossed score made thi
  s his first enduring success. Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -342,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:The Flying Dutchman
 DTSTART;TZID=America/New_York:20270321T150000
 DTEND;TZID=America/New_York:20270321T173000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-400@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -354,7 +354,7 @@ DESCRIPTION:Wagner's ghost-ship opera: a captain cursed to sail forever\,
  daughter Senta he may have found her. Wagner's storm-tossed score made thi
  s his first enduring success. Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=America/New_York:20270501T193000
 DTEND;TZID=America/New_York:20270501T221500
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-401@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -378,7 +378,7 @@ DESCRIPTION:Puccini's melodrama of a diva\, her painter lover\, and Rome's
  ormed operas anywhere\, its score carrying 'Vissi d'arte' and 'E lucevan l
  e stelle.' Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=America/New_York:20270504T193000
 DTEND;TZID=America/New_York:20270504T221500
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-402@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -402,7 +402,7 @@ DESCRIPTION:Puccini's melodrama of a diva\, her painter lover\, and Rome's
  ormed operas anywhere\, its score carrying 'Vissi d'arte' and 'E lucevan l
  e stelle.' Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -412,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=America/New_York:20270507T193000
 DTEND;TZID=America/New_York:20270507T221500
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-403@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -426,7 +426,7 @@ DESCRIPTION:Puccini's melodrama of a diva\, her painter lover\, and Rome's
  ormed operas anywhere\, its score carrying 'Vissi d'arte' and 'E lucevan l
  e stelle.' Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -436,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=America/New_York:20270509T150000
 DTEND;TZID=America/New_York:20270509T174500
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-404@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -450,7 +450,7 @@ DESCRIPTION:Puccini's melodrama of a diva\, her painter lover\, and Rome's
  ormed operas anywhere\, its score carrying 'Vissi d'arte' and 'E lucevan l
  e stelle.' Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -460,7 +460,7 @@ BEGIN:VEVENT
 SUMMARY:Jubilee
 DTSTART;TZID=America/New_York:20270605T193000
 DTEND;TZID=America/New_York:20270605T215500
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-405@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -473,7 +473,7 @@ DESCRIPTION:An opera written and directed by Tazewell Thompson\, librettis
  dy been staged at Arena Stage and Seattle Opera\; this production comes fr
  om The Atlanta Opera.
 GEO:33.7439061;-84.4168227
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Ray Charles Performing Arts Center\, 900 West End Avenue Southwes
  t
 STATUS:CONFIRMED
@@ -484,7 +484,7 @@ BEGIN:VEVENT
 SUMMARY:Jubilee
 DTSTART;TZID=America/New_York:20270606T150000
 DTEND;TZID=America/New_York:20270606T172500
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-406@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -497,7 +497,7 @@ DESCRIPTION:An opera written and directed by Tazewell Thompson\, librettis
  dy been staged at Arena Stage and Seattle Opera\; this production comes fr
  om The Atlanta Opera.
 GEO:33.7439061;-84.4168227
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Ray Charles Performing Arts Center\, 900 West End Avenue Southwes
  t
 STATUS:CONFIRMED
@@ -508,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:Jubilee
 DTSTART;TZID=America/New_York:20270610T193000
 DTEND;TZID=America/New_York:20270610T215500
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-407@atlcal.com
 SEQUENCE:0
 CATEGORIES:Opera
@@ -521,7 +521,7 @@ DESCRIPTION:An opera written and directed by Tazewell Thompson\, librettis
  dy been staged at Arena Stage and Seattle Opera\; this production comes fr
  om The Atlanta Opera.
 GEO:33.7439061;-84.4168227
-LAST-MODIFIED:20260721T153549Z
+LAST-MODIFIED:20260721T203521Z
 LOCATION:Ray Charles Performing Arts Center\, 900 West End Avenue Southwes
  t
 STATUS:CONFIRMED

@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:The Fearless Gala 2026
 DTSTART;TZID=America/New_York:20261008T180000
 DTEND;TZID=America/New_York:20261008T220000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-1713@atlcal.com
 SEQUENCE:0
 CATEGORIES:Fundraiser
@@ -71,7 +71,7 @@ DESCRIPTION:Actor's Express marks 39 years with cabaret performances\, sil
  ive auction\, with food and drink from Endive Catering. Bruce Cohen is hon
  ored for his service and support across Atlanta theatre.
 GEO:33.7817253;-84.4160629
-LAST-MODIFIED:20260721T153546Z
+LAST-MODIFIED:20260721T203518Z
 LOCATION:King Plow Arts Center\, 887 W Marietta St NW\, Suite J-107
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Support Local Theatre
 DTSTART;TZID=America/New_York:20261030T193000
 DTEND;TZID=America/New_York:20261030T213000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-1697@atlcal.com
 SEQUENCE:0
 CATEGORIES:Fundraiser
@@ -93,7 +93,7 @@ DESCRIPTION:A costumed murder-mystery party raising money for Merely Playe
  lent auction round out the fundraising. Masks are sold on site for anyone 
  who wants to add to the intrigue.
 GEO:33.9031178;-84.2776526
-LAST-MODIFIED:20260721T153559Z
+LAST-MODIFIED:20260721T203531Z
 LOCATION:Merely Players Presents\, 3785 King Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Support Local Theatre
 DTSTART;TZID=America/New_York:20270313T193000
 DTEND;TZID=America/New_York:20270313T213000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-1698@atlcal.com
 SEQUENCE:0
 CATEGORIES:Fundraiser
@@ -115,7 +115,7 @@ DESCRIPTION:A costumed murder-mystery party raising money for Merely Playe
  lent auction round out the fundraising. Masks are sold on site for anyone 
  who wants to add to the intrigue.
 GEO:33.9031178;-84.2776526
-LAST-MODIFIED:20260721T153559Z
+LAST-MODIFIED:20260721T203531Z
 LOCATION:Merely Players Presents\, 3785 King Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Season 50 Gala
 DTSTART;TZID=America/New_York:20270417T180000
 DTEND;TZID=America/New_York:20270417T210000
-DTSTAMP:20260721T153610Z
+DTSTAMP:20260721T203542Z
 UID:occ-1040@atlcal.com
 SEQUENCE:0
 CATEGORIES:Fundraiser
@@ -137,7 +137,7 @@ DESCRIPTION:A benefit gala marking Theatrical Outfit's 50th season — the
  e new-play development programs like Launchpad\, and proceeds from the eve
  ning support that work.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260721T153609Z
+LAST-MODIFIED:20260721T203540Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
