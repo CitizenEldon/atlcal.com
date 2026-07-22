@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Reading: Brooklyn Laundry
 DTSTART;TZID=America/New_York:20260815T200000
 DTEND;TZID=America/New_York:20260815T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-5440@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -73,7 +73,7 @@ DESCRIPTION:A book-in-hand reading of John Patrick Shanley's midlife roman
  as a staged reading: actors script in hand\, staging kept minimal\, the wo
  rds doing the work.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260722T054106Z
+LAST-MODIFIED:20260722T153513Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:Reading: Red
 DTSTART;TZID=America/New_York:20260822T200000
 DTEND;TZID=America/New_York:20260822T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-5441@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -93,7 +93,7 @@ DESCRIPTION:A book-in-hand staged reading from Authenticity Theater\, scri
  ds and the voices in the room. Presented by Authenticity Theater\, a young
   Atlanta company that gravitates toward socially minded American plays.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260722T054106Z
+LAST-MODIFIED:20260722T153513Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -102,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Little Sketchy
 DTSTART;TZID=America/New_York:20260917T200000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-2721@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Authenticity Theater's first sketch comedy show — short scen
@@ -111,7 +111,7 @@ DESCRIPTION:Authenticity Theater's first sketch comedy show — short scen
   and a first for Authenticity Theater\, a company better known for Pulitze
  r winners and socially minded drama. Runs through September 19.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260722T054106Z
+LAST-MODIFIED:20260722T153513Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -120,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Little Sketchy
 DTSTART;TZID=America/New_York:20260918T200000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-2722@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Authenticity Theater's first sketch comedy show — short scen
@@ -129,7 +129,7 @@ DESCRIPTION:Authenticity Theater's first sketch comedy show — short scen
   and a first for Authenticity Theater\, a company better known for Pulitze
  r winners and socially minded drama. Runs through September 19.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260722T054106Z
+LAST-MODIFIED:20260722T153513Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -138,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Little Sketchy
 DTSTART;TZID=America/New_York:20260919T200000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-2723@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Authenticity Theater's first sketch comedy show — short scen
@@ -147,7 +147,7 @@ DESCRIPTION:Authenticity Theater's first sketch comedy show — short scen
   and a first for Authenticity Theater\, a company better known for Pulitze
  r winners and socially minded drama. Runs through September 19.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260722T054106Z
+LAST-MODIFIED:20260722T153513Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Superior Donuts
 DTSTART;TZID=America/New_York:20261022T200000
 DTEND;TZID=America/New_York:20261022T221500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1311@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -171,7 +171,7 @@ DESCRIPTION:Tracy Letts's comedy-drama of a burned-out donut shop owner an
  slike." Robby Myles directs for Authenticity Theater. Runs through October
   31.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260722T054106Z
+LAST-MODIFIED:20260722T153513Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -181,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:Superior Donuts
 DTSTART;TZID=America/New_York:20261023T200000
 DTEND;TZID=America/New_York:20261023T221500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1312@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -195,7 +195,7 @@ DESCRIPTION:Tracy Letts's comedy-drama of a burned-out donut shop owner an
  slike." Robby Myles directs for Authenticity Theater. Runs through October
   31.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260722T054106Z
+LAST-MODIFIED:20260722T153513Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Superior Donuts
 DTSTART;TZID=America/New_York:20261024T200000
 DTEND;TZID=America/New_York:20261024T221500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1313@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -219,7 +219,7 @@ DESCRIPTION:Tracy Letts's comedy-drama of a burned-out donut shop owner an
  slike." Robby Myles directs for Authenticity Theater. Runs through October
   31.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260722T054106Z
+LAST-MODIFIED:20260722T153513Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:Superior Donuts
 DTSTART;TZID=America/New_York:20261025T140000
 DTEND;TZID=America/New_York:20261025T161500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1314@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -243,7 +243,7 @@ DESCRIPTION:Tracy Letts's comedy-drama of a burned-out donut shop owner an
  slike." Robby Myles directs for Authenticity Theater. Runs through October
   31.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260722T054106Z
+LAST-MODIFIED:20260722T153513Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:Superior Donuts
 DTSTART;TZID=America/New_York:20261028T200000
 DTEND;TZID=America/New_York:20261028T221500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1315@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -267,7 +267,7 @@ DESCRIPTION:Tracy Letts's comedy-drama of a burned-out donut shop owner an
  slike." Robby Myles directs for Authenticity Theater. Runs through October
   31.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260722T054106Z
+LAST-MODIFIED:20260722T153513Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:Superior Donuts
 DTSTART;TZID=America/New_York:20261029T200000
 DTEND;TZID=America/New_York:20261029T221500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1316@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -291,7 +291,7 @@ DESCRIPTION:Tracy Letts's comedy-drama of a burned-out donut shop owner an
  slike." Robby Myles directs for Authenticity Theater. Runs through October
   31.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260722T054106Z
+LAST-MODIFIED:20260722T153513Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:Superior Donuts
 DTSTART;TZID=America/New_York:20261030T200000
 DTEND;TZID=America/New_York:20261030T221500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1317@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -315,7 +315,7 @@ DESCRIPTION:Tracy Letts's comedy-drama of a burned-out donut shop owner an
  slike." Robby Myles directs for Authenticity Theater. Runs through October
   31.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260722T054106Z
+LAST-MODIFIED:20260722T153513Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -325,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:Superior Donuts
 DTSTART;TZID=America/New_York:20261031T200000
 DTEND;TZID=America/New_York:20261031T221500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1318@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -339,7 +339,7 @@ DESCRIPTION:Tracy Letts's comedy-drama of a burned-out donut shop owner an
  slike." Robby Myles directs for Authenticity Theater. Runs through October
   31.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260722T054106Z
+LAST-MODIFIED:20260722T153513Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

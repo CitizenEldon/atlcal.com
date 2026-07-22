@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Launchpad 2.0 - BlerdMan
 DTSTART;TZID=America/New_York:20260721T193000
 DTEND;TZID=America/New_York:20260721T214500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1005@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -72,7 +72,7 @@ DESCRIPTION:An early look at a new play in development\, part of Theatrica
  e American Nail Salon)\, and I'm a Mother Fucking Superstar. Performances 
  of BlerdMan run through July 25.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Launchpad 2.0 - The Penelopes
 DTSTART;TZID=America/New_York:20260722T193000
 DTEND;TZID=America/New_York:20260722T214500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1017@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -91,7 +91,7 @@ DESCRIPTION:An early staging of a new play in development\, from Theatrica
  t's development series for new work. It shares the slate with three other 
  new plays running in rotation. Runs through July 25.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Launchpad 2.0 - Queen (of the American Nail Salon)
 DTSTART;TZID=America/New_York:20260723T193000
 DTEND;TZID=America/New_York:20260723T214500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1013@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -111,7 +111,7 @@ DESCRIPTION:One of four new plays in rotation for Launchpad 2.0\, Theatric
   taking shape\, with the audience among its first witnesses. In rotation t
  hrough July 26.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -120,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:Launchpad 2.0 - I'm a Mother Fucking Superstar
 DTSTART;TZID=America/New_York:20260724T193000
 DTEND;TZID=America/New_York:20260724T214500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1009@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -131,7 +131,7 @@ DESCRIPTION:A new play in development\, one of four rotating in Theatrical
  n progress. It rotates in repertory with three other new plays\, with the 
  cycle running through July 26.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Launchpad 2.0 - The Penelopes
 DTSTART;TZID=America/New_York:20260725T143000
 DTEND;TZID=America/New_York:20260725T164500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1018@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -150,7 +150,7 @@ DESCRIPTION:An early staging of a new play in development\, from Theatrica
  t's development series for new work. It shares the slate with three other 
  new plays running in rotation. Runs through July 25.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:Launchpad 2.0 - BlerdMan
 DTSTART;TZID=America/New_York:20260725T193000
 DTEND;TZID=America/New_York:20260725T214500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1006@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -171,7 +171,7 @@ DESCRIPTION:An early look at a new play in development\, part of Theatrica
  e American Nail Salon)\, and I'm a Mother Fucking Superstar. Performances 
  of BlerdMan run through July 25.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Launchpad 2.0 - I'm a Mother Fucking Superstar
 DTSTART;TZID=America/New_York:20260726T143000
 DTEND;TZID=America/New_York:20260726T164500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1010@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -191,7 +191,7 @@ DESCRIPTION:A new play in development\, one of four rotating in Theatrical
  n progress. It rotates in repertory with three other new plays\, with the 
  cycle running through July 26.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Launchpad 2.0 - Queen (of the American Nail Salon)
 DTSTART;TZID=America/New_York:20260726T193000
 DTEND;TZID=America/New_York:20260726T214500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1014@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -211,7 +211,7 @@ DESCRIPTION:One of four new plays in rotation for Launchpad 2.0\, Theatric
   taking shape\, with the audience among its first witnesses. In rotation t
  hrough July 26.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -220,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:Launchpad 2.0 Residency Workshop - Triune
 DTSTART;TZID=America/New_York:20260727T193000
 DTEND;TZID=America/New_York:20260727T214500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1020@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -230,7 +230,7 @@ DESCRIPTION:A workshop showing of Triune\, a new play in development\, fro
  an audience while the writing is in progress. Part of Launchpad 2.0\, Thea
  trical Outfit's residency program for developing new work.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:Launchpad 2.0 Residency Workshop - In Rapping Shakespeare
 DTSTART;TZID=America/New_York:20260728T193000
 DTEND;TZID=America/New_York:20260728T214500
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1019@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -249,7 +249,7 @@ DESCRIPTION:One-night workshop showing of a new work in development\, from
  ience in on the process. One of the residency showings closing out Launchp
  ad 2.0\, Theatrical Outfit's new-play development program.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -259,7 +259,7 @@ SUMMARY:Play Haven Development Series: Hannah & Greta\, or the Cost of liv
  ing the Dream
 DTSTART;TZID=America/New_York:20260803T193000
 DTEND;TZID=America/New_York:20260803T210000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1038@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -270,7 +270,7 @@ DESCRIPTION:A new play by Bobbi Twiggs in development\, the first presenta
  mainstage\, with the audience among the work's first witnesses. Hosted by 
  Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -279,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:Fences
 DTSTART;TZID=America/New_York:20260916T193000
 DTEND;TZID=America/New_York:20260916T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-989@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -293,7 +293,7 @@ DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
  al Outfit produces in partnership with Dominion Entertainment Group and th
  e Alabama Shakespeare Festival\, a two-state revival of the play.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -302,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:Fences
 DTSTART;TZID=America/New_York:20260917T193000
 DTEND;TZID=America/New_York:20260917T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-990@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -316,7 +316,7 @@ DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
  al Outfit produces in partnership with Dominion Entertainment Group and th
  e Alabama Shakespeare Festival\, a two-state revival of the play.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -325,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:Fences
 DTSTART;TZID=America/New_York:20260918T193000
 DTEND;TZID=America/New_York:20260918T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-991@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -339,7 +339,7 @@ DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
  al Outfit produces in partnership with Dominion Entertainment Group and th
  e Alabama Shakespeare Festival\, a two-state revival of the play.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Fences
 DTSTART;TZID=America/New_York:20260919T193000
 DTEND;TZID=America/New_York:20260919T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-992@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -362,7 +362,7 @@ DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
  al Outfit produces in partnership with Dominion Entertainment Group and th
  e Alabama Shakespeare Festival\, a two-state revival of the play.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -371,7 +371,7 @@ BEGIN:VEVENT
 SUMMARY:Fences
 DTSTART;TZID=America/New_York:20260920T143000
 DTEND;TZID=America/New_York:20260920T170000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1241@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -385,7 +385,7 @@ DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
  al Outfit produces in partnership with Dominion Entertainment Group and th
  e Alabama Shakespeare Festival\, a two-state revival of the play.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -394,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:Fences
 DTSTART;TZID=America/New_York:20260923T193000
 DTEND;TZID=America/New_York:20260923T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-993@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -408,7 +408,7 @@ DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
  al Outfit produces in partnership with Dominion Entertainment Group and th
  e Alabama Shakespeare Festival\, a two-state revival of the play.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -417,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:Fences
 DTSTART;TZID=America/New_York:20260924T193000
 DTEND;TZID=America/New_York:20260924T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-994@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -431,7 +431,7 @@ DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
  al Outfit produces in partnership with Dominion Entertainment Group and th
  e Alabama Shakespeare Festival\, a two-state revival of the play.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -440,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:Fences
 DTSTART;TZID=America/New_York:20260925T193000
 DTEND;TZID=America/New_York:20260925T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-995@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -454,7 +454,7 @@ DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
  al Outfit produces in partnership with Dominion Entertainment Group and th
  e Alabama Shakespeare Festival\, a two-state revival of the play.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -463,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:Fences
 DTSTART;TZID=America/New_York:20260926T193000
 DTEND;TZID=America/New_York:20260926T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-996@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -477,7 +477,7 @@ DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
  al Outfit produces in partnership with Dominion Entertainment Group and th
  e Alabama Shakespeare Festival\, a two-state revival of the play.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:Fences
 DTSTART;TZID=America/New_York:20260927T143000
 DTEND;TZID=America/New_York:20260927T170000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-997@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -500,7 +500,7 @@ DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
  al Outfit produces in partnership with Dominion Entertainment Group and th
  e Alabama Shakespeare Festival\, a two-state revival of the play.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -509,7 +509,7 @@ BEGIN:VEVENT
 SUMMARY:Fences
 DTSTART;TZID=America/New_York:20260930T193000
 DTEND;TZID=America/New_York:20260930T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-998@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -523,7 +523,7 @@ DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
  al Outfit produces in partnership with Dominion Entertainment Group and th
  e Alabama Shakespeare Festival\, a two-state revival of the play.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -532,7 +532,7 @@ BEGIN:VEVENT
 SUMMARY:Fences
 DTSTART;TZID=America/New_York:20261001T193000
 DTEND;TZID=America/New_York:20261001T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-999@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -546,7 +546,7 @@ DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
  al Outfit produces in partnership with Dominion Entertainment Group and th
  e Alabama Shakespeare Festival\, a two-state revival of the play.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -555,7 +555,7 @@ BEGIN:VEVENT
 SUMMARY:Fences
 DTSTART;TZID=America/New_York:20261002T193000
 DTEND;TZID=America/New_York:20261002T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1000@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -569,7 +569,7 @@ DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
  al Outfit produces in partnership with Dominion Entertainment Group and th
  e Alabama Shakespeare Festival\, a two-state revival of the play.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -578,7 +578,7 @@ BEGIN:VEVENT
 SUMMARY:Fences
 DTSTART;TZID=America/New_York:20261003T193000
 DTEND;TZID=America/New_York:20261003T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1767@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -592,7 +592,7 @@ DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
  al Outfit produces in partnership with Dominion Entertainment Group and th
  e Alabama Shakespeare Festival\, a two-state revival of the play.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -601,7 +601,7 @@ BEGIN:VEVENT
 SUMMARY:Fences
 DTSTART;TZID=America/New_York:20261004T143000
 DTEND;TZID=America/New_York:20261004T170000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1001@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -615,7 +615,7 @@ DESCRIPTION:August Wilson's Pulitzer winner: a former Negro League star in
  al Outfit produces in partnership with Dominion Entertainment Group and th
  e Alabama Shakespeare Festival\, a two-state revival of the play.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -624,7 +624,7 @@ BEGIN:VEVENT
 SUMMARY:Cotton Patch Gospel: Season 50 Return Engagement
 DTSTART;TZID=America/New_York:20261017T143000
 DTEND;TZID=America/New_York:20261017T163000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-967@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -638,7 +638,7 @@ DESCRIPTION:Matthew's Gospel retold in small-town Georgia with Harry Chapi
  gagement in Theatrical Outfit's 50th anniversary season\, with performance
  s through October 18.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -647,7 +647,7 @@ BEGIN:VEVENT
 SUMMARY:Cotton Patch Gospel: Season 50 Return Engagement
 DTSTART;TZID=America/New_York:20261018T143000
 DTEND;TZID=America/New_York:20261018T163000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-968@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -661,7 +661,7 @@ DESCRIPTION:Matthew's Gospel retold in small-town Georgia with Harry Chapi
  gagement in Theatrical Outfit's 50th anniversary season\, with performance
  s through October 18.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -670,7 +670,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday at Herren's: 50th Season Special
 DTSTART;TZID=America/New_York:20261214T193000
 DTEND;TZID=America/New_York:20261214T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1002@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -680,7 +680,7 @@ DESCRIPTION:A one-night holiday cabaret from Theatrical Outfit\, part of t
  cabaret's small-room style\, from a company that has been producing in Atl
  anta since 1977.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -689,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270224T193000
 DTEND;TZID=America/New_York:20270224T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1082@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -703,7 +703,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -712,7 +712,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270225T193000
 DTEND;TZID=America/New_York:20270225T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1083@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -726,7 +726,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -735,7 +735,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270226T193000
 DTEND;TZID=America/New_York:20270226T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1084@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -749,7 +749,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -758,7 +758,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270227T193000
 DTEND;TZID=America/New_York:20270227T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1085@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -772,7 +772,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -781,7 +781,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270228T143000
 DTEND;TZID=America/New_York:20270228T163000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1086@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -795,7 +795,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -804,7 +804,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270303T193000
 DTEND;TZID=America/New_York:20270303T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1087@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -818,7 +818,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -827,7 +827,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270304T193000
 DTEND;TZID=America/New_York:20270304T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1088@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -841,7 +841,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -850,7 +850,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270305T193000
 DTEND;TZID=America/New_York:20270305T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1089@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -864,7 +864,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -873,7 +873,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270306T193000
 DTEND;TZID=America/New_York:20270306T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1090@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -887,7 +887,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -896,7 +896,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270307T143000
 DTEND;TZID=America/New_York:20270307T163000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1091@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -910,7 +910,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -919,7 +919,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270310T193000
 DTEND;TZID=America/New_York:20270310T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1092@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -933,7 +933,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -942,7 +942,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270311T193000
 DTEND;TZID=America/New_York:20270311T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1093@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -956,7 +956,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -965,7 +965,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270312T193000
 DTEND;TZID=America/New_York:20270312T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1094@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -979,7 +979,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -988,7 +988,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270313T193000
 DTEND;TZID=America/New_York:20270313T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1095@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1002,7 +1002,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1011,7 +1011,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270314T143000
 DTEND;TZID=America/New_York:20270314T163000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1096@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1025,7 +1025,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1034,7 +1034,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270317T193000
 DTEND;TZID=America/New_York:20270317T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1097@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1048,7 +1048,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1057,7 +1057,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270318T193000
 DTEND;TZID=America/New_York:20270318T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1098@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1071,7 +1071,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1080,7 +1080,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270319T193000
 DTEND;TZID=America/New_York:20270319T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1099@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1094,7 +1094,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1103,7 +1103,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270320T193000
 DTEND;TZID=America/New_York:20270320T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1100@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1117,7 +1117,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1126,7 +1126,7 @@ BEGIN:VEVENT
 SUMMARY:What the Constitution Means to Me
 DTSTART;TZID=America/New_York:20270321T143000
 DTEND;TZID=America/New_York:20270321T163000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1101@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1140,7 +1140,7 @@ DESCRIPTION:Heidi Schreck's Tony-nominated play revisiting her teenage Con
  \, and pointed by turns. A Tony nominee for Best Play and a Pulitzer final
  ist\, it gets its Atlanta premiere from Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1149,7 +1149,7 @@ BEGIN:VEVENT
 SUMMARY:Season 50 Gala
 DTSTART;TZID=America/New_York:20270417T180000
 DTEND;TZID=America/New_York:20270417T210000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1040@atlcal.com
 SEQUENCE:0
 CATEGORIES:Fundraiser
@@ -1160,7 +1160,7 @@ DESCRIPTION:A benefit gala marking Theatrical Outfit's 50th season — the
  e new-play development programs like Launchpad\, and proceeds from the eve
  ning support that work.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1169,7 +1169,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270519T193000
 DTEND;TZID=America/New_York:20270519T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1041@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1183,7 +1183,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1192,7 +1192,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270520T193000
 DTEND;TZID=America/New_York:20270520T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1042@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1206,7 +1206,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1215,7 +1215,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270521T193000
 DTEND;TZID=America/New_York:20270521T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1043@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1229,7 +1229,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1238,7 +1238,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270522T193000
 DTEND;TZID=America/New_York:20270522T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1044@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1252,7 +1252,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1261,7 +1261,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270523T143000
 DTEND;TZID=America/New_York:20270523T163000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1045@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1275,7 +1275,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1284,7 +1284,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270526T193000
 DTEND;TZID=America/New_York:20270526T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1046@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1298,7 +1298,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1307,7 +1307,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270527T193000
 DTEND;TZID=America/New_York:20270527T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1047@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1321,7 +1321,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1330,7 +1330,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270528T193000
 DTEND;TZID=America/New_York:20270528T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1048@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1344,7 +1344,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1353,7 +1353,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270529T193000
 DTEND;TZID=America/New_York:20270529T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1049@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1367,7 +1367,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1376,7 +1376,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270530T143000
 DTEND;TZID=America/New_York:20270530T163000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1050@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1390,7 +1390,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1399,7 +1399,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270602T193000
 DTEND;TZID=America/New_York:20270602T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1051@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1413,7 +1413,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1422,7 +1422,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270603T193000
 DTEND;TZID=America/New_York:20270603T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1052@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1436,7 +1436,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1445,7 +1445,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270604T193000
 DTEND;TZID=America/New_York:20270604T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1053@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1459,7 +1459,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1468,7 +1468,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270605T193000
 DTEND;TZID=America/New_York:20270605T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1054@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1482,7 +1482,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1491,7 +1491,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270606T143000
 DTEND;TZID=America/New_York:20270606T163000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1055@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1505,7 +1505,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1514,7 +1514,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270609T193000
 DTEND;TZID=America/New_York:20270609T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1056@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1528,7 +1528,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1537,7 +1537,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270610T193000
 DTEND;TZID=America/New_York:20270610T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1057@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1551,7 +1551,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1560,7 +1560,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270611T193000
 DTEND;TZID=America/New_York:20270611T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1058@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1574,7 +1574,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1583,7 +1583,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270612T193000
 DTEND;TZID=America/New_York:20270612T213000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1059@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1597,7 +1597,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1606,7 +1606,7 @@ BEGIN:VEVENT
 SUMMARY:The Children
 DTSTART;TZID=America/New_York:20270613T143000
 DTEND;TZID=America/New_York:20270613T163000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-1060@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1620,7 +1620,7 @@ DESCRIPTION:Lucy Kirkwood's darkly comic thriller: two retired nuclear phy
  n Broadway\, and in 2019 Guardian writers ranked it third among the greate
  st theatrical works since 2000. Presented by Theatrical Outfit.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1629,7 +1629,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20270908T193000
 DTEND;TZID=America/New_York:20270908T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-969@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1643,7 +1643,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1652,7 +1652,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20270909T193000
 DTEND;TZID=America/New_York:20270909T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-970@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1666,7 +1666,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1675,7 +1675,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20270910T193000
 DTEND;TZID=America/New_York:20270910T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-971@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1689,7 +1689,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1698,7 +1698,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20270911T193000
 DTEND;TZID=America/New_York:20270911T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-972@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1712,7 +1712,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1721,7 +1721,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20270912T143000
 DTEND;TZID=America/New_York:20270912T170000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-973@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1735,7 +1735,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1744,7 +1744,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20270915T193000
 DTEND;TZID=America/New_York:20270915T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-974@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1758,7 +1758,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1767,7 +1767,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20270916T193000
 DTEND;TZID=America/New_York:20270916T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-975@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1781,7 +1781,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1790,7 +1790,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20270917T193000
 DTEND;TZID=America/New_York:20270917T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-976@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1804,7 +1804,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1813,7 +1813,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20270918T193000
 DTEND;TZID=America/New_York:20270918T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-977@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1827,7 +1827,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1836,7 +1836,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20270919T143000
 DTEND;TZID=America/New_York:20270919T170000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-978@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1850,7 +1850,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1859,7 +1859,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20270922T193000
 DTEND;TZID=America/New_York:20270922T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-979@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1873,7 +1873,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1882,7 +1882,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20270923T193000
 DTEND;TZID=America/New_York:20270923T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-980@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1896,7 +1896,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1905,7 +1905,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20270924T193000
 DTEND;TZID=America/New_York:20270924T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-981@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1919,7 +1919,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1928,7 +1928,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20270925T193000
 DTEND;TZID=America/New_York:20270925T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-982@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1942,7 +1942,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1951,7 +1951,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20270926T143000
 DTEND;TZID=America/New_York:20270926T170000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-983@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1965,7 +1965,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1974,7 +1974,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20270929T193000
 DTEND;TZID=America/New_York:20270929T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-984@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1988,7 +1988,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1997,7 +1997,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20270930T193000
 DTEND;TZID=America/New_York:20270930T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-985@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2011,7 +2011,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2020,7 +2020,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20271001T193000
 DTEND;TZID=America/New_York:20271001T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-986@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2034,7 +2034,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2043,7 +2043,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20271002T193000
 DTEND;TZID=America/New_York:20271002T220000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-987@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2057,7 +2057,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2066,7 +2066,7 @@ BEGIN:VEVENT
 SUMMARY:Death of a Salesman
 DTSTART;TZID=America/New_York:20271003T143000
 DTEND;TZID=America/New_York:20271003T170000
-DTSTAMP:20260722T054158Z
+DTSTAMP:20260722T153533Z
 UID:occ-988@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2080,7 +2080,7 @@ DESCRIPTION:Arthur Miller's 1949 Pulitzer-winning tragedy of Willy Loman\,
   a long time. The closing production of Theatrical Outfit's 50th anniversa
  ry season. Runs through September 30.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260722T054133Z
+LAST-MODIFIED:20260722T153532Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
