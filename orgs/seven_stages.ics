@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Human Mind Youth Creates 2026
 DTSTART;TZID=America/New_York:20260724T193000
 DTEND;TZID=America/New_York:20260724T203000
-DTSTAMP:20260721T203542Z
+DTSTAMP:20260722T054158Z
 UID:occ-4121@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -73,7 +73,7 @@ DESCRIPTION:An original devised play about artificial intelligence\, creat
  the result. Tickets use a tiered pricing structure\, with a 'Pay it Forwar
  d' option that subsidizes lower-cost seats.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260721T203518Z
+LAST-MODIFIED:20260722T054100Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Human Mind Youth Creates 2026
 DTSTART;TZID=America/New_York:20260725T143000
 DTEND;TZID=America/New_York:20260725T153000
-DTSTAMP:20260721T203542Z
+DTSTAMP:20260722T054158Z
 UID:occ-4122@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -95,7 +95,7 @@ DESCRIPTION:An original devised play about artificial intelligence\, creat
  the result. Tickets use a tiered pricing structure\, with a 'Pay it Forwar
  d' option that subsidizes lower-cost seats.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260721T203518Z
+LAST-MODIFIED:20260722T054100Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Katsura Sunshine’s Rakugo
 DTSTART;TZID=America/New_York:20260805T190000
 DTEND;TZID=America/New_York:20260805T203000
-DTSTAMP:20260721T203542Z
+DTSTAMP:20260722T054158Z
 UID:occ-5439@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Japanese rakugo comic storytelling: one kneeling performer\, a
@@ -117,7 +117,7 @@ DESCRIPTION:Japanese rakugo comic storytelling: one kneeling performer\, a
   at Manhattan's New World Stages since 2019. Presented by 7 Stages\; the p
  erformance runs about an hour.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260721T203518Z
+LAST-MODIFIED:20260722T054100Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
