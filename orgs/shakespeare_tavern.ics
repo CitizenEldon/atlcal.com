@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:A Midsummer Night's Dream
 DTSTART;TZID=America/New_York:20260723T193000
 DTEND;TZID=America/New_York:20260723T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-785@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -73,7 +73,7 @@ DESCRIPTION:Shakespeare's forest comedy of runaway lovers\, amateur actors
  head. From the Atlanta Shakespeare Company\, performed with food and drink
   served at the table in its Elizabethan-style playhouse.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:A Midsummer Night's Dream
 DTSTART;TZID=America/New_York:20260724T193000
 DTEND;TZID=America/New_York:20260724T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-786@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -97,7 +97,7 @@ DESCRIPTION:Shakespeare's forest comedy of runaway lovers\, amateur actors
  head. From the Atlanta Shakespeare Company\, performed with food and drink
   served at the table in its Elizabethan-style playhouse.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:A Midsummer Night's Dream
 DTSTART;TZID=America/New_York:20260725T143000
 DTEND;TZID=America/New_York:20260725T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-787@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -121,7 +121,7 @@ DESCRIPTION:Shakespeare's forest comedy of runaway lovers\, amateur actors
  head. From the Atlanta Shakespeare Company\, performed with food and drink
   served at the table in its Elizabethan-style playhouse.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:A Midsummer Night's Dream
 DTSTART;TZID=America/New_York:20260725T193000
 DTEND;TZID=America/New_York:20260725T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-788@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -145,7 +145,7 @@ DESCRIPTION:Shakespeare's forest comedy of runaway lovers\, amateur actors
  head. From the Atlanta Shakespeare Company\, performed with food and drink
   served at the table in its Elizabethan-style playhouse.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:A Midsummer Night's Dream
 DTSTART;TZID=America/New_York:20260726T143000
 DTEND;TZID=America/New_York:20260726T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-789@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -169,7 +169,7 @@ DESCRIPTION:Shakespeare's forest comedy of runaway lovers\, amateur actors
  head. From the Atlanta Shakespeare Company\, performed with food and drink
   served at the table in its Elizabethan-style playhouse.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:A Midsummer Night's Dream
 DTSTART;TZID=America/New_York:20260730T193000
 DTEND;TZID=America/New_York:20260730T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-790@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -193,7 +193,7 @@ DESCRIPTION:Shakespeare's forest comedy of runaway lovers\, amateur actors
  head. From the Atlanta Shakespeare Company\, performed with food and drink
   served at the table in its Elizabethan-style playhouse.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:A Midsummer Night's Dream
 DTSTART;TZID=America/New_York:20260731T193000
 DTEND;TZID=America/New_York:20260731T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-791@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -217,7 +217,7 @@ DESCRIPTION:Shakespeare's forest comedy of runaway lovers\, amateur actors
  head. From the Atlanta Shakespeare Company\, performed with food and drink
   served at the table in its Elizabethan-style playhouse.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:A Midsummer Night's Dream
 DTSTART;TZID=America/New_York:20260801T193000
 DTEND;TZID=America/New_York:20260801T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-792@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -241,7 +241,7 @@ DESCRIPTION:Shakespeare's forest comedy of runaway lovers\, amateur actors
  head. From the Atlanta Shakespeare Company\, performed with food and drink
   served at the table in its Elizabethan-style playhouse.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:A Midsummer Night's Dream
 DTSTART;TZID=America/New_York:20260802T143000
 DTEND;TZID=America/New_York:20260802T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-793@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -265,7 +265,7 @@ DESCRIPTION:Shakespeare's forest comedy of runaway lovers\, amateur actors
  head. From the Atlanta Shakespeare Company\, performed with food and drink
   served at the table in its Elizabethan-style playhouse.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -276,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:The Comedy of Errors
 DTSTART;TZID=America/New_York:20260806T193000
 DTEND;TZID=America/New_York:20260806T212000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-794@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -291,7 +291,7 @@ DESCRIPTION:Shakespeare's shortest\, most slapstick comedy: two sets of tw
  aming of the Shrew and Twelfth Night\; performances run through September 
  5.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -302,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:The Taming of the Shrew
 DTSTART;TZID=America/New_York:20260807T193000
 DTEND;TZID=America/New_York:20260807T215500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-801@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -316,7 +316,7 @@ DESCRIPTION:Shakespeare's battle-of-the-sexes comedy with an all-female+ c
  pany. Part of an August repertory alternating three Shakespeare comedies\;
   this production runs through September 3.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:Twelfth Night
 DTSTART;TZID=America/New_York:20260808T193000
 DTEND;TZID=America/New_York:20260808T220500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-807@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -342,7 +342,7 @@ DESCRIPTION:Shakespeare's shipwreck comedy of twins\, disguise\, and yello
  ng the show. Part of the August Threepeat\, a repertory rotating three Sha
  kespeare comedies nightly\; this one plays through September 4.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -353,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:The Comedy of Errors
 DTSTART;TZID=America/New_York:20260809T143000
 DTEND;TZID=America/New_York:20260809T162000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-795@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -368,7 +368,7 @@ DESCRIPTION:Shakespeare's shortest\, most slapstick comedy: two sets of tw
  aming of the Shrew and Twelfth Night\; performances run through September 
  5.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -379,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:The Taming of the Shrew
 DTSTART;TZID=America/New_York:20260813T193000
 DTEND;TZID=America/New_York:20260813T215500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-802@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -393,7 +393,7 @@ DESCRIPTION:Shakespeare's battle-of-the-sexes comedy with an all-female+ c
  pany. Part of an August repertory alternating three Shakespeare comedies\;
   this production runs through September 3.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -404,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:Twelfth Night
 DTSTART;TZID=America/New_York:20260814T193000
 DTEND;TZID=America/New_York:20260814T220500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-808@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -419,7 +419,7 @@ DESCRIPTION:Shakespeare's shipwreck comedy of twins\, disguise\, and yello
  ng the show. Part of the August Threepeat\, a repertory rotating three Sha
  kespeare comedies nightly\; this one plays through September 4.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -430,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:The Comedy of Errors
 DTSTART;TZID=America/New_York:20260815T193000
 DTEND;TZID=America/New_York:20260815T212000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-796@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -445,7 +445,7 @@ DESCRIPTION:Shakespeare's shortest\, most slapstick comedy: two sets of tw
  aming of the Shrew and Twelfth Night\; performances run through September 
  5.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:The Taming of the Shrew
 DTSTART;TZID=America/New_York:20260816T143000
 DTEND;TZID=America/New_York:20260816T165500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-803@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -470,7 +470,7 @@ DESCRIPTION:Shakespeare's battle-of-the-sexes comedy with an all-female+ c
  pany. Part of an August repertory alternating three Shakespeare comedies\;
   this production runs through September 3.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -481,7 +481,7 @@ BEGIN:VEVENT
 SUMMARY:Twelfth Night
 DTSTART;TZID=America/New_York:20260820T193000
 DTEND;TZID=America/New_York:20260820T220500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-809@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -496,7 +496,7 @@ DESCRIPTION:Shakespeare's shipwreck comedy of twins\, disguise\, and yello
  ng the show. Part of the August Threepeat\, a repertory rotating three Sha
  kespeare comedies nightly\; this one plays through September 4.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -507,7 +507,7 @@ BEGIN:VEVENT
 SUMMARY:The Comedy of Errors
 DTSTART;TZID=America/New_York:20260821T193000
 DTEND;TZID=America/New_York:20260821T212000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-797@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -522,7 +522,7 @@ DESCRIPTION:Shakespeare's shortest\, most slapstick comedy: two sets of tw
  aming of the Shrew and Twelfth Night\; performances run through September 
  5.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -533,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:The Taming of the Shrew
 DTSTART;TZID=America/New_York:20260822T193000
 DTEND;TZID=America/New_York:20260822T215500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-804@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -547,7 +547,7 @@ DESCRIPTION:Shakespeare's battle-of-the-sexes comedy with an all-female+ c
  pany. Part of an August repertory alternating three Shakespeare comedies\;
   this production runs through September 3.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -558,7 +558,7 @@ BEGIN:VEVENT
 SUMMARY:Twelfth Night
 DTSTART;TZID=America/New_York:20260823T143000
 DTEND;TZID=America/New_York:20260823T170500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-810@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -573,7 +573,7 @@ DESCRIPTION:Shakespeare's shipwreck comedy of twins\, disguise\, and yello
  ng the show. Part of the August Threepeat\, a repertory rotating three Sha
  kespeare comedies nightly\; this one plays through September 4.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -584,7 +584,7 @@ BEGIN:VEVENT
 SUMMARY:The Comedy of Errors
 DTSTART;TZID=America/New_York:20260827T193000
 DTEND;TZID=America/New_York:20260827T212000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-798@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -599,7 +599,7 @@ DESCRIPTION:Shakespeare's shortest\, most slapstick comedy: two sets of tw
  aming of the Shrew and Twelfth Night\; performances run through September 
  5.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -610,7 +610,7 @@ BEGIN:VEVENT
 SUMMARY:The Taming of the Shrew
 DTSTART;TZID=America/New_York:20260828T193000
 DTEND;TZID=America/New_York:20260828T215500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-805@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -624,7 +624,7 @@ DESCRIPTION:Shakespeare's battle-of-the-sexes comedy with an all-female+ c
  pany. Part of an August repertory alternating three Shakespeare comedies\;
   this production runs through September 3.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -635,7 +635,7 @@ BEGIN:VEVENT
 SUMMARY:Twelfth Night
 DTSTART;TZID=America/New_York:20260829T193000
 DTEND;TZID=America/New_York:20260829T220500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-811@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -650,7 +650,7 @@ DESCRIPTION:Shakespeare's shipwreck comedy of twins\, disguise\, and yello
  ng the show. Part of the August Threepeat\, a repertory rotating three Sha
  kespeare comedies nightly\; this one plays through September 4.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -661,7 +661,7 @@ BEGIN:VEVENT
 SUMMARY:The Comedy of Errors
 DTSTART;TZID=America/New_York:20260830T143000
 DTEND;TZID=America/New_York:20260830T162000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-799@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -676,7 +676,7 @@ DESCRIPTION:Shakespeare's shortest\, most slapstick comedy: two sets of tw
  aming of the Shrew and Twelfth Night\; performances run through September 
  5.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -687,11 +687,11 @@ BEGIN:VEVENT
 SUMMARY:Dungeons and Taverns: A Payment Most Dear
 DTSTART;TZID=America/New_York:20260902T193000
 DTEND;TZID=America/New_York:20260902T200000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-5541@atlcal.com
 SEQUENCE:0
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -702,7 +702,7 @@ BEGIN:VEVENT
 SUMMARY:The Taming of the Shrew
 DTSTART;TZID=America/New_York:20260903T193000
 DTEND;TZID=America/New_York:20260903T215500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-806@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -716,7 +716,7 @@ DESCRIPTION:Shakespeare's battle-of-the-sexes comedy with an all-female+ c
  pany. Part of an August repertory alternating three Shakespeare comedies\;
   this production runs through September 3.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -727,7 +727,7 @@ BEGIN:VEVENT
 SUMMARY:Twelfth Night
 DTSTART;TZID=America/New_York:20260904T193000
 DTEND;TZID=America/New_York:20260904T220500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-812@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -742,7 +742,7 @@ DESCRIPTION:Shakespeare's shipwreck comedy of twins\, disguise\, and yello
  ng the show. Part of the August Threepeat\, a repertory rotating three Sha
  kespeare comedies nightly\; this one plays through September 4.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -753,7 +753,7 @@ BEGIN:VEVENT
 SUMMARY:The Comedy of Errors
 DTSTART;TZID=America/New_York:20260905T193000
 DTEND;TZID=America/New_York:20260905T212000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-800@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -768,7 +768,7 @@ DESCRIPTION:Shakespeare's shortest\, most slapstick comedy: two sets of tw
  aming of the Shrew and Twelfth Night\; performances run through September 
  5.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -779,7 +779,7 @@ BEGIN:VEVENT
 SUMMARY:Measure for Measure
 DTSTART;TZID=America/New_York:20260912T193000
 DTEND;TZID=America/New_York:20260912T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1452@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -795,7 +795,7 @@ DESCRIPTION:Shakespeare's problem play: a disguised duke\, a puritan deput
  d it the label of problem play. From the Atlanta Shakespeare Company\, per
  formed with tavern table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -805,7 +805,7 @@ BEGIN:VEVENT
 SUMMARY:Measure for Measure
 DTSTART;TZID=America/New_York:20260913T143000
 DTEND;TZID=America/New_York:20260913T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1453@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -821,7 +821,7 @@ DESCRIPTION:Shakespeare's problem play: a disguised duke\, a puritan deput
  d it the label of problem play. From the Atlanta Shakespeare Company\, per
  formed with tavern table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -831,7 +831,7 @@ BEGIN:VEVENT
 SUMMARY:Measure for Measure
 DTSTART;TZID=America/New_York:20260917T193000
 DTEND;TZID=America/New_York:20260917T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1454@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -847,7 +847,7 @@ DESCRIPTION:Shakespeare's problem play: a disguised duke\, a puritan deput
  d it the label of problem play. From the Atlanta Shakespeare Company\, per
  formed with tavern table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -857,7 +857,7 @@ BEGIN:VEVENT
 SUMMARY:Measure for Measure
 DTSTART;TZID=America/New_York:20260918T193000
 DTEND;TZID=America/New_York:20260918T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1455@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -873,7 +873,7 @@ DESCRIPTION:Shakespeare's problem play: a disguised duke\, a puritan deput
  d it the label of problem play. From the Atlanta Shakespeare Company\, per
  formed with tavern table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -883,7 +883,7 @@ BEGIN:VEVENT
 SUMMARY:Measure for Measure
 DTSTART;TZID=America/New_York:20260919T193000
 DTEND;TZID=America/New_York:20260919T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1456@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -899,7 +899,7 @@ DESCRIPTION:Shakespeare's problem play: a disguised duke\, a puritan deput
  d it the label of problem play. From the Atlanta Shakespeare Company\, per
  formed with tavern table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -909,7 +909,7 @@ BEGIN:VEVENT
 SUMMARY:Measure for Measure
 DTSTART;TZID=America/New_York:20260920T143000
 DTEND;TZID=America/New_York:20260920T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1457@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -925,7 +925,7 @@ DESCRIPTION:Shakespeare's problem play: a disguised duke\, a puritan deput
  d it the label of problem play. From the Atlanta Shakespeare Company\, per
  formed with tavern table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -935,7 +935,7 @@ BEGIN:VEVENT
 SUMMARY:Measure for Measure
 DTSTART;TZID=America/New_York:20260924T193000
 DTEND;TZID=America/New_York:20260924T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1458@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -951,7 +951,7 @@ DESCRIPTION:Shakespeare's problem play: a disguised duke\, a puritan deput
  d it the label of problem play. From the Atlanta Shakespeare Company\, per
  formed with tavern table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -961,7 +961,7 @@ BEGIN:VEVENT
 SUMMARY:Measure for Measure
 DTSTART;TZID=America/New_York:20260925T193000
 DTEND;TZID=America/New_York:20260925T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1459@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -977,7 +977,7 @@ DESCRIPTION:Shakespeare's problem play: a disguised duke\, a puritan deput
  d it the label of problem play. From the Atlanta Shakespeare Company\, per
  formed with tavern table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -987,7 +987,7 @@ BEGIN:VEVENT
 SUMMARY:Measure for Measure
 DTSTART;TZID=America/New_York:20260926T193000
 DTEND;TZID=America/New_York:20260926T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1460@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1003,7 +1003,7 @@ DESCRIPTION:Shakespeare's problem play: a disguised duke\, a puritan deput
  d it the label of problem play. From the Atlanta Shakespeare Company\, per
  formed with tavern table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1013,7 +1013,7 @@ BEGIN:VEVENT
 SUMMARY:Measure for Measure
 DTSTART;TZID=America/New_York:20260927T143000
 DTEND;TZID=America/New_York:20260927T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1461@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1029,7 +1029,7 @@ DESCRIPTION:Shakespeare's problem play: a disguised duke\, a puritan deput
  d it the label of problem play. From the Atlanta Shakespeare Company\, per
  formed with tavern table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1039,7 +1039,7 @@ BEGIN:VEVENT
 SUMMARY:Macbeth
 DTSTART;TZID=America/New_York:20261003T193000
 DTEND;TZID=America/New_York:20261003T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1462@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1051,7 +1051,7 @@ DESCRIPTION:Shakespeare's Scottish tragedy of witches\, prophecy\, and a c
  ot wash off. From the Atlanta Shakespeare Company\, performed with food an
  d drink served at your table. A 2025 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1061,7 +1061,7 @@ BEGIN:VEVENT
 SUMMARY:Macbeth
 DTSTART;TZID=America/New_York:20261004T143000
 DTEND;TZID=America/New_York:20261004T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1463@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1073,7 +1073,7 @@ DESCRIPTION:Shakespeare's Scottish tragedy of witches\, prophecy\, and a c
  ot wash off. From the Atlanta Shakespeare Company\, performed with food an
  d drink served at your table. A 2025 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1083,7 +1083,7 @@ BEGIN:VEVENT
 SUMMARY:Macbeth
 DTSTART;TZID=America/New_York:20261008T193000
 DTEND;TZID=America/New_York:20261008T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1464@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1095,7 +1095,7 @@ DESCRIPTION:Shakespeare's Scottish tragedy of witches\, prophecy\, and a c
  ot wash off. From the Atlanta Shakespeare Company\, performed with food an
  d drink served at your table. A 2025 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1105,7 +1105,7 @@ BEGIN:VEVENT
 SUMMARY:Macbeth
 DTSTART;TZID=America/New_York:20261009T193000
 DTEND;TZID=America/New_York:20261009T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1465@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1117,7 +1117,7 @@ DESCRIPTION:Shakespeare's Scottish tragedy of witches\, prophecy\, and a c
  ot wash off. From the Atlanta Shakespeare Company\, performed with food an
  d drink served at your table. A 2025 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1127,7 +1127,7 @@ BEGIN:VEVENT
 SUMMARY:Macbeth
 DTSTART;TZID=America/New_York:20261010T193000
 DTEND;TZID=America/New_York:20261010T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1466@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1139,7 +1139,7 @@ DESCRIPTION:Shakespeare's Scottish tragedy of witches\, prophecy\, and a c
  ot wash off. From the Atlanta Shakespeare Company\, performed with food an
  d drink served at your table. A 2025 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1149,7 +1149,7 @@ BEGIN:VEVENT
 SUMMARY:Macbeth
 DTSTART;TZID=America/New_York:20261011T143000
 DTEND;TZID=America/New_York:20261011T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1467@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1161,7 +1161,7 @@ DESCRIPTION:Shakespeare's Scottish tragedy of witches\, prophecy\, and a c
  ot wash off. From the Atlanta Shakespeare Company\, performed with food an
  d drink served at your table. A 2025 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1171,7 +1171,7 @@ BEGIN:VEVENT
 SUMMARY:Macbeth
 DTSTART;TZID=America/New_York:20261015T193000
 DTEND;TZID=America/New_York:20261015T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1468@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1183,7 +1183,7 @@ DESCRIPTION:Shakespeare's Scottish tragedy of witches\, prophecy\, and a c
  ot wash off. From the Atlanta Shakespeare Company\, performed with food an
  d drink served at your table. A 2025 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1193,7 +1193,7 @@ BEGIN:VEVENT
 SUMMARY:Macbeth
 DTSTART;TZID=America/New_York:20261016T193000
 DTEND;TZID=America/New_York:20261016T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1469@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1205,7 +1205,7 @@ DESCRIPTION:Shakespeare's Scottish tragedy of witches\, prophecy\, and a c
  ot wash off. From the Atlanta Shakespeare Company\, performed with food an
  d drink served at your table. A 2025 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1215,7 +1215,7 @@ BEGIN:VEVENT
 SUMMARY:Macbeth
 DTSTART;TZID=America/New_York:20261017T193000
 DTEND;TZID=America/New_York:20261017T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1470@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1227,7 +1227,7 @@ DESCRIPTION:Shakespeare's Scottish tragedy of witches\, prophecy\, and a c
  ot wash off. From the Atlanta Shakespeare Company\, performed with food an
  d drink served at your table. A 2025 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1237,7 +1237,7 @@ BEGIN:VEVENT
 SUMMARY:Macbeth
 DTSTART;TZID=America/New_York:20261018T143000
 DTEND;TZID=America/New_York:20261018T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1471@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1249,7 +1249,7 @@ DESCRIPTION:Shakespeare's Scottish tragedy of witches\, prophecy\, and a c
  ot wash off. From the Atlanta Shakespeare Company\, performed with food an
  d drink served at your table. A 2025 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1259,7 +1259,7 @@ BEGIN:VEVENT
 SUMMARY:Macbeth
 DTSTART;TZID=America/New_York:20261022T193000
 DTEND;TZID=America/New_York:20261022T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1472@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1271,7 +1271,7 @@ DESCRIPTION:Shakespeare's Scottish tragedy of witches\, prophecy\, and a c
  ot wash off. From the Atlanta Shakespeare Company\, performed with food an
  d drink served at your table. A 2025 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1281,7 +1281,7 @@ BEGIN:VEVENT
 SUMMARY:Macbeth
 DTSTART;TZID=America/New_York:20261023T193000
 DTEND;TZID=America/New_York:20261023T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1473@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1293,7 +1293,7 @@ DESCRIPTION:Shakespeare's Scottish tragedy of witches\, prophecy\, and a c
  ot wash off. From the Atlanta Shakespeare Company\, performed with food an
  d drink served at your table. A 2025 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1303,7 +1303,7 @@ BEGIN:VEVENT
 SUMMARY:Macbeth
 DTSTART;TZID=America/New_York:20261024T193000
 DTEND;TZID=America/New_York:20261024T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1474@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1315,7 +1315,7 @@ DESCRIPTION:Shakespeare's Scottish tragedy of witches\, prophecy\, and a c
  ot wash off. From the Atlanta Shakespeare Company\, performed with food an
  d drink served at your table. A 2025 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1325,7 +1325,7 @@ BEGIN:VEVENT
 SUMMARY:Macbeth
 DTSTART;TZID=America/New_York:20261025T143000
 DTEND;TZID=America/New_York:20261025T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1475@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1337,7 +1337,7 @@ DESCRIPTION:Shakespeare's Scottish tragedy of witches\, prophecy\, and a c
  ot wash off. From the Atlanta Shakespeare Company\, performed with food an
  d drink served at your table. A 2025 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1347,7 +1347,7 @@ BEGIN:VEVENT
 SUMMARY:Jeffrey Hatcher's The Turn of the Screw
 DTSTART;TZID=America/New_York:20261028T193000
 DTEND;TZID=America/New_York:20261028T210000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1476@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1361,7 +1361,7 @@ DESCRIPTION:Two actors\, one piano\, and Henry James's ghost story perform
  h live atmospheric piano. From the Atlanta Shakespeare Company\; a one-wee
  k run with no intermission and no latecomer seating.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1372,7 +1372,7 @@ BEGIN:VEVENT
 SUMMARY:Jeffrey Hatcher's The Turn of the Screw
 DTSTART;TZID=America/New_York:20261029T193000
 DTEND;TZID=America/New_York:20261029T210000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1477@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1386,7 +1386,7 @@ DESCRIPTION:Two actors\, one piano\, and Henry James's ghost story perform
  h live atmospheric piano. From the Atlanta Shakespeare Company\; a one-wee
  k run with no intermission and no latecomer seating.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1397,7 +1397,7 @@ BEGIN:VEVENT
 SUMMARY:Jeffrey Hatcher's The Turn of the Screw
 DTSTART;TZID=America/New_York:20261030T193000
 DTEND;TZID=America/New_York:20261030T210000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1478@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1411,7 +1411,7 @@ DESCRIPTION:Two actors\, one piano\, and Henry James's ghost story perform
  h live atmospheric piano. From the Atlanta Shakespeare Company\; a one-wee
  k run with no intermission and no latecomer seating.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1422,7 +1422,7 @@ BEGIN:VEVENT
 SUMMARY:Jeffrey Hatcher's The Turn of the Screw
 DTSTART;TZID=America/New_York:20261031T193000
 DTEND;TZID=America/New_York:20261031T210000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1479@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1436,7 +1436,7 @@ DESCRIPTION:Two actors\, one piano\, and Henry James's ghost story perform
  h live atmospheric piano. From the Atlanta Shakespeare Company\; a one-wee
  k run with no intermission and no latecomer seating.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1447,7 +1447,7 @@ BEGIN:VEVENT
 SUMMARY:Othello
 DTSTART;TZID=America/New_York:20261107T193000
 DTEND;TZID=America/New_York:20261107T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1480@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1460,7 +1460,7 @@ DESCRIPTION:Shakespeare's tragedy of jealousy — Iago whispers\, and a gr
  him work the room is half the horror. From the Atlanta Shakespeare Company
  \, performed Elizabethan-style with food and drink served at your table.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1470,7 +1470,7 @@ BEGIN:VEVENT
 SUMMARY:Othello
 DTSTART;TZID=America/New_York:20261108T143000
 DTEND;TZID=America/New_York:20261108T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1481@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1483,7 +1483,7 @@ DESCRIPTION:Shakespeare's tragedy of jealousy — Iago whispers\, and a gr
  him work the room is half the horror. From the Atlanta Shakespeare Company
  \, performed Elizabethan-style with food and drink served at your table.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1493,7 +1493,7 @@ BEGIN:VEVENT
 SUMMARY:Othello
 DTSTART;TZID=America/New_York:20261112T193000
 DTEND;TZID=America/New_York:20261112T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1482@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1506,7 +1506,7 @@ DESCRIPTION:Shakespeare's tragedy of jealousy — Iago whispers\, and a gr
  him work the room is half the horror. From the Atlanta Shakespeare Company
  \, performed Elizabethan-style with food and drink served at your table.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1516,7 +1516,7 @@ BEGIN:VEVENT
 SUMMARY:Othello
 DTSTART;TZID=America/New_York:20261113T193000
 DTEND;TZID=America/New_York:20261113T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1483@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1529,7 +1529,7 @@ DESCRIPTION:Shakespeare's tragedy of jealousy — Iago whispers\, and a gr
  him work the room is half the horror. From the Atlanta Shakespeare Company
  \, performed Elizabethan-style with food and drink served at your table.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1539,7 +1539,7 @@ BEGIN:VEVENT
 SUMMARY:Mel Konner’s Sixteen Springs or Four Loves (Staged Reading)
 DTSTART;TZID=America/New_York:20261114T143000
 DTEND;TZID=America/New_York:20261114T160000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1494@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -1552,7 +1552,7 @@ DESCRIPTION:A book-in-hand reading of a new play filling in the sixteen mi
  nt fates. A staged reading from the Atlanta Shakespeare Company\, ahead of
   a full production in Spring 2027.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1563,7 +1563,7 @@ BEGIN:VEVENT
 SUMMARY:Othello
 DTSTART;TZID=America/New_York:20261114T193000
 DTEND;TZID=America/New_York:20261114T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1484@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1576,7 +1576,7 @@ DESCRIPTION:Shakespeare's tragedy of jealousy — Iago whispers\, and a gr
  him work the room is half the horror. From the Atlanta Shakespeare Company
  \, performed Elizabethan-style with food and drink served at your table.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1586,7 +1586,7 @@ BEGIN:VEVENT
 SUMMARY:Othello
 DTSTART;TZID=America/New_York:20261115T143000
 DTEND;TZID=America/New_York:20261115T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1485@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1599,7 +1599,7 @@ DESCRIPTION:Shakespeare's tragedy of jealousy — Iago whispers\, and a gr
  him work the room is half the horror. From the Atlanta Shakespeare Company
  \, performed Elizabethan-style with food and drink served at your table.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1609,7 +1609,7 @@ BEGIN:VEVENT
 SUMMARY:Othello
 DTSTART;TZID=America/New_York:20261119T193000
 DTEND;TZID=America/New_York:20261119T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1486@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1622,7 +1622,7 @@ DESCRIPTION:Shakespeare's tragedy of jealousy — Iago whispers\, and a gr
  him work the room is half the horror. From the Atlanta Shakespeare Company
  \, performed Elizabethan-style with food and drink served at your table.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1632,7 +1632,7 @@ BEGIN:VEVENT
 SUMMARY:Othello
 DTSTART;TZID=America/New_York:20261120T193000
 DTEND;TZID=America/New_York:20261120T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1487@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1645,7 +1645,7 @@ DESCRIPTION:Shakespeare's tragedy of jealousy — Iago whispers\, and a gr
  him work the room is half the horror. From the Atlanta Shakespeare Company
  \, performed Elizabethan-style with food and drink served at your table.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1655,7 +1655,7 @@ BEGIN:VEVENT
 SUMMARY:Othello
 DTSTART;TZID=America/New_York:20261121T193000
 DTEND;TZID=America/New_York:20261121T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1488@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1668,7 +1668,7 @@ DESCRIPTION:Shakespeare's tragedy of jealousy — Iago whispers\, and a gr
  him work the room is half the horror. From the Atlanta Shakespeare Company
  \, performed Elizabethan-style with food and drink served at your table.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1678,7 +1678,7 @@ BEGIN:VEVENT
 SUMMARY:Othello
 DTSTART;TZID=America/New_York:20261122T143000
 DTEND;TZID=America/New_York:20261122T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1489@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1691,7 +1691,7 @@ DESCRIPTION:Shakespeare's tragedy of jealousy — Iago whispers\, and a gr
  him work the room is half the horror. From the Atlanta Shakespeare Company
  \, performed Elizabethan-style with food and drink served at your table.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1701,7 +1701,7 @@ BEGIN:VEVENT
 SUMMARY:Othello
 DTSTART;TZID=America/New_York:20261126T193000
 DTEND;TZID=America/New_York:20261126T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1490@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1714,7 +1714,7 @@ DESCRIPTION:Shakespeare's tragedy of jealousy — Iago whispers\, and a gr
  him work the room is half the horror. From the Atlanta Shakespeare Company
  \, performed Elizabethan-style with food and drink served at your table.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1724,7 +1724,7 @@ BEGIN:VEVENT
 SUMMARY:Othello
 DTSTART;TZID=America/New_York:20261127T193000
 DTEND;TZID=America/New_York:20261127T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1491@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1737,7 +1737,7 @@ DESCRIPTION:Shakespeare's tragedy of jealousy — Iago whispers\, and a gr
  him work the room is half the horror. From the Atlanta Shakespeare Company
  \, performed Elizabethan-style with food and drink served at your table.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1747,7 +1747,7 @@ BEGIN:VEVENT
 SUMMARY:Othello
 DTSTART;TZID=America/New_York:20261128T193000
 DTEND;TZID=America/New_York:20261128T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1492@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1760,7 +1760,7 @@ DESCRIPTION:Shakespeare's tragedy of jealousy — Iago whispers\, and a gr
  him work the room is half the horror. From the Atlanta Shakespeare Company
  \, performed Elizabethan-style with food and drink served at your table.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1770,7 +1770,7 @@ BEGIN:VEVENT
 SUMMARY:Othello
 DTSTART;TZID=America/New_York:20261129T143000
 DTEND;TZID=America/New_York:20261129T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1493@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1783,7 +1783,7 @@ DESCRIPTION:Shakespeare's tragedy of jealousy — Iago whispers\, and a gr
  him work the room is half the horror. From the Atlanta Shakespeare Company
  \, performed Elizabethan-style with food and drink served at your table.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1793,7 +1793,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens' A Christmas Carol
 DTSTART;TZID=America/New_York:20261205T193000
 DTEND;TZID=America/New_York:20261205T213500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1495@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1808,7 +1808,7 @@ DESCRIPTION:Dickens' ghost story told by a handful of actors\, with song\,
  ayhouse's dinner-table seating means food and drink arrive during the perf
  ormance.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1819,7 +1819,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens' A Christmas Carol
 DTSTART;TZID=America/New_York:20261206T143000
 DTEND;TZID=America/New_York:20261206T163500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1496@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1834,7 +1834,7 @@ DESCRIPTION:Dickens' ghost story told by a handful of actors\, with song\,
  ayhouse's dinner-table seating means food and drink arrive during the perf
  ormance.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1845,7 +1845,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens' A Christmas Carol
 DTSTART;TZID=America/New_York:20261210T193000
 DTEND;TZID=America/New_York:20261210T213500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1497@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1860,7 +1860,7 @@ DESCRIPTION:Dickens' ghost story told by a handful of actors\, with song\,
  ayhouse's dinner-table seating means food and drink arrive during the perf
  ormance.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1871,7 +1871,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens' A Christmas Carol
 DTSTART;TZID=America/New_York:20261211T193000
 DTEND;TZID=America/New_York:20261211T213500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1498@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1886,7 +1886,7 @@ DESCRIPTION:Dickens' ghost story told by a handful of actors\, with song\,
  ayhouse's dinner-table seating means food and drink arrive during the perf
  ormance.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1897,7 +1897,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens' A Christmas Carol
 DTSTART;TZID=America/New_York:20261212T193000
 DTEND;TZID=America/New_York:20261212T213500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1499@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1912,7 +1912,7 @@ DESCRIPTION:Dickens' ghost story told by a handful of actors\, with song\,
  ayhouse's dinner-table seating means food and drink arrive during the perf
  ormance.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1923,7 +1923,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens' A Christmas Carol
 DTSTART;TZID=America/New_York:20261213T143000
 DTEND;TZID=America/New_York:20261213T163500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1500@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1938,7 +1938,7 @@ DESCRIPTION:Dickens' ghost story told by a handful of actors\, with song\,
  ayhouse's dinner-table seating means food and drink arrive during the perf
  ormance.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1949,7 +1949,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens' A Christmas Carol
 DTSTART;TZID=America/New_York:20261217T193000
 DTEND;TZID=America/New_York:20261217T213500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1501@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1964,7 +1964,7 @@ DESCRIPTION:Dickens' ghost story told by a handful of actors\, with song\,
  ayhouse's dinner-table seating means food and drink arrive during the perf
  ormance.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1975,7 +1975,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens' A Christmas Carol
 DTSTART;TZID=America/New_York:20261218T193000
 DTEND;TZID=America/New_York:20261218T213500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1502@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -1990,7 +1990,7 @@ DESCRIPTION:Dickens' ghost story told by a handful of actors\, with song\,
  ayhouse's dinner-table seating means food and drink arrive during the perf
  ormance.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2001,7 +2001,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens' A Christmas Carol
 DTSTART;TZID=America/New_York:20261219T193000
 DTEND;TZID=America/New_York:20261219T213500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1503@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2016,7 +2016,7 @@ DESCRIPTION:Dickens' ghost story told by a handful of actors\, with song\,
  ayhouse's dinner-table seating means food and drink arrive during the perf
  ormance.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2027,7 +2027,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens' A Christmas Carol
 DTSTART;TZID=America/New_York:20261220T143000
 DTEND;TZID=America/New_York:20261220T163500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1504@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2042,7 +2042,7 @@ DESCRIPTION:Dickens' ghost story told by a handful of actors\, with song\,
  ayhouse's dinner-table seating means food and drink arrive during the perf
  ormance.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2053,7 +2053,7 @@ BEGIN:VEVENT
 SUMMARY:A Whole Weekend of Out of a Hat
 DTSTART;TZID=America/New_York:20270108T193000
 DTEND;TZID=America/New_York:20270108T204500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1505@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -2066,7 +2066,7 @@ DESCRIPTION:Shakespeare roulette: the play and every role drawn from a hat
  table seating and food and drink service during the show. These Out of a H
  at nights tend to sell out.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2077,7 +2077,7 @@ BEGIN:VEVENT
 SUMMARY:A Whole Weekend of Out of a Hat
 DTSTART;TZID=America/New_York:20270109T193000
 DTEND;TZID=America/New_York:20270109T204500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1506@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -2090,7 +2090,7 @@ DESCRIPTION:Shakespeare roulette: the play and every role drawn from a hat
  table seating and food and drink service during the show. These Out of a H
  at nights tend to sell out.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2101,7 +2101,7 @@ BEGIN:VEVENT
 SUMMARY:Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270116T193000
 DTEND;TZID=America/New_York:20270116T221000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1507@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2114,7 +2114,7 @@ DESCRIPTION:Shakespeare's Beatrice and Benedick trade insults until their
  e Company\, performed Elizabethan-style with table seating and food and dr
  ink service during the show. A 2026 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2125,7 +2125,7 @@ BEGIN:VEVENT
 SUMMARY:Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270117T143000
 DTEND;TZID=America/New_York:20270117T171000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1508@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2138,7 +2138,7 @@ DESCRIPTION:Shakespeare's Beatrice and Benedick trade insults until their
  e Company\, performed Elizabethan-style with table seating and food and dr
  ink service during the show. A 2026 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2149,7 +2149,7 @@ BEGIN:VEVENT
 SUMMARY:Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270121T193000
 DTEND;TZID=America/New_York:20270121T221000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1509@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2162,7 +2162,7 @@ DESCRIPTION:Shakespeare's Beatrice and Benedick trade insults until their
  e Company\, performed Elizabethan-style with table seating and food and dr
  ink service during the show. A 2026 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2173,7 +2173,7 @@ BEGIN:VEVENT
 SUMMARY:Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270122T193000
 DTEND;TZID=America/New_York:20270122T221000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1510@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2186,7 +2186,7 @@ DESCRIPTION:Shakespeare's Beatrice and Benedick trade insults until their
  e Company\, performed Elizabethan-style with table seating and food and dr
  ink service during the show. A 2026 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2197,7 +2197,7 @@ BEGIN:VEVENT
 SUMMARY:Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270123T193000
 DTEND;TZID=America/New_York:20270123T221000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1511@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2210,7 +2210,7 @@ DESCRIPTION:Shakespeare's Beatrice and Benedick trade insults until their
  e Company\, performed Elizabethan-style with table seating and food and dr
  ink service during the show. A 2026 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2221,7 +2221,7 @@ BEGIN:VEVENT
 SUMMARY:Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270124T143000
 DTEND;TZID=America/New_York:20270124T171000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1512@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2234,7 +2234,7 @@ DESCRIPTION:Shakespeare's Beatrice and Benedick trade insults until their
  e Company\, performed Elizabethan-style with table seating and food and dr
  ink service during the show. A 2026 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2245,7 +2245,7 @@ BEGIN:VEVENT
 SUMMARY:Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270128T193000
 DTEND;TZID=America/New_York:20270128T221000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1513@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2258,7 +2258,7 @@ DESCRIPTION:Shakespeare's Beatrice and Benedick trade insults until their
  e Company\, performed Elizabethan-style with table seating and food and dr
  ink service during the show. A 2026 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2269,7 +2269,7 @@ BEGIN:VEVENT
 SUMMARY:Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270129T193000
 DTEND;TZID=America/New_York:20270129T221000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1514@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2282,7 +2282,7 @@ DESCRIPTION:Shakespeare's Beatrice and Benedick trade insults until their
  e Company\, performed Elizabethan-style with table seating and food and dr
  ink service during the show. A 2026 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2293,7 +2293,7 @@ BEGIN:VEVENT
 SUMMARY:Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270130T193000
 DTEND;TZID=America/New_York:20270130T221000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1515@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2306,7 +2306,7 @@ DESCRIPTION:Shakespeare's Beatrice and Benedick trade insults until their
  e Company\, performed Elizabethan-style with table seating and food and dr
  ink service during the show. A 2026 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2317,7 +2317,7 @@ BEGIN:VEVENT
 SUMMARY:Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270131T143000
 DTEND;TZID=America/New_York:20270131T171000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1516@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2330,7 +2330,7 @@ DESCRIPTION:Shakespeare's Beatrice and Benedick trade insults until their
  e Company\, performed Elizabethan-style with table seating and food and dr
  ink service during the show. A 2026 Suzi Bass Awards Recommended Show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2341,7 +2341,7 @@ BEGIN:VEVENT
 SUMMARY:The Romance Repertory: Romeo and Juliet and Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270206T193000
 DTEND;TZID=America/New_York:20270207T004000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1517@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2356,7 +2356,7 @@ DESCRIPTION:This performance is Romeo and Juliet\, half of a repertory pai
  oo witty for their own good. Table seating with food and drink service dur
  ing the show\; the repertory runs through February 28.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2367,7 +2367,7 @@ BEGIN:VEVENT
 SUMMARY:The Romance Repertory: Romeo and Juliet and Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270207T143000
 DTEND;TZID=America/New_York:20270207T194000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1518@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2382,7 +2382,7 @@ DESCRIPTION:This performance is Romeo and Juliet\, half of a repertory pai
  oo witty for their own good. Table seating with food and drink service dur
  ing the show\; the repertory runs through February 28.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2393,7 +2393,7 @@ BEGIN:VEVENT
 SUMMARY:The Romance Repertory: Romeo and Juliet and Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270212T193000
 DTEND;TZID=America/New_York:20270213T004000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1519@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2408,7 +2408,7 @@ DESCRIPTION:This performance is Romeo and Juliet\, half of a repertory pai
  oo witty for their own good. Table seating with food and drink service dur
  ing the show\; the repertory runs through February 28.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2419,7 +2419,7 @@ BEGIN:VEVENT
 SUMMARY:The Romance Repertory: Romeo and Juliet and Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270213T193000
 DTEND;TZID=America/New_York:20270214T004000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1520@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2434,7 +2434,7 @@ DESCRIPTION:This performance is Romeo and Juliet\, half of a repertory pai
  oo witty for their own good. Table seating with food and drink service dur
  ing the show\; the repertory runs through February 28.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2445,7 +2445,7 @@ BEGIN:VEVENT
 SUMMARY:The Romance Repertory: Romeo and Juliet and Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270214T143000
 DTEND;TZID=America/New_York:20270214T194000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1521@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2460,7 +2460,7 @@ DESCRIPTION:This performance is Romeo and Juliet\, half of a repertory pai
  oo witty for their own good. Table seating with food and drink service dur
  ing the show\; the repertory runs through February 28.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2471,7 +2471,7 @@ BEGIN:VEVENT
 SUMMARY:The Romance Repertory: Romeo and Juliet and Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270219T193000
 DTEND;TZID=America/New_York:20270220T004000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1522@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2486,7 +2486,7 @@ DESCRIPTION:This performance is Romeo and Juliet\, half of a repertory pai
  oo witty for their own good. Table seating with food and drink service dur
  ing the show\; the repertory runs through February 28.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2497,7 +2497,7 @@ BEGIN:VEVENT
 SUMMARY:The Romance Repertory: Romeo and Juliet and Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270220T193000
 DTEND;TZID=America/New_York:20270221T004000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1523@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2512,7 +2512,7 @@ DESCRIPTION:This performance is Romeo and Juliet\, half of a repertory pai
  oo witty for their own good. Table seating with food and drink service dur
  ing the show\; the repertory runs through February 28.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2523,7 +2523,7 @@ BEGIN:VEVENT
 SUMMARY:The Romance Repertory: Romeo and Juliet and Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270221T143000
 DTEND;TZID=America/New_York:20270221T194000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1524@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2538,7 +2538,7 @@ DESCRIPTION:This performance is Romeo and Juliet\, half of a repertory pai
  oo witty for their own good. Table seating with food and drink service dur
  ing the show\; the repertory runs through February 28.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2549,7 +2549,7 @@ BEGIN:VEVENT
 SUMMARY:Shakespeare Out of a Hat: Romeo and Juliet
 DTSTART;TZID=America/New_York:20270225T193000
 DTEND;TZID=America/New_York:20270225T204500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1528@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -2562,7 +2562,7 @@ DESCRIPTION:Romeo and Juliet with roles drawn from a hat two minutes befor
  ght-only special event\, performed with the company's usual table seating 
  and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2573,7 +2573,7 @@ BEGIN:VEVENT
 SUMMARY:The Romance Repertory: Romeo and Juliet and Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270226T193000
 DTEND;TZID=America/New_York:20270227T004000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1525@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2588,7 +2588,7 @@ DESCRIPTION:This performance is Romeo and Juliet\, half of a repertory pai
  oo witty for their own good. Table seating with food and drink service dur
  ing the show\; the repertory runs through February 28.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2599,7 +2599,7 @@ BEGIN:VEVENT
 SUMMARY:The Romance Repertory: Romeo and Juliet and Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270227T193000
 DTEND;TZID=America/New_York:20270228T004000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1526@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2614,7 +2614,7 @@ DESCRIPTION:This performance is Romeo and Juliet\, half of a repertory pai
  oo witty for their own good. Table seating with food and drink service dur
  ing the show\; the repertory runs through February 28.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2625,7 +2625,7 @@ BEGIN:VEVENT
 SUMMARY:The Romance Repertory: Romeo and Juliet and Much Ado About Nothing
 DTSTART;TZID=America/New_York:20270228T143000
 DTEND;TZID=America/New_York:20270228T194000
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1527@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2640,7 +2640,7 @@ DESCRIPTION:This performance is Romeo and Juliet\, half of a repertory pai
  oo witty for their own good. Table seating with food and drink service dur
  ing the show\; the repertory runs through February 28.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2651,7 +2651,7 @@ BEGIN:VEVENT
 SUMMARY:Julius Caesar
 DTSTART;TZID=America/New_York:20270306T193000
 DTEND;TZID=America/New_York:20270306T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1529@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2666,7 +2666,7 @@ DESCRIPTION:Shakespeare's tragedy of conspiracy and assassination in Rome\
  han-style playhouse with table seating and food and drink service during t
  he show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2676,7 +2676,7 @@ BEGIN:VEVENT
 SUMMARY:Julius Caesar
 DTSTART;TZID=America/New_York:20270307T143000
 DTEND;TZID=America/New_York:20270307T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1530@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2691,7 +2691,7 @@ DESCRIPTION:Shakespeare's tragedy of conspiracy and assassination in Rome\
  han-style playhouse with table seating and food and drink service during t
  he show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2701,7 +2701,7 @@ BEGIN:VEVENT
 SUMMARY:Julius Caesar
 DTSTART;TZID=America/New_York:20270311T193000
 DTEND;TZID=America/New_York:20270311T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1531@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2716,7 +2716,7 @@ DESCRIPTION:Shakespeare's tragedy of conspiracy and assassination in Rome\
  han-style playhouse with table seating and food and drink service during t
  he show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2726,7 +2726,7 @@ BEGIN:VEVENT
 SUMMARY:Julius Caesar
 DTSTART;TZID=America/New_York:20270312T193000
 DTEND;TZID=America/New_York:20270312T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1532@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2741,7 +2741,7 @@ DESCRIPTION:Shakespeare's tragedy of conspiracy and assassination in Rome\
  han-style playhouse with table seating and food and drink service during t
  he show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2751,7 +2751,7 @@ BEGIN:VEVENT
 SUMMARY:Julius Caesar
 DTSTART;TZID=America/New_York:20270313T193000
 DTEND;TZID=America/New_York:20270313T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1533@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2766,7 +2766,7 @@ DESCRIPTION:Shakespeare's tragedy of conspiracy and assassination in Rome\
  han-style playhouse with table seating and food and drink service during t
  he show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2776,7 +2776,7 @@ BEGIN:VEVENT
 SUMMARY:Julius Caesar
 DTSTART;TZID=America/New_York:20270314T143000
 DTEND;TZID=America/New_York:20270314T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1534@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2791,7 +2791,7 @@ DESCRIPTION:Shakespeare's tragedy of conspiracy and assassination in Rome\
  han-style playhouse with table seating and food and drink service during t
  he show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2801,7 +2801,7 @@ BEGIN:VEVENT
 SUMMARY:Shakespeare Out of a Hat: Julius Caesar
 DTSTART;TZID=America/New_York:20270315T193000
 DTEND;TZID=America/New_York:20270315T204500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1542@atlcal.com
 SEQUENCE:0
 CATEGORIES:Improv Comedy
@@ -2814,7 +2814,7 @@ DESCRIPTION:Improv meets Shakespeare: actors draw their Julius Caesar role
  erformed with the company's usual table seating and food and drink service
   during the show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2825,7 +2825,7 @@ BEGIN:VEVENT
 SUMMARY:Julius Caesar
 DTSTART;TZID=America/New_York:20270318T193000
 DTEND;TZID=America/New_York:20270318T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1535@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2840,7 +2840,7 @@ DESCRIPTION:Shakespeare's tragedy of conspiracy and assassination in Rome\
  han-style playhouse with table seating and food and drink service during t
  he show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2850,7 +2850,7 @@ BEGIN:VEVENT
 SUMMARY:Julius Caesar
 DTSTART;TZID=America/New_York:20270319T193000
 DTEND;TZID=America/New_York:20270319T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1536@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2865,7 +2865,7 @@ DESCRIPTION:Shakespeare's tragedy of conspiracy and assassination in Rome\
  han-style playhouse with table seating and food and drink service during t
  he show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2875,7 +2875,7 @@ BEGIN:VEVENT
 SUMMARY:Julius Caesar
 DTSTART;TZID=America/New_York:20270320T193000
 DTEND;TZID=America/New_York:20270320T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1537@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2890,7 +2890,7 @@ DESCRIPTION:Shakespeare's tragedy of conspiracy and assassination in Rome\
  han-style playhouse with table seating and food and drink service during t
  he show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2900,7 +2900,7 @@ BEGIN:VEVENT
 SUMMARY:Julius Caesar
 DTSTART;TZID=America/New_York:20270321T143000
 DTEND;TZID=America/New_York:20270321T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1538@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2915,7 +2915,7 @@ DESCRIPTION:Shakespeare's tragedy of conspiracy and assassination in Rome\
  han-style playhouse with table seating and food and drink service during t
  he show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2925,7 +2925,7 @@ BEGIN:VEVENT
 SUMMARY:Julius Caesar
 DTSTART;TZID=America/New_York:20270325T193000
 DTEND;TZID=America/New_York:20270325T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1539@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2940,7 +2940,7 @@ DESCRIPTION:Shakespeare's tragedy of conspiracy and assassination in Rome\
  han-style playhouse with table seating and food and drink service during t
  he show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2950,7 +2950,7 @@ BEGIN:VEVENT
 SUMMARY:Julius Caesar
 DTSTART;TZID=America/New_York:20270326T193000
 DTEND;TZID=America/New_York:20270326T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1540@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2965,7 +2965,7 @@ DESCRIPTION:Shakespeare's tragedy of conspiracy and assassination in Rome\
  han-style playhouse with table seating and food and drink service during t
  he show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2975,7 +2975,7 @@ BEGIN:VEVENT
 SUMMARY:Julius Caesar
 DTSTART;TZID=America/New_York:20270327T193000
 DTEND;TZID=America/New_York:20270327T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1541@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -2990,7 +2990,7 @@ DESCRIPTION:Shakespeare's tragedy of conspiracy and assassination in Rome\
  han-style playhouse with table seating and food and drink service during t
  he show.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3000,7 +3000,7 @@ BEGIN:VEVENT
 SUMMARY:Lauren Gunderson's The Book of Will
 DTSTART;TZID=America/New_York:20270403T193000
 DTEND;TZID=America/New_York:20270403T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1543@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3014,7 +3014,7 @@ DESCRIPTION:Gunderson's true story of the two actors who saved half of Sha
   and stubborn devotion to the words. From the Atlanta Shakespeare Company\
  , performed with the tavern's table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3025,7 +3025,7 @@ BEGIN:VEVENT
 SUMMARY:Lauren Gunderson's The Book of Will
 DTSTART;TZID=America/New_York:20270404T143000
 DTEND;TZID=America/New_York:20270404T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1544@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3039,7 +3039,7 @@ DESCRIPTION:Gunderson's true story of the two actors who saved half of Sha
   and stubborn devotion to the words. From the Atlanta Shakespeare Company\
  , performed with the tavern's table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3050,7 +3050,7 @@ BEGIN:VEVENT
 SUMMARY:Lauren Gunderson's The Book of Will
 DTSTART;TZID=America/New_York:20270408T193000
 DTEND;TZID=America/New_York:20270408T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1545@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3064,7 +3064,7 @@ DESCRIPTION:Gunderson's true story of the two actors who saved half of Sha
   and stubborn devotion to the words. From the Atlanta Shakespeare Company\
  , performed with the tavern's table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3075,7 +3075,7 @@ BEGIN:VEVENT
 SUMMARY:Lauren Gunderson's The Book of Will
 DTSTART;TZID=America/New_York:20270409T193000
 DTEND;TZID=America/New_York:20270409T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1546@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3089,7 +3089,7 @@ DESCRIPTION:Gunderson's true story of the two actors who saved half of Sha
   and stubborn devotion to the words. From the Atlanta Shakespeare Company\
  , performed with the tavern's table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3100,7 +3100,7 @@ BEGIN:VEVENT
 SUMMARY:Lauren Gunderson's The Book of Will
 DTSTART;TZID=America/New_York:20270410T193000
 DTEND;TZID=America/New_York:20270410T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1547@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3114,7 +3114,7 @@ DESCRIPTION:Gunderson's true story of the two actors who saved half of Sha
   and stubborn devotion to the words. From the Atlanta Shakespeare Company\
  , performed with the tavern's table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3125,7 +3125,7 @@ BEGIN:VEVENT
 SUMMARY:Lauren Gunderson's The Book of Will
 DTSTART;TZID=America/New_York:20270411T143000
 DTEND;TZID=America/New_York:20270411T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1548@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3139,7 +3139,7 @@ DESCRIPTION:Gunderson's true story of the two actors who saved half of Sha
   and stubborn devotion to the words. From the Atlanta Shakespeare Company\
  , performed with the tavern's table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3150,7 +3150,7 @@ BEGIN:VEVENT
 SUMMARY:Lauren Gunderson's The Book of Will
 DTSTART;TZID=America/New_York:20270415T193000
 DTEND;TZID=America/New_York:20270415T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1549@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3164,7 +3164,7 @@ DESCRIPTION:Gunderson's true story of the two actors who saved half of Sha
   and stubborn devotion to the words. From the Atlanta Shakespeare Company\
  , performed with the tavern's table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3175,7 +3175,7 @@ BEGIN:VEVENT
 SUMMARY:Lauren Gunderson's The Book of Will
 DTSTART;TZID=America/New_York:20270416T193000
 DTEND;TZID=America/New_York:20270416T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1550@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3189,7 +3189,7 @@ DESCRIPTION:Gunderson's true story of the two actors who saved half of Sha
   and stubborn devotion to the words. From the Atlanta Shakespeare Company\
  , performed with the tavern's table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3200,7 +3200,7 @@ BEGIN:VEVENT
 SUMMARY:Lauren Gunderson's The Book of Will
 DTSTART;TZID=America/New_York:20270417T193000
 DTEND;TZID=America/New_York:20270417T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1551@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3214,7 +3214,7 @@ DESCRIPTION:Gunderson's true story of the two actors who saved half of Sha
   and stubborn devotion to the words. From the Atlanta Shakespeare Company\
  , performed with the tavern's table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3225,7 +3225,7 @@ BEGIN:VEVENT
 SUMMARY:Lauren Gunderson's The Book of Will
 DTSTART;TZID=America/New_York:20270418T143000
 DTEND;TZID=America/New_York:20270418T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1552@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3239,7 +3239,7 @@ DESCRIPTION:Gunderson's true story of the two actors who saved half of Sha
   and stubborn devotion to the words. From the Atlanta Shakespeare Company\
  , performed with the tavern's table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3250,7 +3250,7 @@ BEGIN:VEVENT
 SUMMARY:Lauren Gunderson's The Book of Will
 DTSTART;TZID=America/New_York:20270422T193000
 DTEND;TZID=America/New_York:20270422T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1553@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3264,7 +3264,7 @@ DESCRIPTION:Gunderson's true story of the two actors who saved half of Sha
   and stubborn devotion to the words. From the Atlanta Shakespeare Company\
  , performed with the tavern's table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3275,7 +3275,7 @@ BEGIN:VEVENT
 SUMMARY:Lauren Gunderson's The Book of Will
 DTSTART;TZID=America/New_York:20270423T193000
 DTEND;TZID=America/New_York:20270423T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1554@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3289,7 +3289,7 @@ DESCRIPTION:Gunderson's true story of the two actors who saved half of Sha
   and stubborn devotion to the words. From the Atlanta Shakespeare Company\
  , performed with the tavern's table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3300,7 +3300,7 @@ BEGIN:VEVENT
 SUMMARY:Lauren Gunderson's The Book of Will
 DTSTART;TZID=America/New_York:20270424T193000
 DTEND;TZID=America/New_York:20270424T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1555@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3314,7 +3314,7 @@ DESCRIPTION:Gunderson's true story of the two actors who saved half of Sha
   and stubborn devotion to the words. From the Atlanta Shakespeare Company\
  , performed with the tavern's table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3325,7 +3325,7 @@ BEGIN:VEVENT
 SUMMARY:Lauren Gunderson's The Book of Will
 DTSTART;TZID=America/New_York:20270425T143000
 DTEND;TZID=America/New_York:20270425T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1556@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3339,7 +3339,7 @@ DESCRIPTION:Gunderson's true story of the two actors who saved half of Sha
   and stubborn devotion to the words. From the Atlanta Shakespeare Company\
  , performed with the tavern's table seating and food and drink service.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3351,7 +3351,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270430T193000
 DTEND;TZID=America/New_York:20270430T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1557@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3366,7 +3366,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3378,7 +3378,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270501T193000
 DTEND;TZID=America/New_York:20270501T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1558@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3393,7 +3393,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3405,7 +3405,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270502T143000
 DTEND;TZID=America/New_York:20270502T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1559@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3420,7 +3420,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3432,7 +3432,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270506T193000
 DTEND;TZID=America/New_York:20270506T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1560@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3447,7 +3447,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3459,7 +3459,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270507T193000
 DTEND;TZID=America/New_York:20270507T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1561@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3474,7 +3474,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3486,7 +3486,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270508T193000
 DTEND;TZID=America/New_York:20270508T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1562@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3501,7 +3501,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3513,7 +3513,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270509T143000
 DTEND;TZID=America/New_York:20270509T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1563@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3528,7 +3528,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3540,7 +3540,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270513T193000
 DTEND;TZID=America/New_York:20270513T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1564@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3555,7 +3555,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3567,7 +3567,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270514T193000
 DTEND;TZID=America/New_York:20270514T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1565@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3582,7 +3582,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3594,7 +3594,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270515T193000
 DTEND;TZID=America/New_York:20270515T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1566@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3609,7 +3609,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3621,7 +3621,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270516T143000
 DTEND;TZID=America/New_York:20270516T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1567@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3636,7 +3636,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3648,7 +3648,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270520T193000
 DTEND;TZID=America/New_York:20270520T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1568@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3663,7 +3663,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3675,7 +3675,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270521T193000
 DTEND;TZID=America/New_York:20270521T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1569@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3690,7 +3690,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3702,7 +3702,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270522T193000
 DTEND;TZID=America/New_York:20270522T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1570@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3717,7 +3717,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3729,7 +3729,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270523T143000
 DTEND;TZID=America/New_York:20270523T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1571@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3744,7 +3744,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3756,7 +3756,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270527T193000
 DTEND;TZID=America/New_York:20270527T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1572@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3771,7 +3771,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3783,7 +3783,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270528T193000
 DTEND;TZID=America/New_York:20270528T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1573@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3798,7 +3798,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3810,7 +3810,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270529T193000
 DTEND;TZID=America/New_York:20270529T214500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1574@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3825,7 +3825,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3837,7 +3837,7 @@ SUMMARY:The Mama Bear Repertory: The Winter's Tale and Mel Konner’s Sixt
  een Springs or Four Loves
 DTSTART;TZID=America/New_York:20270530T143000
 DTEND;TZID=America/New_York:20270530T164500
-DTSTAMP:20260722T153533Z
+DTSTAMP:20260722T203543Z
 UID:occ-1575@atlcal.com
 SEQUENCE:0
 CATEGORIES:Play
@@ -3852,7 +3852,7 @@ DESCRIPTION:Shakespeare's late romance in repertory with a new Atlanta pla
  \, and Antigonus surviving his famous bear. The repertory runs through May
   30.
 GEO:33.768171;-84.3851523
-LAST-MODIFIED:20260722T153531Z
+LAST-MODIFIED:20260722T203540Z
 LOCATION:Shakespeare Tavern Playhouse\, 499 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
