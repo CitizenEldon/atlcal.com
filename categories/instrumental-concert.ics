@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:UNDERTALE: The Determination Symphony
 DTSTART;TZID=America/New_York:20260925T200000
 DTEND;TZID=America/New_York:20260925T214500
-DTSTAMP:20260723T043747Z
+DTSTAMP:20260723T203902Z
 UID:occ-1714@atlcal.com
 SEQUENCE:0
 CATEGORIES:Instrumental Concert
@@ -69,7 +69,7 @@ DESCRIPTION:An instrumental concert presented by Fox Theatre at Fox Theatr
  mination Symphony\, an instrumental concert\, at Fox Theatre on Fri Sep 25
  \, 8:00 PM ET.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T043718Z
+LAST-MODIFIED:20260723T203826Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Outlander in Concert
 DTSTART;TZID=America/New_York:20261018T160000
 DTEND;TZID=America/New_York:20261018T174500
-DTSTAMP:20260723T043747Z
+DTSTAMP:20260723T203902Z
 UID:occ-1715@atlcal.com
 SEQUENCE:0
 CATEGORIES:Instrumental Concert
@@ -95,7 +95,7 @@ DESCRIPTION:Bear McCreary's Outlander score played by a live orchestra\, w
  elevision in collaboration with Starz. Recommended for ages 12 and up with
   parental guidance.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T043718Z
+LAST-MODIFIED:20260723T203826Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Sonic Live In Concert
 DTSTART;TZID=America/New_York:20261024T193000
 DTEND;TZID=America/New_York:20261024T211500
-DTSTAMP:20260723T043747Z
+DTSTAMP:20260723T203902Z
 UID:occ-1716@atlcal.com
 SEQUENCE:0
 CATEGORIES:Instrumental Concert
@@ -120,7 +120,7 @@ DESCRIPTION:Sonic the Hedgehog's game music played live — rock band\, en
  ound across generations. The arrangements hide musical Easter eggs for lon
  gtime fans to catch mid-show.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T043718Z
+LAST-MODIFIED:20260723T203826Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:NieR: Orchestra Concert 12026 [YoRHa]!
 DTSTART;TZID=America/New_York:20261107T200000
 DTEND;TZID=America/New_York:20261107T214500
-DTSTAMP:20260723T043747Z
+DTSTAMP:20260723T203902Z
 UID:occ-497@atlcal.com
 SEQUENCE:2
 CATEGORIES:Instrumental Concert
@@ -146,7 +146,7 @@ DESCRIPTION:Music from Square Enix's NieR games — full orchestra\, choru
  omata\, with visuals on a giant screen. A follow-up from the team behind t
  he earlier NieR:Orchestra Concert [the end of data] tour.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T043718Z
+LAST-MODIFIED:20260723T203826Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
