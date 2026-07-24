@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:The Great American Trailer Park Musical
 DTSTART;TZID=America/New_York:20260724T193000
 DTEND;TZID=America/New_York:20260724T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1410@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -74,17 +74,41 @@ DESCRIPTION:Nehls and Kelso's trashy\, big-hearted comedy of adultery\, ag
  ollows kicks up a storm in more ways than one. From New Depot Players\, th
  e Conyers community theatre.
 GEO:33.6671075;-84.0180229
-LAST-MODIFIED:20260723T203833Z
+LAST-MODIFIED:20260724T043923Z
 LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.tix.com/ticket-sales/thenewdepotplayers/5082/event/1473889
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Great American Trailer Park Musical
+DTSTART;TZID=America/New_York:20260731T193000
+DTEND;TZID=America/New_York:20260731T220000
+DTSTAMP:20260724T044010Z
+UID:occ-1415@atlcal.com
+SEQUENCE:0
+CATEGORIES:Musical Theatre
+DESCRIPTION:Nehls and Kelso's trashy\, big-hearted comedy of adultery\, ag
+ oraphobia\, and hurricanes at a Florida trailer park.\n\nDavid Nehls and B
+ etsy Kelso's musical comedy\, an Off-Broadway hit in 2005\, set at Armadil
+ lo Acres trailer park in Starke\, Florida. Jeannie hasn't stepped outside 
+ her trailer in twenty years\; her tollbooth-collector husband Norbert is l
+ osing patience\; and Pippi\, a stripper hiding out from a marker-huffing e
+ x with a gun named Bertha\, has just moved in next door. The affair that f
+ ollows kicks up a storm in more ways than one. From New Depot Players\, th
+ e Conyers community theatre.
+GEO:33.6671075;-84.0180229
+LAST-MODIFIED:20260724T043923Z
+LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tix.com/ticket-sales/thenewdepotplayers/5082/event/1473892
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260807T200000
 DTEND;TZID=America/New_York:20260807T223000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-680@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -97,7 +121,7 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260723T203834Z
+LAST-MODIFIED:20260724T043924Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -107,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260808T200000
 DTEND;TZID=America/New_York:20260808T223000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-681@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -120,7 +144,7 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260723T203834Z
+LAST-MODIFIED:20260724T043924Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -130,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260809T150000
 DTEND;TZID=America/New_York:20260809T173000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-682@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -143,7 +167,7 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260723T203834Z
+LAST-MODIFIED:20260724T043924Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -153,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Crossroads & Cyphers
 DTSTART;TZID=America/New_York:20261014T193000
 DTEND;TZID=America/New_York:20261014T213000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1709@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -180,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Hannah & Greta\, or The Cost of Livin' The Dream
 DTSTART;TZID=America/New_York:20261021T193000
 DTEND;TZID=America/New_York:20261021T213000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1710@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -204,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:My Daughter\, My Karma
 DTSTART;TZID=America/New_York:20270414T193000
 DTEND;TZID=America/New_York:20270414T213000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1711@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading
@@ -230,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:The Welfare Queen
 DTSTART;TZID=America/New_York:20270421T193000
 DTEND;TZID=America/New_York:20270421T213000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1712@atlcal.com
 SEQUENCE:0
 CATEGORIES:Staged Reading

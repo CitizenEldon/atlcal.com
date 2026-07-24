@@ -58,34 +58,9 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:Monty Python's Spamalot
-DTSTART;TZID=America/New_York:20260722T193000
-DTEND;TZID=America/New_York:20260722T220000
-DTSTAMP:20260723T203902Z
-UID:occ-490@atlcal.com
-SEQUENCE:0
-CATEGORIES:Musical Theatre
-DESCRIPTION:Eric Idle's Tony-winning Arthurian spoof — killer rabbits\, 
- taunting Frenchmen\, coconut-shell hoofbeats — in a national touring pro
- duction.\n\nKing Arthur recruits his knights and quests for the Grail past
-  killer rabbits\, taunting French soldiers\, the Knights Who Say Ni\, and 
- a Lady of the Lake who resents her lack of stage time. Eric Idle adapted t
- he Pythons' 1975 Holy Grail film into a musical\, writing the songs with J
- ohn Du Prez\, including "Always Look on the Bright Side of Life." The orig
- inal 2005 Broadway production won three Tony Awards\, Best Musical among t
- hem. This is a national touring production.
-GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260722T203529Z
-LOCATION:Fox Theatre\, 660 Peachtree St NE
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://foxtheatre.evenue.net/cgi-bin/ncommerce3/SEGetGroupList?groupC
- ode=SPA&linkID=fta&shopperContext=&caller=&appCode=
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monty Python's Spamalot
 DTSTART;TZID=America/New_York:20260723T193000
 DTEND;TZID=America/New_York:20260723T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-491@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -110,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Monty Python's Spamalot
 DTSTART;TZID=America/New_York:20260724T200000
 DTEND;TZID=America/New_York:20260724T223000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-492@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -124,7 +99,7 @@ DESCRIPTION:Eric Idle's Tony-winning Arthurian spoof — killer rabbits\,
  inal 2005 Broadway production won three Tony Awards\, Best Musical among t
  hem. This is a national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -135,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Monty Python's Spamalot
 DTSTART;TZID=America/New_York:20260725T140000
 DTEND;TZID=America/New_York:20260725T163000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-493@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -149,7 +124,7 @@ DESCRIPTION:Eric Idle's Tony-winning Arthurian spoof — killer rabbits\,
  inal 2005 Broadway production won three Tony Awards\, Best Musical among t
  hem. This is a national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -160,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Monty Python's Spamalot
 DTSTART;TZID=America/New_York:20260725T200000
 DTEND;TZID=America/New_York:20260725T223000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-494@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -174,7 +149,7 @@ DESCRIPTION:Eric Idle's Tony-winning Arthurian spoof — killer rabbits\,
  inal 2005 Broadway production won three Tony Awards\, Best Musical among t
  hem. This is a national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -185,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Monty Python's Spamalot
 DTSTART;TZID=America/New_York:20260726T130000
 DTEND;TZID=America/New_York:20260726T153000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-495@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -199,7 +174,7 @@ DESCRIPTION:Eric Idle's Tony-winning Arthurian spoof — killer rabbits\,
  inal 2005 Broadway production won three Tony Awards\, Best Musical among t
  hem. This is a national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -210,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:Monty Python's Spamalot
 DTSTART;TZID=America/New_York:20260726T183000
 DTEND;TZID=America/New_York:20260726T210000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-496@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -224,7 +199,7 @@ DESCRIPTION:Eric Idle's Tony-winning Arthurian spoof — killer rabbits\,
  inal 2005 Broadway production won three Tony Awards\, Best Musical among t
  hem. This is a national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -235,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Fox Archives Day
 DTSTART;TZID=America/New_York:20260823T150000
 DTEND;TZID=America/New_York:20260823T180000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1320@atlcal.com
 SEQUENCE:0
 CATEGORIES:Heritage Exhibition
@@ -248,7 +223,7 @@ DESCRIPTION:The Fox opens its archives — artifacts and archival material
  nd Egyptian Ballroom\, so browsing doubles as a look inside two of the the
  atre's ornate event spaces.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -259,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260902T193000
 DTEND;TZID=America/New_York:20260902T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1321@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -271,7 +246,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -282,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260903T130000
 DTEND;TZID=America/New_York:20260903T153000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1322@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -294,7 +269,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -305,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260903T193000
 DTEND;TZID=America/New_York:20260903T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1323@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -317,7 +292,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -328,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260904T193000
 DTEND;TZID=America/New_York:20260904T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1324@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -340,7 +315,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -351,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260905T140000
 DTEND;TZID=America/New_York:20260905T163000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1325@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -363,7 +338,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -374,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260905T200000
 DTEND;TZID=America/New_York:20260905T223000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1326@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -386,7 +361,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -397,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260906T130000
 DTEND;TZID=America/New_York:20260906T153000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1327@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -409,7 +384,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -420,7 +395,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260906T190000
 DTEND;TZID=America/New_York:20260906T213000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1328@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -432,7 +407,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -443,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260908T193000
 DTEND;TZID=America/New_York:20260908T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1329@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -455,7 +430,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -466,7 +441,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260909T193000
 DTEND;TZID=America/New_York:20260909T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1330@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -478,7 +453,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -489,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260910T193000
 DTEND;TZID=America/New_York:20260910T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1331@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -501,7 +476,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -512,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260911T193000
 DTEND;TZID=America/New_York:20260911T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1332@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -524,7 +499,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -535,7 +510,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260912T140000
 DTEND;TZID=America/New_York:20260912T163000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1333@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -547,7 +522,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -558,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260912T200000
 DTEND;TZID=America/New_York:20260912T223000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1334@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -570,7 +545,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -581,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260913T130000
 DTEND;TZID=America/New_York:20260913T153000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1335@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -593,7 +568,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -604,7 +579,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260913T190000
 DTEND;TZID=America/New_York:20260913T213000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1336@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -616,7 +591,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -627,7 +602,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260915T193000
 DTEND;TZID=America/New_York:20260915T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1337@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -639,7 +614,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -650,7 +625,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260916T193000
 DTEND;TZID=America/New_York:20260916T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1338@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -662,7 +637,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -673,7 +648,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260917T193000
 DTEND;TZID=America/New_York:20260917T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1339@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -685,7 +660,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -696,7 +671,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260918T193000
 DTEND;TZID=America/New_York:20260918T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1340@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -708,7 +683,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -719,7 +694,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260919T140000
 DTEND;TZID=America/New_York:20260919T163000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1341@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -731,7 +706,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -742,7 +717,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260919T200000
 DTEND;TZID=America/New_York:20260919T223000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1342@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -754,7 +729,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -765,7 +740,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260920T130000
 DTEND;TZID=America/New_York:20260920T153000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1343@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -777,7 +752,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -788,7 +763,7 @@ BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260920T190000
 DTEND;TZID=America/New_York:20260920T213000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1344@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -800,7 +775,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -811,7 +786,7 @@ BEGIN:VEVENT
 SUMMARY:UNDERTALE: The Determination Symphony
 DTSTART;TZID=America/New_York:20260925T200000
 DTEND;TZID=America/New_York:20260925T214500
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1714@atlcal.com
 SEQUENCE:0
 CATEGORIES:Instrumental Concert
@@ -820,7 +795,7 @@ DESCRIPTION:An instrumental concert presented by Fox Theatre at Fox Theatr
  mination Symphony\, an instrumental concert\, at Fox Theatre on Fri Sep 25
  \, 8:00 PM ET.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -831,7 +806,7 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Ballet 2: Cinderella
 DTSTART;TZID=America/New_York:20261016T193000
 DTEND;TZID=America/New_York:20261016T210000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1345@atlcal.com
 SEQUENCE:0
 CATEGORIES:Dance Performance
@@ -843,7 +818,7 @@ DESCRIPTION:A narrated\, kid-friendly Cinderella ballet from Atlanta Balle
   a narrator walks young audiences through the plot as the dancers tell it.
   Runs an hour and fifteen minutes\, including a 20-minute intermission.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -853,7 +828,7 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Ballet 2: Cinderella
 DTSTART;TZID=America/New_York:20261017T130000
 DTEND;TZID=America/New_York:20261017T143000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1346@atlcal.com
 SEQUENCE:0
 CATEGORIES:Dance Performance
@@ -865,7 +840,7 @@ DESCRIPTION:A narrated\, kid-friendly Cinderella ballet from Atlanta Balle
   a narrator walks young audiences through the plot as the dancers tell it.
   Runs an hour and fifteen minutes\, including a 20-minute intermission.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -875,7 +850,7 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Ballet 2: Cinderella
 DTSTART;TZID=America/New_York:20261017T170000
 DTEND;TZID=America/New_York:20261017T183000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1347@atlcal.com
 SEQUENCE:0
 CATEGORIES:Dance Performance
@@ -887,7 +862,7 @@ DESCRIPTION:A narrated\, kid-friendly Cinderella ballet from Atlanta Balle
   a narrator walks young audiences through the plot as the dancers tell it.
   Runs an hour and fifteen minutes\, including a 20-minute intermission.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -897,7 +872,7 @@ BEGIN:VEVENT
 SUMMARY:Outlander in Concert
 DTSTART;TZID=America/New_York:20261018T160000
 DTEND;TZID=America/New_York:20261018T174500
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1715@atlcal.com
 SEQUENCE:0
 CATEGORIES:Instrumental Concert
@@ -912,7 +887,7 @@ DESCRIPTION:Bear McCreary's Outlander score played by a live orchestra\, w
  elevision in collaboration with Starz. Recommended for ages 12 and up with
   parental guidance.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -923,7 +898,7 @@ BEGIN:VEVENT
 SUMMARY:Sonic Live In Concert
 DTSTART;TZID=America/New_York:20261024T193000
 DTEND;TZID=America/New_York:20261024T211500
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1716@atlcal.com
 SEQUENCE:0
 CATEGORIES:Instrumental Concert
@@ -937,7 +912,7 @@ DESCRIPTION:Sonic the Hedgehog's game music played live — rock band\, en
  ound across generations. The arrangements hide musical Easter eggs for lon
  gtime fans to catch mid-show.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -948,7 +923,7 @@ BEGIN:VEVENT
 SUMMARY:Buena Vista Social Club
 DTSTART;TZID=America/New_York:20261027T193000
 DTEND;TZID=America/New_York:20261027T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1348@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -964,7 +939,7 @@ DESCRIPTION:National touring production of the Broadway musical behind Cub
  pecial Tony Award for its live onstage musicians and a Grammy for its cast
   album. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -975,7 +950,7 @@ BEGIN:VEVENT
 SUMMARY:Buena Vista Social Club
 DTSTART;TZID=America/New_York:20261028T193000
 DTEND;TZID=America/New_York:20261028T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1349@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -991,7 +966,7 @@ DESCRIPTION:National touring production of the Broadway musical behind Cub
  pecial Tony Award for its live onstage musicians and a Grammy for its cast
   album. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1002,7 +977,7 @@ BEGIN:VEVENT
 SUMMARY:Buena Vista Social Club
 DTSTART;TZID=America/New_York:20261029T193000
 DTEND;TZID=America/New_York:20261029T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1350@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1018,7 +993,7 @@ DESCRIPTION:National touring production of the Broadway musical behind Cub
  pecial Tony Award for its live onstage musicians and a Grammy for its cast
   album. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1029,7 +1004,7 @@ BEGIN:VEVENT
 SUMMARY:Buena Vista Social Club
 DTSTART;TZID=America/New_York:20261030T193000
 DTEND;TZID=America/New_York:20261030T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1351@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1045,7 +1020,7 @@ DESCRIPTION:National touring production of the Broadway musical behind Cub
  pecial Tony Award for its live onstage musicians and a Grammy for its cast
   album. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1056,7 +1031,7 @@ BEGIN:VEVENT
 SUMMARY:Buena Vista Social Club
 DTSTART;TZID=America/New_York:20261031T140000
 DTEND;TZID=America/New_York:20261031T163000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1352@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1072,7 +1047,7 @@ DESCRIPTION:National touring production of the Broadway musical behind Cub
  pecial Tony Award for its live onstage musicians and a Grammy for its cast
   album. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1083,7 +1058,7 @@ BEGIN:VEVENT
 SUMMARY:Buena Vista Social Club
 DTSTART;TZID=America/New_York:20261031T193000
 DTEND;TZID=America/New_York:20261031T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1353@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1099,7 +1074,7 @@ DESCRIPTION:National touring production of the Broadway musical behind Cub
  pecial Tony Award for its live onstage musicians and a Grammy for its cast
   album. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1110,7 +1085,7 @@ BEGIN:VEVENT
 SUMMARY:Buena Vista Social Club
 DTSTART;TZID=America/New_York:20261101T130000
 DTEND;TZID=America/New_York:20261101T153000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1354@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1126,7 +1101,7 @@ DESCRIPTION:National touring production of the Broadway musical behind Cub
  pecial Tony Award for its live onstage musicians and a Grammy for its cast
   album. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1137,7 +1112,7 @@ BEGIN:VEVENT
 SUMMARY:Buena Vista Social Club
 DTSTART;TZID=America/New_York:20261101T183000
 DTEND;TZID=America/New_York:20261101T210000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1355@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1153,7 +1128,7 @@ DESCRIPTION:National touring production of the Broadway musical behind Cub
  pecial Tony Award for its live onstage musicians and a Grammy for its cast
   album. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1164,7 +1139,7 @@ BEGIN:VEVENT
 SUMMARY:NieR: Orchestra Concert 12026 [YoRHa]!
 DTSTART;TZID=America/New_York:20261107T200000
 DTEND;TZID=America/New_York:20261107T214500
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-497@atlcal.com
 SEQUENCE:2
 CATEGORIES:Instrumental Concert
@@ -1179,7 +1154,7 @@ DESCRIPTION:Music from Square Enix's NieR games — full orchestra\, choru
  omata\, with visuals on a giant screen. A follow-up from the team behind t
  he earlier NieR:Orchestra Concert [the end of data] tour.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1190,7 +1165,7 @@ BEGIN:VEVENT
 SUMMARY:Death Becomes Her
 DTSTART;TZID=America/New_York:20261117T193000
 DTEND;TZID=America/New_York:20261117T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1356@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1204,7 +1179,7 @@ DESCRIPTION:The Broadway musical of the 1992 camp classic: two frenemies\,
  oreographs. Variety called it "a laugh-filled\, tuneful musical to die for
  ."
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1215,7 +1190,7 @@ BEGIN:VEVENT
 SUMMARY:Death Becomes Her
 DTSTART;TZID=America/New_York:20261118T193000
 DTEND;TZID=America/New_York:20261118T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1357@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1229,7 +1204,7 @@ DESCRIPTION:The Broadway musical of the 1992 camp classic: two frenemies\,
  oreographs. Variety called it "a laugh-filled\, tuneful musical to die for
  ."
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1240,7 +1215,7 @@ BEGIN:VEVENT
 SUMMARY:Death Becomes Her
 DTSTART;TZID=America/New_York:20261119T193000
 DTEND;TZID=America/New_York:20261119T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1358@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1254,7 +1229,7 @@ DESCRIPTION:The Broadway musical of the 1992 camp classic: two frenemies\,
  oreographs. Variety called it "a laugh-filled\, tuneful musical to die for
  ."
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1265,7 +1240,7 @@ BEGIN:VEVENT
 SUMMARY:Death Becomes Her
 DTSTART;TZID=America/New_York:20261120T193000
 DTEND;TZID=America/New_York:20261120T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1359@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1279,7 +1254,7 @@ DESCRIPTION:The Broadway musical of the 1992 camp classic: two frenemies\,
  oreographs. Variety called it "a laugh-filled\, tuneful musical to die for
  ."
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1290,7 +1265,7 @@ BEGIN:VEVENT
 SUMMARY:Death Becomes Her
 DTSTART;TZID=America/New_York:20261121T140000
 DTEND;TZID=America/New_York:20261121T163000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1360@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1304,7 +1279,7 @@ DESCRIPTION:The Broadway musical of the 1992 camp classic: two frenemies\,
  oreographs. Variety called it "a laugh-filled\, tuneful musical to die for
  ."
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1315,7 +1290,7 @@ BEGIN:VEVENT
 SUMMARY:Death Becomes Her
 DTSTART;TZID=America/New_York:20261121T193000
 DTEND;TZID=America/New_York:20261121T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1361@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1329,7 +1304,7 @@ DESCRIPTION:The Broadway musical of the 1992 camp classic: two frenemies\,
  oreographs. Variety called it "a laugh-filled\, tuneful musical to die for
  ."
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1340,7 +1315,7 @@ BEGIN:VEVENT
 SUMMARY:Death Becomes Her
 DTSTART;TZID=America/New_York:20261122T130000
 DTEND;TZID=America/New_York:20261122T153000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1362@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1354,7 +1329,7 @@ DESCRIPTION:The Broadway musical of the 1992 camp classic: two frenemies\,
  oreographs. Variety called it "a laugh-filled\, tuneful musical to die for
  ."
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1365,7 +1340,7 @@ BEGIN:VEVENT
 SUMMARY:Death Becomes Her
 DTSTART;TZID=America/New_York:20261122T183000
 DTEND;TZID=America/New_York:20261122T210000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1363@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1379,7 +1354,7 @@ DESCRIPTION:The Broadway musical of the 1992 camp classic: two frenemies\,
  oreographs. Variety called it "a laugh-filled\, tuneful musical to die for
  ."
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1389,11 +1364,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twas The Night Before...
 DTSTART;TZID=America/New_York:20261202T193000
-DTSTAMP:20260723T203902Z
+DTEND;TZID=America/New_York:20261202T213000
+DTSTAMP:20260724T044010Z
 UID:occ-8426@atlcal.com
 SEQUENCE:0
+CATEGORIES:Special Event
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1403,11 +1380,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twas The Night Before...
 DTSTART;TZID=America/New_York:20261203T193000
-DTSTAMP:20260723T203902Z
+DTEND;TZID=America/New_York:20261203T213000
+DTSTAMP:20260724T044010Z
 UID:occ-8427@atlcal.com
 SEQUENCE:0
+CATEGORIES:Special Event
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1417,11 +1396,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twas The Night Before...
 DTSTART;TZID=America/New_York:20261204T193000
-DTSTAMP:20260723T203902Z
+DTEND;TZID=America/New_York:20261204T213000
+DTSTAMP:20260724T044010Z
 UID:occ-8428@atlcal.com
 SEQUENCE:0
+CATEGORIES:Special Event
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1431,11 +1412,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twas The Night Before...
 DTSTART;TZID=America/New_York:20261205T120000
-DTSTAMP:20260723T203902Z
+DTEND;TZID=America/New_York:20261205T140000
+DTSTAMP:20260724T044010Z
 UID:occ-8429@atlcal.com
 SEQUENCE:0
+CATEGORIES:Special Event
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1445,11 +1428,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twas The Night Before...
 DTSTART;TZID=America/New_York:20261205T160000
-DTSTAMP:20260723T203902Z
+DTEND;TZID=America/New_York:20261205T180000
+DTSTAMP:20260724T044010Z
 UID:occ-8430@atlcal.com
 SEQUENCE:0
+CATEGORIES:Special Event
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1459,11 +1444,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twas The Night Before...
 DTSTART;TZID=America/New_York:20261205T193000
-DTSTAMP:20260723T203902Z
+DTEND;TZID=America/New_York:20261205T213000
+DTSTAMP:20260724T044010Z
 UID:occ-8431@atlcal.com
 SEQUENCE:0
+CATEGORIES:Special Event
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1473,11 +1460,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twas The Night Before...
 DTSTART;TZID=America/New_York:20261206T130000
-DTSTAMP:20260723T203902Z
+DTEND;TZID=America/New_York:20261206T150000
+DTSTAMP:20260724T044010Z
 UID:occ-8432@atlcal.com
 SEQUENCE:0
+CATEGORIES:Special Event
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1487,11 +1476,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twas The Night Before...
 DTSTART;TZID=America/New_York:20261206T170000
-DTSTAMP:20260723T203902Z
+DTEND;TZID=America/New_York:20261206T190000
+DTSTAMP:20260724T044010Z
 UID:occ-8433@atlcal.com
 SEQUENCE:0
+CATEGORIES:Special Event
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1501,11 +1492,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twas The Night Before...
 DTSTART;TZID=America/New_York:20261209T193000
-DTSTAMP:20260723T203902Z
+DTEND;TZID=America/New_York:20261209T213000
+DTSTAMP:20260724T044010Z
 UID:occ-8434@atlcal.com
 SEQUENCE:0
+CATEGORIES:Special Event
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1515,11 +1508,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twas The Night Before...
 DTSTART;TZID=America/New_York:20261210T193000
-DTSTAMP:20260723T203902Z
+DTEND;TZID=America/New_York:20261210T213000
+DTSTAMP:20260724T044010Z
 UID:occ-8435@atlcal.com
 SEQUENCE:0
+CATEGORIES:Special Event
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1529,11 +1524,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twas The Night Before...
 DTSTART;TZID=America/New_York:20261211T193000
-DTSTAMP:20260723T203902Z
+DTEND;TZID=America/New_York:20261211T213000
+DTSTAMP:20260724T044010Z
 UID:occ-8436@atlcal.com
 SEQUENCE:0
+CATEGORIES:Special Event
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1543,11 +1540,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twas The Night Before...
 DTSTART;TZID=America/New_York:20261212T120000
-DTSTAMP:20260723T203902Z
+DTEND;TZID=America/New_York:20261212T140000
+DTSTAMP:20260724T044010Z
 UID:occ-8437@atlcal.com
 SEQUENCE:0
+CATEGORIES:Special Event
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1557,11 +1556,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twas The Night Before...
 DTSTART;TZID=America/New_York:20261212T160000
-DTSTAMP:20260723T203902Z
+DTEND;TZID=America/New_York:20261212T180000
+DTSTAMP:20260724T044010Z
 UID:occ-8438@atlcal.com
 SEQUENCE:0
+CATEGORIES:Special Event
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1571,11 +1572,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twas The Night Before...
 DTSTART;TZID=America/New_York:20261212T193000
-DTSTAMP:20260723T203902Z
+DTEND;TZID=America/New_York:20261212T213000
+DTSTAMP:20260724T044010Z
 UID:occ-8439@atlcal.com
 SEQUENCE:0
+CATEGORIES:Special Event
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1585,11 +1588,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twas The Night Before...
 DTSTART;TZID=America/New_York:20261213T130000
-DTSTAMP:20260723T203902Z
+DTEND;TZID=America/New_York:20261213T150000
+DTSTAMP:20260724T044010Z
 UID:occ-8440@atlcal.com
 SEQUENCE:0
+CATEGORIES:Special Event
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1599,11 +1604,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twas The Night Before...
 DTSTART;TZID=America/New_York:20261213T170000
-DTSTAMP:20260723T203902Z
+DTEND;TZID=America/New_York:20261213T190000
+DTSTAMP:20260724T044010Z
 UID:occ-8441@atlcal.com
 SEQUENCE:0
+CATEGORIES:Special Event
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1614,7 +1621,7 @@ BEGIN:VEVENT
 SUMMARY:Mrs. Doubtfire
 DTSTART;TZID=America/New_York:20261215T193000
 DTEND;TZID=America/New_York:20261215T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1364@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1628,7 +1635,7 @@ DESCRIPTION:The 1993 Robin Williams film as a Broadway musical: divorced d
  y winner Jerry Zaks directs. A national touring production\, presented as 
  part of the Broadway in Atlanta series.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1639,7 +1646,7 @@ BEGIN:VEVENT
 SUMMARY:Mrs. Doubtfire
 DTSTART;TZID=America/New_York:20261216T193000
 DTEND;TZID=America/New_York:20261216T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1365@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1653,7 +1660,7 @@ DESCRIPTION:The 1993 Robin Williams film as a Broadway musical: divorced d
  y winner Jerry Zaks directs. A national touring production\, presented as 
  part of the Broadway in Atlanta series.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1664,7 +1671,7 @@ BEGIN:VEVENT
 SUMMARY:Mrs. Doubtfire
 DTSTART;TZID=America/New_York:20261217T193000
 DTEND;TZID=America/New_York:20261217T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1366@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1678,7 +1685,7 @@ DESCRIPTION:The 1993 Robin Williams film as a Broadway musical: divorced d
  y winner Jerry Zaks directs. A national touring production\, presented as 
  part of the Broadway in Atlanta series.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1689,7 +1696,7 @@ BEGIN:VEVENT
 SUMMARY:Mrs. Doubtfire
 DTSTART;TZID=America/New_York:20261218T193000
 DTEND;TZID=America/New_York:20261218T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1367@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1703,7 +1710,7 @@ DESCRIPTION:The 1993 Robin Williams film as a Broadway musical: divorced d
  y winner Jerry Zaks directs. A national touring production\, presented as 
  part of the Broadway in Atlanta series.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1714,7 +1721,7 @@ BEGIN:VEVENT
 SUMMARY:Mrs. Doubtfire
 DTSTART;TZID=America/New_York:20261219T140000
 DTEND;TZID=America/New_York:20261219T163000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1368@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1728,7 +1735,7 @@ DESCRIPTION:The 1993 Robin Williams film as a Broadway musical: divorced d
  y winner Jerry Zaks directs. A national touring production\, presented as 
  part of the Broadway in Atlanta series.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1739,7 +1746,7 @@ BEGIN:VEVENT
 SUMMARY:Mrs. Doubtfire
 DTSTART;TZID=America/New_York:20261219T193000
 DTEND;TZID=America/New_York:20261219T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1369@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1753,7 +1760,7 @@ DESCRIPTION:The 1993 Robin Williams film as a Broadway musical: divorced d
  y winner Jerry Zaks directs. A national touring production\, presented as 
  part of the Broadway in Atlanta series.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1764,7 +1771,7 @@ BEGIN:VEVENT
 SUMMARY:Mrs. Doubtfire
 DTSTART;TZID=America/New_York:20261220T130000
 DTEND;TZID=America/New_York:20261220T153000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1370@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1778,7 +1785,7 @@ DESCRIPTION:The 1993 Robin Williams film as a Broadway musical: divorced d
  y winner Jerry Zaks directs. A national touring production\, presented as 
  part of the Broadway in Atlanta series.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1789,7 +1796,7 @@ BEGIN:VEVENT
 SUMMARY:Mrs. Doubtfire
 DTSTART;TZID=America/New_York:20261220T183000
 DTEND;TZID=America/New_York:20261220T210000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1371@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1803,7 +1810,7 @@ DESCRIPTION:The 1993 Robin Williams film as a Broadway musical: divorced d
  y winner Jerry Zaks directs. A national touring production\, presented as 
  part of the Broadway in Atlanta series.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1814,7 +1821,7 @@ BEGIN:VEVENT
 SUMMARY:NUTCRACKER! Magical Christmas Ballet
 DTSTART;TZID=America/New_York:20261223T150000
 DTEND;TZID=America/New_York:20261223T163000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1717@atlcal.com
 SEQUENCE:0
 CATEGORIES:Dance Performance
@@ -1825,7 +1832,7 @@ DESCRIPTION:Tchaikovsky's Nutcracker as touring spectacle: international d
  lls itself as North America's largest Nutcracker\, with an international c
  ast\, acrobatics\, and towering puppets sharing the stage.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1836,7 +1843,7 @@ BEGIN:VEVENT
 SUMMARY:NUTCRACKER! Magical Christmas Ballet
 DTSTART;TZID=America/New_York:20261223T190000
 DTEND;TZID=America/New_York:20261223T203000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1718@atlcal.com
 SEQUENCE:0
 CATEGORIES:Dance Performance
@@ -1847,7 +1854,7 @@ DESCRIPTION:Tchaikovsky's Nutcracker as touring spectacle: international d
  lls itself as North America's largest Nutcracker\, with an international c
  ast\, acrobatics\, and towering puppets sharing the stage.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1858,7 +1865,7 @@ BEGIN:VEVENT
 SUMMARY:NUTCRACKER! Magical Christmas Ballet
 DTSTART;TZID=America/New_York:20261224T130000
 DTEND;TZID=America/New_York:20261224T143000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1719@atlcal.com
 SEQUENCE:0
 CATEGORIES:Dance Performance
@@ -1869,7 +1876,7 @@ DESCRIPTION:Tchaikovsky's Nutcracker as touring spectacle: international d
  lls itself as North America's largest Nutcracker\, with an international c
  ast\, acrobatics\, and towering puppets sharing the stage.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1880,7 +1887,7 @@ BEGIN:VEVENT
 SUMMARY:BOOP! The Musical
 DTSTART;TZID=America/New_York:20270112T193000
 DTEND;TZID=America/New_York:20270112T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1720@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1894,7 +1901,7 @@ DESCRIPTION:Betty Boop trades her black-and-white cartoon world for presen
  p hitmaker David Foster and a book by Bob Martin (The Drowsy Chaperone). A
   national touring production of the musical that ran on Broadway in 2025.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1905,7 +1912,7 @@ BEGIN:VEVENT
 SUMMARY:BOOP! The Musical
 DTSTART;TZID=America/New_York:20270113T193000
 DTEND;TZID=America/New_York:20270113T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1721@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1919,7 +1926,7 @@ DESCRIPTION:Betty Boop trades her black-and-white cartoon world for presen
  p hitmaker David Foster and a book by Bob Martin (The Drowsy Chaperone). A
   national touring production of the musical that ran on Broadway in 2025.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1930,7 +1937,7 @@ BEGIN:VEVENT
 SUMMARY:BOOP! The Musical
 DTSTART;TZID=America/New_York:20270114T193000
 DTEND;TZID=America/New_York:20270114T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1722@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1944,7 +1951,7 @@ DESCRIPTION:Betty Boop trades her black-and-white cartoon world for presen
  p hitmaker David Foster and a book by Bob Martin (The Drowsy Chaperone). A
   national touring production of the musical that ran on Broadway in 2025.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1955,7 +1962,7 @@ BEGIN:VEVENT
 SUMMARY:BOOP! The Musical
 DTSTART;TZID=America/New_York:20270115T193000
 DTEND;TZID=America/New_York:20270115T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1723@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1969,7 +1976,7 @@ DESCRIPTION:Betty Boop trades her black-and-white cartoon world for presen
  p hitmaker David Foster and a book by Bob Martin (The Drowsy Chaperone). A
   national touring production of the musical that ran on Broadway in 2025.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1980,7 +1987,7 @@ BEGIN:VEVENT
 SUMMARY:BOOP! The Musical
 DTSTART;TZID=America/New_York:20270116T140000
 DTEND;TZID=America/New_York:20270116T163000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1724@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -1994,7 +2001,7 @@ DESCRIPTION:Betty Boop trades her black-and-white cartoon world for presen
  p hitmaker David Foster and a book by Bob Martin (The Drowsy Chaperone). A
   national touring production of the musical that ran on Broadway in 2025.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2005,7 +2012,7 @@ BEGIN:VEVENT
 SUMMARY:BOOP! The Musical
 DTSTART;TZID=America/New_York:20270116T193000
 DTEND;TZID=America/New_York:20270116T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1725@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2019,7 +2026,7 @@ DESCRIPTION:Betty Boop trades her black-and-white cartoon world for presen
  p hitmaker David Foster and a book by Bob Martin (The Drowsy Chaperone). A
   national touring production of the musical that ran on Broadway in 2025.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2030,7 +2037,7 @@ BEGIN:VEVENT
 SUMMARY:BOOP! The Musical
 DTSTART;TZID=America/New_York:20270117T130000
 DTEND;TZID=America/New_York:20270117T153000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1726@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2044,7 +2051,7 @@ DESCRIPTION:Betty Boop trades her black-and-white cartoon world for presen
  p hitmaker David Foster and a book by Bob Martin (The Drowsy Chaperone). A
   national touring production of the musical that ran on Broadway in 2025.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2055,7 +2062,7 @@ BEGIN:VEVENT
 SUMMARY:BOOP! The Musical
 DTSTART;TZID=America/New_York:20270117T183000
 DTEND;TZID=America/New_York:20270117T210000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1727@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2069,7 +2076,7 @@ DESCRIPTION:Betty Boop trades her black-and-white cartoon world for presen
  p hitmaker David Foster and a book by Bob Martin (The Drowsy Chaperone). A
   national touring production of the musical that ran on Broadway in 2025.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2079,11 +2086,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Bald and the Beautiful LIVE: Very Bald\, Very Beautiful
 DTSTART;TZID=America/New_York:20270123T193000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-5526@atlcal.com
 SEQUENCE:0
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2093,7 +2100,7 @@ BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/New_York:20270202T193000
 DTEND;TZID=America/New_York:20270202T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1728@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2109,7 +2116,7 @@ DESCRIPTION:Sara Gruen's Depression-era circus novel as a musical\, on nat
  ven Tony nominations\, including Best Musical. This is the national tourin
  g production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2120,7 +2127,7 @@ BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/New_York:20270203T193000
 DTEND;TZID=America/New_York:20270203T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1729@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2136,7 +2143,7 @@ DESCRIPTION:Sara Gruen's Depression-era circus novel as a musical\, on nat
  ven Tony nominations\, including Best Musical. This is the national tourin
  g production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2147,7 +2154,7 @@ BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/New_York:20270204T193000
 DTEND;TZID=America/New_York:20270204T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1730@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2163,7 +2170,7 @@ DESCRIPTION:Sara Gruen's Depression-era circus novel as a musical\, on nat
  ven Tony nominations\, including Best Musical. This is the national tourin
  g production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2174,7 +2181,7 @@ BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/New_York:20270205T193000
 DTEND;TZID=America/New_York:20270205T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1731@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2190,7 +2197,7 @@ DESCRIPTION:Sara Gruen's Depression-era circus novel as a musical\, on nat
  ven Tony nominations\, including Best Musical. This is the national tourin
  g production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2201,7 +2208,7 @@ BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/New_York:20270206T140000
 DTEND;TZID=America/New_York:20270206T163000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1732@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2217,7 +2224,7 @@ DESCRIPTION:Sara Gruen's Depression-era circus novel as a musical\, on nat
  ven Tony nominations\, including Best Musical. This is the national tourin
  g production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2228,7 +2235,7 @@ BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/New_York:20270206T193000
 DTEND;TZID=America/New_York:20270206T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1733@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2244,7 +2251,7 @@ DESCRIPTION:Sara Gruen's Depression-era circus novel as a musical\, on nat
  ven Tony nominations\, including Best Musical. This is the national tourin
  g production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2255,7 +2262,7 @@ BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/New_York:20270207T130000
 DTEND;TZID=America/New_York:20270207T153000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1734@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2271,7 +2278,7 @@ DESCRIPTION:Sara Gruen's Depression-era circus novel as a musical\, on nat
  ven Tony nominations\, including Best Musical. This is the national tourin
  g production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2282,7 +2289,7 @@ BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/New_York:20270207T183000
 DTEND;TZID=America/New_York:20270207T210000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1735@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2298,7 +2305,7 @@ DESCRIPTION:Sara Gruen's Depression-era circus novel as a musical\, on nat
  ven Tony nominations\, including Best Musical. This is the national tourin
  g production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2308,7 +2315,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LETTERKENNY LIVE
 DTSTART;TZID=America/New_York:20270216T193000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1736@atlcal.com
 SEQUENCE:0
 DESCRIPTION:The Letterkenny cast live: all-new sketches from Wayne\, Squir
@@ -2321,7 +2328,7 @@ DESCRIPTION:The Letterkenny cast live: all-new sketches from Wayne\, Squir
  recycled from the show. The series ran twelve seasons on Crave\; Rolling S
  tone called it "marvelously goofy."
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2331,7 +2338,7 @@ BEGIN:VEVENT
 SUMMARY:The Notebook
 DTSTART;TZID=America/New_York:20270413T193000
 DTEND;TZID=America/New_York:20270413T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1737@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2345,7 +2352,7 @@ DESCRIPTION:The Broadway musical of Nicholas Sparks's tearjerker romance\,
  playing them at different ages. A national touring production\, following 
  the show's 2024 Broadway run.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2356,7 +2363,7 @@ BEGIN:VEVENT
 SUMMARY:The Notebook
 DTSTART;TZID=America/New_York:20270414T193000
 DTEND;TZID=America/New_York:20270414T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1738@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2370,7 +2377,7 @@ DESCRIPTION:The Broadway musical of Nicholas Sparks's tearjerker romance\,
  playing them at different ages. A national touring production\, following 
  the show's 2024 Broadway run.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2381,7 +2388,7 @@ BEGIN:VEVENT
 SUMMARY:The Notebook
 DTSTART;TZID=America/New_York:20270415T193000
 DTEND;TZID=America/New_York:20270415T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1739@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2395,7 +2402,7 @@ DESCRIPTION:The Broadway musical of Nicholas Sparks's tearjerker romance\,
  playing them at different ages. A national touring production\, following 
  the show's 2024 Broadway run.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2406,7 +2413,7 @@ BEGIN:VEVENT
 SUMMARY:The Notebook
 DTSTART;TZID=America/New_York:20270416T193000
 DTEND;TZID=America/New_York:20270416T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1740@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2420,7 +2427,7 @@ DESCRIPTION:The Broadway musical of Nicholas Sparks's tearjerker romance\,
  playing them at different ages. A national touring production\, following 
  the show's 2024 Broadway run.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2431,7 +2438,7 @@ BEGIN:VEVENT
 SUMMARY:The Notebook
 DTSTART;TZID=America/New_York:20270417T140000
 DTEND;TZID=America/New_York:20270417T163000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1741@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2445,7 +2452,7 @@ DESCRIPTION:The Broadway musical of Nicholas Sparks's tearjerker romance\,
  playing them at different ages. A national touring production\, following 
  the show's 2024 Broadway run.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2456,7 +2463,7 @@ BEGIN:VEVENT
 SUMMARY:The Notebook
 DTSTART;TZID=America/New_York:20270417T193000
 DTEND;TZID=America/New_York:20270417T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1742@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2470,7 +2477,7 @@ DESCRIPTION:The Broadway musical of Nicholas Sparks's tearjerker romance\,
  playing them at different ages. A national touring production\, following 
  the show's 2024 Broadway run.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2481,7 +2488,7 @@ BEGIN:VEVENT
 SUMMARY:The Notebook
 DTSTART;TZID=America/New_York:20270418T130000
 DTEND;TZID=America/New_York:20270418T153000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1743@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2495,7 +2502,7 @@ DESCRIPTION:The Broadway musical of Nicholas Sparks's tearjerker romance\,
  playing them at different ages. A national touring production\, following 
  the show's 2024 Broadway run.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2506,7 +2513,7 @@ BEGIN:VEVENT
 SUMMARY:The Notebook
 DTSTART;TZID=America/New_York:20270418T183000
 DTEND;TZID=America/New_York:20270418T210000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1744@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2520,7 +2527,7 @@ DESCRIPTION:The Broadway musical of Nicholas Sparks's tearjerker romance\,
  playing them at different ages. A national touring production\, following 
  the show's 2024 Broadway run.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2531,7 +2538,7 @@ BEGIN:VEVENT
 SUMMARY:The Bodyguard
 DTSTART;TZID=America/New_York:20270514T193000
 DTEND;TZID=America/New_York:20270514T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1745@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2539,7 +2546,7 @@ DESCRIPTION:A musical theatre presented by Fox Theatre at Fox Theatre on F
  ri May 14\, 7:30 PM ET.\n\nFox Theatre presents The Bodyguard\, a musical 
  theatre\, at Fox Theatre on Fri May 14\, 7:30 PM ET.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2550,7 +2557,7 @@ BEGIN:VEVENT
 SUMMARY:The Bodyguard
 DTSTART;TZID=America/New_York:20270515T140000
 DTEND;TZID=America/New_York:20270515T163000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1746@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2558,7 +2565,7 @@ DESCRIPTION:A musical theatre presented by Fox Theatre at Fox Theatre on F
  ri May 14\, 7:30 PM ET.\n\nFox Theatre presents The Bodyguard\, a musical 
  theatre\, at Fox Theatre on Fri May 14\, 7:30 PM ET.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2569,7 +2576,7 @@ BEGIN:VEVENT
 SUMMARY:The Bodyguard
 DTSTART;TZID=America/New_York:20270515T193000
 DTEND;TZID=America/New_York:20270515T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1747@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2577,7 +2584,7 @@ DESCRIPTION:A musical theatre presented by Fox Theatre at Fox Theatre on F
  ri May 14\, 7:30 PM ET.\n\nFox Theatre presents The Bodyguard\, a musical 
  theatre\, at Fox Theatre on Fri May 14\, 7:30 PM ET.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2588,7 +2595,7 @@ BEGIN:VEVENT
 SUMMARY:The Bodyguard
 DTSTART;TZID=America/New_York:20270516T130000
 DTEND;TZID=America/New_York:20270516T153000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1748@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2596,7 +2603,7 @@ DESCRIPTION:A musical theatre presented by Fox Theatre at Fox Theatre on F
  ri May 14\, 7:30 PM ET.\n\nFox Theatre presents The Bodyguard\, a musical 
  theatre\, at Fox Theatre on Fri May 14\, 7:30 PM ET.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2607,7 +2614,7 @@ BEGIN:VEVENT
 SUMMARY:The Bodyguard
 DTSTART;TZID=America/New_York:20270516T183000
 DTEND;TZID=America/New_York:20270516T210000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1749@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2615,7 +2622,7 @@ DESCRIPTION:A musical theatre presented by Fox Theatre at Fox Theatre on F
  ri May 14\, 7:30 PM ET.\n\nFox Theatre presents The Bodyguard\, a musical 
  theatre\, at Fox Theatre on Fri May 14\, 7:30 PM ET.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2626,7 +2633,7 @@ BEGIN:VEVENT
 SUMMARY:Beetlejuice
 DTSTART;TZID=America/New_York:20270611T193000
 DTEND;TZID=America/New_York:20270611T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1750@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2640,7 +2647,7 @@ DESCRIPTION:The musical of Tim Burton's 1988 film: a grieving teen\, two h
  y\, and all about excess\,' true to its source. Expect 'Day-O' at the dinn
  er party.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2651,7 +2658,7 @@ BEGIN:VEVENT
 SUMMARY:Beetlejuice
 DTSTART;TZID=America/New_York:20270612T140000
 DTEND;TZID=America/New_York:20270612T163000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1751@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2665,7 +2672,7 @@ DESCRIPTION:The musical of Tim Burton's 1988 film: a grieving teen\, two h
  y\, and all about excess\,' true to its source. Expect 'Day-O' at the dinn
  er party.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2676,7 +2683,7 @@ BEGIN:VEVENT
 SUMMARY:Beetlejuice
 DTSTART;TZID=America/New_York:20270612T193000
 DTEND;TZID=America/New_York:20270612T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1752@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2690,7 +2697,7 @@ DESCRIPTION:The musical of Tim Burton's 1988 film: a grieving teen\, two h
  y\, and all about excess\,' true to its source. Expect 'Day-O' at the dinn
  er party.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2701,7 +2708,7 @@ BEGIN:VEVENT
 SUMMARY:Beetlejuice
 DTSTART;TZID=America/New_York:20270613T130000
 DTEND;TZID=America/New_York:20270613T153000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1753@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2715,7 +2722,7 @@ DESCRIPTION:The musical of Tim Burton's 1988 film: a grieving teen\, two h
  y\, and all about excess\,' true to its source. Expect 'Day-O' at the dinn
  er party.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2726,7 +2733,7 @@ BEGIN:VEVENT
 SUMMARY:Beetlejuice
 DTSTART;TZID=America/New_York:20270613T183000
 DTEND;TZID=America/New_York:20270613T210000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1754@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2740,7 +2747,7 @@ DESCRIPTION:The musical of Tim Burton's 1988 film: a grieving teen\, two h
  y\, and all about excess\,' true to its source. Expect 'Day-O' at the dinn
  er party.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2751,7 +2758,7 @@ BEGIN:VEVENT
 SUMMARY:Operation Mincemeat
 DTSTART;TZID=America/New_York:20270706T193000
 DTEND;TZID=America/New_York:20270706T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1755@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2766,7 +2773,7 @@ DESCRIPTION:SpitLip's Olivier-winning musical comedy about the real WWII s
  al in the West End\, then transferred to Broadway\, where Jak Malone won a
   Tony for his turn as the secretary Hester Leggatt.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2777,7 +2784,7 @@ BEGIN:VEVENT
 SUMMARY:Operation Mincemeat
 DTSTART;TZID=America/New_York:20270707T193000
 DTEND;TZID=America/New_York:20270707T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1756@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2792,7 +2799,7 @@ DESCRIPTION:SpitLip's Olivier-winning musical comedy about the real WWII s
  al in the West End\, then transferred to Broadway\, where Jak Malone won a
   Tony for his turn as the secretary Hester Leggatt.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2803,7 +2810,7 @@ BEGIN:VEVENT
 SUMMARY:Operation Mincemeat
 DTSTART;TZID=America/New_York:20270708T193000
 DTEND;TZID=America/New_York:20270708T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1757@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2818,7 +2825,7 @@ DESCRIPTION:SpitLip's Olivier-winning musical comedy about the real WWII s
  al in the West End\, then transferred to Broadway\, where Jak Malone won a
   Tony for his turn as the secretary Hester Leggatt.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2829,7 +2836,7 @@ BEGIN:VEVENT
 SUMMARY:Operation Mincemeat
 DTSTART;TZID=America/New_York:20270709T193000
 DTEND;TZID=America/New_York:20270709T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1758@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2844,7 +2851,7 @@ DESCRIPTION:SpitLip's Olivier-winning musical comedy about the real WWII s
  al in the West End\, then transferred to Broadway\, where Jak Malone won a
   Tony for his turn as the secretary Hester Leggatt.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2855,7 +2862,7 @@ BEGIN:VEVENT
 SUMMARY:Operation Mincemeat
 DTSTART;TZID=America/New_York:20270710T140000
 DTEND;TZID=America/New_York:20270710T163000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1759@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2870,7 +2877,7 @@ DESCRIPTION:SpitLip's Olivier-winning musical comedy about the real WWII s
  al in the West End\, then transferred to Broadway\, where Jak Malone won a
   Tony for his turn as the secretary Hester Leggatt.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2881,7 +2888,7 @@ BEGIN:VEVENT
 SUMMARY:Operation Mincemeat
 DTSTART;TZID=America/New_York:20270710T193000
 DTEND;TZID=America/New_York:20270710T220000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1760@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2896,7 +2903,7 @@ DESCRIPTION:SpitLip's Olivier-winning musical comedy about the real WWII s
  al in the West End\, then transferred to Broadway\, where Jak Malone won a
   Tony for his turn as the secretary Hester Leggatt.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2907,7 +2914,7 @@ BEGIN:VEVENT
 SUMMARY:Operation Mincemeat
 DTSTART;TZID=America/New_York:20270711T130000
 DTEND;TZID=America/New_York:20270711T153000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1761@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2922,7 +2929,7 @@ DESCRIPTION:SpitLip's Olivier-winning musical comedy about the real WWII s
  al in the West End\, then transferred to Broadway\, where Jak Malone won a
   Tony for his turn as the secretary Hester Leggatt.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2933,7 +2940,7 @@ BEGIN:VEVENT
 SUMMARY:Operation Mincemeat
 DTSTART;TZID=America/New_York:20270711T183000
 DTEND;TZID=America/New_York:20270711T210000
-DTSTAMP:20260723T203902Z
+DTSTAMP:20260724T044010Z
 UID:occ-1762@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -2948,7 +2955,7 @@ DESCRIPTION:SpitLip's Olivier-winning musical comedy about the real WWII s
  al in the West End\, then transferred to Broadway\, where Jak Malone won a
   Tony for his turn as the secretary Hester Leggatt.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260723T203826Z
+LAST-MODIFIED:20260724T043916Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
