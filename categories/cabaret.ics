@@ -60,16 +60,15 @@ BEGIN:VEVENT
 SUMMARY:CREATOR'S DEN CABARET
 DTSTART;TZID=America/New_York:20260724T200000
 DTEND;TZID=America/New_York:20260724T213000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-2578@atlcal.com
 SEQUENCE:1
 CATEGORIES:Cabaret
-DESCRIPTION:Divas\, Drama & Bad Decisions: a small-room song set from thre
- e Out of Box audience favorites\, directed by Annie Cook.\n\nA cabaret tit
- led Divas\, Drama & Bad Decisions\, sung close-up in Out of Box Theatre's 
- black box as part of its Creator's Den program. Annie Cook directs a trio 
- of regulars from the company's stages: Emily Kalat\, Emily Sams Brown\, an
- d MK Penley.
+DESCRIPTION:A returning group of women singers with a cabaret set devoted 
+ to the women and music of the 1970s.\n\nA cabaret built around the women o
+ f 1970s music\, sung by a group of women making a return engagement. Prese
+ nted as part of Out of Box Theatre's Creator's Den series\, which hosts ou
+ tside artists in the company's black box space.
 GEO:33.9148699;-84.3601692
 LAST-MODIFIED:20260724T154854Z
 LOCATION:Out of Box Theatre\, 585 Cobb Pkwy SE\, Suite G-1
@@ -81,18 +80,17 @@ BEGIN:VEVENT
 SUMMARY:CREATOR'S DEN CABARET
 DTSTART;TZID=America/New_York:20260726T150000
 DTEND;TZID=America/New_York:20260726T163000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-2579@atlcal.com
 SEQUENCE:1
 CATEGORIES:Cabaret
-DESCRIPTION:Divas\, Drama & Bad Decisions: a small-room song set from thre
- e Out of Box audience favorites\, directed by Annie Cook.\n\nA cabaret tit
- led Divas\, Drama & Bad Decisions\, sung close-up in Out of Box Theatre's 
- black box as part of its Creator's Den program. Annie Cook directs a trio 
- of regulars from the company's stages: Emily Kalat\, Emily Sams Brown\, an
- d MK Penley.
+DESCRIPTION:A returning group of women singers with a cabaret set devoted 
+ to the women and music of the 1970s.\n\nA cabaret built around the women o
+ f 1970s music\, sung by a group of women making a return engagement. Prese
+ nted as part of Out of Box Theatre's Creator's Den series\, which hosts ou
+ tside artists in the company's black box space.
 GEO:33.9148699;-84.3601692
-LAST-MODIFIED:20260724T154854Z
+LAST-MODIFIED:20260725T061956Z
 LOCATION:Out of Box Theatre\, 585 Cobb Pkwy SE\, Suite G-1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -102,12 +100,12 @@ BEGIN:VEVENT
 SUMMARY:Diva Night
 DTSTART;TZID=America/New_York:20260820T193000
 DTEND;TZID=America/New_York:20260820T213000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-5561@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260724T154905Z
+LAST-MODIFIED:20260725T062015Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -118,18 +116,17 @@ BEGIN:VEVENT
 SUMMARY:CREATOR'S DEN CABARET
 DTSTART;TZID=America/New_York:20261121T200000
 DTEND;TZID=America/New_York:20261121T213000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-8463@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
-DESCRIPTION:Divas\, Drama & Bad Decisions: a small-room song set from thre
- e Out of Box audience favorites\, directed by Annie Cook.\n\nA cabaret tit
- led Divas\, Drama & Bad Decisions\, sung close-up in Out of Box Theatre's 
- black box as part of its Creator's Den program. Annie Cook directs a trio 
- of regulars from the company's stages: Emily Kalat\, Emily Sams Brown\, an
- d MK Penley.
+DESCRIPTION:A returning group of women singers with a cabaret set devoted 
+ to the women and music of the 1970s.\n\nA cabaret built around the women o
+ f 1970s music\, sung by a group of women making a return engagement. Prese
+ nted as part of Out of Box Theatre's Creator's Den series\, which hosts ou
+ tside artists in the company's black box space.
 GEO:33.9148699;-84.3601692
-LAST-MODIFIED:20260724T154854Z
+LAST-MODIFIED:20260725T061957Z
 LOCATION:Out of Box Theatre\, 585 Cobb Pkwy SE\, Suite G-1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -139,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261204T193000
 DTEND;TZID=America/New_York:20261204T213000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-1384@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -151,7 +148,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260724T154847Z
+LAST-MODIFIED:20260725T061949Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -162,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261205T193000
 DTEND;TZID=America/New_York:20261205T213000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-1385@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -174,7 +171,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260724T154847Z
+LAST-MODIFIED:20260725T061949Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -185,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261206T143000
 DTEND;TZID=America/New_York:20261206T163000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-1386@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -197,7 +194,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260724T154847Z
+LAST-MODIFIED:20260725T061949Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -208,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261211T193000
 DTEND;TZID=America/New_York:20261211T213000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-1387@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -220,7 +217,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260724T154847Z
+LAST-MODIFIED:20260725T061949Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -231,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261211T200000
 DTEND;TZID=America/New_York:20261211T220000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-956@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -242,7 +239,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260724T154905Z
+LAST-MODIFIED:20260725T062015Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -253,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261212T143000
 DTEND;TZID=America/New_York:20261212T163000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-1388@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -265,7 +262,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260724T154847Z
+LAST-MODIFIED:20260725T061949Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -276,7 +273,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261212T150000
 DTEND;TZID=America/New_York:20261212T170000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-957@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -287,7 +284,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260724T154905Z
+LAST-MODIFIED:20260725T062015Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -298,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261212T200000
 DTEND;TZID=America/New_York:20261212T220000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-958@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -309,7 +306,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260724T154905Z
+LAST-MODIFIED:20260725T062015Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -320,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:Home for the Holidays: A Henry Players Revue
 DTSTART;TZID=America/New_York:20261213T143000
 DTEND;TZID=America/New_York:20261213T163000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-1389@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -332,7 +329,7 @@ DESCRIPTION:A cabaret-style holiday revue with community performers of all
  s\, the volunteer community theatre company that has served Henry County s
  ince 1991.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260724T154847Z
+LAST-MODIFIED:20260725T061949Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -343,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261213T150000
 DTEND;TZID=America/New_York:20261213T170000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-959@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -354,7 +351,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260724T154905Z
+LAST-MODIFIED:20260725T062015Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -365,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday at Herren's: 50th Season Special
 DTSTART;TZID=America/New_York:20261214T193000
 DTEND;TZID=America/New_York:20261214T213000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-1002@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -375,7 +372,7 @@ DESCRIPTION:A one-night holiday cabaret from Theatrical Outfit\, part of t
  cabaret's small-room style\, from a company that has been producing in Atl
  anta since 1977.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260724T154908Z
+LAST-MODIFIED:20260725T062017Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -384,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261216T193000
 DTEND;TZID=America/New_York:20261216T213000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-960@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -395,7 +392,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260724T154905Z
+LAST-MODIFIED:20260725T062015Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -406,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261217T193000
 DTEND;TZID=America/New_York:20261217T213000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-961@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -417,7 +414,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260724T154905Z
+LAST-MODIFIED:20260725T062015Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -428,12 +425,12 @@ BEGIN:VEVENT
 SUMMARY:Libby's at the Express: Ho\, Ho Home for the Holidays (2026)
 DTSTART;TZID=America/New_York:20261217T193000
 DTEND;TZID=America/New_York:20261217T213000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-5527@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
 GEO:33.7817253;-84.4160629
-LAST-MODIFIED:20260724T154805Z
+LAST-MODIFIED:20260725T061906Z
 LOCATION:King Plow Arts Center\, 887 W Marietta St NW\, Suite J-107
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -443,12 +440,12 @@ BEGIN:VEVENT
 SUMMARY:Libby's at the Express: Ho\, Ho Home for the Holidays (2026)
 DTSTART;TZID=America/New_York:20261218T193000
 DTEND;TZID=America/New_York:20261218T213000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-5528@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
 GEO:33.7817253;-84.4160629
-LAST-MODIFIED:20260724T154805Z
+LAST-MODIFIED:20260725T061906Z
 LOCATION:King Plow Arts Center\, 887 W Marietta St NW\, Suite J-107
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -458,7 +455,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261218T200000
 DTEND;TZID=America/New_York:20261218T220000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-962@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -469,7 +466,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260724T154905Z
+LAST-MODIFIED:20260725T062015Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -480,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261219T150000
 DTEND;TZID=America/New_York:20261219T170000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-963@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -491,7 +488,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260724T154905Z
+LAST-MODIFIED:20260725T062015Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -502,12 +499,12 @@ BEGIN:VEVENT
 SUMMARY:Libby's at the Express: Ho\, Ho Home for the Holidays (2026)
 DTSTART;TZID=America/New_York:20261219T193000
 DTEND;TZID=America/New_York:20261219T213000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-5529@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
 GEO:33.7817253;-84.4160629
-LAST-MODIFIED:20260724T154805Z
+LAST-MODIFIED:20260725T061906Z
 LOCATION:King Plow Arts Center\, 887 W Marietta St NW\, Suite J-107
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -517,7 +514,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261219T200000
 DTEND;TZID=America/New_York:20261219T220000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-964@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -528,7 +525,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260724T154905Z
+LAST-MODIFIED:20260725T062015Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -539,12 +536,12 @@ BEGIN:VEVENT
 SUMMARY:Libby's at the Express: Ho\, Ho Home for the Holidays (2026)
 DTSTART;TZID=America/New_York:20261220T140000
 DTEND;TZID=America/New_York:20261220T160000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-5530@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
 GEO:33.7817253;-84.4160629
-LAST-MODIFIED:20260724T154805Z
+LAST-MODIFIED:20260725T061906Z
 LOCATION:King Plow Arts Center\, 887 W Marietta St NW\, Suite J-107
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -554,7 +551,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261220T150000
 DTEND;TZID=America/New_York:20261220T170000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-965@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -565,7 +562,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260724T154905Z
+LAST-MODIFIED:20260725T062015Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -576,7 +573,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261221T193000
 DTEND;TZID=America/New_York:20261221T213000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-966@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
@@ -587,7 +584,7 @@ DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
  friendly\, and built as a hometown seasonal fixture rather than a touring 
  package.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260724T154905Z
+LAST-MODIFIED:20260725T062015Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -598,18 +595,17 @@ BEGIN:VEVENT
 SUMMARY:CREATOR'S DEN CABARET
 DTSTART;TZID=America/New_York:20270212T200000
 DTEND;TZID=America/New_York:20270212T213000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-8464@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
-DESCRIPTION:Divas\, Drama & Bad Decisions: a small-room song set from thre
- e Out of Box audience favorites\, directed by Annie Cook.\n\nA cabaret tit
- led Divas\, Drama & Bad Decisions\, sung close-up in Out of Box Theatre's 
- black box as part of its Creator's Den program. Annie Cook directs a trio 
- of regulars from the company's stages: Emily Kalat\, Emily Sams Brown\, an
- d MK Penley.
+DESCRIPTION:A returning group of women singers with a cabaret set devoted 
+ to the women and music of the 1970s.\n\nA cabaret built around the women o
+ f 1970s music\, sung by a group of women making a return engagement. Prese
+ nted as part of Out of Box Theatre's Creator's Den series\, which hosts ou
+ tside artists in the company's black box space.
 GEO:33.9148699;-84.3601692
-LAST-MODIFIED:20260724T154854Z
+LAST-MODIFIED:20260725T061957Z
 LOCATION:Out of Box Theatre\, 585 Cobb Pkwy SE\, Suite G-1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -619,18 +615,17 @@ BEGIN:VEVENT
 SUMMARY:CREATOR'S DEN CABARET
 DTSTART;TZID=America/New_York:20270213T200000
 DTEND;TZID=America/New_York:20270213T213000
-DTSTAMP:20260724T154921Z
+DTSTAMP:20260725T062040Z
 UID:occ-8465@atlcal.com
 SEQUENCE:0
 CATEGORIES:Cabaret
-DESCRIPTION:Divas\, Drama & Bad Decisions: a small-room song set from thre
- e Out of Box audience favorites\, directed by Annie Cook.\n\nA cabaret tit
- led Divas\, Drama & Bad Decisions\, sung close-up in Out of Box Theatre's 
- black box as part of its Creator's Den program. Annie Cook directs a trio 
- of regulars from the company's stages: Emily Kalat\, Emily Sams Brown\, an
- d MK Penley.
+DESCRIPTION:A returning group of women singers with a cabaret set devoted 
+ to the women and music of the 1970s.\n\nA cabaret built around the women o
+ f 1970s music\, sung by a group of women making a return engagement. Prese
+ nted as part of Out of Box Theatre's Creator's Den series\, which hosts ou
+ tside artists in the company's black box space.
 GEO:33.9148699;-84.3601692
-LAST-MODIFIED:20260724T154854Z
+LAST-MODIFIED:20260725T061957Z
 LOCATION:Out of Box Theatre\, 585 Cobb Pkwy SE\, Suite G-1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
