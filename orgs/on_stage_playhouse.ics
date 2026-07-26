@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:The Wizard of Oz
 DTSTART;TZID=America/New_York:20260725T200000
 DTEND;TZID=America/New_York:20260725T220000
-DTSTAMP:20260726T154338Z
+DTSTAMP:20260726T205150Z
 UID:occ-1425@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musical Theatre
@@ -84,9 +84,9 @@ BEGIN:VEVENT
 SUMMARY:The Wizard of Oz
 DTSTART;TZID=America/New_York:20260726T140000
 DTEND;TZID=America/New_York:20260726T160000
-DTSTAMP:20260726T154338Z
+DTSTAMP:20260726T205150Z
 UID:occ-1426@atlcal.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Musical Theatre
 DESCRIPTION:The 1939 MGM songbook onstage\, Toto played by a puppet\, from
   Walton County's community theatre.\n\nThe stage adaptation of the 1939 MG
@@ -98,10 +98,11 @@ DESCRIPTION:The 1939 MGM songbook onstage\, Toto played by a puppet\, from
  Hammes directs for On Stage Playhouse\, Walton County's community theatre\
  ; runs through July 26.
 GEO:33.7934843;-83.7059787
-LAST-MODIFIED:20260726T154310Z
+LAST-MODIFIED:20260726T205123Z
 LOCATION:On Stage Playhouse\, 215 High School Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.tickettailor.com/events/onstageinc/2277626
+URL:https://www.tickettailor.com/checkout/view-event/id/8543753/chk/224d01
+ dd12813bb9ae310a0c1ab9c3eb/?modal_widget=true&widget=true
 END:VEVENT
 END:VCALENDAR
