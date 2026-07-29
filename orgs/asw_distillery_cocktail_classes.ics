@@ -4,4 +4,20 @@ PRODID:-//atlcal//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Atlanta Events — ASW Distillery cocktail classes
 X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Summer Citrus Centerpiece Workshop
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+DTSTAMP:20260729T001037Z
+UID:occ-3070@atlcal.com
+SEQUENCE:0
+CATEGORIES:Workshop or Class
+GEO:33.7298554;-84.4187688
+LAST-MODIFIED:20260727T054842Z
+LOCATION:ASW Whiskey Exchange\, 1000 White Street Southwest
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.aswdistillery.com/exchange-summer-citrus-centerpiece-works
+ hop
+END:VEVENT
 END:VCALENDAR
