@@ -59,11 +59,10 @@ END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:The Last Five Years
 DTSTART;TZID=America/New_York:20270416T190000
-DTEND;TZID=America/New_York:20270416T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1140@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Jason Robert Brown's two-person musical: her story told backwa
  rd\, his forward\, crossing once on their wedding day.\n\nJason Robert Bro
  wn's song-cycle musical traces five years between Jamie\, a novelist whose
@@ -84,11 +83,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Last Five Years
 DTSTART;TZID=America/New_York:20270417T190000
-DTEND;TZID=America/New_York:20270417T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1141@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Jason Robert Brown's two-person musical: her story told backwa
  rd\, his forward\, crossing once on their wedding day.\n\nJason Robert Bro
  wn's song-cycle musical traces five years between Jamie\, a novelist whose
@@ -109,11 +107,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Last Five Years
 DTSTART;TZID=America/New_York:20270418T190000
-DTEND;TZID=America/New_York:20270418T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1142@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Jason Robert Brown's two-person musical: her story told backwa
  rd\, his forward\, crossing once on their wedding day.\n\nJason Robert Bro
  wn's song-cycle musical traces five years between Jamie\, a novelist whose

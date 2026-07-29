@@ -60,9 +60,10 @@ END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:Mosaic String Quartet: Music at All Saints' September 18
 DTSTART;TZID=America/New_York:20260918T190000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-8869@atlcal.com
 SEQUENCE:0
+CATEGORIES:Classical & Instrumental
 GEO:33.77152239999999;-84.38787119999999
 LAST-MODIFIED:20260728T204213Z
 LOCATION:All Saints' Episcopal Church\, 634 West Peachtree Street Northwes
@@ -75,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Rodney Jordan Quintet
 DTSTART;TZID=America/New_York:20261009T190000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1795@atlcal.com
 SEQUENCE:1
 GEO:33.77152239999999;-84.38787119999999
@@ -88,24 +89,9 @@ URL:https://www.eventbrite.com/e/rodney-jordan-quintet-jazz-at-all-saints-
  october-9-tickets-1989540579430?aff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rodney Jordan Quintet: Jazz at All Saints' October 9
-DTSTART;TZID=America/New_York:20261009T190000
-DTSTAMP:20260729T011638Z
-UID:occ-8870@atlcal.com
-SEQUENCE:0
-GEO:33.77152239999999;-84.38787119999999
-LAST-MODIFIED:20260728T204213Z
-LOCATION:All Saints' Episcopal Church\, 634 West Peachtree Street Northwes
- t
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.eventbrite.com/e/rodney-jordan-quintet-jazz-at-all-saints-
- october-9-tickets-1989540579430
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kenny Banks\, Jr.\, piano
 DTSTART;TZID=America/New_York:20261113T190000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1796@atlcal.com
 SEQUENCE:1
 GEO:33.77152239999999;-84.38787119999999
@@ -118,26 +104,12 @@ URL:https://www.eventbrite.com/e/kenny-banks-jr-piano-jazz-at-all-saints-n
  ovember-13-tickets-1989618218651?aff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kenny Banks Jr.\, piano: Jazz at All Saints' November 13
-DTSTART;TZID=America/New_York:20261113T190000
-DTSTAMP:20260729T011638Z
-UID:occ-8871@atlcal.com
-SEQUENCE:0
-GEO:33.77152239999999;-84.38787119999999
-LAST-MODIFIED:20260728T204213Z
-LOCATION:All Saints' Episcopal Church\, 634 West Peachtree Street Northwes
- t
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.eventbrite.com/e/kenny-banks-jr-piano-jazz-at-all-saints-n
- ovember-13-tickets-1989618218651
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cameron Cody\, piano: Music at All Saints' January 29
 DTSTART;TZID=America/New_York:20270129T190000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-8872@atlcal.com
 SEQUENCE:0
+CATEGORIES:Classical & Instrumental
 GEO:33.77152239999999;-84.38787119999999
 LAST-MODIFIED:20260728T204213Z
 LOCATION:All Saints' Episcopal Church\, 634 West Peachtree Street Northwes
@@ -150,7 +122,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Helen Sung\, piano
 DTSTART;TZID=America/New_York:20270212T190000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1797@atlcal.com
 SEQUENCE:1
 GEO:33.77152239999999;-84.38787119999999
@@ -163,24 +135,9 @@ URL:https://www.eventbrite.com/e/helen-sung-piano-jazz-at-all-saints-febru
  ary-12-tickets-1989618447335?aff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Helen Sung\, piano: Jazz at All Saints' February 12
-DTSTART;TZID=America/New_York:20270212T190000
-DTSTAMP:20260729T011638Z
-UID:occ-8873@atlcal.com
-SEQUENCE:0
-GEO:33.77152239999999;-84.38787119999999
-LAST-MODIFIED:20260728T204213Z
-LOCATION:All Saints' Episcopal Church\, 634 West Peachtree Street Northwes
- t
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.eventbrite.com/e/helen-sung-piano-jazz-at-all-saints-febru
- ary-12-tickets-1989618447335
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Maria Howell\, vocal
 DTSTART;TZID=America/New_York:20270312T190000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1798@atlcal.com
 SEQUENCE:1
 GEO:33.77152239999999;-84.38787119999999
@@ -191,20 +148,5 @@ STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.eventbrite.com/e/maria-howell-vocal-jazz-at-all-saints-mar
  ch-12-tickets-1989618727172?aff=oddtdtcreator
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maria Howell\, vocal: Jazz at All Saints' March 12
-DTSTART;TZID=America/New_York:20270312T190000
-DTSTAMP:20260729T011638Z
-UID:occ-8874@atlcal.com
-SEQUENCE:0
-GEO:33.77152239999999;-84.38787119999999
-LAST-MODIFIED:20260728T204213Z
-LOCATION:All Saints' Episcopal Church\, 634 West Peachtree Street Northwes
- t
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.eventbrite.com/e/maria-howell-vocal-jazz-at-all-saints-mar
- ch-12-tickets-1989618727172
 END:VEVENT
 END:VCALENDAR

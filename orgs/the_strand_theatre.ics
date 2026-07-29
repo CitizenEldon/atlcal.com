@@ -59,11 +59,10 @@ END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:Grease Sing-A-Long (1978)
 DTSTART;TZID=America/New_York:20260801T150000
-DTEND;TZID=America/New_York:20260801T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1233@atlcal.com
 SEQUENCE:0
-CATEGORIES:Film Screening
+CATEGORIES:Film Screenings
 DESCRIPTION:The 1978 movie musical with on-screen lyrics — sing every wo
  rd\, rated PG\, 105 minutes.\n\nThe 1978 film with John Travolta and Olivi
  a Newton-John as Danny and Sandy\, screened sing-along style with on-scree
@@ -83,11 +82,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grease Sing-A-Long (1978)
 DTSTART;TZID=America/New_York:20260801T200000
-DTEND;TZID=America/New_York:20260801T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1234@atlcal.com
 SEQUENCE:0
-CATEGORIES:Film Screening
+CATEGORIES:Film Screenings
 DESCRIPTION:The 1978 movie musical with on-screen lyrics — sing every wo
  rd\, rated PG\, 105 minutes.\n\nThe 1978 film with John Travolta and Olivi
  a Newton-John as Danny and Sandy\, screened sing-along style with on-scree
@@ -107,11 +105,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jazz Talks with Trey Wright
 DTSTART;TZID=America/New_York:20260813T193000
-DTEND;TZID=America/New_York:20260813T203000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1235@atlcal.com
 SEQUENCE:0
-CATEGORIES:Lecture
 DESCRIPTION:Coltrane's A Love Supreme\, unpacked by jazz guitarist and KSU
   professor Trey Wright\; 30 seats\, 21+\, drink included.\n\nAn interactiv
  e talk on John Coltrane and A Love Supreme\, his 1965 landmark\, led by Tr
@@ -132,11 +128,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silent Film at The Strand: Sunrise (1927)
 DTSTART;TZID=America/New_York:20260816T150000
-DTEND;TZID=America/New_York:20260816T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1240@atlcal.com
 SEQUENCE:0
-CATEGORIES:Film Screening
+CATEGORIES:Film Screenings
 DESCRIPTION:F.W. Murnau's 1927 silent masterpiece\, scored live on the Mig
  hty Allen Theatre Organ by house organist Ron Carter.\n\nF.W. Murnau's sil
  ent classic follows a farmer torn between a seductive woman from the city 
@@ -158,11 +153,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ferris Bueller's Day Off (1986)
 DTSTART;TZID=America/New_York:20260820T190000
-DTEND;TZID=America/New_York:20260820T210000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1239@atlcal.com
 SEQUENCE:0
-CATEGORIES:Film Screening
+CATEGORIES:Film Screenings
 DESCRIPTION:John Hughes's 1986 comedy of epic truancy\, with a Mighty Alle
  n Theatre Organ concert beforehand.\n\nJohn Hughes's 1986 comedy about Fer
  ris Bueller (Matthew Broderick)\, a high school senior who fakes sick and 
@@ -182,11 +176,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Diva Night
 DTSTART;TZID=America/New_York:20260820T193000
-DTEND;TZID=America/New_York:20260820T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-5561@atlcal.com
 SEQUENCE:0
-CATEGORIES:Cabaret
+CATEGORIES:Variety & Cabaret
 GEO:33.9536122;-84.5492054
 LAST-MODIFIED:20260728T204247Z
 LOCATION:The Strand Theatre\, 117 N Park Square
@@ -198,11 +191,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mamma Mia! and Margaritas!
 DTSTART;TZID=America/New_York:20260822T150000
-DTEND;TZID=America/New_York:20260822T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1657@atlcal.com
 SEQUENCE:0
-CATEGORIES:Film Screening
 DESCRIPTION:The 2008 ABBA movie musical on the big screen\, with a margari
  ta bar and a pre-show organ concert.\n\nThe 2008 film of the ABBA jukebox 
  musical: on a Greek island\, a bride-to-be finds three men in her mother's
@@ -223,11 +214,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mamma Mia! and Margaritas!
 DTSTART;TZID=America/New_York:20260822T200000
-DTEND;TZID=America/New_York:20260822T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1658@atlcal.com
 SEQUENCE:0
-CATEGORIES:Film Screening
 DESCRIPTION:The 2008 ABBA movie musical on the big screen\, with a margari
  ta bar and a pre-show organ concert.\n\nThe 2008 film of the ABBA jukebox 
  musical: on a Greek island\, a bride-to-be finds three men in her mother's
@@ -248,11 +237,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mamma Mia! and Margaritas!
 DTSTART;TZID=America/New_York:20260823T150000
-DTEND;TZID=America/New_York:20260823T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1659@atlcal.com
 SEQUENCE:0
-CATEGORIES:Film Screening
 DESCRIPTION:The 2008 ABBA movie musical on the big screen\, with a margari
  ta bar and a pre-show organ concert.\n\nThe 2008 film of the ABBA jukebox 
  musical: on a Greek island\, a bride-to-be finds three men in her mother's
@@ -273,11 +260,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mary Poppins (1964)
 DTSTART;TZID=America/New_York:20260828T200000
-DTEND;TZID=America/New_York:20260828T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1660@atlcal.com
 SEQUENCE:0
-CATEGORIES:Film Screening
+CATEGORIES:Film Screenings
 DESCRIPTION:Disney's 1964 classic with Julie Andrews\, preceded by a live 
  concert on the Mighty Allen Theatre Organ.\n\nThe 1964 Disney musical that
   made Julie Andrews a movie star: a practically perfect nanny descends on 
@@ -298,11 +284,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260904T200000
-DTEND;TZID=America/New_York:20260904T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-928@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
  se\, a history that ended in Marietta itself.\n\nAlfred Uhry and Jason Rob
  ert Brown's musical dramatization of the Leo Frank case: a Jewish factory 
@@ -325,11 +310,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260905T150000
-DTEND;TZID=America/New_York:20260905T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-929@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
  se\, a history that ended in Marietta itself.\n\nAlfred Uhry and Jason Rob
  ert Brown's musical dramatization of the Leo Frank case: a Jewish factory 
@@ -352,11 +336,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260905T200000
-DTEND;TZID=America/New_York:20260905T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-930@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
  se\, a history that ended in Marietta itself.\n\nAlfred Uhry and Jason Rob
  ert Brown's musical dramatization of the Leo Frank case: a Jewish factory 
@@ -379,11 +362,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260906T150000
-DTEND;TZID=America/New_York:20260906T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-931@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
  se\, a history that ended in Marietta itself.\n\nAlfred Uhry and Jason Rob
  ert Brown's musical dramatization of the Leo Frank case: a Jewish factory 
@@ -406,11 +388,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260910T193000
-DTEND;TZID=America/New_York:20260910T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-932@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
  se\, a history that ended in Marietta itself.\n\nAlfred Uhry and Jason Rob
  ert Brown's musical dramatization of the Leo Frank case: a Jewish factory 
@@ -433,11 +414,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jazz Talks with Trey Wright
 DTSTART;TZID=America/New_York:20260910T193000
-DTEND;TZID=America/New_York:20260910T203000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1236@atlcal.com
 SEQUENCE:0
-CATEGORIES:Lecture
 DESCRIPTION:Coltrane's A Love Supreme\, unpacked by jazz guitarist and KSU
   professor Trey Wright\; 30 seats\, 21+\, drink included.\n\nAn interactiv
  e talk on John Coltrane and A Love Supreme\, his 1965 landmark\, led by Tr
@@ -458,11 +437,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260911T200000
-DTEND;TZID=America/New_York:20260911T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-933@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
  se\, a history that ended in Marietta itself.\n\nAlfred Uhry and Jason Rob
  ert Brown's musical dramatization of the Leo Frank case: a Jewish factory 
@@ -485,11 +463,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260912T150000
-DTEND;TZID=America/New_York:20260912T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-934@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
  se\, a history that ended in Marietta itself.\n\nAlfred Uhry and Jason Rob
  ert Brown's musical dramatization of the Leo Frank case: a Jewish factory 
@@ -512,11 +489,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260912T200000
-DTEND;TZID=America/New_York:20260912T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-935@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
  se\, a history that ended in Marietta itself.\n\nAlfred Uhry and Jason Rob
  ert Brown's musical dramatization of the Leo Frank case: a Jewish factory 
@@ -539,11 +515,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260913T150000
-DTEND;TZID=America/New_York:20260913T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-936@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
  se\, a history that ended in Marietta itself.\n\nAlfred Uhry and Jason Rob
  ert Brown's musical dramatization of the Leo Frank case: a Jewish factory 
@@ -566,11 +541,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260917T193000
-DTEND;TZID=America/New_York:20260917T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-937@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
  se\, a history that ended in Marietta itself.\n\nAlfred Uhry and Jason Rob
  ert Brown's musical dramatization of the Leo Frank case: a Jewish factory 
@@ -593,11 +567,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260918T200000
-DTEND;TZID=America/New_York:20260918T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-938@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
  se\, a history that ended in Marietta itself.\n\nAlfred Uhry and Jason Rob
  ert Brown's musical dramatization of the Leo Frank case: a Jewish factory 
@@ -620,11 +593,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260919T150000
-DTEND;TZID=America/New_York:20260919T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-939@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
  se\, a history that ended in Marietta itself.\n\nAlfred Uhry and Jason Rob
  ert Brown's musical dramatization of the Leo Frank case: a Jewish factory 
@@ -647,11 +619,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260919T200000
-DTEND;TZID=America/New_York:20260919T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-940@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
  se\, a history that ended in Marietta itself.\n\nAlfred Uhry and Jason Rob
  ert Brown's musical dramatization of the Leo Frank case: a Jewish factory 
@@ -674,11 +645,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260920T150000
-DTEND;TZID=America/New_York:20260920T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-941@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
  se\, a history that ended in Marietta itself.\n\nAlfred Uhry and Jason Rob
  ert Brown's musical dramatization of the Leo Frank case: a Jewish factory 
@@ -701,11 +671,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shrek (2001)
 DTSTART;TZID=America/New_York:20260923T150000
-DTEND;TZID=America/New_York:20260923T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1661@atlcal.com
 SEQUENCE:0
-CATEGORIES:Film Screening
+CATEGORIES:Film Screenings
 DESCRIPTION:DreamWorks' 2001 fairy-tale spoof on the big screen — Mike M
  yers' ogre\, Eddie Murphy's Donkey\, 89 minutes\, PG.\n\nThe 2001 DreamWor
  ks comedy that won the first-ever Oscar for Best Animated Feature\, back o
@@ -727,11 +696,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shrek (2001)
 DTSTART;TZID=America/New_York:20260923T190000
-DTEND;TZID=America/New_York:20260923T210000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1662@atlcal.com
 SEQUENCE:0
-CATEGORIES:Film Screening
+CATEGORIES:Film Screenings
 DESCRIPTION:DreamWorks' 2001 fairy-tale spoof on the big screen — Mike M
  yers' ogre\, Eddie Murphy's Donkey\, 89 minutes\, PG.\n\nThe 2001 DreamWor
  ks comedy that won the first-ever Oscar for Best Animated Feature\, back o
@@ -753,11 +721,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sparrows (1926)
 DTSTART;TZID=America/New_York:20260927T150000
-DTEND;TZID=America/New_York:20260927T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-942@atlcal.com
 SEQUENCE:0
-CATEGORIES:Film Screening
+CATEGORIES:Film Screenings
 DESCRIPTION:Mary Pickford's 1926 silent classic with live theatre organ ac
  companiment and an organ pops pre-show.\n\nMary Pickford's 1926 silent cla
  ssic. Pickford plays Molly\, oldest of a brood of orphans held on a baby f
@@ -779,11 +746,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indie Film Series 2026
 DTSTART;TZID=America/New_York:20261007T193000
-DTEND;TZID=America/New_York:20261007T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1230@atlcal.com
 SEQUENCE:0
-CATEGORIES:Film Screening
+CATEGORIES:Film Screenings
 DESCRIPTION:Halloween edition of the monthly indie showcase: shorts and fe
  atures from around the world\, roughly 90 minutes.\n\nA Halloween edition 
  of the monthly indie film night\, a compact festival packing short and fea
@@ -803,11 +769,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jazz Talks with Trey Wright
 DTSTART;TZID=America/New_York:20261008T193000
-DTEND;TZID=America/New_York:20261008T203000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1237@atlcal.com
 SEQUENCE:0
-CATEGORIES:Lecture
 DESCRIPTION:Coltrane's A Love Supreme\, unpacked by jazz guitarist and KSU
   professor Trey Wright\; 30 seats\, 21+\, drink included.\n\nAn interactiv
  e talk on John Coltrane and A Love Supreme\, his 1965 landmark\, led by Tr
@@ -828,11 +792,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jazz Talks with Trey Wright
 DTSTART;TZID=America/New_York:20261105T193000
-DTEND;TZID=America/New_York:20261105T203000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1238@atlcal.com
 SEQUENCE:0
-CATEGORIES:Lecture
 DESCRIPTION:Coltrane's A Love Supreme\, unpacked by jazz guitarist and KSU
   professor Trey Wright\; 30 seats\, 21+\, drink included.\n\nAn interactiv
  e talk on John Coltrane and A Love Supreme\, his 1965 landmark\, led by Tr
@@ -853,11 +815,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261106T193000
-DTEND;TZID=America/New_York:20261106T214500
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-943@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio 
  broadcast\, with onstage foley effects and actors doubling dozens of roles
  .\n\nThe story of George Bailey\, the Bedford Falls building-and-loan man 
@@ -878,11 +838,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261107T150000
-DTEND;TZID=America/New_York:20261107T171500
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-944@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio 
  broadcast\, with onstage foley effects and actors doubling dozens of roles
  .\n\nThe story of George Bailey\, the Bedford Falls building-and-loan man 
@@ -903,11 +861,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261107T193000
-DTEND;TZID=America/New_York:20261107T214500
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-945@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio 
  broadcast\, with onstage foley effects and actors doubling dozens of roles
  .\n\nThe story of George Bailey\, the Bedford Falls building-and-loan man 
@@ -928,11 +884,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261108T150000
-DTEND;TZID=America/New_York:20261108T171500
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-946@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio 
  broadcast\, with onstage foley effects and actors doubling dozens of roles
  .\n\nThe story of George Bailey\, the Bedford Falls building-and-loan man 
@@ -953,11 +907,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261112T150000
-DTEND;TZID=America/New_York:20261112T171500
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-947@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio 
  broadcast\, with onstage foley effects and actors doubling dozens of roles
  .\n\nThe story of George Bailey\, the Bedford Falls building-and-loan man 
@@ -978,11 +930,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261113T193000
-DTEND;TZID=America/New_York:20261113T214500
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-948@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio 
  broadcast\, with onstage foley effects and actors doubling dozens of roles
  .\n\nThe story of George Bailey\, the Bedford Falls building-and-loan man 
@@ -1003,11 +953,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261114T150000
-DTEND;TZID=America/New_York:20261114T171500
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-949@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio 
  broadcast\, with onstage foley effects and actors doubling dozens of roles
  .\n\nThe story of George Bailey\, the Bedford Falls building-and-loan man 
@@ -1028,11 +976,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261114T193000
-DTEND;TZID=America/New_York:20261114T214500
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-950@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio 
  broadcast\, with onstage foley effects and actors doubling dozens of roles
  .\n\nThe story of George Bailey\, the Bedford Falls building-and-loan man 
@@ -1053,11 +999,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261115T150000
-DTEND;TZID=America/New_York:20261115T171500
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-951@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio 
  broadcast\, with onstage foley effects and actors doubling dozens of roles
  .\n\nThe story of George Bailey\, the Bedford Falls building-and-loan man 
@@ -1078,11 +1022,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261120T193000
-DTEND;TZID=America/New_York:20261120T214500
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-952@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio 
  broadcast\, with onstage foley effects and actors doubling dozens of roles
  .\n\nThe story of George Bailey\, the Bedford Falls building-and-loan man 
@@ -1103,11 +1045,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261121T150000
-DTEND;TZID=America/New_York:20261121T171500
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-953@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio 
  broadcast\, with onstage foley effects and actors doubling dozens of roles
  .\n\nThe story of George Bailey\, the Bedford Falls building-and-loan man 
@@ -1128,11 +1068,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261121T193000
-DTEND;TZID=America/New_York:20261121T214500
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-954@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio 
  broadcast\, with onstage foley effects and actors doubling dozens of roles
  .\n\nThe story of George Bailey\, the Bedford Falls building-and-loan man 
@@ -1153,11 +1091,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261122T150000
-DTEND;TZID=America/New_York:20261122T171500
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-955@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:Capra's 1946 Christmas classic restaged as a live 1940s radio 
  broadcast\, with onstage foley effects and actors doubling dozens of roles
  .\n\nThe story of George Bailey\, the Bedford Falls building-and-loan man 
@@ -1178,11 +1114,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261211T200000
-DTEND;TZID=America/New_York:20261211T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-956@atlcal.com
 SEQUENCE:0
-CATEGORIES:Cabaret
 DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
   from carols to the funky\, in full costume.\n\nThe Strand Theatre's own a
  nnual holiday revue: a company of costumed singers and dancers working thr
@@ -1200,11 +1134,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261212T150000
-DTEND;TZID=America/New_York:20261212T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-957@atlcal.com
 SEQUENCE:0
-CATEGORIES:Cabaret
 DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
   from carols to the funky\, in full costume.\n\nThe Strand Theatre's own a
  nnual holiday revue: a company of costumed singers and dancers working thr
@@ -1222,11 +1154,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261212T200000
-DTEND;TZID=America/New_York:20261212T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-958@atlcal.com
 SEQUENCE:0
-CATEGORIES:Cabaret
 DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
   from carols to the funky\, in full costume.\n\nThe Strand Theatre's own a
  nnual holiday revue: a company of costumed singers and dancers working thr
@@ -1244,11 +1174,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261213T150000
-DTEND;TZID=America/New_York:20261213T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-959@atlcal.com
 SEQUENCE:0
-CATEGORIES:Cabaret
 DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
   from carols to the funky\, in full costume.\n\nThe Strand Theatre's own a
  nnual holiday revue: a company of costumed singers and dancers working thr
@@ -1266,11 +1194,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261216T193000
-DTEND;TZID=America/New_York:20261216T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-960@atlcal.com
 SEQUENCE:0
-CATEGORIES:Cabaret
 DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
   from carols to the funky\, in full costume.\n\nThe Strand Theatre's own a
  nnual holiday revue: a company of costumed singers and dancers working thr
@@ -1288,11 +1214,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261217T193000
-DTEND;TZID=America/New_York:20261217T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-961@atlcal.com
 SEQUENCE:0
-CATEGORIES:Cabaret
 DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
   from carols to the funky\, in full costume.\n\nThe Strand Theatre's own a
  nnual holiday revue: a company of costumed singers and dancers working thr
@@ -1310,11 +1234,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261218T200000
-DTEND;TZID=America/New_York:20261218T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-962@atlcal.com
 SEQUENCE:0
-CATEGORIES:Cabaret
 DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
   from carols to the funky\, in full costume.\n\nThe Strand Theatre's own a
  nnual holiday revue: a company of costumed singers and dancers working thr
@@ -1332,11 +1254,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261219T150000
-DTEND;TZID=America/New_York:20261219T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-963@atlcal.com
 SEQUENCE:0
-CATEGORIES:Cabaret
 DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
   from carols to the funky\, in full costume.\n\nThe Strand Theatre's own a
  nnual holiday revue: a company of costumed singers and dancers working thr
@@ -1354,11 +1274,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261219T200000
-DTEND;TZID=America/New_York:20261219T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-964@atlcal.com
 SEQUENCE:0
-CATEGORIES:Cabaret
 DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
   from carols to the funky\, in full costume.\n\nThe Strand Theatre's own a
  nnual holiday revue: a company of costumed singers and dancers working thr
@@ -1376,11 +1294,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261220T150000
-DTEND;TZID=America/New_York:20261220T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-965@atlcal.com
 SEQUENCE:0
-CATEGORIES:Cabaret
 DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
   from carols to the funky\, in full costume.\n\nThe Strand Theatre's own a
  nnual holiday revue: a company of costumed singers and dancers working thr
@@ -1398,11 +1314,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Christmas Tradition
 DTSTART;TZID=America/New_York:20261221T193000
-DTEND;TZID=America/New_York:20261221T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-966@atlcal.com
 SEQUENCE:0
-CATEGORIES:Cabaret
 DESCRIPTION:An annual holiday song-and-dance revue — Christmas favorites
   from carols to the funky\, in full costume.\n\nThe Strand Theatre's own a
  nnual holiday revue: a company of costumed singers and dancers working thr

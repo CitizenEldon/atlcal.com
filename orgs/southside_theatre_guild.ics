@@ -60,10 +60,9 @@ BEGIN:VEVENT
 SUMMARY:Little Shop
 DTSTART;TZID=America/New_York:20260730T200000
 DTEND;TZID=America/New_York:20260730T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-824@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
 DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
  rist and the plant that drinks blood.\n\nAlan Menken and Howard Ashman's 1
  982 horror-comedy musical. Seymour Krelborn\, a meek clerk in a failing sk
@@ -85,10 +84,9 @@ BEGIN:VEVENT
 SUMMARY:Little Shop
 DTSTART;TZID=America/New_York:20260731T200000
 DTEND;TZID=America/New_York:20260731T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-825@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
 DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
  rist and the plant that drinks blood.\n\nAlan Menken and Howard Ashman's 1
  982 horror-comedy musical. Seymour Krelborn\, a meek clerk in a failing sk
@@ -110,10 +108,9 @@ BEGIN:VEVENT
 SUMMARY:Little Shop
 DTSTART;TZID=America/New_York:20260801T200000
 DTEND;TZID=America/New_York:20260801T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-826@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
 DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
  rist and the plant that drinks blood.\n\nAlan Menken and Howard Ashman's 1
  982 horror-comedy musical. Seymour Krelborn\, a meek clerk in a failing sk
@@ -135,10 +132,9 @@ BEGIN:VEVENT
 SUMMARY:Little Shop
 DTSTART;TZID=America/New_York:20260802T143000
 DTEND;TZID=America/New_York:20260802T183000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-827@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
 DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
  rist and the plant that drinks blood.\n\nAlan Menken and Howard Ashman's 1
  982 horror-comedy musical. Seymour Krelborn\, a meek clerk in a failing sk
@@ -160,10 +156,9 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show
 DTSTART;TZID=America/New_York:20260815T193000
 DTEND;TZID=America/New_York:20260815T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-819@atlcal.com
 SEQUENCE:0
-CATEGORIES:Improv Comedy
 DESCRIPTION:Improv comedy from the Southside Sidekicks\, Southside Theatre
   Guild's in-house troupe.\n\nA night of improv comedy from the Southside S
  idekicks\, the in-house troupe of Southside Theatre Guild\, an all-volunte
@@ -180,10 +175,9 @@ BEGIN:VEVENT
 SUMMARY:Improv Workshop
 DTSTART;TZID=America/New_York:20260816T150000
 DTEND;TZID=America/New_York:20260816T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1577@atlcal.com
 SEQUENCE:0
-CATEGORIES:Workshop or Class
 DESCRIPTION:Free hands-on improv workshop from the Southside Sidekicks\, f
  irst of a Sunday series that ends in a showcase.\n\nThe Southside Sidekick
  s\, the resident improv troupe of Southside Theatre Guild\, open their too
@@ -203,10 +197,9 @@ BEGIN:VEVENT
 SUMMARY:Improv Workshop
 DTSTART;TZID=America/New_York:20260823T150000
 DTEND;TZID=America/New_York:20260823T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1578@atlcal.com
 SEQUENCE:0
-CATEGORIES:Workshop or Class
 DESCRIPTION:Free hands-on improv workshop from the Southside Sidekicks\, f
  irst of a Sunday series that ends in a showcase.\n\nThe Southside Sidekick
  s\, the resident improv troupe of Southside Theatre Guild\, open their too
@@ -226,10 +219,9 @@ BEGIN:VEVENT
 SUMMARY:Improv Workshop
 DTSTART;TZID=America/New_York:20260830T150000
 DTEND;TZID=America/New_York:20260830T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1579@atlcal.com
 SEQUENCE:0
-CATEGORIES:Workshop or Class
 DESCRIPTION:Free hands-on improv workshop from the Southside Sidekicks\, f
  irst of a Sunday series that ends in a showcase.\n\nThe Southside Sidekick
  s\, the resident improv troupe of Southside Theatre Guild\, open their too
@@ -249,10 +241,9 @@ BEGIN:VEVENT
 SUMMARY:Improv Workshop
 DTSTART;TZID=America/New_York:20260906T150000
 DTEND;TZID=America/New_York:20260906T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1580@atlcal.com
 SEQUENCE:0
-CATEGORIES:Workshop or Class
 DESCRIPTION:Free hands-on improv workshop from the Southside Sidekicks\, f
  irst of a Sunday series that ends in a showcase.\n\nThe Southside Sidekick
  s\, the resident improv troupe of Southside Theatre Guild\, open their too
@@ -272,10 +263,9 @@ BEGIN:VEVENT
 SUMMARY:Improv Workshop Grad Show
 DTSTART;TZID=America/New_York:20260913T130000
 DTEND;TZID=America/New_York:20260913T143000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1582@atlcal.com
 SEQUENCE:0
-CATEGORIES:Improv Comedy
 DESCRIPTION:Improv workshop graduates take the stage\, building scenes and
   games from audience suggestions.\n\nA graduation show for an improv comed
  y workshop: the students perform the games and scenes they've been practic
@@ -294,10 +284,10 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: Seriously Scary
 DTSTART;TZID=America/New_York:20261024T193000
 DTEND;TZID=America/New_York:20261024T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1583@atlcal.com
 SEQUENCE:0
-CATEGORIES:Improv Comedy
+CATEGORIES:Comedy
 DESCRIPTION:Southside Theatre Guild's in-house improv troupe takes a swing
   at the scary — scenes built from audience suggestions.\n\nThe Southside
   Sidekicks\, the in-house improv troupe of Southside Theatre Guild\, perfo
@@ -315,10 +305,10 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261105T200000
 DTEND;TZID=America/New_York:20261105T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-828@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
  o insists he's the real thing.\n\nA stage version of the 1947 film about K
  ris Kringle\, an old man hired to play Santa at Macy's who calmly maintain
@@ -338,10 +328,10 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261106T200000
 DTEND;TZID=America/New_York:20261106T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-829@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
  o insists he's the real thing.\n\nA stage version of the 1947 film about K
  ris Kringle\, an old man hired to play Santa at Macy's who calmly maintain
@@ -361,10 +351,10 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261107T143000
 DTEND;TZID=America/New_York:20261107T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-830@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
  o insists he's the real thing.\n\nA stage version of the 1947 film about K
  ris Kringle\, an old man hired to play Santa at Macy's who calmly maintain
@@ -384,10 +374,10 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261108T143000
 DTEND;TZID=America/New_York:20261108T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-831@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
  o insists he's the real thing.\n\nA stage version of the 1947 film about K
  ris Kringle\, an old man hired to play Santa at Macy's who calmly maintain
@@ -407,10 +397,10 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261112T200000
 DTEND;TZID=America/New_York:20261112T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-832@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
  o insists he's the real thing.\n\nA stage version of the 1947 film about K
  ris Kringle\, an old man hired to play Santa at Macy's who calmly maintain
@@ -430,10 +420,10 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261113T200000
 DTEND;TZID=America/New_York:20261113T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-833@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
  o insists he's the real thing.\n\nA stage version of the 1947 film about K
  ris Kringle\, an old man hired to play Santa at Macy's who calmly maintain
@@ -453,10 +443,10 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261114T200000
 DTEND;TZID=America/New_York:20261114T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-834@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
  o insists he's the real thing.\n\nA stage version of the 1947 film about K
  ris Kringle\, an old man hired to play Santa at Macy's who calmly maintain
@@ -476,10 +466,10 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261115T143000
 DTEND;TZID=America/New_York:20261115T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-835@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:The 1947 holiday classic on stage: a department-store Santa wh
  o insists he's the real thing.\n\nA stage version of the 1947 film about K
  ris Kringle\, an old man hired to play Santa at Macy's who calmly maintain
@@ -499,10 +489,10 @@ BEGIN:VEVENT
 SUMMARY:Sketch Comedy Show
 DTSTART;TZID=America/New_York:20261205T200000
 DTEND;TZID=America/New_York:20261205T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1584@atlcal.com
 SEQUENCE:0
-CATEGORIES:Stand-up Comedy
+CATEGORIES:Comedy
 DESCRIPTION:A night of short comic scenes from the all-volunteer Southside
   Theatre Guild.\n\nSketch comedy in the classic mold: short scenes\, quick
   blackouts\, and a new premise every few minutes\, performed live by membe
@@ -519,10 +509,10 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: Naughty or Nice List
 DTSTART;TZID=America/New_York:20261211T193000
 DTEND;TZID=America/New_York:20261211T210000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1585@atlcal.com
 SEQUENCE:0
-CATEGORIES:Improv Comedy
+CATEGORIES:Comedy
 DESCRIPTION:Holiday-flavored improv from Southside Sidekicks\, the Guild's
   in-house comedy troupe — scenes made up on the spot.\n\nImprov comedy f
  rom the Southside Sidekicks\, the in-house troupe of Southside Theatre Gui
@@ -540,10 +530,10 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: A Holly Jolly Murder Mystery
 DTSTART;TZID=America/New_York:20261212T193000
 DTEND;TZID=America/New_York:20261212T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1586@atlcal.com
 SEQUENCE:0
-CATEGORIES:Improv Comedy
+CATEGORIES:Comedy
 DESCRIPTION:An improvised holiday-themed murder mystery from Southside The
  atre Guild's in-house improv troupe\, the Southside Sidekicks.\n\nThe Sout
  hside Sidekicks\, the resident improv troupe of Southside Theatre Guild\, 
@@ -561,10 +551,10 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: Choose Your Own (Improv) Adventure!
 DTSTART;TZID=America/New_York:20270123T193000
 DTEND;TZID=America/New_York:20270123T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1587@atlcal.com
 SEQUENCE:0
-CATEGORIES:Improv Comedy
+CATEGORIES:Comedy
 DESCRIPTION:Unscripted comedy from the Southside Sidekicks\, built on the 
  spot from audience suggestions.\n\nNothing is scripted: the Southside Side
  kicks make the scenes up as they go\, steered by whatever the audience thr
@@ -582,10 +572,10 @@ BEGIN:VEVENT
 SUMMARY:12 Angry Jurors
 DTSTART;TZID=America/New_York:20270128T200000
 DTEND;TZID=America/New_York:20270128T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-836@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
  dout\, and a murder verdict hinging on reasonable doubt.\n\nReginald Rose'
  s classic deliberation drama\, here in the retitled version that opens the
@@ -605,10 +595,10 @@ BEGIN:VEVENT
 SUMMARY:12 Angry Jurors
 DTSTART;TZID=America/New_York:20270129T200000
 DTEND;TZID=America/New_York:20270129T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-837@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
  dout\, and a murder verdict hinging on reasonable doubt.\n\nReginald Rose'
  s classic deliberation drama\, here in the retitled version that opens the
@@ -628,10 +618,10 @@ BEGIN:VEVENT
 SUMMARY:12 Angry Jurors
 DTSTART;TZID=America/New_York:20270130T143000
 DTEND;TZID=America/New_York:20270130T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-838@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
  dout\, and a murder verdict hinging on reasonable doubt.\n\nReginald Rose'
  s classic deliberation drama\, here in the retitled version that opens the
@@ -651,10 +641,10 @@ BEGIN:VEVENT
 SUMMARY:12 Angry Jurors
 DTSTART;TZID=America/New_York:20270131T143000
 DTEND;TZID=America/New_York:20270131T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-839@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
  dout\, and a murder verdict hinging on reasonable doubt.\n\nReginald Rose'
  s classic deliberation drama\, here in the retitled version that opens the
@@ -674,10 +664,10 @@ BEGIN:VEVENT
 SUMMARY:12 Angry Jurors
 DTSTART;TZID=America/New_York:20270204T200000
 DTEND;TZID=America/New_York:20270204T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-840@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
  dout\, and a murder verdict hinging on reasonable doubt.\n\nReginald Rose'
  s classic deliberation drama\, here in the retitled version that opens the
@@ -697,10 +687,10 @@ BEGIN:VEVENT
 SUMMARY:12 Angry Jurors
 DTSTART;TZID=America/New_York:20270205T200000
 DTEND;TZID=America/New_York:20270205T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-841@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
  dout\, and a murder verdict hinging on reasonable doubt.\n\nReginald Rose'
  s classic deliberation drama\, here in the retitled version that opens the
@@ -720,10 +710,10 @@ BEGIN:VEVENT
 SUMMARY:12 Angry Jurors
 DTSTART;TZID=America/New_York:20270206T200000
 DTEND;TZID=America/New_York:20270206T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-842@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
  dout\, and a murder verdict hinging on reasonable doubt.\n\nReginald Rose'
  s classic deliberation drama\, here in the retitled version that opens the
@@ -743,10 +733,10 @@ BEGIN:VEVENT
 SUMMARY:12 Angry Jurors
 DTSTART;TZID=America/New_York:20270207T143000
 DTEND;TZID=America/New_York:20270207T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-843@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Reginald Rose's jury-room drama: eleven guilty votes\, one hol
  dout\, and a murder verdict hinging on reasonable doubt.\n\nReginald Rose'
  s classic deliberation drama\, here in the retitled version that opens the
@@ -766,10 +756,10 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: The Improv School of Witchcraft & Wizardry
 DTSTART;TZID=America/New_York:20270220T193000
 DTEND;TZID=America/New_York:20270220T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1588@atlcal.com
 SEQUENCE:0
-CATEGORIES:Improv Comedy
+CATEGORIES:Comedy
 DESCRIPTION:Wizard-school-themed improv night from the Southside Sidekicks
  \, Southside Theatre Guild's in-house comedy troupe.\n\nThe Southside Side
  kicks\, Southside Theatre Guild's in-house improv troupe\, take the wizard
@@ -787,10 +777,10 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Show: Improv Wars 3
 DTSTART;TZID=America/New_York:20270320T193000
 DTEND;TZID=America/New_York:20270320T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1596@atlcal.com
 SEQUENCE:0
-CATEGORIES:Improv Comedy
+CATEGORIES:Comedy
 DESCRIPTION:Improv comedy from the Southside Sidekicks\, the in-house trou
  pe of Southside Theatre Guild.\n\nComedy made up on the spot: scenes and c
  haracters built live from audience suggestions\, so no two shows are the s
@@ -808,10 +798,9 @@ BEGIN:VEVENT
 SUMMARY:Deadline
 DTSTART;TZID=America/New_York:20270422T200000
 DTEND;TZID=America/New_York:20270422T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-844@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
  s longest-running all-volunteer community theatre.\n\nA mainstage producti
  on from Southside Theatre Guild\, the all-volunteer community theatre that
@@ -829,10 +818,9 @@ BEGIN:VEVENT
 SUMMARY:Deadline
 DTSTART;TZID=America/New_York:20270423T200000
 DTEND;TZID=America/New_York:20270423T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-845@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
  s longest-running all-volunteer community theatre.\n\nA mainstage producti
  on from Southside Theatre Guild\, the all-volunteer community theatre that
@@ -850,10 +838,9 @@ BEGIN:VEVENT
 SUMMARY:Deadline
 DTSTART;TZID=America/New_York:20270424T143000
 DTEND;TZID=America/New_York:20270424T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-846@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
  s longest-running all-volunteer community theatre.\n\nA mainstage producti
  on from Southside Theatre Guild\, the all-volunteer community theatre that
@@ -871,10 +858,9 @@ BEGIN:VEVENT
 SUMMARY:Deadline
 DTSTART;TZID=America/New_York:20270425T143000
 DTEND;TZID=America/New_York:20270425T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-847@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
  s longest-running all-volunteer community theatre.\n\nA mainstage producti
  on from Southside Theatre Guild\, the all-volunteer community theatre that
@@ -892,10 +878,9 @@ BEGIN:VEVENT
 SUMMARY:Deadline
 DTSTART;TZID=America/New_York:20270429T200000
 DTEND;TZID=America/New_York:20270429T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-848@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
  s longest-running all-volunteer community theatre.\n\nA mainstage producti
  on from Southside Theatre Guild\, the all-volunteer community theatre that
@@ -913,10 +898,9 @@ BEGIN:VEVENT
 SUMMARY:Deadline
 DTSTART;TZID=America/New_York:20270430T200000
 DTEND;TZID=America/New_York:20270430T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-849@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
  s longest-running all-volunteer community theatre.\n\nA mainstage producti
  on from Southside Theatre Guild\, the all-volunteer community theatre that
@@ -934,10 +918,9 @@ BEGIN:VEVENT
 SUMMARY:Deadline
 DTSTART;TZID=America/New_York:20270501T200000
 DTEND;TZID=America/New_York:20270501T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-850@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
  s longest-running all-volunteer community theatre.\n\nA mainstage producti
  on from Southside Theatre Guild\, the all-volunteer community theatre that
@@ -955,10 +938,9 @@ BEGIN:VEVENT
 SUMMARY:Deadline
 DTSTART;TZID=America/New_York:20270502T143000
 DTEND;TZID=America/New_York:20270502T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-851@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:A mainstage play from Southside Theatre Guild\, metro Atlanta'
  s longest-running all-volunteer community theatre.\n\nA mainstage producti
  on from Southside Theatre Guild\, the all-volunteer community theatre that
@@ -976,10 +958,10 @@ BEGIN:VEVENT
 SUMMARY:Sidekicks Time Machine - An Improvised Musical
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1597@atlcal.com
 SEQUENCE:0
-CATEGORIES:Improv Comedy
+CATEGORIES:Comedy
 DESCRIPTION:A fully improvised musical from Southside Sidekicks — songs\
  , scenes\, and story invented on the spot.\n\nA musical made up in front o
  f you: the Southside Sidekicks\, Southside Theatre Guild's in-house improv
@@ -998,10 +980,10 @@ BEGIN:VEVENT
 SUMMARY:Stand Up for Improv - Improvised Stand-Up Show
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1598@atlcal.com
 SEQUENCE:0
-CATEGORIES:Improv Comedy
+CATEGORIES:Comedy
 DESCRIPTION:Stand-up with no prepared material: comics improvise their set
  s live from audience suggestions.\n\nA mash-up of two comedy forms: the pe
  rformers take the stand-up mic\, but every joke is invented on the spot\, 
@@ -1019,10 +1001,10 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270722T200000
 DTEND;TZID=America/New_York:20270722T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-852@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ces her way onto TV and into the civil rights fight.\n\nBaltimore\, 1962: 
  Tracy Turnblad\, big of hair and bigger of heart\, wins a spot on a local 
@@ -1042,10 +1024,10 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270723T200000
 DTEND;TZID=America/New_York:20270723T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-853@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ces her way onto TV and into the civil rights fight.\n\nBaltimore\, 1962: 
  Tracy Turnblad\, big of hair and bigger of heart\, wins a spot on a local 
@@ -1065,10 +1047,10 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270724T143000
 DTEND;TZID=America/New_York:20270724T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-854@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ces her way onto TV and into the civil rights fight.\n\nBaltimore\, 1962: 
  Tracy Turnblad\, big of hair and bigger of heart\, wins a spot on a local 
@@ -1088,10 +1070,10 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270725T143000
 DTEND;TZID=America/New_York:20270725T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-855@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ces her way onto TV and into the civil rights fight.\n\nBaltimore\, 1962: 
  Tracy Turnblad\, big of hair and bigger of heart\, wins a spot on a local 
@@ -1111,10 +1093,10 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270729T200000
 DTEND;TZID=America/New_York:20270729T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-856@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ces her way onto TV and into the civil rights fight.\n\nBaltimore\, 1962: 
  Tracy Turnblad\, big of hair and bigger of heart\, wins a spot on a local 
@@ -1134,10 +1116,10 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270730T200000
 DTEND;TZID=America/New_York:20270730T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-857@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ces her way onto TV and into the civil rights fight.\n\nBaltimore\, 1962: 
  Tracy Turnblad\, big of hair and bigger of heart\, wins a spot on a local 
@@ -1157,10 +1139,10 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270731T200000
 DTEND;TZID=America/New_York:20270731T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-858@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ces her way onto TV and into the civil rights fight.\n\nBaltimore\, 1962: 
  Tracy Turnblad\, big of hair and bigger of heart\, wins a spot on a local 
@@ -1180,10 +1162,10 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270801T143000
 DTEND;TZID=America/New_York:20270801T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-859@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ces her way onto TV and into the civil rights fight.\n\nBaltimore\, 1962: 
  Tracy Turnblad\, big of hair and bigger of heart\, wins a spot on a local 
@@ -1203,10 +1185,10 @@ BEGIN:VEVENT
 SUMMARY:The Price is Ri-FUNNY
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1599@atlcal.com
 SEQUENCE:0
-CATEGORIES:Improv Comedy
+CATEGORIES:Comedy
 DESCRIPTION:Live improv comedy — scenes and characters built on the spot
   from audience suggestions.\n\nA night of improv comedy: nothing scripted\
  , everything built in the moment from whatever the audience throws out\, s

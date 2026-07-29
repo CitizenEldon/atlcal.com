@@ -60,10 +60,10 @@ BEGIN:VEVENT
 SUMMARY:On Golden Pond
 DTSTART;TZID=America/New_York:20260828T200000
 DTEND;TZID=America/New_York:20260828T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-704@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Ernest Thompson's comedy-drama of a long marriage\, a prickly 
  father-daughter reunion\, and one Maine summer.\n\nErnest Thompson's play 
  about Ethel and Norman Thayer\, spending their 48th summer at their lake h
@@ -84,10 +84,10 @@ BEGIN:VEVENT
 SUMMARY:On Golden Pond
 DTSTART;TZID=America/New_York:20260829T150000
 DTEND;TZID=America/New_York:20260829T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-705@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Ernest Thompson's comedy-drama of a long marriage\, a prickly 
  father-daughter reunion\, and one Maine summer.\n\nErnest Thompson's play 
  about Ethel and Norman Thayer\, spending their 48th summer at their lake h
@@ -108,10 +108,10 @@ BEGIN:VEVENT
 SUMMARY:On Golden Pond
 DTSTART;TZID=America/New_York:20260829T200000
 DTEND;TZID=America/New_York:20260829T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-706@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Ernest Thompson's comedy-drama of a long marriage\, a prickly 
  father-daughter reunion\, and one Maine summer.\n\nErnest Thompson's play 
  about Ethel and Norman Thayer\, spending their 48th summer at their lake h
@@ -132,10 +132,10 @@ BEGIN:VEVENT
 SUMMARY:On Golden Pond
 DTSTART;TZID=America/New_York:20260830T150000
 DTEND;TZID=America/New_York:20260830T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-707@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Ernest Thompson's comedy-drama of a long marriage\, a prickly 
  father-daughter reunion\, and one Maine summer.\n\nErnest Thompson's play 
  about Ethel and Norman Thayer\, spending their 48th summer at their lake h
@@ -156,10 +156,10 @@ BEGIN:VEVENT
 SUMMARY:On Golden Pond
 DTSTART;TZID=America/New_York:20260904T200000
 DTEND;TZID=America/New_York:20260904T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-708@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Ernest Thompson's comedy-drama of a long marriage\, a prickly 
  father-daughter reunion\, and one Maine summer.\n\nErnest Thompson's play 
  about Ethel and Norman Thayer\, spending their 48th summer at their lake h
@@ -180,10 +180,10 @@ BEGIN:VEVENT
 SUMMARY:On Golden Pond
 DTSTART;TZID=America/New_York:20260905T150000
 DTEND;TZID=America/New_York:20260905T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-709@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Ernest Thompson's comedy-drama of a long marriage\, a prickly 
  father-daughter reunion\, and one Maine summer.\n\nErnest Thompson's play 
  about Ethel and Norman Thayer\, spending their 48th summer at their lake h
@@ -204,10 +204,10 @@ BEGIN:VEVENT
 SUMMARY:On Golden Pond
 DTSTART;TZID=America/New_York:20260905T200000
 DTEND;TZID=America/New_York:20260905T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-710@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Ernest Thompson's comedy-drama of a long marriage\, a prickly 
  father-daughter reunion\, and one Maine summer.\n\nErnest Thompson's play 
  about Ethel and Norman Thayer\, spending their 48th summer at their lake h
@@ -228,10 +228,10 @@ BEGIN:VEVENT
 SUMMARY:On Golden Pond
 DTSTART;TZID=America/New_York:20260906T150000
 DTEND;TZID=America/New_York:20260906T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-711@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Ernest Thompson's comedy-drama of a long marriage\, a prickly 
  father-daughter reunion\, and one Maine summer.\n\nErnest Thompson's play 
  about Ethel and Norman Thayer\, spending their 48th summer at their lake h
@@ -252,10 +252,10 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261106T200000
 DTEND;TZID=America/New_York:20261106T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-712@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:The 1947 Christmas classic on stage: a department-store Santa 
  who insists he is the real thing.\n\nA stage adaptation of the 1947 holida
  y classic. When the Macy's Thanksgiving Parade Santa shows up drunk\, a wh
@@ -276,10 +276,10 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261107T150000
 DTEND;TZID=America/New_York:20261107T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-713@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:The 1947 Christmas classic on stage: a department-store Santa 
  who insists he is the real thing.\n\nA stage adaptation of the 1947 holida
  y classic. When the Macy's Thanksgiving Parade Santa shows up drunk\, a wh
@@ -300,10 +300,10 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261107T200000
 DTEND;TZID=America/New_York:20261107T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-714@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:The 1947 Christmas classic on stage: a department-store Santa 
  who insists he is the real thing.\n\nA stage adaptation of the 1947 holida
  y classic. When the Macy's Thanksgiving Parade Santa shows up drunk\, a wh
@@ -324,10 +324,10 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261108T150000
 DTEND;TZID=America/New_York:20261108T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-715@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:The 1947 Christmas classic on stage: a department-store Santa 
  who insists he is the real thing.\n\nA stage adaptation of the 1947 holida
  y classic. When the Macy's Thanksgiving Parade Santa shows up drunk\, a wh
@@ -348,10 +348,10 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261113T200000
 DTEND;TZID=America/New_York:20261113T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-716@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:The 1947 Christmas classic on stage: a department-store Santa 
  who insists he is the real thing.\n\nA stage adaptation of the 1947 holida
  y classic. When the Macy's Thanksgiving Parade Santa shows up drunk\, a wh
@@ -372,10 +372,10 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261114T150000
 DTEND;TZID=America/New_York:20261114T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-717@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:The 1947 Christmas classic on stage: a department-store Santa 
  who insists he is the real thing.\n\nA stage adaptation of the 1947 holida
  y classic. When the Macy's Thanksgiving Parade Santa shows up drunk\, a wh
@@ -396,10 +396,10 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261114T200000
 DTEND;TZID=America/New_York:20261114T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-718@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:The 1947 Christmas classic on stage: a department-store Santa 
  who insists he is the real thing.\n\nA stage adaptation of the 1947 holida
  y classic. When the Macy's Thanksgiving Parade Santa shows up drunk\, a wh
@@ -420,10 +420,10 @@ BEGIN:VEVENT
 SUMMARY:Miracle on 34th Street
 DTSTART;TZID=America/New_York:20261115T150000
 DTEND;TZID=America/New_York:20261115T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-719@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:The 1947 Christmas classic on stage: a department-store Santa 
  who insists he is the real thing.\n\nA stage adaptation of the 1947 holida
  y classic. When the Macy's Thanksgiving Parade Santa shows up drunk\, a wh
@@ -444,10 +444,10 @@ BEGIN:VEVENT
 SUMMARY:Little Women
 DTSTART;TZID=America/New_York:20270205T200000
 DTEND;TZID=America/New_York:20270205T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-720@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Alcott's four March sisters grow up\, in Thomas Hischak's stag
  e adaptation from Players Guild at Sugar Hill.\n\nLouisa May Alcott's nove
  l of the four March sisters — headstrong Jo\, practical Meg\, gentle Bet
@@ -465,10 +465,10 @@ BEGIN:VEVENT
 SUMMARY:Little Women
 DTSTART;TZID=America/New_York:20270206T150000
 DTEND;TZID=America/New_York:20270206T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-721@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Alcott's four March sisters grow up\, in Thomas Hischak's stag
  e adaptation from Players Guild at Sugar Hill.\n\nLouisa May Alcott's nove
  l of the four March sisters — headstrong Jo\, practical Meg\, gentle Bet
@@ -486,10 +486,10 @@ BEGIN:VEVENT
 SUMMARY:Little Women
 DTSTART;TZID=America/New_York:20270206T200000
 DTEND;TZID=America/New_York:20270206T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-722@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Alcott's four March sisters grow up\, in Thomas Hischak's stag
  e adaptation from Players Guild at Sugar Hill.\n\nLouisa May Alcott's nove
  l of the four March sisters — headstrong Jo\, practical Meg\, gentle Bet
@@ -507,10 +507,10 @@ BEGIN:VEVENT
 SUMMARY:Little Women
 DTSTART;TZID=America/New_York:20270207T150000
 DTEND;TZID=America/New_York:20270207T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-723@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Alcott's four March sisters grow up\, in Thomas Hischak's stag
  e adaptation from Players Guild at Sugar Hill.\n\nLouisa May Alcott's nove
  l of the four March sisters — headstrong Jo\, practical Meg\, gentle Bet
@@ -528,10 +528,10 @@ BEGIN:VEVENT
 SUMMARY:Little Women
 DTSTART;TZID=America/New_York:20270212T200000
 DTEND;TZID=America/New_York:20270212T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-724@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Alcott's four March sisters grow up\, in Thomas Hischak's stag
  e adaptation from Players Guild at Sugar Hill.\n\nLouisa May Alcott's nove
  l of the four March sisters — headstrong Jo\, practical Meg\, gentle Bet
@@ -549,10 +549,10 @@ BEGIN:VEVENT
 SUMMARY:Little Women
 DTSTART;TZID=America/New_York:20270213T150000
 DTEND;TZID=America/New_York:20270213T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-725@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Alcott's four March sisters grow up\, in Thomas Hischak's stag
  e adaptation from Players Guild at Sugar Hill.\n\nLouisa May Alcott's nove
  l of the four March sisters — headstrong Jo\, practical Meg\, gentle Bet
@@ -570,10 +570,10 @@ BEGIN:VEVENT
 SUMMARY:Little Women
 DTSTART;TZID=America/New_York:20270213T200000
 DTEND;TZID=America/New_York:20270213T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-726@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Alcott's four March sisters grow up\, in Thomas Hischak's stag
  e adaptation from Players Guild at Sugar Hill.\n\nLouisa May Alcott's nove
  l of the four March sisters — headstrong Jo\, practical Meg\, gentle Bet
@@ -591,10 +591,10 @@ BEGIN:VEVENT
 SUMMARY:Little Women
 DTSTART;TZID=America/New_York:20270214T150000
 DTEND;TZID=America/New_York:20270214T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-727@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Alcott's four March sisters grow up\, in Thomas Hischak's stag
  e adaptation from Players Guild at Sugar Hill.\n\nLouisa May Alcott's nove
  l of the four March sisters — headstrong Jo\, practical Meg\, gentle Bet
@@ -612,10 +612,10 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Mattress
 DTSTART;TZID=America/New_York:20270416T200000
 DTEND;TZID=America/New_York:20270416T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-728@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Mary Rodgers's 1959 musical spoof of The Princess and the Pea\
  , from Players Guild at Sugar Hill.\n\nThe 1959 musical comedy that gave C
  arol Burnett her Broadway debut\, with music by Mary Rodgers and lyrics by
@@ -635,10 +635,10 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Mattress
 DTSTART;TZID=America/New_York:20270417T150000
 DTEND;TZID=America/New_York:20270417T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-729@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Mary Rodgers's 1959 musical spoof of The Princess and the Pea\
  , from Players Guild at Sugar Hill.\n\nThe 1959 musical comedy that gave C
  arol Burnett her Broadway debut\, with music by Mary Rodgers and lyrics by
@@ -658,10 +658,10 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Mattress
 DTSTART;TZID=America/New_York:20270417T200000
 DTEND;TZID=America/New_York:20270417T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-730@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Mary Rodgers's 1959 musical spoof of The Princess and the Pea\
  , from Players Guild at Sugar Hill.\n\nThe 1959 musical comedy that gave C
  arol Burnett her Broadway debut\, with music by Mary Rodgers and lyrics by
@@ -681,10 +681,10 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Mattress
 DTSTART;TZID=America/New_York:20270418T150000
 DTEND;TZID=America/New_York:20270418T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-731@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Mary Rodgers's 1959 musical spoof of The Princess and the Pea\
  , from Players Guild at Sugar Hill.\n\nThe 1959 musical comedy that gave C
  arol Burnett her Broadway debut\, with music by Mary Rodgers and lyrics by
@@ -704,10 +704,10 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Mattress
 DTSTART;TZID=America/New_York:20270423T200000
 DTEND;TZID=America/New_York:20270423T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-732@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Mary Rodgers's 1959 musical spoof of The Princess and the Pea\
  , from Players Guild at Sugar Hill.\n\nThe 1959 musical comedy that gave C
  arol Burnett her Broadway debut\, with music by Mary Rodgers and lyrics by
@@ -727,10 +727,10 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Mattress
 DTSTART;TZID=America/New_York:20270424T150000
 DTEND;TZID=America/New_York:20270424T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-733@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Mary Rodgers's 1959 musical spoof of The Princess and the Pea\
  , from Players Guild at Sugar Hill.\n\nThe 1959 musical comedy that gave C
  arol Burnett her Broadway debut\, with music by Mary Rodgers and lyrics by
@@ -750,10 +750,10 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Mattress
 DTSTART;TZID=America/New_York:20270424T200000
 DTEND;TZID=America/New_York:20270424T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-734@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Mary Rodgers's 1959 musical spoof of The Princess and the Pea\
  , from Players Guild at Sugar Hill.\n\nThe 1959 musical comedy that gave C
  arol Burnett her Broadway debut\, with music by Mary Rodgers and lyrics by
@@ -773,10 +773,10 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Mattress
 DTSTART;TZID=America/New_York:20270425T150000
 DTEND;TZID=America/New_York:20270425T173000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-735@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Mary Rodgers's 1959 musical spoof of The Princess and the Pea\
  , from Players Guild at Sugar Hill.\n\nThe 1959 musical comedy that gave C
  arol Burnett her Broadway debut\, with music by Mary Rodgers and lyrics by

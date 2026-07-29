@@ -61,10 +61,10 @@ BEGIN:VEVENT
 SUMMARY:Sandy Springs Farmers Market
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-2017@atlcal.com
 SEQUENCE:0
-CATEGORIES:Market or Fair
+CATEGORIES:Markets & Fairs
 DESCRIPTION:The Sandy Springs Farmers Market is bringing extra fun to the 
  season with a special Dog Days of Summer celebration! Don’t miss a speci
  al appearance by the iconic Oscar Mayer Wienermobile—a perfect photo opp
@@ -79,10 +79,10 @@ BEGIN:VEVENT
 SUMMARY:Sandy Springs Farmers Market
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-2018@atlcal.com
 SEQUENCE:0
-CATEGORIES:Market or Fair
+CATEGORIES:Markets & Fairs
 DESCRIPTION:The Sandy Springs Farmers Market is a vibrant outdoor market a
  t City Springs. It brings together local farmers\, artisans\, and small bu
  sinesses offering fresh produce\, baked goods\, specialty foods\, handcraf
@@ -97,10 +97,10 @@ BEGIN:VEVENT
 SUMMARY:Sandy Springs Farmers Market
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-2019@atlcal.com
 SEQUENCE:0
-CATEGORIES:Market or Fair
+CATEGORIES:Markets & Fairs
 DESCRIPTION:The Sandy Springs Farmers Market is a vibrant outdoor market a
  t City Springs. It brings together local farmers\, artisans\, and small bu
  sinesses offering fresh produce\, baked goods\, specialty foods\, handcraf
@@ -115,10 +115,10 @@ BEGIN:VEVENT
 SUMMARY:Sandy Springs Farmers Market
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-2020@atlcal.com
 SEQUENCE:0
-CATEGORIES:Market or Fair
+CATEGORIES:Markets & Fairs
 DESCRIPTION:The Sandy Springs Farmers Market is a vibrant outdoor market a
  t City Springs. It brings together local farmers\, artisans\, and small bu
  sinesses offering fresh produce\, baked goods\, specialty foods\, handcraf
@@ -133,10 +133,10 @@ BEGIN:VEVENT
 SUMMARY:Sandy Springs Farmers Market
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-2021@atlcal.com
 SEQUENCE:0
-CATEGORIES:Market or Fair
+CATEGORIES:Markets & Fairs
 DESCRIPTION:The Sandy Springs Farmers Market is a vibrant outdoor market a
  t City Springs. It brings together local farmers\, artisans\, and small bu
  sinesses offering fresh produce\, baked goods\, specialty foods\, handcraf
@@ -150,11 +150,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sandy Springs Farmers Market
 DTSTART;TZID=America/New_York:20260905T000000
-DTEND;TZID=America/New_York:20260905T040000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-2661@atlcal.com
 SEQUENCE:0
-CATEGORIES:Market or Fair
+CATEGORIES:Markets & Fairs
 DESCRIPTION:The Sandy Springs Farmers Market is a vibrant outdoor market a
  t City Springs. It brings together local farmers\, artisans\, and small bu
  sinesses offering fresh produce\, baked goods\, specialty foods\, handcraf

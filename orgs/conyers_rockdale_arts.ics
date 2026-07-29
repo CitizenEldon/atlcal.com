@@ -60,10 +60,10 @@ BEGIN:VEVENT
 SUMMARY:Cadillac Crew
 DTSTART;TZID=America/New_York:20261023T193000
 DTEND;TZID=America/New_York:20261023T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-468@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Tori Sampson's drama: four activists in a Virginia civil right
  s office ask whether the movement's equality includes women.\n\nTori Samps
  on's play unfolds in a Virginia civil rights office on the day of a much-a
@@ -83,10 +83,10 @@ BEGIN:VEVENT
 SUMMARY:Cadillac Crew
 DTSTART;TZID=America/New_York:20261024T150000
 DTEND;TZID=America/New_York:20261024T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-469@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Tori Sampson's drama: four activists in a Virginia civil right
  s office ask whether the movement's equality includes women.\n\nTori Samps
  on's play unfolds in a Virginia civil rights office on the day of a much-a
@@ -106,10 +106,10 @@ BEGIN:VEVENT
 SUMMARY:Cadillac Crew
 DTSTART;TZID=America/New_York:20261025T150000
 DTEND;TZID=America/New_York:20261025T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-470@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Tori Sampson's drama: four activists in a Virginia civil right
  s office ask whether the movement's equality includes women.\n\nTori Samps
  on's play unfolds in a Virginia civil rights office on the day of a much-a
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:The Last Gift
 DTSTART;TZID=America/New_York:20261120T183000
 DTEND;TZID=America/New_York:20261120T203000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1690@atlcal.com
 SEQUENCE:1
 CATEGORIES:Play
@@ -151,10 +151,9 @@ BEGIN:VEVENT
 SUMMARY:The Last Gift
 DTSTART;TZID=America/New_York:20261120T193000
 DTEND;TZID=America/New_York:20261120T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-471@atlcal.com
 SEQUENCE:2
-CATEGORIES:Play
 DESCRIPTION:World-premiere Christmas play about a crotchety nursing-home r
  esident and the young child who wins him over.\n\nA new play set in a nurs
  ing home around the Christmas holidays\, where a young child works on the 
@@ -173,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:The Last Gift
 DTSTART;TZID=America/New_York:20261121T140000
 DTEND;TZID=America/New_York:20261121T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1691@atlcal.com
 SEQUENCE:1
 CATEGORIES:Play
@@ -195,10 +194,9 @@ BEGIN:VEVENT
 SUMMARY:The Last Gift
 DTSTART;TZID=America/New_York:20261121T150000
 DTEND;TZID=America/New_York:20261121T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-472@atlcal.com
 SEQUENCE:2
-CATEGORIES:Play
 DESCRIPTION:World-premiere Christmas play about a crotchety nursing-home r
  esident and the young child who wins him over.\n\nA new play set in a nurs
  ing home around the Christmas holidays\, where a young child works on the 
@@ -217,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:The Last Gift
 DTSTART;TZID=America/New_York:20261122T140000
 DTEND;TZID=America/New_York:20261122T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1692@atlcal.com
 SEQUENCE:1
 CATEGORIES:Play
@@ -239,10 +237,9 @@ BEGIN:VEVENT
 SUMMARY:The Last Gift
 DTSTART;TZID=America/New_York:20261122T150000
 DTEND;TZID=America/New_York:20261122T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-473@atlcal.com
 SEQUENCE:2
-CATEGORIES:Play
 DESCRIPTION:World-premiere Christmas play about a crotchety nursing-home r
  esident and the young child who wins him over.\n\nA new play set in a nurs
  ing home around the Christmas holidays\, where a young child works on the 
@@ -261,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:At All Cost
 DTSTART;TZID=America/New_York:20261128T130000
 DTEND;TZID=America/New_York:20261128T150000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1693@atlcal.com
 SEQUENCE:1
 CATEGORIES:Play
@@ -283,10 +280,9 @@ BEGIN:VEVENT
 SUMMARY:At All Cost
 DTSTART;TZID=America/New_York:20261128T140000
 DTEND;TZID=America/New_York:20261128T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1768@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
 DESCRIPTION:A drama about Black WWII veterans denied their promised GI Bil
  l benefits\, presented by Conyers Rockdale Council for the Arts.\n\nA dram
  a following a Black soldier home from World War II\, where the GI Bill's p

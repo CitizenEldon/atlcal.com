@@ -59,11 +59,10 @@ END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260807T193000
-DTEND;TZID=America/New_York:20260807T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1134@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  , a common sailor\, and a shipload of class satire.\n\nGilbert and Sulliva
  n's first international hit\, from 1878. Aboard a Royal Navy warship\, the
@@ -84,11 +83,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260808T193000
-DTEND;TZID=America/New_York:20260808T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1137@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  , a common sailor\, and a shipload of class satire.\n\nGilbert and Sulliva
  n's first international hit\, from 1878. Aboard a Royal Navy warship\, the
@@ -109,11 +107,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260809T143000
-DTEND;TZID=America/New_York:20260809T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1139@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  , a common sailor\, and a shipload of class satire.\n\nGilbert and Sulliva
  n's first international hit\, from 1878. Aboard a Royal Navy warship\, the
@@ -134,11 +131,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260814T193000
-DTEND;TZID=America/New_York:20260814T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1138@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  , a common sailor\, and a shipload of class satire.\n\nGilbert and Sulliva
  n's first international hit\, from 1878. Aboard a Royal Navy warship\, the
@@ -159,11 +155,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260815T193000
-DTEND;TZID=America/New_York:20260815T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1135@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  , a common sailor\, and a shipload of class satire.\n\nGilbert and Sulliva
  n's first international hit\, from 1878. Aboard a Royal Navy warship\, the
@@ -184,11 +179,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260816T143000
-DTEND;TZID=America/New_York:20260816T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1136@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  , a common sailor\, and a shipload of class satire.\n\nGilbert and Sulliva
  n's first international hit\, from 1878. Aboard a Royal Navy warship\, the

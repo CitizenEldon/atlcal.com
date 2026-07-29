@@ -60,10 +60,10 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260911T193000
 DTEND;TZID=America/New_York:20260911T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1251@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  g fulfillment\, love\, and the occasional cab.\n\nAdam Gwon's sung-through
   chamber musical follows four New Yorkers — Claire\, Jason\, Warren\, an
@@ -82,10 +82,10 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260912T193000
 DTEND;TZID=America/New_York:20260912T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1252@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  g fulfillment\, love\, and the occasional cab.\n\nAdam Gwon's sung-through
   chamber musical follows four New Yorkers — Claire\, Jason\, Warren\, an
@@ -104,10 +104,10 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260913T140000
 DTEND;TZID=America/New_York:20260913T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1253@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  g fulfillment\, love\, and the occasional cab.\n\nAdam Gwon's sung-through
   chamber musical follows four New Yorkers — Claire\, Jason\, Warren\, an
@@ -126,10 +126,10 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260918T193000
 DTEND;TZID=America/New_York:20260918T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1254@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  g fulfillment\, love\, and the occasional cab.\n\nAdam Gwon's sung-through
   chamber musical follows four New Yorkers — Claire\, Jason\, Warren\, an
@@ -148,10 +148,10 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260919T193000
 DTEND;TZID=America/New_York:20260919T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1255@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  g fulfillment\, love\, and the occasional cab.\n\nAdam Gwon's sung-through
   chamber musical follows four New Yorkers — Claire\, Jason\, Warren\, an
@@ -170,10 +170,10 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260920T140000
 DTEND;TZID=America/New_York:20260920T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1256@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  g fulfillment\, love\, and the occasional cab.\n\nAdam Gwon's sung-through
   chamber musical follows four New Yorkers — Claire\, Jason\, Warren\, an
@@ -192,10 +192,10 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260925T193000
 DTEND;TZID=America/New_York:20260925T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1257@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  g fulfillment\, love\, and the occasional cab.\n\nAdam Gwon's sung-through
   chamber musical follows four New Yorkers — Claire\, Jason\, Warren\, an
@@ -214,10 +214,10 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260926T193000
 DTEND;TZID=America/New_York:20260926T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1258@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  g fulfillment\, love\, and the occasional cab.\n\nAdam Gwon's sung-through
   chamber musical follows four New Yorkers — Claire\, Jason\, Warren\, an
@@ -236,10 +236,10 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260927T140000
 DTEND;TZID=America/New_York:20260927T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1259@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  g fulfillment\, love\, and the occasional cab.\n\nAdam Gwon's sung-through
   chamber musical follows four New Yorkers — Claire\, Jason\, Warren\, an
@@ -258,10 +258,10 @@ BEGIN:VEVENT
 SUMMARY:Vanya and Sonia and Masha and Spike
 DTSTART;TZID=America/New_York:20261023T193000
 DTEND;TZID=America/New_York:20261023T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1260@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Christopher Durang's Chekhov-riffing comedy: a movie-star sist
  er\, her young boyfriend\, and a family farmhouse up for sale.\n\nChristop
  her Durang's comedy borrows its names and its moods from Chekhov\, then le
@@ -282,10 +282,10 @@ BEGIN:VEVENT
 SUMMARY:Vanya and Sonia and Masha and Spike
 DTSTART;TZID=America/New_York:20261024T193000
 DTEND;TZID=America/New_York:20261024T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1261@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Christopher Durang's Chekhov-riffing comedy: a movie-star sist
  er\, her young boyfriend\, and a family farmhouse up for sale.\n\nChristop
  her Durang's comedy borrows its names and its moods from Chekhov\, then le
@@ -306,10 +306,10 @@ BEGIN:VEVENT
 SUMMARY:Vanya and Sonia and Masha and Spike
 DTSTART;TZID=America/New_York:20261025T140000
 DTEND;TZID=America/New_York:20261025T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1262@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Christopher Durang's Chekhov-riffing comedy: a movie-star sist
  er\, her young boyfriend\, and a family farmhouse up for sale.\n\nChristop
  her Durang's comedy borrows its names and its moods from Chekhov\, then le
@@ -330,10 +330,10 @@ BEGIN:VEVENT
 SUMMARY:Vanya and Sonia and Masha and Spike
 DTSTART;TZID=America/New_York:20261030T193000
 DTEND;TZID=America/New_York:20261030T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1263@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Christopher Durang's Chekhov-riffing comedy: a movie-star sist
  er\, her young boyfriend\, and a family farmhouse up for sale.\n\nChristop
  her Durang's comedy borrows its names and its moods from Chekhov\, then le
@@ -354,10 +354,10 @@ BEGIN:VEVENT
 SUMMARY:Vanya and Sonia and Masha and Spike
 DTSTART;TZID=America/New_York:20261031T193000
 DTEND;TZID=America/New_York:20261031T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1264@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Christopher Durang's Chekhov-riffing comedy: a movie-star sist
  er\, her young boyfriend\, and a family farmhouse up for sale.\n\nChristop
  her Durang's comedy borrows its names and its moods from Chekhov\, then le
@@ -378,10 +378,10 @@ BEGIN:VEVENT
 SUMMARY:Vanya and Sonia and Masha and Spike
 DTSTART;TZID=America/New_York:20261101T140000
 DTEND;TZID=America/New_York:20261101T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1265@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Christopher Durang's Chekhov-riffing comedy: a movie-star sist
  er\, her young boyfriend\, and a family farmhouse up for sale.\n\nChristop
  her Durang's comedy borrows its names and its moods from Chekhov\, then le
@@ -402,10 +402,10 @@ BEGIN:VEVENT
 SUMMARY:Vanya and Sonia and Masha and Spike
 DTSTART;TZID=America/New_York:20261106T193000
 DTEND;TZID=America/New_York:20261106T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1266@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Christopher Durang's Chekhov-riffing comedy: a movie-star sist
  er\, her young boyfriend\, and a family farmhouse up for sale.\n\nChristop
  her Durang's comedy borrows its names and its moods from Chekhov\, then le
@@ -426,10 +426,10 @@ BEGIN:VEVENT
 SUMMARY:Vanya and Sonia and Masha and Spike
 DTSTART;TZID=America/New_York:20261107T193000
 DTEND;TZID=America/New_York:20261107T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1267@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Christopher Durang's Chekhov-riffing comedy: a movie-star sist
  er\, her young boyfriend\, and a family farmhouse up for sale.\n\nChristop
  her Durang's comedy borrows its names and its moods from Chekhov\, then le
@@ -450,10 +450,10 @@ BEGIN:VEVENT
 SUMMARY:Vanya and Sonia and Masha and Spike
 DTSTART;TZID=America/New_York:20261108T140000
 DTEND;TZID=America/New_York:20261108T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1268@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Christopher Durang's Chekhov-riffing comedy: a movie-star sist
  er\, her young boyfriend\, and a family farmhouse up for sale.\n\nChristop
  her Durang's comedy borrows its names and its moods from Chekhov\, then le
@@ -474,10 +474,10 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261204T193000
 DTEND;TZID=America/New_York:20261204T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1269@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  aul musical of the 1983 holiday film.\n\nThe 1983 movie that runs on a loo
  p every December\, turned Broadway musical with songs by Benj Pasek and Ju
@@ -498,10 +498,10 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261205T193000
 DTEND;TZID=America/New_York:20261205T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1270@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  aul musical of the 1983 holiday film.\n\nThe 1983 movie that runs on a loo
  p every December\, turned Broadway musical with songs by Benj Pasek and Ju
@@ -522,10 +522,10 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261206T140000
 DTEND;TZID=America/New_York:20261206T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1271@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  aul musical of the 1983 holiday film.\n\nThe 1983 movie that runs on a loo
  p every December\, turned Broadway musical with songs by Benj Pasek and Ju
@@ -546,10 +546,10 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261211T193000
 DTEND;TZID=America/New_York:20261211T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1272@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  aul musical of the 1983 holiday film.\n\nThe 1983 movie that runs on a loo
  p every December\, turned Broadway musical with songs by Benj Pasek and Ju
@@ -570,10 +570,10 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261212T193000
 DTEND;TZID=America/New_York:20261212T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1273@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  aul musical of the 1983 holiday film.\n\nThe 1983 movie that runs on a loo
  p every December\, turned Broadway musical with songs by Benj Pasek and Ju
@@ -594,10 +594,10 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261213T140000
 DTEND;TZID=America/New_York:20261213T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1274@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  aul musical of the 1983 holiday film.\n\nThe 1983 movie that runs on a loo
  p every December\, turned Broadway musical with songs by Benj Pasek and Ju
@@ -618,10 +618,10 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261218T193000
 DTEND;TZID=America/New_York:20261218T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1275@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  aul musical of the 1983 holiday film.\n\nThe 1983 movie that runs on a loo
  p every December\, turned Broadway musical with songs by Benj Pasek and Ju
@@ -642,10 +642,10 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261219T193000
 DTEND;TZID=America/New_York:20261219T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1276@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  aul musical of the 1983 holiday film.\n\nThe 1983 movie that runs on a loo
  p every December\, turned Broadway musical with songs by Benj Pasek and Ju
@@ -666,10 +666,10 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261220T140000
 DTEND;TZID=America/New_York:20261220T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1277@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  aul musical of the 1983 holiday film.\n\nThe 1983 movie that runs on a loo
  p every December\, turned Broadway musical with songs by Benj Pasek and Ju
@@ -690,10 +690,10 @@ BEGIN:VEVENT
 SUMMARY:Pride & Prejudice
 DTSTART;TZID=America/New_York:20270115T193000
 DTEND;TZID=America/New_York:20270115T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1278@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Austen's comedy of courtship in a fast\, playful adaptation 
  — Lizzy Bennet swears off marriage\; Darcy keeps turning up.\n\nJane Aus
  ten's 1813 comedy of courtship\, here in a loose\, high-energy adaptation 
@@ -712,10 +712,10 @@ BEGIN:VEVENT
 SUMMARY:Pride & Prejudice
 DTSTART;TZID=America/New_York:20270116T193000
 DTEND;TZID=America/New_York:20270116T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1279@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Austen's comedy of courtship in a fast\, playful adaptation 
  — Lizzy Bennet swears off marriage\; Darcy keeps turning up.\n\nJane Aus
  ten's 1813 comedy of courtship\, here in a loose\, high-energy adaptation 
@@ -734,10 +734,10 @@ BEGIN:VEVENT
 SUMMARY:Pride & Prejudice
 DTSTART;TZID=America/New_York:20270117T140000
 DTEND;TZID=America/New_York:20270117T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1280@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Austen's comedy of courtship in a fast\, playful adaptation 
  — Lizzy Bennet swears off marriage\; Darcy keeps turning up.\n\nJane Aus
  ten's 1813 comedy of courtship\, here in a loose\, high-energy adaptation 
@@ -756,10 +756,10 @@ BEGIN:VEVENT
 SUMMARY:Pride & Prejudice
 DTSTART;TZID=America/New_York:20270122T193000
 DTEND;TZID=America/New_York:20270122T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1281@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Austen's comedy of courtship in a fast\, playful adaptation 
  — Lizzy Bennet swears off marriage\; Darcy keeps turning up.\n\nJane Aus
  ten's 1813 comedy of courtship\, here in a loose\, high-energy adaptation 
@@ -778,10 +778,10 @@ BEGIN:VEVENT
 SUMMARY:Pride & Prejudice
 DTSTART;TZID=America/New_York:20270123T193000
 DTEND;TZID=America/New_York:20270123T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1282@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Austen's comedy of courtship in a fast\, playful adaptation 
  — Lizzy Bennet swears off marriage\; Darcy keeps turning up.\n\nJane Aus
  ten's 1813 comedy of courtship\, here in a loose\, high-energy adaptation 
@@ -800,10 +800,10 @@ BEGIN:VEVENT
 SUMMARY:Pride & Prejudice
 DTSTART;TZID=America/New_York:20270124T140000
 DTEND;TZID=America/New_York:20270124T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1283@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Austen's comedy of courtship in a fast\, playful adaptation 
  — Lizzy Bennet swears off marriage\; Darcy keeps turning up.\n\nJane Aus
  ten's 1813 comedy of courtship\, here in a loose\, high-energy adaptation 
@@ -822,10 +822,10 @@ BEGIN:VEVENT
 SUMMARY:Pride & Prejudice
 DTSTART;TZID=America/New_York:20270129T193000
 DTEND;TZID=America/New_York:20270129T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1284@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Austen's comedy of courtship in a fast\, playful adaptation 
  — Lizzy Bennet swears off marriage\; Darcy keeps turning up.\n\nJane Aus
  ten's 1813 comedy of courtship\, here in a loose\, high-energy adaptation 
@@ -844,10 +844,10 @@ BEGIN:VEVENT
 SUMMARY:Pride & Prejudice
 DTSTART;TZID=America/New_York:20270130T193000
 DTEND;TZID=America/New_York:20270130T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1285@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Austen's comedy of courtship in a fast\, playful adaptation 
  — Lizzy Bennet swears off marriage\; Darcy keeps turning up.\n\nJane Aus
  ten's 1813 comedy of courtship\, here in a loose\, high-energy adaptation 
@@ -866,10 +866,10 @@ BEGIN:VEVENT
 SUMMARY:Pride & Prejudice
 DTSTART;TZID=America/New_York:20270131T140000
 DTEND;TZID=America/New_York:20270131T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1286@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Austen's comedy of courtship in a fast\, playful adaptation 
  — Lizzy Bennet swears off marriage\; Darcy keeps turning up.\n\nJane Aus
  ten's 1813 comedy of courtship\, here in a loose\, high-energy adaptation 
@@ -888,10 +888,10 @@ BEGIN:VEVENT
 SUMMARY:Stage Kiss
 DTSTART;TZID=America/New_York:20270219T193000
 DTEND;TZID=America/New_York:20270219T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1287@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Sarah Ruhl's comedy: two exes cast as lovers in a creaky 1930s
   melodrama\, and the kissing gets complicated.\n\nSarah Ruhl's backstage c
  omedy about two actors with a shared romantic past who land opposite each 
@@ -909,10 +909,10 @@ BEGIN:VEVENT
 SUMMARY:Stage Kiss
 DTSTART;TZID=America/New_York:20270220T193000
 DTEND;TZID=America/New_York:20270220T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1288@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Sarah Ruhl's comedy: two exes cast as lovers in a creaky 1930s
   melodrama\, and the kissing gets complicated.\n\nSarah Ruhl's backstage c
  omedy about two actors with a shared romantic past who land opposite each 
@@ -930,10 +930,10 @@ BEGIN:VEVENT
 SUMMARY:Stage Kiss
 DTSTART;TZID=America/New_York:20270221T140000
 DTEND;TZID=America/New_York:20270221T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1289@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Sarah Ruhl's comedy: two exes cast as lovers in a creaky 1930s
   melodrama\, and the kissing gets complicated.\n\nSarah Ruhl's backstage c
  omedy about two actors with a shared romantic past who land opposite each 
@@ -951,10 +951,10 @@ BEGIN:VEVENT
 SUMMARY:Stage Kiss
 DTSTART;TZID=America/New_York:20270226T193000
 DTEND;TZID=America/New_York:20270226T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1290@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Sarah Ruhl's comedy: two exes cast as lovers in a creaky 1930s
   melodrama\, and the kissing gets complicated.\n\nSarah Ruhl's backstage c
  omedy about two actors with a shared romantic past who land opposite each 
@@ -972,10 +972,10 @@ BEGIN:VEVENT
 SUMMARY:Stage Kiss
 DTSTART;TZID=America/New_York:20270227T193000
 DTEND;TZID=America/New_York:20270227T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1291@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Sarah Ruhl's comedy: two exes cast as lovers in a creaky 1930s
   melodrama\, and the kissing gets complicated.\n\nSarah Ruhl's backstage c
  omedy about two actors with a shared romantic past who land opposite each 
@@ -993,10 +993,10 @@ BEGIN:VEVENT
 SUMMARY:Stage Kiss
 DTSTART;TZID=America/New_York:20270228T140000
 DTEND;TZID=America/New_York:20270228T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1292@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Sarah Ruhl's comedy: two exes cast as lovers in a creaky 1930s
   melodrama\, and the kissing gets complicated.\n\nSarah Ruhl's backstage c
  omedy about two actors with a shared romantic past who land opposite each 
@@ -1014,10 +1014,10 @@ BEGIN:VEVENT
 SUMMARY:A Streetcar Named Desire
 DTSTART;TZID=America/New_York:20270326T193000
 DTEND;TZID=America/New_York:20270326T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1293@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Tennessee Williams' 1947 tragedy of Blanche DuBois\, her illus
  ions\, and the brother-in-law who sees through them.\n\nTennessee Williams
  ' 1947 drama\, still one of the towering American plays. After losing the 
@@ -1037,10 +1037,10 @@ BEGIN:VEVENT
 SUMMARY:A Streetcar Named Desire
 DTSTART;TZID=America/New_York:20270327T193000
 DTEND;TZID=America/New_York:20270327T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1294@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Tennessee Williams' 1947 tragedy of Blanche DuBois\, her illus
  ions\, and the brother-in-law who sees through them.\n\nTennessee Williams
  ' 1947 drama\, still one of the towering American plays. After losing the 
@@ -1060,10 +1060,10 @@ BEGIN:VEVENT
 SUMMARY:A Streetcar Named Desire
 DTSTART;TZID=America/New_York:20270402T193000
 DTEND;TZID=America/New_York:20270402T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1295@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Tennessee Williams' 1947 tragedy of Blanche DuBois\, her illus
  ions\, and the brother-in-law who sees through them.\n\nTennessee Williams
  ' 1947 drama\, still one of the towering American plays. After losing the 
@@ -1083,10 +1083,10 @@ BEGIN:VEVENT
 SUMMARY:A Streetcar Named Desire
 DTSTART;TZID=America/New_York:20270403T193000
 DTEND;TZID=America/New_York:20270403T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1296@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Tennessee Williams' 1947 tragedy of Blanche DuBois\, her illus
  ions\, and the brother-in-law who sees through them.\n\nTennessee Williams
  ' 1947 drama\, still one of the towering American plays. After losing the 
@@ -1106,10 +1106,10 @@ BEGIN:VEVENT
 SUMMARY:A Streetcar Named Desire
 DTSTART;TZID=America/New_York:20270404T140000
 DTEND;TZID=America/New_York:20270404T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1297@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Tennessee Williams' 1947 tragedy of Blanche DuBois\, her illus
  ions\, and the brother-in-law who sees through them.\n\nTennessee Williams
  ' 1947 drama\, still one of the towering American plays. After losing the 
@@ -1129,10 +1129,10 @@ BEGIN:VEVENT
 SUMMARY:A Streetcar Named Desire
 DTSTART;TZID=America/New_York:20270409T193000
 DTEND;TZID=America/New_York:20270409T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1298@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Tennessee Williams' 1947 tragedy of Blanche DuBois\, her illus
  ions\, and the brother-in-law who sees through them.\n\nTennessee Williams
  ' 1947 drama\, still one of the towering American plays. After losing the 
@@ -1152,10 +1152,10 @@ BEGIN:VEVENT
 SUMMARY:A Streetcar Named Desire
 DTSTART;TZID=America/New_York:20270410T193000
 DTEND;TZID=America/New_York:20270410T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1299@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Tennessee Williams' 1947 tragedy of Blanche DuBois\, her illus
  ions\, and the brother-in-law who sees through them.\n\nTennessee Williams
  ' 1947 drama\, still one of the towering American plays. After losing the 
@@ -1175,10 +1175,10 @@ BEGIN:VEVENT
 SUMMARY:A Streetcar Named Desire
 DTSTART;TZID=America/New_York:20270411T140000
 DTEND;TZID=America/New_York:20270411T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1300@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Tennessee Williams' 1947 tragedy of Blanche DuBois\, her illus
  ions\, and the brother-in-law who sees through them.\n\nTennessee Williams
  ' 1947 drama\, still one of the towering American plays. After losing the 
@@ -1198,10 +1198,10 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270604T193000
 DTEND;TZID=America/New_York:20270604T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1301@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  ull\, with songs by Tim Minchin.\n\nDennis Kelly and Tim Minchin's musical
   adaptation of Roald Dahl's novel about Matilda Wormwood\, a brilliant lit
@@ -1224,10 +1224,10 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270605T193000
 DTEND;TZID=America/New_York:20270605T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1302@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  ull\, with songs by Tim Minchin.\n\nDennis Kelly and Tim Minchin's musical
   adaptation of Roald Dahl's novel about Matilda Wormwood\, a brilliant lit
@@ -1250,10 +1250,10 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270606T140000
 DTEND;TZID=America/New_York:20270606T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1303@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  ull\, with songs by Tim Minchin.\n\nDennis Kelly and Tim Minchin's musical
   adaptation of Roald Dahl's novel about Matilda Wormwood\, a brilliant lit
@@ -1276,10 +1276,10 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270611T193000
 DTEND;TZID=America/New_York:20270611T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1304@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  ull\, with songs by Tim Minchin.\n\nDennis Kelly and Tim Minchin's musical
   adaptation of Roald Dahl's novel about Matilda Wormwood\, a brilliant lit
@@ -1302,10 +1302,10 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270612T193000
 DTEND;TZID=America/New_York:20270612T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1305@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  ull\, with songs by Tim Minchin.\n\nDennis Kelly and Tim Minchin's musical
   adaptation of Roald Dahl's novel about Matilda Wormwood\, a brilliant lit
@@ -1328,10 +1328,10 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270613T140000
 DTEND;TZID=America/New_York:20270613T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1306@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  ull\, with songs by Tim Minchin.\n\nDennis Kelly and Tim Minchin's musical
   adaptation of Roald Dahl's novel about Matilda Wormwood\, a brilliant lit
@@ -1354,10 +1354,10 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270618T193000
 DTEND;TZID=America/New_York:20270618T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1307@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  ull\, with songs by Tim Minchin.\n\nDennis Kelly and Tim Minchin's musical
   adaptation of Roald Dahl's novel about Matilda Wormwood\, a brilliant lit
@@ -1380,10 +1380,10 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270619T193000
 DTEND;TZID=America/New_York:20270619T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1308@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  ull\, with songs by Tim Minchin.\n\nDennis Kelly and Tim Minchin's musical
   adaptation of Roald Dahl's novel about Matilda Wormwood\, a brilliant lit
@@ -1406,10 +1406,10 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270620T140000
 DTEND;TZID=America/New_York:20270620T160000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1309@atlcal.com
 SEQUENCE:0
-CATEGORIES:Musical Theatre
+CATEGORIES:Musicals
 DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  ull\, with songs by Tim Minchin.\n\nDennis Kelly and Tim Minchin's musical
   adaptation of Roald Dahl's novel about Matilda Wormwood\, a brilliant lit

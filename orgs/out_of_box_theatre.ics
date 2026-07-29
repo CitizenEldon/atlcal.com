@@ -60,10 +60,9 @@ BEGIN:VEVENT
 SUMMARY:Comedy Class Showcase
 DTSTART;TZID=America/New_York:20260816T190000
 DTEND;TZID=America/New_York:20260816T203000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1769@atlcal.com
 SEQUENCE:0
-CATEGORIES:Stand-up Comedy
 DESCRIPTION:Graduates of Out of Box Theatre's first stand-up class perform
   the sets they built over eight weeks.\n\nThe debut of Out of Box Theatre'
  s first Stand-Up Comedy Class: after eight weeks of writing and workshoppi
@@ -81,10 +80,10 @@ BEGIN:VEVENT
 SUMMARY:Comedy at the Den
 DTSTART;TZID=America/New_York:20260821T200000
 DTEND;TZID=America/New_York:20260821T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-1185@atlcal.com
 SEQUENCE:3
-CATEGORIES:Stand-up Comedy
+CATEGORIES:Comedy
 DESCRIPTION:A stand-up showcase in a deliberately small room\, hosted by A
  tlanta comedian Jessica "It's All Good."\n\nA lineup of stand-up comics wi
  th distinct styles\, hosted by Atlanta comedian Jessica "It's All Good\," 
@@ -103,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Comedy at the Den
 DTSTART;TZID=America/New_York:20260822T190000
 DTEND;TZID=America/New_York:20260822T200000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-701@atlcal.com
 SEQUENCE:1
 CATEGORIES:Stand-up Comedy
@@ -125,10 +124,10 @@ BEGIN:VEVENT
 SUMMARY:THE PILLOWMAN
 DTSTART;TZID=America/New_York:20260925T193000
 DTEND;TZID=America/New_York:20260925T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-8456@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Martin McDonagh's pitch-black thriller: a writer interrogated 
  when child murders start mirroring his grim fairy tales.\n\nMartin McDonag
  h's 2003 play follows Katurian\, a writer of gruesome fairy tales living u
@@ -149,10 +148,10 @@ BEGIN:VEVENT
 SUMMARY:THE PILLOWMAN
 DTSTART;TZID=America/New_York:20260926T193000
 DTEND;TZID=America/New_York:20260926T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-8457@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Martin McDonagh's pitch-black thriller: a writer interrogated 
  when child murders start mirroring his grim fairy tales.\n\nMartin McDonag
  h's 2003 play follows Katurian\, a writer of gruesome fairy tales living u
@@ -173,10 +172,10 @@ BEGIN:VEVENT
 SUMMARY:THE PILLOWMAN
 DTSTART;TZID=America/New_York:20260927T143000
 DTEND;TZID=America/New_York:20260927T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-8458@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Martin McDonagh's pitch-black thriller: a writer interrogated 
  when child murders start mirroring his grim fairy tales.\n\nMartin McDonag
  h's 2003 play follows Katurian\, a writer of gruesome fairy tales living u
@@ -197,10 +196,10 @@ BEGIN:VEVENT
 SUMMARY:THE PILLOWMAN
 DTSTART;TZID=America/New_York:20261001T193000
 DTEND;TZID=America/New_York:20261001T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-8459@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Martin McDonagh's pitch-black thriller: a writer interrogated 
  when child murders start mirroring his grim fairy tales.\n\nMartin McDonag
  h's 2003 play follows Katurian\, a writer of gruesome fairy tales living u
@@ -221,10 +220,10 @@ BEGIN:VEVENT
 SUMMARY:THE PILLOWMAN
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-8460@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Martin McDonagh's pitch-black thriller: a writer interrogated 
  when child murders start mirroring his grim fairy tales.\n\nMartin McDonag
  h's 2003 play follows Katurian\, a writer of gruesome fairy tales living u
@@ -245,10 +244,10 @@ BEGIN:VEVENT
 SUMMARY:THE PILLOWMAN
 DTSTART;TZID=America/New_York:20261003T193000
 DTEND;TZID=America/New_York:20261003T200000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-8461@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Martin McDonagh's pitch-black thriller: a writer interrogated 
  when child murders start mirroring his grim fairy tales.\n\nMartin McDonag
  h's 2003 play follows Katurian\, a writer of gruesome fairy tales living u
@@ -269,10 +268,10 @@ BEGIN:VEVENT
 SUMMARY:THE PILLOWMAN
 DTSTART;TZID=America/New_York:20261004T143000
 DTEND;TZID=America/New_York:20261004T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-8462@atlcal.com
 SEQUENCE:0
-CATEGORIES:Play
+CATEGORIES:Theatre
 DESCRIPTION:Martin McDonagh's pitch-black thriller: a writer interrogated 
  when child murders start mirroring his grim fairy tales.\n\nMartin McDonag
  h's 2003 play follows Katurian\, a writer of gruesome fairy tales living u
@@ -293,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:Comedy at the Den
 DTSTART;TZID=America/New_York:20261107T190000
 DTEND;TZID=America/New_York:20261107T210000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-702@atlcal.com
 SEQUENCE:3
 CATEGORIES:Stand-up Comedy
@@ -315,10 +314,10 @@ BEGIN:VEVENT
 SUMMARY:CREATOR'S DEN CABARET
 DTSTART;TZID=America/New_York:20261121T200000
 DTEND;TZID=America/New_York:20261121T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-8463@atlcal.com
 SEQUENCE:0
-CATEGORIES:Cabaret
+CATEGORIES:Variety & Cabaret
 DESCRIPTION:A returning group of women singers with a cabaret set devoted 
  to the women and music of the 1970s.\n\nA cabaret built around the women o
  f 1970s music\, sung by a group of women making a return engagement. Prese
@@ -336,10 +335,10 @@ BEGIN:VEVENT
 SUMMARY:CREATOR'S DEN CABARET
 DTSTART;TZID=America/New_York:20270212T200000
 DTEND;TZID=America/New_York:20270212T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-8464@atlcal.com
 SEQUENCE:0
-CATEGORIES:Cabaret
+CATEGORIES:Variety & Cabaret
 DESCRIPTION:A returning group of women singers with a cabaret set devoted 
  to the women and music of the 1970s.\n\nA cabaret built around the women o
  f 1970s music\, sung by a group of women making a return engagement. Prese
@@ -357,10 +356,10 @@ BEGIN:VEVENT
 SUMMARY:CREATOR'S DEN CABARET
 DTSTART;TZID=America/New_York:20270213T200000
 DTEND;TZID=America/New_York:20270213T213000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-8465@atlcal.com
 SEQUENCE:0
-CATEGORIES:Cabaret
+CATEGORIES:Variety & Cabaret
 DESCRIPTION:A returning group of women singers with a cabaret set devoted 
  to the women and music of the 1970s.\n\nA cabaret built around the women o
  f 1970s music\, sung by a group of women making a return engagement. Prese

@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Creative Music Series: Isaac Bishop
 DTSTART;TZID=America/New_York:20260727T200000
 DTEND;TZID=America/New_York:20260727T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-3382@atlcal.com
 SEQUENCE:0
 GEO:33.7371794;-84.4050566
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:High Contrast Drawing Group
 DTSTART;TZID=America/New_York:20260728T190000
 DTEND;TZID=America/New_York:20260728T220000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-3376@atlcal.com
 SEQUENCE:0
 GEO:33.7371794;-84.4050566
@@ -95,7 +95,7 @@ SUMMARY:JANIE DANGER\, Los Gargoyles\, Khamansha Raphael\, Nightout\, Crai
  bbyy
 DTSTART;TZID=America/New_York:20260801T193000
 DTEND;TZID=America/New_York:20260801T230000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-6786@atlcal.com
 SEQUENCE:0
 GEO:33.7371794;-84.4050566
@@ -111,28 +111,11 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Creative Music: Paul Stevens plus TBA
 DTSTART;TZID=America/New_York:20260803T200000
 DTEND;TZID=America/New_York:20260803T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-3383@atlcal.com
 SEQUENCE:0
-CATEGORIES:Instrumental Concert
 GEO:33.7371794;-84.4050566
 LAST-MODIFIED:20260727T054854Z
-LOCATION:eyedrum Art and Music Gallery\, 515 Ralph David Abernathy Bouleva
- rd Southwest
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.eyedrum.org/calendar-events-performances-art-music/monday-
- night-creative-music-paul-stevens-plus-tba
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monday Night Creative Music: Paul Stevens plus Priscilla Smith
-DTSTART;TZID=America/New_York:20260803T200000
-DTEND;TZID=America/New_York:20260803T223000
-DTSTAMP:20260729T011638Z
-UID:occ-14115@atlcal.com
-SEQUENCE:0
-GEO:33.7371794;-84.4050566
-LAST-MODIFIED:20260728T204227Z
 LOCATION:eyedrum Art and Music Gallery\, 515 Ralph David Abernathy Bouleva
  rd Southwest
 STATUS:CONFIRMED
@@ -144,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:High Contrast Drawing Group
 DTSTART;TZID=America/New_York:20260804T190000
 DTEND;TZID=America/New_York:20260804T234500
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-6787@atlcal.com
 SEQUENCE:0
 GEO:33.7371794;-84.4050566
@@ -159,26 +142,10 @@ URL:https://www.eyedrum.org/calendar-events-performances-art-music/high-co
  -xt4ja-hltkx-fzfse-z38jg-33sdf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GIRLS RITUALS\, Bubblegum Octopus\, Material Girl\, Flower Puppy
-DTSTART;TZID=America/New_York:20260806T190000
-DTEND;TZID=America/New_York:20260806T223000
-DTSTAMP:20260729T011638Z
-UID:occ-6788@atlcal.com
-SEQUENCE:0
-GEO:33.7371794;-84.4050566
-LAST-MODIFIED:20260728T204227Z
-LOCATION:eyedrum Art and Music Gallery\, 515 Ralph David Abernathy Bouleva
- rd Southwest
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.eyedrum.org/calendar-events-performances-art-music/girls-r
- ituals-bubblegum-octopus-material-girl-flower-puppy
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Azula the Artist presents: How Good It Is?
 DTSTART;TZID=America/New_York:20260808T140000
 DTEND;TZID=America/New_York:20260808T170000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-6789@atlcal.com
 SEQUENCE:0
 GEO:33.7371794;-84.4050566
@@ -191,29 +158,12 @@ URL:https://www.eyedrum.org/calendar-events-performances-art-music/azula-t
  he-artist-presents-how-good-is-it
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Human Shield\, Gorge\, Playytime\, Cheerleader\, No Pulse
-DTSTART;TZID=America/New_York:20260808T190000
-DTEND;TZID=America/New_York:20260808T223000
-DTSTAMP:20260729T011638Z
-UID:occ-6790@atlcal.com
-SEQUENCE:0
-GEO:33.7371794;-84.4050566
-LAST-MODIFIED:20260728T204227Z
-LOCATION:eyedrum Art and Music Gallery\, 515 Ralph David Abernathy Bouleva
- rd Southwest
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.eyedrum.org/calendar-events-performances-art-music/human-s
- hield-gorge-playytime-cheerleader-no-pulse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Monday Night Creative Music: Emily Koh + Chris Jeffer
 DTSTART;TZID=America/New_York:20260810T200000
 DTEND;TZID=America/New_York:20260810T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-3384@atlcal.com
 SEQUENCE:0
-CATEGORIES:Instrumental Concert
 GEO:33.7371794;-84.4050566
 LAST-MODIFIED:20260728T204227Z
 LOCATION:eyedrum Art and Music Gallery\, 515 Ralph David Abernathy Bouleva
@@ -227,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:High Contrast Drawing Group
 DTSTART;TZID=America/New_York:20260811T190000
 DTEND;TZID=America/New_York:20260811T233000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-6791@atlcal.com
 SEQUENCE:0
 GEO:33.7371794;-84.4050566
@@ -242,46 +192,13 @@ URL:https://www.eyedrum.org/calendar-events-performances-art-music/high-co
  -xt4ja-hltkx-fzfse-z38jg-33sdf-4besy
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SH!TOMATO\, Peopling
-DTSTART;TZID=America/New_York:20260812T193000
-DTEND;TZID=America/New_York:20260812T223000
-DTSTAMP:20260729T011638Z
-UID:occ-6792@atlcal.com
-SEQUENCE:0
-GEO:33.7371794;-84.4050566
-LAST-MODIFIED:20260728T204227Z
-LOCATION:eyedrum Art and Music Gallery\, 515 Ralph David Abernathy Bouleva
- rd Southwest
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.eyedrum.org/calendar-events-performances-art-music/shtomat
- o-peopling
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOLD\, Rose Ceremony\, .22LR\, Nine at the Latest\, Toad Road
-DTSTART;TZID=America/New_York:20260816T190000
-DTEND;TZID=America/New_York:20260816T223000
-DTSTAMP:20260729T011638Z
-UID:occ-6793@atlcal.com
-SEQUENCE:0
-GEO:33.7371794;-84.4050566
-LAST-MODIFIED:20260728T204227Z
-LOCATION:eyedrum Art and Music Gallery\, 515 Ralph David Abernathy Bouleva
- rd Southwest
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.eyedrum.org/calendar-events-performances-art-music/mold-ro
- se-ceremony-22lr-nine-at-the-latest-toad-road
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Monday Night Creative Music: Zach Cooper with Michael Libramento p
  lus
 DTSTART;TZID=America/New_York:20260817T200000
 DTEND;TZID=America/New_York:20260817T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-3385@atlcal.com
 SEQUENCE:0
-CATEGORIES:Instrumental Concert
 GEO:33.7371794;-84.4050566
 LAST-MODIFIED:20260728T204227Z
 LOCATION:eyedrum Art and Music Gallery\, 515 Ralph David Abernathy Bouleva
@@ -295,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:High Contrast Drawing Group
 DTSTART;TZID=America/New_York:20260818T190000
 DTEND;TZID=America/New_York:20260818T233000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-6794@atlcal.com
 SEQUENCE:0
 GEO:33.7371794;-84.4050566
@@ -313,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:BLOSSOM\, Sledges\, Nocturne's Kiss\, Current Vision
 DTSTART;TZID=America/New_York:20260820T193000
 DTEND;TZID=America/New_York:20260820T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-3386@atlcal.com
 SEQUENCE:1
 GEO:33.7371794;-84.4050566
@@ -326,29 +243,13 @@ URL:https://www.eventbrite.com/e/blossom-w-sledges-tba-at-eyedrum-tickets-
  1990974237540
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLOSSOM\, Sledges\, Nocturne's Kiss\, Yes Dear
-DTSTART;TZID=America/New_York:20260820T193000
-DTEND;TZID=America/New_York:20260820T223000
-DTSTAMP:20260729T011638Z
-UID:occ-6795@atlcal.com
-SEQUENCE:0
-GEO:33.7371794;-84.4050566
-LAST-MODIFIED:20260728T204227Z
-LOCATION:eyedrum Art and Music Gallery\, 515 Ralph David Abernathy Bouleva
- rd Southwest
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.eyedrum.org/calendar-events-performances-art-music/blossom
- -sledges-nocturnes-kiss-current-vision
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JOSH FADEM w/ Chris Crofton Comedy Show at eyedrum
 DTSTART;TZID=America/New_York:20260822T200000
 DTEND;TZID=America/New_York:20260822T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-6796@atlcal.com
 SEQUENCE:0
-CATEGORIES:Stand-up Comedy
+CATEGORIES:Comedy
 GEO:33.7371794;-84.4050566
 LAST-MODIFIED:20260728T204227Z
 LOCATION:eyedrum Art and Music Gallery\, 515 Ralph David Abernathy Bouleva
@@ -362,28 +263,11 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Creative Music: Anthony Cammarota plus TBA
 DTSTART;TZID=America/New_York:20260824T200000
 DTEND;TZID=America/New_York:20260824T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-3387@atlcal.com
 SEQUENCE:0
-CATEGORIES:Instrumental Concert
 GEO:33.7371794;-84.4050566
 LAST-MODIFIED:20260727T054854Z
-LOCATION:eyedrum Art and Music Gallery\, 515 Ralph David Abernathy Bouleva
- rd Southwest
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.eyedrum.org/calendar-events-performances-art-music/monday-
- night-creative-music-anthony-cammarota-plus-tba
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monday Night Creative Music: Anthony Cammarota plus Marquinn Mason
-DTSTART;TZID=America/New_York:20260824T200000
-DTEND;TZID=America/New_York:20260824T223000
-DTSTAMP:20260729T011638Z
-UID:occ-14116@atlcal.com
-SEQUENCE:0
-GEO:33.7371794;-84.4050566
-LAST-MODIFIED:20260728T204227Z
 LOCATION:eyedrum Art and Music Gallery\, 515 Ralph David Abernathy Bouleva
  rd Southwest
 STATUS:CONFIRMED
@@ -395,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:High Contrast Drawing Group
 DTSTART;TZID=America/New_York:20260825T190000
 DTEND;TZID=America/New_York:20260825T233000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-6797@atlcal.com
 SEQUENCE:0
 GEO:33.7371794;-84.4050566
@@ -414,10 +298,9 @@ SUMMARY:Monday Night Creative Music Series: Chamber Cartel plus Jordan Ben
  ator
 DTSTART;TZID=America/New_York:20260831T200000
 DTEND;TZID=America/New_York:20260831T223000
-DTSTAMP:20260729T011638Z
+DTSTAMP:20260729T013426Z
 UID:occ-3388@atlcal.com
 SEQUENCE:0
-CATEGORIES:Instrumental Concert
 GEO:33.7371794;-84.4050566
 LAST-MODIFIED:20260728T204227Z
 LOCATION:eyedrum Art and Music Gallery\, 515 Ralph David Abernathy Bouleva
@@ -426,37 +309,5 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.eyedrum.org/calendar-events-performances-art-music/monday-
  night-creative-music-series-chamber-cartel-plus-jordan-benator
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gaelynn Lea & Wheelchair Sports Camp
-DTSTART;TZID=America/New_York:20261010T200000
-DTEND;TZID=America/New_York:20261010T223000
-DTSTAMP:20260729T011638Z
-UID:occ-6798@atlcal.com
-SEQUENCE:0
-GEO:33.7371794;-84.4050566
-LAST-MODIFIED:20260728T204227Z
-LOCATION:eyedrum Art and Music Gallery\, 515 Ralph David Abernathy Bouleva
- rd Southwest
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.eyedrum.org/calendar-events-performances-art-music/gaelynn
- -lea-wheelchair-sports-camp
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AK'chamel w/ Franks
-DTSTART;TZID=America/New_York:20261107T200000
-DTEND;TZID=America/New_York:20261107T230000
-DTSTAMP:20260729T011638Z
-UID:occ-3389@atlcal.com
-SEQUENCE:0
-GEO:33.7371794;-84.4050566
-LAST-MODIFIED:20260728T204227Z
-LOCATION:eyedrum Art and Music Gallery\, 515 Ralph David Abernathy Bouleva
- rd Southwest
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.eyedrum.org/calendar-events-performances-art-music/akchame
- l-w-franks
 END:VEVENT
 END:VCALENDAR
