@@ -60,9 +60,10 @@ BEGIN:VEVENT
 SUMMARY:Staged Readings
 DTSTART;TZID=America/New_York:20260809T170000
 DTEND;TZID=America/New_York:20260809T190000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1764@atlcal.com
 SEQUENCE:0
+CATEGORIES:Theatre
 DESCRIPTION:Actors read never-before-produced scripts by local playwrights
   — book in hand\, staging kept minimal.\n\nNew scripts by local playwrig
  hts\, none of them ever produced\, read aloud by actors with book in hand 
@@ -80,9 +81,10 @@ BEGIN:VEVENT
 SUMMARY:Staged Readings
 DTSTART;TZID=America/New_York:20260816T170000
 DTEND;TZID=America/New_York:20260816T190000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1765@atlcal.com
 SEQUENCE:0
+CATEGORIES:Theatre
 DESCRIPTION:Actors read never-before-produced scripts by local playwrights
   — book in hand\, staging kept minimal.\n\nNew scripts by local playwrig
  hts\, none of them ever produced\, read aloud by actors with book in hand 
@@ -100,9 +102,10 @@ BEGIN:VEVENT
 SUMMARY:Staged Readings
 DTSTART;TZID=America/New_York:20260823T170000
 DTEND;TZID=America/New_York:20260823T190000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1766@atlcal.com
 SEQUENCE:0
+CATEGORIES:Theatre
 DESCRIPTION:Actors read never-before-produced scripts by local playwrights
   — book in hand\, staging kept minimal.\n\nNew scripts by local playwrig
  hts\, none of them ever produced\, read aloud by actors with book in hand 
@@ -120,9 +123,10 @@ BEGIN:VEVENT
 SUMMARY:Support Local Theatre
 DTSTART;TZID=America/New_York:20261030T193000
 DTEND;TZID=America/New_York:20261030T213000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1697@atlcal.com
 SEQUENCE:0
+CATEGORIES:Theatre
 DESCRIPTION:A costumed murder-mystery party raising money for Merely Playe
  rs\, with clues unfolding all night.\n\nMerely Players' fundraiser takes t
  he shape of an interactive whodunit: guests arrive in costume and masks\, 
@@ -141,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:Other Desert Cities
 DTSTART;TZID=America/New_York:20261106T193000
 DTEND;TZID=America/New_York:20261106T213000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1701@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -166,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Desert Cities
 DTSTART;TZID=America/New_York:20261107T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1147@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -191,7 +195,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Desert Cities
 DTSTART;TZID=America/New_York:20261108T170000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1148@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -216,7 +220,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Desert Cities
 DTSTART;TZID=America/New_York:20261113T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1149@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -241,7 +245,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Desert Cities
 DTSTART;TZID=America/New_York:20261114T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1150@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -266,7 +270,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Desert Cities
 DTSTART;TZID=America/New_York:20261115T170000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1151@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -291,7 +295,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Desert Cities
 DTSTART;TZID=America/New_York:20261120T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1152@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -316,7 +320,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Desert Cities
 DTSTART;TZID=America/New_York:20261121T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1153@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -341,7 +345,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Desert Cities
 DTSTART;TZID=America/New_York:20261122T170000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1154@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -367,9 +371,10 @@ BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261204T193000
 DTEND;TZID=America/New_York:20261204T213000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1702@atlcal.com
 SEQUENCE:0
+CATEGORIES:Theatre
 DESCRIPTION:Joe Landry's radio-play staging of the 1946 Capra classic\, co
  mplete with live foley sound effects and music.\n\nJoe Landry's adaptation
   reframes the 1946 Frank Capra film as a 1940s radio broadcast: a small en
@@ -389,9 +394,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261205T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1155@atlcal.com
 SEQUENCE:0
+CATEGORIES:Theatre
 DESCRIPTION:Joe Landry's radio-play staging of the 1946 Capra classic\, co
  mplete with live foley sound effects and music.\n\nJoe Landry's adaptation
   reframes the 1946 Frank Capra film as a 1940s radio broadcast: a small en
@@ -411,9 +417,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261206T170000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1156@atlcal.com
 SEQUENCE:0
+CATEGORIES:Theatre
 DESCRIPTION:Joe Landry's radio-play staging of the 1946 Capra classic\, co
  mplete with live foley sound effects and music.\n\nJoe Landry's adaptation
   reframes the 1946 Frank Capra film as a 1940s radio broadcast: a small en
@@ -433,9 +440,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261211T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1157@atlcal.com
 SEQUENCE:0
+CATEGORIES:Theatre
 DESCRIPTION:Joe Landry's radio-play staging of the 1946 Capra classic\, co
  mplete with live foley sound effects and music.\n\nJoe Landry's adaptation
   reframes the 1946 Frank Capra film as a 1940s radio broadcast: a small en
@@ -455,9 +463,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261212T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1158@atlcal.com
 SEQUENCE:0
+CATEGORIES:Theatre
 DESCRIPTION:Joe Landry's radio-play staging of the 1946 Capra classic\, co
  mplete with live foley sound effects and music.\n\nJoe Landry's adaptation
   reframes the 1946 Frank Capra film as a 1940s radio broadcast: a small en
@@ -477,9 +486,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261213T170000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1159@atlcal.com
 SEQUENCE:0
+CATEGORIES:Theatre
 DESCRIPTION:Joe Landry's radio-play staging of the 1946 Capra classic\, co
  mplete with live foley sound effects and music.\n\nJoe Landry's adaptation
   reframes the 1946 Frank Capra film as a 1940s radio broadcast: a small en
@@ -499,9 +509,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261218T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1160@atlcal.com
 SEQUENCE:0
+CATEGORIES:Theatre
 DESCRIPTION:Joe Landry's radio-play staging of the 1946 Capra classic\, co
  mplete with live foley sound effects and music.\n\nJoe Landry's adaptation
   reframes the 1946 Frank Capra film as a 1940s radio broadcast: a small en
@@ -521,9 +532,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261219T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1161@atlcal.com
 SEQUENCE:0
+CATEGORIES:Theatre
 DESCRIPTION:Joe Landry's radio-play staging of the 1946 Capra classic\, co
  mplete with live foley sound effects and music.\n\nJoe Landry's adaptation
   reframes the 1946 Frank Capra film as a 1940s radio broadcast: a small en
@@ -543,9 +555,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life: A Live Radio Play
 DTSTART;TZID=America/New_York:20261220T170000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1162@atlcal.com
 SEQUENCE:0
+CATEGORIES:Theatre
 DESCRIPTION:Joe Landry's radio-play staging of the 1946 Capra classic\, co
  mplete with live foley sound effects and music.\n\nJoe Landry's adaptation
   reframes the 1946 Frank Capra film as a 1940s radio broadcast: a small en
@@ -566,7 +579,7 @@ BEGIN:VEVENT
 SUMMARY:The Women of Willow Creek
 DTSTART;TZID=America/New_York:20270224T193000
 DTEND;TZID=America/New_York:20270224T213000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1703@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -589,7 +602,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Women of Willow Creek
 DTSTART;TZID=America/New_York:20270225T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1163@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -612,7 +625,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Women of Willow Creek
 DTSTART;TZID=America/New_York:20270226T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1164@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -635,7 +648,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Women of Willow Creek
 DTSTART;TZID=America/New_York:20270227T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1165@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -659,9 +672,10 @@ BEGIN:VEVENT
 SUMMARY:Support Local Theatre
 DTSTART;TZID=America/New_York:20270313T193000
 DTEND;TZID=America/New_York:20270313T213000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1698@atlcal.com
 SEQUENCE:0
+CATEGORIES:Theatre
 DESCRIPTION:A costumed murder-mystery party raising money for Merely Playe
  rs\, with clues unfolding all night.\n\nMerely Players' fundraiser takes t
  he shape of an interactive whodunit: guests arrive in costume and masks\, 
@@ -681,7 +695,7 @@ BEGIN:VEVENT
 SUMMARY:The Clean House
 DTSTART;TZID=America/New_York:20270409T193000
 DTEND;TZID=America/New_York:20270409T213000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1704@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -704,7 +718,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Clean House
 DTSTART;TZID=America/New_York:20270410T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1166@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -727,7 +741,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Clean House
 DTSTART;TZID=America/New_York:20270411T170000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1167@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -750,7 +764,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Clean House
 DTSTART;TZID=America/New_York:20270416T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1168@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -773,7 +787,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Clean House
 DTSTART;TZID=America/New_York:20270417T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1169@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -796,7 +810,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Clean House
 DTSTART;TZID=America/New_York:20270418T170000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1170@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -819,7 +833,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Clean House
 DTSTART;TZID=America/New_York:20270423T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1171@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -842,7 +856,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Clean House
 DTSTART;TZID=America/New_York:20270424T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1172@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -865,7 +879,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Clean House
 DTSTART;TZID=America/New_York:20270425T170000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1173@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -889,7 +903,7 @@ BEGIN:VEVENT
 SUMMARY:Guess Who's Coming to Dinner
 DTSTART;TZID=America/New_York:20270604T193000
 DTEND;TZID=America/New_York:20270604T213000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1705@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -913,7 +927,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guess Who's Coming to Dinner
 DTSTART;TZID=America/New_York:20270605T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1174@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -937,7 +951,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guess Who's Coming to Dinner
 DTSTART;TZID=America/New_York:20270606T170000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1175@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -961,7 +975,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guess Who's Coming to Dinner
 DTSTART;TZID=America/New_York:20270611T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1176@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -985,7 +999,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guess Who's Coming to Dinner
 DTSTART;TZID=America/New_York:20270612T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1177@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1009,7 +1023,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guess Who's Coming to Dinner
 DTSTART;TZID=America/New_York:20270613T170000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1178@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1033,7 +1047,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guess Who's Coming to Dinner
 DTSTART;TZID=America/New_York:20270618T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1179@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1057,7 +1071,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guess Who's Coming to Dinner
 DTSTART;TZID=America/New_York:20270619T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1180@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1081,7 +1095,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guess Who's Coming to Dinner
 DTSTART;TZID=America/New_York:20270620T170000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1181@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1105,7 +1119,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guess Who's Coming to Dinner
 DTSTART;TZID=America/New_York:20270625T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1182@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1129,7 +1143,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guess Who's Coming to Dinner
 DTSTART;TZID=America/New_York:20270626T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1183@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1153,7 +1167,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guess Who's Coming to Dinner
 DTSTART;TZID=America/New_York:20270627T170000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1184@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre

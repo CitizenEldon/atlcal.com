@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Enter the Trap: How Trap Rap Maps Out Atlanta
 DTSTART;TZID=America/New_York:20260730T183000
 DTEND;TZID=America/New_York:20260730T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1961@atlcal.com
 SEQUENCE:0
 CATEGORIES:Talks & Lectures
@@ -77,7 +77,7 @@ SUMMARY:Evening Lecture: The Cherokee Judicial Circuit - The Early Organiz
  ation and Establishment of Constitutional Justice
 DTSTART;TZID=America/New_York:20260730T190000
 DTEND;TZID=America/New_York:20260730T200000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-5300@atlcal.com
 SEQUENCE:0
 CATEGORIES:Talks & Lectures
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Atlanta's Hip-Hop Geography
 DTSTART;TZID=America/New_York:20260805T183000
 DTEND;TZID=America/New_York:20260805T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1963@atlcal.com
 SEQUENCE:0
 CATEGORIES:Talks & Lectures
@@ -107,11 +107,35 @@ URL:https://www.museumofdesign.org/moda-events/hip-hop-made-atlana-atlanta
  s-hip-hop-geographyt
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jazz Talks with Trey Wright
+DTSTART;TZID=America/New_York:20260813T193000
+DTSTAMP:20260729T034639Z
+UID:occ-1235@atlcal.com
+SEQUENCE:0
+CATEGORIES:Talks & Lectures
+DESCRIPTION:Coltrane's A Love Supreme\, unpacked by jazz guitarist and KSU
+  professor Trey Wright\; 30 seats\, 21+\, drink included.\n\nAn interactiv
+ e talk on John Coltrane and A Love Supreme\, his 1965 landmark\, led by Tr
+ ey Wright\, who teaches jazz guitar and jazz history at Kennesaw State. Wr
+ ight is a working guitarist himself: he has played the Montreux Jazz Festi
+ val\, and his trio's album Thinking Out Loud reached the first round of Gr
+ ammy consideration in the jazz instrumental category. Part of the Jazz At 
+ The Strand series. Admission includes one drink ticket\; seating is capped
+  at 30\, and guests must be 21 or older.
+GEO:33.9536122;-84.5492054
+LAST-MODIFIED:20260728T204247Z
+LOCATION:The Strand Theatre\, 117 N Park Square
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs0000
+ 06zRHZMA2
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lunch & Learn: Voting Then & Now - A Tale of Tabs\, Touchscreens\,
   and Turning Back to Paper
 DTSTART;TZID=America/New_York:20260819T120000
 DTEND;TZID=America/New_York:20260819T130000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-5304@atlcal.com
 SEQUENCE:0
 CATEGORIES:Talks & Lectures
@@ -127,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Talking Tech – Reliving Apollo 11 with John Baumbusch
 DTSTART;TZID=America/New_York:20260822T130000
 DTEND;TZID=America/New_York:20260822T140000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-7154@atlcal.com
 SEQUENCE:0
 CATEGORIES:Talks & Lectures
@@ -140,10 +164,58 @@ URL:https://mimmsmuseum.org/event/talking-tech-reliving-apollo-11-with-joh
  n-baumbusch/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jazz Talks with Trey Wright
+DTSTART;TZID=America/New_York:20260910T193000
+DTSTAMP:20260729T034639Z
+UID:occ-1236@atlcal.com
+SEQUENCE:0
+CATEGORIES:Talks & Lectures
+DESCRIPTION:Coltrane's A Love Supreme\, unpacked by jazz guitarist and KSU
+  professor Trey Wright\; 30 seats\, 21+\, drink included.\n\nAn interactiv
+ e talk on John Coltrane and A Love Supreme\, his 1965 landmark\, led by Tr
+ ey Wright\, who teaches jazz guitar and jazz history at Kennesaw State. Wr
+ ight is a working guitarist himself: he has played the Montreux Jazz Festi
+ val\, and his trio's album Thinking Out Loud reached the first round of Gr
+ ammy consideration in the jazz instrumental category. Part of the Jazz At 
+ The Strand series. Admission includes one drink ticket\; seating is capped
+  at 30\, and guests must be 21 or older.
+GEO:33.9536122;-84.5492054
+LAST-MODIFIED:20260728T204247Z
+LOCATION:The Strand Theatre\, 117 N Park Square
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs0000
+ 06zRJBMA2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jazz Talks with Trey Wright
+DTSTART;TZID=America/New_York:20261008T193000
+DTSTAMP:20260729T034639Z
+UID:occ-1237@atlcal.com
+SEQUENCE:0
+CATEGORIES:Talks & Lectures
+DESCRIPTION:Coltrane's A Love Supreme\, unpacked by jazz guitarist and KSU
+  professor Trey Wright\; 30 seats\, 21+\, drink included.\n\nAn interactiv
+ e talk on John Coltrane and A Love Supreme\, his 1965 landmark\, led by Tr
+ ey Wright\, who teaches jazz guitar and jazz history at Kennesaw State. Wr
+ ight is a working guitarist himself: he has played the Montreux Jazz Festi
+ val\, and his trio's album Thinking Out Loud reached the first round of Gr
+ ammy consideration in the jazz instrumental category. Part of the Jazz At 
+ The Strand series. Admission includes one drink ticket\; seating is capped
+  at 30\, and guests must be 21 or older.
+GEO:33.9536122;-84.5492054
+LAST-MODIFIED:20260728T204247Z
+LOCATION:The Strand Theatre\, 117 N Park Square
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs0000
+ 06zRKnMAM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 Statewide Historic Preservation Conference
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-2242@atlcal.com
 SEQUENCE:0
 CATEGORIES:Talks & Lectures
@@ -155,5 +227,29 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.georgiatrust.org/event/2026-statewide-historic-preservatio
  n-conference/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jazz Talks with Trey Wright
+DTSTART;TZID=America/New_York:20261105T193000
+DTSTAMP:20260729T034639Z
+UID:occ-1238@atlcal.com
+SEQUENCE:0
+CATEGORIES:Talks & Lectures
+DESCRIPTION:Coltrane's A Love Supreme\, unpacked by jazz guitarist and KSU
+  professor Trey Wright\; 30 seats\, 21+\, drink included.\n\nAn interactiv
+ e talk on John Coltrane and A Love Supreme\, his 1965 landmark\, led by Tr
+ ey Wright\, who teaches jazz guitar and jazz history at Kennesaw State. Wr
+ ight is a working guitarist himself: he has played the Montreux Jazz Festi
+ val\, and his trio's album Thinking Out Loud reached the first round of Gr
+ ammy consideration in the jazz instrumental category. Part of the Jazz At 
+ The Strand series. Admission includes one drink ticket\; seating is capped
+  at 30\, and guests must be 21 or older.
+GEO:33.9536122;-84.5492054
+LAST-MODIFIED:20260728T204247Z
+LOCATION:The Strand Theatre\, 117 N Park Square
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thestrand.my.salesforce-sites.com/ticket/#/instances/a0FPs0000
+ 06zQIIMA2
 END:VEVENT
 END:VCALENDAR

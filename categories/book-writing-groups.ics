@@ -61,7 +61,7 @@ SUMMARY:A Romantasy Book Club at Poe & Company: “The Wolves of Ruin” S
  eries by Sable Sorensen
 DTSTART;TZID=America/New_York:20260731T190000
 DTEND;TZID=America/New_York:20260731T210000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-7486@atlcal.com
 SEQUENCE:0
 CATEGORIES:Book & Writing Groups
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Romance Book Club: “Things We Never Got Over” by Lucy Score
 DTSTART;TZID=America/New_York:20260803T190000
 DTEND;TZID=America/New_York:20260803T203000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-7487@atlcal.com
 SEQUENCE:0
 CATEGORIES:Book & Writing Groups
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Poe & Company Book Club - “Strangers” by Belle Burden
 DTSTART;TZID=America/New_York:20260806T190000
 DTEND;TZID=America/New_York:20260806T210000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-7489@atlcal.com
 SEQUENCE:0
 CATEGORIES:Book & Writing Groups
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Design Book Club: Eileen Gray: A House Under the Sun
 DTSTART;TZID=America/New_York:20260807T120000
 DTEND;TZID=America/New_York:20260807T130000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1966@atlcal.com
 SEQUENCE:0
 CATEGORIES:Book & Writing Groups
@@ -123,10 +123,27 @@ URL:https://www.museumofdesign.org/moda-events/book-club/inventor-of-the-f
  uture-65pz5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2nd Saturday Writers Workshop 9-12-26
+DTSTART;TZID=America/New_York:20260808T140000
+DTEND;TZID=America/New_York:20260808T160000
+DTSTAMP:20260729T034639Z
+UID:occ-2150@atlcal.com
+SEQUENCE:0
+CATEGORIES:Book & Writing Groups
+GEO:33.696093;-84.43219739999999
+LAST-MODIFIED:20260719T092744Z
+LOCATION:ArtsXchange - Southeast Community Cultural Center\, 2148 Newnan S
+ treet
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.artsxchange.org/event-details/2nd-saturday-writers-worksho
+ p-8-8-26-2026-08-08-14-00
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nature Lovers Book Club
 DTSTART;TZID=America/New_York:20260810T053000
 DTEND;TZID=America/New_York:20260810T063000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-2893@atlcal.com
 SEQUENCE:0
 CATEGORIES:Book & Writing Groups
@@ -141,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:ACOTAR Book Club
 DTSTART;TZID=America/New_York:20260810T190000
 DTEND;TZID=America/New_York:20260810T203000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-7490@atlcal.com
 SEQUENCE:0
 CATEGORIES:Book & Writing Groups
@@ -158,7 +175,7 @@ SUMMARY:Cookbook Club - “Amrikan: 125 Recipes from the Indian American D
  iaspora”
 DTSTART;TZID=America/New_York:20260816T183000
 DTEND;TZID=America/New_York:20260816T203000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-14338@atlcal.com
 SEQUENCE:0
 CATEGORIES:Book & Writing Groups
@@ -175,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:Cookbook Club - “My Greek Table” by Diane Kochilas
 DTSTART;TZID=America/New_York:20260817T183000
 DTEND;TZID=America/New_York:20260817T203000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-14392@atlcal.com
 SEQUENCE:0
 CATEGORIES:Book & Writing Groups
@@ -193,7 +210,7 @@ SUMMARY:Killer Reads: A Thriller Book Club - “Never Turn Back” by Chri
  stopher Swann
 DTSTART;TZID=America/New_York:20260818T190000
 DTEND;TZID=America/New_York:20260818T210000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-7492@atlcal.com
 SEQUENCE:0
 CATEGORIES:Book & Writing Groups
@@ -210,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Book Club at Poe & Company
 DTSTART;TZID=America/New_York:20260821T173000
 DTEND;TZID=America/New_York:20260821T193000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-7494@atlcal.com
 SEQUENCE:0
 CATEGORIES:Book & Writing Groups
@@ -223,11 +240,28 @@ URL:https://www.poeandcompanybookstore.com/all-events/qi7rroyyb29egwgpq0x5
  gvkbgu6is1-dlepz-5rw8d-xcfbl
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:4th Saturday Writers Workshop
+DTSTART;TZID=America/New_York:20260822T120000
+DTEND;TZID=America/New_York:20260822T140000
+DTSTAMP:20260729T034639Z
+UID:occ-2144@atlcal.com
+SEQUENCE:0
+CATEGORIES:Book & Writing Groups
+GEO:33.696093;-84.43219739999999
+LAST-MODIFIED:20260721T084842Z
+LOCATION:ArtsXchange - Southeast Community Cultural Center\, 2148 Newnan S
+ treet
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.artsxchange.org/event-details/4th-saturday-writers-worksho
+ p-2026-08-22-12-00
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Romantasy Book Club at Poe & Company: “Light Wielder” by Rac
  hel Schneider.
 DTSTART;TZID=America/New_York:20260831T190000
 DTEND;TZID=America/New_York:20260831T210000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-7495@atlcal.com
 SEQUENCE:0
 CATEGORIES:Book & Writing Groups
@@ -244,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:Design Book Club: Salt: A World History by Mark Kurlansky
 DTSTART;TZID=America/New_York:20260904T120000
 DTEND;TZID=America/New_York:20260904T130000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-1970@atlcal.com
 SEQUENCE:0
 CATEGORIES:Book & Writing Groups
@@ -257,10 +291,27 @@ URL:https://www.museumofdesign.org/moda-events/book-club/salt-a-world-hist
  ory
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2nd Saturday Writers Workshop 9-12-26
+DTSTART;TZID=America/New_York:20260912T140000
+DTEND;TZID=America/New_York:20260912T160000
+DTSTAMP:20260729T034639Z
+UID:occ-2152@atlcal.com
+SEQUENCE:0
+CATEGORIES:Book & Writing Groups
+GEO:33.696093;-84.43219739999999
+LAST-MODIFIED:20260719T092744Z
+LOCATION:ArtsXchange - Southeast Community Cultural Center\, 2148 Newnan S
+ treet
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.artsxchange.org/event-details/2nd-saturday-writers-worksho
+ p-9-12-26-2026-09-12-14-00
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nature Lovers Book Club
 DTSTART;TZID=America/New_York:20260914T053000
 DTEND;TZID=America/New_York:20260914T063000
-DTSTAMP:20260729T013426Z
+DTSTAMP:20260729T034639Z
 UID:occ-2894@atlcal.com
 SEQUENCE:0
 CATEGORIES:Book & Writing Groups
@@ -270,5 +321,22 @@ LOCATION:Dunwoody Nature Center\, 5343 Roberts Drive
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://dunwoodynature.org/mec-events/nature-lovers-book-club-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4th Saturday Writers Workshop
+DTSTART;TZID=America/New_York:20260926T120000
+DTEND;TZID=America/New_York:20260926T140000
+DTSTAMP:20260729T034639Z
+UID:occ-2145@atlcal.com
+SEQUENCE:0
+CATEGORIES:Book & Writing Groups
+GEO:33.696093;-84.43219739999999
+LAST-MODIFIED:20260721T084842Z
+LOCATION:ArtsXchange - Southeast Community Cultural Center\, 2148 Newnan S
+ treet
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.artsxchange.org/event-details/4th-saturday-writers-worksho
+ p-2026-09-26-12-00
 END:VEVENT
 END:VCALENDAR
