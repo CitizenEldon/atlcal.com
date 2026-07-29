@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Rockdale Readers Book Club
 DTSTART;TZID=America/New_York:20260728T130000
 DTEND;TZID=America/New_York:20260728T140000
-DTSTAMP:20260729T034639Z
+DTSTAMP:20260729T044457Z
 UID:occ-2878@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Unpack a stunning tale of family\, secrets\, and resilience th
