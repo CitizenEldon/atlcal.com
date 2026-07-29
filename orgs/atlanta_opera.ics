@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-3248@atlcal.com
 SEQUENCE:1
 CATEGORIES:Opera
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night
 DTSTART;TZID=America/New_York:20261107T193000
 DTEND;TZID=America/New_York:20261107T220100
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-370@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -98,7 +98,7 @@ DESCRIPTION:Kevin Puts's Pulitzer-winning opera about the 1914 Christmas t
  tzer in 2012. Sung in English\, French\, German\, Italian\, and Latin. Fro
  m The Atlanta Opera\; runs through November 15.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night
 DTSTART;TZID=America/New_York:20261110T193000
 DTEND;TZID=America/New_York:20261110T220100
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-371@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -122,7 +122,7 @@ DESCRIPTION:Kevin Puts's Pulitzer-winning opera about the 1914 Christmas t
  tzer in 2012. Sung in English\, French\, German\, Italian\, and Latin. Fro
  m The Atlanta Opera\; runs through November 15.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night
 DTSTART;TZID=America/New_York:20261113T193000
 DTEND;TZID=America/New_York:20261113T220100
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-372@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -146,7 +146,7 @@ DESCRIPTION:Kevin Puts's Pulitzer-winning opera about the 1914 Christmas t
  tzer in 2012. Sung in English\, French\, German\, Italian\, and Latin. Fro
  m The Atlanta Opera\; runs through November 15.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night
 DTSTART;TZID=America/New_York:20261115T150000
 DTEND;TZID=America/New_York:20261115T173100
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-373@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -170,7 +170,7 @@ DESCRIPTION:Kevin Puts's Pulitzer-winning opera about the 1914 Christmas t
  tzer in 2012. Sung in English\, French\, German\, Italian\, and Latin. Fro
  m The Atlanta Opera\; runs through November 15.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261202T193000
 DTEND;TZID=America/New_York:20261202T210000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-374@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -192,7 +192,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261203T193000
 DTEND;TZID=America/New_York:20261203T210000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-375@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -215,7 +215,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -226,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261204T193000
 DTEND;TZID=America/New_York:20261204T210000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-376@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -238,7 +238,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261205T193000
 DTEND;TZID=America/New_York:20261205T210000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-377@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -261,7 +261,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -272,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261206T143000
 DTEND;TZID=America/New_York:20261206T160000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-378@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -284,7 +284,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261209T193000
 DTEND;TZID=America/New_York:20261209T210000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-379@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -307,7 +307,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261210T193000
 DTEND;TZID=America/New_York:20261210T210000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-380@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -330,7 +330,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -341,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261211T193000
 DTEND;TZID=America/New_York:20261211T210000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-381@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -353,7 +353,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261212T193000
 DTEND;TZID=America/New_York:20261212T210000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-382@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -376,7 +376,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261213T143000
 DTEND;TZID=America/New_York:20261213T160000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-383@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -399,7 +399,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -410,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261216T193000
 DTEND;TZID=America/New_York:20261216T210000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-384@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -422,7 +422,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -433,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261217T193000
 DTEND;TZID=America/New_York:20261217T210000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-385@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -445,7 +445,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261218T193000
 DTEND;TZID=America/New_York:20261218T210000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-386@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -468,7 +468,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -479,7 +479,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261219T193000
 DTEND;TZID=America/New_York:20261219T210000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-387@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -491,7 +491,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -502,7 +502,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261220T143000
 DTEND;TZID=America/New_York:20261220T160000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-388@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -514,7 +514,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -525,7 +525,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261223T193000
 DTEND;TZID=America/New_York:20261223T210000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-389@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -537,7 +537,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -548,7 +548,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261224T130000
 DTEND;TZID=America/New_York:20261224T143000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-390@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -560,7 +560,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -571,7 +571,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261226T193000
 DTEND;TZID=America/New_York:20261226T210000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-391@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -583,7 +583,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -594,7 +594,7 @@ BEGIN:VEVENT
 SUMMARY:All is Calm: The Christmas Truce of 1914
 DTSTART;TZID=America/New_York:20261227T143000
 DTEND;TZID=America/New_York:20261227T160000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-392@atlcal.com
 SEQUENCE:0
 DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
@@ -606,7 +606,7 @@ DESCRIPTION:Peter Rothstein's a cappella retelling of the WWI Christmas tr
  nd journals. Music by Erick Lichte and Timothy C. Takach. Presented by The
   Atlanta Opera as part of its Discoveries series.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -617,7 +617,7 @@ BEGIN:VEVENT
 SUMMARY:Carmen
 DTSTART;TZID=America/New_York:20270130T193000
 DTEND;TZID=America/New_York:20270130T224200
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-393@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -631,7 +631,7 @@ DESCRIPTION:Bizet's tragedy of obsession: a soldier\, a bullfighter\, and
  r Song among them\, though its first Paris audiences were scandalized by s
  o much lawlessness on the Opéra-Comique stage. From The Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -641,7 +641,7 @@ BEGIN:VEVENT
 SUMMARY:Carmen
 DTSTART;TZID=America/New_York:20270202T193000
 DTEND;TZID=America/New_York:20270202T224200
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-394@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -655,7 +655,7 @@ DESCRIPTION:Bizet's tragedy of obsession: a soldier\, a bullfighter\, and
  r Song among them\, though its first Paris audiences were scandalized by s
  o much lawlessness on the Opéra-Comique stage. From The Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -665,7 +665,7 @@ BEGIN:VEVENT
 SUMMARY:Carmen
 DTSTART;TZID=America/New_York:20270205T193000
 DTEND;TZID=America/New_York:20270205T224200
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-395@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -679,7 +679,7 @@ DESCRIPTION:Bizet's tragedy of obsession: a soldier\, a bullfighter\, and
  r Song among them\, though its first Paris audiences were scandalized by s
  o much lawlessness on the Opéra-Comique stage. From The Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -689,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:Carmen
 DTSTART;TZID=America/New_York:20270207T150000
 DTEND;TZID=America/New_York:20270207T181200
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-396@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -703,7 +703,7 @@ DESCRIPTION:Bizet's tragedy of obsession: a soldier\, a bullfighter\, and
  r Song among them\, though its first Paris audiences were scandalized by s
  o much lawlessness on the Opéra-Comique stage. From The Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -713,7 +713,7 @@ BEGIN:VEVENT
 SUMMARY:The Flying Dutchman
 DTSTART;TZID=America/New_York:20270313T193000
 DTEND;TZID=America/New_York:20270313T220000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-397@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -725,7 +725,7 @@ DESCRIPTION:Wagner's ghost-ship opera: a captain cursed to sail forever\,
  daughter Senta he may have found her. Wagner's storm-tossed score made thi
  s his first enduring success. Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -735,7 +735,7 @@ BEGIN:VEVENT
 SUMMARY:The Flying Dutchman
 DTSTART;TZID=America/New_York:20270316T193000
 DTEND;TZID=America/New_York:20270316T220000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-398@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -747,7 +747,7 @@ DESCRIPTION:Wagner's ghost-ship opera: a captain cursed to sail forever\,
  daughter Senta he may have found her. Wagner's storm-tossed score made thi
  s his first enduring success. Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -757,7 +757,7 @@ BEGIN:VEVENT
 SUMMARY:The Flying Dutchman
 DTSTART;TZID=America/New_York:20270319T193000
 DTEND;TZID=America/New_York:20270319T220000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-399@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -769,7 +769,7 @@ DESCRIPTION:Wagner's ghost-ship opera: a captain cursed to sail forever\,
  daughter Senta he may have found her. Wagner's storm-tossed score made thi
  s his first enduring success. Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -779,7 +779,7 @@ BEGIN:VEVENT
 SUMMARY:The Flying Dutchman
 DTSTART;TZID=America/New_York:20270321T150000
 DTEND;TZID=America/New_York:20270321T173000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-400@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -791,7 +791,7 @@ DESCRIPTION:Wagner's ghost-ship opera: a captain cursed to sail forever\,
  daughter Senta he may have found her. Wagner's storm-tossed score made thi
  s his first enduring success. Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -801,7 +801,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=America/New_York:20270501T193000
 DTEND;TZID=America/New_York:20270501T221500
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-401@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -815,7 +815,7 @@ DESCRIPTION:Puccini's melodrama of a diva\, her painter lover\, and Rome's
  ormed operas anywhere\, its score carrying 'Vissi d'arte' and 'E lucevan l
  e stelle.' Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -825,7 +825,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=America/New_York:20270504T193000
 DTEND;TZID=America/New_York:20270504T221500
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-402@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -839,7 +839,7 @@ DESCRIPTION:Puccini's melodrama of a diva\, her painter lover\, and Rome's
  ormed operas anywhere\, its score carrying 'Vissi d'arte' and 'E lucevan l
  e stelle.' Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -849,7 +849,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=America/New_York:20270507T193000
 DTEND;TZID=America/New_York:20270507T221500
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-403@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -863,7 +863,7 @@ DESCRIPTION:Puccini's melodrama of a diva\, her painter lover\, and Rome's
  ormed operas anywhere\, its score carrying 'Vissi d'arte' and 'E lucevan l
  e stelle.' Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -873,7 +873,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=America/New_York:20270509T150000
 DTEND;TZID=America/New_York:20270509T174500
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-404@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -887,7 +887,7 @@ DESCRIPTION:Puccini's melodrama of a diva\, her painter lover\, and Rome's
  ormed operas anywhere\, its score carrying 'Vissi d'arte' and 'E lucevan l
  e stelle.' Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -897,7 +897,7 @@ BEGIN:VEVENT
 SUMMARY:Jubilee
 DTSTART;TZID=America/New_York:20270605T193000
 DTEND;TZID=America/New_York:20270605T215500
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-405@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -910,7 +910,7 @@ DESCRIPTION:An opera written and directed by Tazewell Thompson\, librettis
  dy been staged at Arena Stage and Seattle Opera\; this production comes fr
  om The Atlanta Opera.
 GEO:33.7439061;-84.4168227
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Ray Charles Performing Arts Center\, 900 West End Avenue Southwes
  t
 STATUS:CONFIRMED
@@ -921,7 +921,7 @@ BEGIN:VEVENT
 SUMMARY:Jubilee
 DTSTART;TZID=America/New_York:20270606T150000
 DTEND;TZID=America/New_York:20270606T172500
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-406@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -934,7 +934,7 @@ DESCRIPTION:An opera written and directed by Tazewell Thompson\, librettis
  dy been staged at Arena Stage and Seattle Opera\; this production comes fr
  om The Atlanta Opera.
 GEO:33.7439061;-84.4168227
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Ray Charles Performing Arts Center\, 900 West End Avenue Southwes
  t
 STATUS:CONFIRMED
@@ -945,7 +945,7 @@ BEGIN:VEVENT
 SUMMARY:Jubilee
 DTSTART;TZID=America/New_York:20270610T193000
 DTEND;TZID=America/New_York:20270610T215500
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-407@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -958,7 +958,7 @@ DESCRIPTION:An opera written and directed by Tazewell Thompson\, librettis
  dy been staged at Arena Stage and Seattle Opera\; this production comes fr
  om The Atlanta Opera.
 GEO:33.7439061;-84.4168227
-LAST-MODIFIED:20260729T044314Z
+LAST-MODIFIED:20260729T154158Z
 LOCATION:Ray Charles Performing Arts Center\, 900 West End Avenue Southwes
  t
 STATUS:CONFIRMED

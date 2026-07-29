@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Katsura Sunshine’s Rakugo
 DTSTART;TZID=America/New_York:20260805T190000
 DTEND;TZID=America/New_York:20260805T203000
-DTSTAMP:20260729T100751Z
+DTSTAMP:20260729T154349Z
 UID:occ-5439@atlcal.com
 SEQUENCE:0
 CATEGORIES:Storytelling & Poetry
@@ -74,7 +74,7 @@ DESCRIPTION:Japanese rakugo comic storytelling: one kneeling performer\, a
   at Manhattan's New World Stages since 2019. Presented by 7 Stages\; the p
  erformance runs about an hour.
 GEO:33.7639125;-84.3509364
-LAST-MODIFIED:20260729T044306Z
+LAST-MODIFIED:20260729T154154Z
 LOCATION:7 Stages Theatre\, 1105 Euclid Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
