@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:The Dinner Detective Murder Mystery Dinner Show
 DTSTART;TZID=America/New_York:20260808T180000
 DTEND;TZID=America/New_York:20260808T210000
-DTSTAMP:20260730T014944Z
+DTSTAMP:20260730T015742Z
 UID:occ-3901@atlcal.com
 SEQUENCE:1
 DESCRIPTION:The Dinner Detective presents "Game Over"— America's largest
@@ -80,7 +80,7 @@ SUMMARY:The Dinner Detective Murder Mystery Dinner Show – Atlanta\, GA
  – Saturday\, August 22\, 2026
 DTSTART;TZID=America/New_York:20260808T180000
 DTEND;TZID=America/New_York:20260808T210000
-DTSTAMP:20260730T014944Z
+DTSTAMP:20260730T015742Z
 UID:occ-7543@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:The Dinner Detective Murder Mystery Dinner Show
 DTSTART;TZID=America/New_York:20260822T180000
 DTEND;TZID=America/New_York:20260822T210000
-DTSTAMP:20260730T014944Z
+DTSTAMP:20260730T015742Z
 UID:occ-3902@atlcal.com
 SEQUENCE:1
 DESCRIPTION:The Dinner Detective presents "Game Over"— America's largest
@@ -117,7 +117,7 @@ SUMMARY:The Dinner Detective Murder Mystery Dinner Show – Atlanta\, GA
  – Saturday\, August 22\, 2026
 DTSTART;TZID=America/New_York:20260822T180000
 DTEND;TZID=America/New_York:20260822T210000
-DTSTAMP:20260730T014944Z
+DTSTAMP:20260730T015742Z
 UID:occ-7544@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:The Dinner Detective Murder Mystery Dinner Show
 DTSTART;TZID=America/New_York:20260912T180000
 DTEND;TZID=America/New_York:20260912T210000
-DTSTAMP:20260730T014944Z
+DTSTAMP:20260730T015742Z
 UID:occ-3903@atlcal.com
 SEQUENCE:1
 DESCRIPTION:The Dinner Detective presents "Game Over"— America's largest
@@ -154,7 +154,7 @@ SUMMARY:The Dinner Detective Murder Mystery Dinner Show – Atlanta\, GA
  – Saturday\, September 26\, 2026
 DTSTART;TZID=America/New_York:20260912T180000
 DTEND;TZID=America/New_York:20260912T210000
-DTSTAMP:20260730T014944Z
+DTSTAMP:20260730T015742Z
 UID:occ-7545@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:The Dinner Detective Murder Mystery Dinner Show
 DTSTART;TZID=America/New_York:20260926T180000
 DTEND;TZID=America/New_York:20260926T210000
-DTSTAMP:20260730T014944Z
+DTSTAMP:20260730T015742Z
 UID:occ-3904@atlcal.com
 SEQUENCE:1
 DESCRIPTION:The Dinner Detective presents "Game Over"— America's largest
@@ -191,7 +191,7 @@ SUMMARY:The Dinner Detective Murder Mystery Dinner Show – Atlanta\, GA
  – Saturday\, September 26\, 2026
 DTSTART;TZID=America/New_York:20260926T180000
 DTEND;TZID=America/New_York:20260926T210000
-DTSTAMP:20260730T014944Z
+DTSTAMP:20260730T015742Z
 UID:occ-7546@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:The Dinner Detective Murder Mystery Dinner Show
 DTSTART;TZID=America/New_York:20261010T180000
 DTEND;TZID=America/New_York:20261010T210000
-DTSTAMP:20260730T014944Z
+DTSTAMP:20260730T015742Z
 UID:occ-3905@atlcal.com
 SEQUENCE:1
 DESCRIPTION:The Dinner Detective presents "Dirty Money"— America's large
@@ -228,7 +228,7 @@ SUMMARY:The Dinner Detective Murder Mystery Dinner Show – Atlanta\, GA
  – Saturday\, October 10\, 2026
 DTSTART;TZID=America/New_York:20261010T180000
 DTEND;TZID=America/New_York:20261010T210000
-DTSTAMP:20260730T014944Z
+DTSTAMP:20260730T015742Z
 UID:occ-7547@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
