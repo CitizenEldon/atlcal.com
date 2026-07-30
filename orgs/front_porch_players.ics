@@ -59,7 +59,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260807T193000
-DTSTAMP:20260730T015742Z
+DTSTAMP:20260730T050145Z
 UID:occ-1134@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -73,7 +73,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260729T204357Z
+LAST-MODIFIED:20260730T045931Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -83,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260808T193000
-DTSTAMP:20260730T015742Z
+DTSTAMP:20260730T050145Z
 UID:occ-1137@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -97,7 +97,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260729T204357Z
+LAST-MODIFIED:20260730T045931Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -107,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260809T143000
-DTSTAMP:20260730T015742Z
+DTSTAMP:20260730T050145Z
 UID:occ-1139@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -121,7 +121,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260729T204357Z
+LAST-MODIFIED:20260730T045931Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -131,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260814T193000
-DTSTAMP:20260730T015742Z
+DTSTAMP:20260730T050145Z
 UID:occ-1138@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -145,7 +145,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260729T204357Z
+LAST-MODIFIED:20260730T045931Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -155,7 +155,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260815T193000
-DTSTAMP:20260730T015742Z
+DTSTAMP:20260730T050145Z
 UID:occ-1135@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -169,7 +169,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260729T204357Z
+LAST-MODIFIED:20260730T045931Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260816T143000
-DTSTAMP:20260730T015742Z
+DTSTAMP:20260730T050145Z
 UID:occ-1136@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -193,7 +193,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260729T204357Z
+LAST-MODIFIED:20260730T045931Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
