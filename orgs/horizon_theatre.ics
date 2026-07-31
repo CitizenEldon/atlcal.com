@@ -59,7 +59,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260820T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-534@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -72,7 +72,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -81,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260821T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-535@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -94,7 +94,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -103,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260822T140000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-536@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -116,7 +116,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -125,7 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260822T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-537@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -138,7 +138,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -147,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260823T170000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-538@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -160,7 +160,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -169,7 +169,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260826T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-539@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -182,7 +182,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -191,7 +191,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260827T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-540@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -204,7 +204,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -213,7 +213,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260828T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-541@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -226,7 +226,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -235,7 +235,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260829T140000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-542@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -248,7 +248,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -257,7 +257,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260829T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-543@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -270,7 +270,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -279,7 +279,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260830T170000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-544@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -292,7 +292,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -301,7 +301,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260902T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-545@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -314,7 +314,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -323,7 +323,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260903T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-546@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -336,7 +336,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -345,7 +345,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260904T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-547@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -358,7 +358,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -367,7 +367,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260905T140000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-548@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -380,7 +380,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -389,7 +389,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260905T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-549@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -402,7 +402,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -411,7 +411,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260906T170000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-550@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -424,7 +424,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -433,7 +433,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260909T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-551@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -446,7 +446,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -455,7 +455,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260910T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-552@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -468,7 +468,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -477,7 +477,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260911T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-553@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -490,7 +490,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -499,7 +499,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260912T140000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-554@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -512,7 +512,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -521,7 +521,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260912T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-555@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -534,7 +534,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -543,7 +543,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260913T170000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-556@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -556,7 +556,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -565,7 +565,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260916T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-557@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -578,7 +578,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -587,7 +587,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260917T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-558@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -600,7 +600,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -609,7 +609,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260918T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-559@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -622,7 +622,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -631,7 +631,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260919T140000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-560@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -644,7 +644,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -653,7 +653,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260919T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-561@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -666,7 +666,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -675,7 +675,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holy Chicken Sandwich
 DTSTART;TZID=America/New_York:20260920T170000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-562@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -688,7 +688,7 @@ DESCRIPTION:A new Atlanta comedy: 100 fast-food faithful camp overnight fo
  he saboteur before her flock descends into chaos. Lisa Adler directs for H
  orizon Theatre. Runs through September 20.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -697,7 +697,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261008T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-563@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -710,7 +710,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -719,7 +719,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261009T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-564@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -732,7 +732,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -741,7 +741,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261010T140000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-565@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -754,7 +754,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -763,7 +763,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261010T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-566@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -776,7 +776,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -785,7 +785,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261011T170000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-567@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -798,7 +798,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -807,7 +807,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261014T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-568@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -820,7 +820,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -829,7 +829,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261015T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-569@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -842,7 +842,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -851,7 +851,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261016T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-570@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -864,7 +864,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -873,7 +873,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261017T140000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-571@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -886,7 +886,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -895,7 +895,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261017T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-572@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -908,7 +908,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -917,7 +917,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261018T170000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-573@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -930,7 +930,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -939,7 +939,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261021T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-574@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -952,7 +952,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -961,7 +961,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261022T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-575@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -974,7 +974,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -983,7 +983,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261023T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-576@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -996,7 +996,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1005,7 +1005,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261024T140000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-577@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1018,7 +1018,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1027,7 +1027,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261024T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-578@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1040,7 +1040,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1049,7 +1049,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261025T170000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-579@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1062,7 +1062,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1071,7 +1071,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261028T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-580@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1084,7 +1084,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1093,7 +1093,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261029T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-581@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1106,7 +1106,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1115,7 +1115,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261030T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-582@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1128,7 +1128,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1137,7 +1137,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261031T140000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-583@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1150,7 +1150,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1159,7 +1159,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261031T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-584@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1172,7 +1172,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1181,7 +1181,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261101T170000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-585@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1194,7 +1194,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1203,7 +1203,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261104T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-586@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1216,7 +1216,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1225,7 +1225,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261105T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-587@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1238,7 +1238,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1247,7 +1247,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261106T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-588@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1260,7 +1260,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1269,7 +1269,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261107T140000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-589@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1282,7 +1282,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1291,7 +1291,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261107T200000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-590@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1304,7 +1304,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1313,7 +1313,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Paths To God
 DTSTART;TZID=America/New_York:20261108T170000
-DTSTAMP:20260730T204328Z
+DTSTAMP:20260731T044902Z
 UID:occ-591@atlcal.com
 SEQUENCE:0
 CATEGORIES:Theatre
@@ -1326,7 +1326,7 @@ DESCRIPTION:Five ICU nurses\, $3 million missing\, one scandal: a world-pr
   a job that doesn't love you back. Commissioned through Horizon Theatre's 
  Black Women Speak program\; runs through November 8.
 GEO:33.7620155;-84.3525137
-LAST-MODIFIED:20260730T050011Z
+LAST-MODIFIED:20260731T044727Z
 LOCATION:Horizon Theatre\, 1083 Austin Ave NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
