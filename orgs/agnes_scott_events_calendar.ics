@@ -57,42 +57,43 @@ TZOFFSETTO:-0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:UTA Youth Tennis Camps
-DTSTART;TZID=America/New_York:20260730T083000
-DTEND;TZID=America/New_York:20260730T163000
-DTSTAMP:20260731T044902Z
-UID:occ-8545@atlcal.com
-SEQUENCE:0
-GEO:33.7685056;-84.29453459999999
-LAST-MODIFIED:20260728T204149Z
-LOCATION:Agnes Scott College\, 141 East College Avenue
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://calendar.agnesscott.edu/event/uta-summer-camps-8106
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Welcome to Decatur Fair
 DTSTART;TZID=America/New_York:20260826T170000
 DTEND;TZID=America/New_York:20260826T190000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-8579@atlcal.com
+SEQUENCE:1
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044412Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/welcome-to-decatur-fair26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball vs Piedmont University
+DTSTART;TZID=America/New_York:20260904T180000
+DTEND;TZID=America/New_York:20260904T200000
+DTSTAMP:20260801T044648Z
+UID:occ-18673@atlcal.com
 SEQUENCE:0
 GEO:33.7685056;-84.29453459999999
-LAST-MODIFIED:20260728T204201Z
+LAST-MODIFIED:20260801T044405Z
 LOCATION:Agnes Scott College\, 141 East College Avenue
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://calendar.agnesscott.edu/event/welcome-to-decatur-fair26
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-at-life-university
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Day of Treble: High School Treble Choir Invitational
 DTSTART;TZID=America/New_York:20260910T100000
 DTEND;TZID=America/New_York:20260910T170000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-8599@atlcal.com
 SEQUENCE:0
 GEO:33.7685056;-84.29453459999999
-LAST-MODIFIED:20260731T044626Z
+LAST-MODIFIED:20260801T044405Z
 LOCATION:Agnes Scott College\, 141 East College Avenue
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -100,103 +101,406 @@ URL:https://calendar.agnesscott.edu/event/day_of_treble_high_school_treble
  _choir_invitational
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chapel Worship Service
-DTSTART;TZID=America/New_York:20260913T173000
-DTEND;TZID=America/New_York:20260913T183000
-DTSTAMP:20260731T044902Z
-UID:occ-8608@atlcal.com
+SUMMARY:Agnes Scott College Women's Volleyball at Edward Waters University
+DTSTART;TZID=America/New_York:20260912T130000
+DTEND;TZID=America/New_York:20260912T150000
+DTSTAMP:20260801T044648Z
+UID:occ-18674@atlcal.com
 SEQUENCE:0
-CATEGORIES:Civic & Community Gatherings
 GEO:33.7685056;-84.29453459999999
-LAST-MODIFIED:20260728T204205Z
+LAST-MODIFIED:20260801T044406Z
 LOCATION:Agnes Scott College\, 141 East College Avenue
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-at-edward-waters-university
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chapel Worship Service
+DTSTART;TZID=America/New_York:20260913T173000
+DTEND;TZID=America/New_York:20260913T183000
+DTSTAMP:20260801T044648Z
+UID:occ-8608@atlcal.com
+SEQUENCE:1
+CATEGORIES:Civic & Community Gatherings
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044412Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
 URL:https://calendar.agnesscott.edu/event/chapel-worship-service
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball at Asbury University (Ky.)
+DTSTART;TZID=America/New_York:20260918T180000
+DTEND;TZID=America/New_York:20260918T200000
+DTSTAMP:20260801T044648Z
+UID:occ-18675@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044406Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-vs-asbury-university-ky-1822
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball at Paine College
+DTSTART;TZID=America/New_York:20260922T190000
+DTEND;TZID=America/New_York:20260922T210000
+DTSTAMP:20260801T044648Z
+UID:occ-18676@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044406Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-vs-lagrange-college-4345
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball at Paine College
+DTSTART;TZID=America/New_York:20260924T180000
+DTEND;TZID=America/New_York:20260924T200000
+DTSTAMP:20260801T044648Z
+UID:occ-18677@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044406Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-vs-paine-college-421
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball vs Covenant College (Ga.)
+DTSTART;TZID=America/New_York:20260926T110000
+DTEND;TZID=America/New_York:20260926T130000
+DTSTAMP:20260801T044648Z
+UID:occ-18678@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044407Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-at-covenant-college-ga-6161
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall Luxury Bridal Expo 2026
 DTSTART;TZID=America/New_York:20260926T120000
 DTEND;TZID=America/New_York:20260926T150000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-8625@atlcal.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Markets & Fairs
 GEO:33.7685056;-84.29453459999999
-LAST-MODIFIED:20260728T204205Z
+LAST-MODIFIED:20260801T044412Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/fall-luxury-bridal-expo-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball vs Piedmont University
+DTSTART;TZID=America/New_York:20260926T130000
+DTEND;TZID=America/New_York:20260926T150000
+DTSTAMP:20260801T044648Z
+UID:occ-18679@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044407Z
 LOCATION:Agnes Scott College\, 141 East College Avenue
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://calendar.agnesscott.edu/event/fall-luxury-bridal-expo-2026
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-at-regent-university
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball vs Piedmont University
+DTSTART;TZID=America/New_York:20260929T180000
+DTEND;TZID=America/New_York:20260929T200000
+DTSTAMP:20260801T044648Z
+UID:occ-18680@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044408Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-at-piedmont-university-6573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball vs Clark Atlanta University
+DTSTART;TZID=America/New_York:20260930T180000
+DTEND;TZID=America/New_York:20260930T200000
+DTSTAMP:20260801T044648Z
+UID:occ-18681@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044408Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-at-clark-atlanta-university-1135
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball vs Belhaven University (Mis
+ s.)
+DTSTART;TZID=America/New_York:20261002T173000
+DTEND;TZID=America/New_York:20261002T193000
+DTSTAMP:20260801T044648Z
+UID:occ-18682@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044408Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-at-belhaven-university-miss-5530
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drag Story Hour
 DTSTART;TZID=America/New_York:20261004T120000
 DTEND;TZID=America/New_York:20261004T140000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-14092@atlcal.com
+SEQUENCE:1
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044412Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/drag-story-hour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball at Mississippi University f
+ or Women
+DTSTART;TZID=America/New_York:20261004T120000
+DTEND;TZID=America/New_York:20261004T140000
+DTSTAMP:20260801T044648Z
+UID:occ-18683@atlcal.com
 SEQUENCE:0
 GEO:33.7685056;-84.29453459999999
-LAST-MODIFIED:20260728T204206Z
+LAST-MODIFIED:20260801T044408Z
 LOCATION:Agnes Scott College\, 141 East College Avenue
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://calendar.agnesscott.edu/event/drag-story-hour
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-at-mississippi-university-for-women
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball vs Clark Atlanta University
+DTSTART;TZID=America/New_York:20261013T180000
+DTEND;TZID=America/New_York:20261013T200000
+DTSTAMP:20260801T044648Z
+UID:occ-18684@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044408Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-vs-clark-atlanta-university
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball at Huntingdon College
+DTSTART;TZID=America/New_York:20261016T170000
+DTEND;TZID=America/New_York:20261016T190000
+DTSTAMP:20260801T044648Z
+UID:occ-18685@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044408Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-vs-huntingdon-college-3919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball vs Belhaven University (Mis
+ s.)
+DTSTART;TZID=America/New_York:20261017T130000
+DTEND;TZID=America/New_York:20261017T150000
+DTSTAMP:20260801T044648Z
+UID:occ-18686@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044408Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-vs-belhaven-university-miss-2470
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chapel Worship Service
 DTSTART;TZID=America/New_York:20261018T173000
 DTEND;TZID=America/New_York:20261018T183000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-8657@atlcal.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Civic & Community Gatherings
 GEO:33.7685056;-84.29453459999999
-LAST-MODIFIED:20260728T204206Z
+LAST-MODIFIED:20260801T044412Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/chapel-worship-service
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball vs Covenant College (Ga.)
+DTSTART;TZID=America/New_York:20261020T180000
+DTEND;TZID=America/New_York:20261020T200000
+DTSTAMP:20260801T044648Z
+UID:occ-18687@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044408Z
 LOCATION:Agnes Scott College\, 141 East College Avenue
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://calendar.agnesscott.edu/event/chapel-worship-service
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-vs-covenant-college-ga-3598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball at Huntingdon College
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260801T044648Z
+UID:occ-18688@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044409Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-at-huntingdon-college-764
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball vs Piedmont University
+DTSTART;TZID=America/New_York:20261027T180000
+DTEND;TZID=America/New_York:20261027T200000
+DTSTAMP:20260801T044648Z
+UID:occ-18689@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044409Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-vs-piedmont-university-6748
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball at LaGrange College
+DTSTART;TZID=America/New_York:20261029T190000
+DTEND;TZID=America/New_York:20261029T210000
+DTSTAMP:20260801T044648Z
+UID:occ-18690@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044409Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-at-lagrange-college-5190
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pick-A-Sweet
 DTSTART;TZID=America/New_York:20261030T150000
 DTEND;TZID=America/New_York:20261030T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-8685@atlcal.com
 SEQUENCE:0
 GEO:33.7685056;-84.29453459999999
-LAST-MODIFIED:20260731T044626Z
+LAST-MODIFIED:20260801T044409Z
 LOCATION:Agnes Scott College\, 141 East College Avenue
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://calendar.agnesscott.edu/event/pick-a-sweet
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball at Warren Wilson
+DTSTART;TZID=America/New_York:20261031T100000
+DTEND;TZID=America/New_York:20261031T120000
+DTSTAMP:20260801T044648Z
+UID:occ-18691@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044409Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-at-warren-wilson
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ASCCO Fall Concert
 DTSTART;TZID=America/New_York:20261101T150000
 DTEND;TZID=America/New_York:20261101T163000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-3037@atlcal.com
 SEQUENCE:0
 CATEGORIES:Classical & Instrumental
 GEO:33.7685056;-84.29453459999999
-LAST-MODIFIED:20260731T044626Z
+LAST-MODIFIED:20260801T044410Z
 LOCATION:Agnes Scott College\, 141 East College Avenue
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://calendar.agnesscott.edu/event/ascco_fall_performance
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball at Paine College
+DTSTART;TZID=America/New_York:20261104T180000
+DTEND;TZID=America/New_York:20261104T200000
+DTSTAMP:20260801T044648Z
+UID:occ-18692@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044410Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-at-paine-college-735
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Scott College Women's Volleyball at Asbury University (Ky.)
+DTSTART;TZID=America/New_York:20261107T120000
+DTEND;TZID=America/New_York:20261107T140000
+DTSTAMP:20260801T044648Z
+UID:occ-18693@atlcal.com
+SEQUENCE:0
+GEO:33.7685056;-84.29453459999999
+LAST-MODIFIED:20260801T044410Z
+LOCATION:Agnes Scott College\, 141 East College Avenue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://calendar.agnesscott.edu/event/agnes-scott-college-womens-volle
+ yball-at-asbury-university-ky-7528
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Collegiate Chorale Fall Concert
 DTSTART;TZID=America/New_York:20261119T190000
 DTEND;TZID=America/New_York:20261119T203000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-8704@atlcal.com
 SEQUENCE:0
 CATEGORIES:Choral & Vocal
 GEO:33.7685056;-84.29453459999999
-LAST-MODIFIED:20260731T044626Z
+LAST-MODIFIED:20260801T044411Z
 LOCATION:Agnes Scott College\, 141 East College Avenue
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -206,12 +510,12 @@ BEGIN:VEVENT
 SUMMARY:Joyful Noise Gospel Concert
 DTSTART;TZID=America/New_York:20261202T190000
 DTEND;TZID=America/New_York:20261202T203000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-3038@atlcal.com
 SEQUENCE:0
 CATEGORIES:Choral & Vocal
 GEO:33.7685056;-84.29453459999999
-LAST-MODIFIED:20260731T044626Z
+LAST-MODIFIED:20260801T044411Z
 LOCATION:Agnes Scott College\, 141 East College Avenue
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -221,12 +525,12 @@ BEGIN:VEVENT
 SUMMARY:Jazz & World Percussion Fall Concert
 DTSTART;TZID=America/New_York:20261209T190000
 DTEND;TZID=America/New_York:20261209T203000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-3039@atlcal.com
 SEQUENCE:0
 CATEGORIES:Classical & Instrumental
 GEO:33.7685056;-84.29453459999999
-LAST-MODIFIED:20260731T044626Z
+LAST-MODIFIED:20260801T044412Z
 LOCATION:Agnes Scott College\, 141 East College Avenue
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -237,11 +541,11 @@ BEGIN:VEVENT
 SUMMARY:Faculty Recital: Dawn Marie James
 DTSTART;TZID=America/New_York:20270207T150000
 DTEND;TZID=America/New_York:20270207T160000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-3040@atlcal.com
 SEQUENCE:0
 GEO:33.7685056;-84.29453459999999
-LAST-MODIFIED:20260731T044626Z
+LAST-MODIFIED:20260801T044412Z
 LOCATION:Agnes Scott College\, 141 East College Avenue
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

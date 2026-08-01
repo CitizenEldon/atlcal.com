@@ -58,56 +58,8 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:The Great American Trailer Park Musical
-DTSTART;TZID=America/New_York:20260730T193000
-DTSTAMP:20260731T044902Z
-UID:occ-1414@atlcal.com
-SEQUENCE:0
-CATEGORIES:Musicals
-DESCRIPTION:Nehls and Kelso's trashy\, big-hearted comedy of adultery\, ag
- oraphobia\, and hurricanes at a Florida trailer park.\n\nDavid Nehls and B
- etsy Kelso's musical comedy\, an Off-Broadway hit in 2005\, set at Armadil
- lo Acres trailer park in Starke\, Florida. Jeannie hasn't stepped outside 
- her trailer in twenty years\; her tollbooth-collector husband Norbert is l
- osing patience\; and Pippi\, a stripper hiding out from a marker-huffing e
- x with a gun named Bertha\, has just moved in next door. The affair that f
- ollows kicks up a storm in more ways than one. From New Depot Players\, th
- e Conyers community theatre.
-GEO:33.6671075;-84.0180229
-LAST-MODIFIED:20260731T044732Z
-LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.tix.com/ticket-sales/thenewdepotplayers/5082/event/1473891
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Shop
-DTSTART;TZID=America/New_York:20260730T200000
-DTEND;TZID=America/New_York:20260730T220000
-DTSTAMP:20260731T044902Z
-UID:occ-824@atlcal.com
-SEQUENCE:0
-CATEGORIES:Musicals
-DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
- rist and the plant that drinks blood.\n\nAlan Menken and Howard Ashman's 1
- 982 horror-comedy musical. Seymour Krelborn\, a meek clerk in a failing sk
- id-row flower shop\, finds a strange plant after a solar eclipse and names
-  it Audrey II\, after the co-worker he loves. The plant turns out to run o
- n human blood\, and as it grows\, Seymour's fortunes and its appetite grow
-  together. The score works in early-sixties rock and roll\, doo-wop\, and 
- Motown. Jared Wright and Katherine Coyne direct for Southside Theatre Guil
- d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
- ugust 2.
-GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260731T044744Z
-LOCATION:Southside Theatre Guild\, 20 W Campbellton St
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://tockify.com/stgevents/detail/878/1785456000000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Great American Trailer Park Musical
 DTSTART;TZID=America/New_York:20260731T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1415@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -121,7 +73,7 @@ DESCRIPTION:Nehls and Kelso's trashy\, big-hearted comedy of adultery\, ag
  ollows kicks up a storm in more ways than one. From New Depot Players\, th
  e Conyers community theatre.
 GEO:33.6671075;-84.0180229
-LAST-MODIFIED:20260731T044732Z
+LAST-MODIFIED:20260801T044519Z
 LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -131,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop
 DTSTART;TZID=America/New_York:20260731T200000
 DTEND;TZID=America/New_York:20260731T220000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-825@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -146,7 +98,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
  d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
  ugust 2.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -155,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Great American Trailer Park Musical
 DTSTART;TZID=America/New_York:20260801T150000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1416@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -169,7 +121,7 @@ DESCRIPTION:Nehls and Kelso's trashy\, big-hearted comedy of adultery\, ag
  ollows kicks up a storm in more ways than one. From New Depot Players\, th
  e Conyers community theatre.
 GEO:33.6671075;-84.0180229
-LAST-MODIFIED:20260731T044732Z
+LAST-MODIFIED:20260801T044519Z
 LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -178,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Great American Trailer Park Musical
 DTSTART;TZID=America/New_York:20260801T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1417@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -192,7 +144,7 @@ DESCRIPTION:Nehls and Kelso's trashy\, big-hearted comedy of adultery\, ag
  ollows kicks up a storm in more ways than one. From New Depot Players\, th
  e Conyers community theatre.
 GEO:33.6671075;-84.0180229
-LAST-MODIFIED:20260731T044732Z
+LAST-MODIFIED:20260801T044519Z
 LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -202,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop
 DTSTART;TZID=America/New_York:20260801T200000
 DTEND;TZID=America/New_York:20260801T220000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-826@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -217,7 +169,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
  d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
  ugust 2.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -227,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop
 DTSTART;TZID=America/New_York:20260802T143000
 DTEND;TZID=America/New_York:20260802T183000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-827@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -242,7 +194,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy about a skid-row flo
  d\, Metro Atlanta's oldest all-volunteer community theatre. Runs through A
  ugust 2.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -251,7 +203,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Great American Trailer Park Musical
 DTSTART;TZID=America/New_York:20260802T150000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1418@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -265,7 +217,7 @@ DESCRIPTION:Nehls and Kelso's trashy\, big-hearted comedy of adultery\, ag
  ollows kicks up a storm in more ways than one. From New Depot Players\, th
  e Conyers community theatre.
 GEO:33.6671075;-84.0180229
-LAST-MODIFIED:20260731T044732Z
+LAST-MODIFIED:20260801T044519Z
 LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -274,7 +226,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260807T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1134@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -288,7 +240,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -298,7 +250,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260807T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-680@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -311,7 +263,7 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260731T044733Z
+LAST-MODIFIED:20260801T044520Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -320,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260808T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1137@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -334,7 +286,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -344,7 +296,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260808T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-681@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -357,7 +309,7 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260731T044733Z
+LAST-MODIFIED:20260801T044520Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -366,7 +318,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260809T143000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1139@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -380,7 +332,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -390,7 +342,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260809T150000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-682@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -403,7 +355,7 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260731T044733Z
+LAST-MODIFIED:20260801T044520Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -412,7 +364,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Shook Up
 DTSTART;TZID=America/New_York:20260813T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-635@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -427,7 +379,7 @@ DESCRIPTION:The Elvis jukebox musical: a leather-clad roustabout shakes up
  "Hound Dog\," and "Can't Help Falling in Love." From Marietta Theatre Comp
  any\; the show premiered on Broadway in 2005.
 GEO:33.9521247;-84.5505287
-LAST-MODIFIED:20260731T044730Z
+LAST-MODIFIED:20260801T044516Z
 LOCATION:Marietta's Theatre on the Square\, 11 Whitlock Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -436,7 +388,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260814T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1138@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -450,7 +402,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -460,7 +412,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Shook Up
 DTSTART;TZID=America/New_York:20260814T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-636@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -475,7 +427,7 @@ DESCRIPTION:The Elvis jukebox musical: a leather-clad roustabout shakes up
  "Hound Dog\," and "Can't Help Falling in Love." From Marietta Theatre Comp
  any\; the show premiered on Broadway in 2005.
 GEO:33.9521247;-84.5505287
-LAST-MODIFIED:20260731T044730Z
+LAST-MODIFIED:20260801T044516Z
 LOCATION:Marietta's Theatre on the Square\, 11 Whitlock Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -484,7 +436,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260814T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-683@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -497,7 +449,7 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260731T044733Z
+LAST-MODIFIED:20260801T044520Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -506,7 +458,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Shook Up
 DTSTART;TZID=America/New_York:20260815T140000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-637@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -521,7 +473,7 @@ DESCRIPTION:The Elvis jukebox musical: a leather-clad roustabout shakes up
  "Hound Dog\," and "Can't Help Falling in Love." From Marietta Theatre Comp
  any\; the show premiered on Broadway in 2005.
 GEO:33.9521247;-84.5505287
-LAST-MODIFIED:20260731T044730Z
+LAST-MODIFIED:20260801T044516Z
 LOCATION:Marietta's Theatre on the Square\, 11 Whitlock Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -530,7 +482,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260815T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1135@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -544,7 +496,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -554,7 +506,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Shook Up
 DTSTART;TZID=America/New_York:20260815T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-638@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -569,7 +521,7 @@ DESCRIPTION:The Elvis jukebox musical: a leather-clad roustabout shakes up
  "Hound Dog\," and "Can't Help Falling in Love." From Marietta Theatre Comp
  any\; the show premiered on Broadway in 2005.
 GEO:33.9521247;-84.5505287
-LAST-MODIFIED:20260731T044730Z
+LAST-MODIFIED:20260801T044516Z
 LOCATION:Marietta's Theatre on the Square\, 11 Whitlock Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -578,7 +530,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260815T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-684@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -591,7 +543,7 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260731T044733Z
+LAST-MODIFIED:20260801T044520Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -600,7 +552,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Shook Up
 DTSTART;TZID=America/New_York:20260816T140000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-639@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -615,7 +567,7 @@ DESCRIPTION:The Elvis jukebox musical: a leather-clad roustabout shakes up
  "Hound Dog\," and "Can't Help Falling in Love." From Marietta Theatre Comp
  any\; the show premiered on Broadway in 2005.
 GEO:33.9521247;-84.5505287
-LAST-MODIFIED:20260731T044730Z
+LAST-MODIFIED:20260801T044516Z
 LOCATION:Marietta's Theatre on the Square\, 11 Whitlock Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -624,7 +576,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H.M.S. Pinafore
 DTSTART;TZID=America/New_York:20260816T143000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1136@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -638,7 +590,7 @@ DESCRIPTION:Gilbert and Sullivan's 1878 comic opera: a captain's daughter\
  n that turns the whole ship upside down. From the Front Porch Players\, a 
  Clayton County community theatre\; runs through August 16.
 GEO:33.5144767;-84.3301925
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:First Presbyterian Church of Jonesboro\, 1842 Lake Jodeco Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -648,7 +600,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260816T150000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-685@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -661,7 +613,7 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260731T044733Z
+LAST-MODIFIED:20260801T044520Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -670,7 +622,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260818T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-3021@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -685,7 +637,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -694,7 +646,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Shook Up
 DTSTART;TZID=America/New_York:20260820T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-640@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -709,7 +661,7 @@ DESCRIPTION:The Elvis jukebox musical: a leather-clad roustabout shakes up
  "Hound Dog\," and "Can't Help Falling in Love." From Marietta Theatre Comp
  any\; the show premiered on Broadway in 2005.
 GEO:33.9521247;-84.5505287
-LAST-MODIFIED:20260731T044730Z
+LAST-MODIFIED:20260801T044516Z
 LOCATION:Marietta's Theatre on the Square\, 11 Whitlock Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -718,7 +670,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260820T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1669@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -733,7 +685,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -742,7 +694,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Shook Up
 DTSTART;TZID=America/New_York:20260821T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-641@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -757,7 +709,7 @@ DESCRIPTION:The Elvis jukebox musical: a leather-clad roustabout shakes up
  "Hound Dog\," and "Can't Help Falling in Love." From Marietta Theatre Comp
  any\; the show premiered on Broadway in 2005.
 GEO:33.9521247;-84.5505287
-LAST-MODIFIED:20260731T044730Z
+LAST-MODIFIED:20260801T044516Z
 LOCATION:Marietta's Theatre on the Square\, 11 Whitlock Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -766,7 +718,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260821T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-686@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -779,7 +731,7 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260731T044733Z
+LAST-MODIFIED:20260801T044520Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -788,7 +740,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260821T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1670@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -803,7 +755,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -812,7 +764,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Shook Up
 DTSTART;TZID=America/New_York:20260822T140000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-642@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -827,7 +779,7 @@ DESCRIPTION:The Elvis jukebox musical: a leather-clad roustabout shakes up
  "Hound Dog\," and "Can't Help Falling in Love." From Marietta Theatre Comp
  any\; the show premiered on Broadway in 2005.
 GEO:33.9521247;-84.5505287
-LAST-MODIFIED:20260731T044730Z
+LAST-MODIFIED:20260801T044516Z
 LOCATION:Marietta's Theatre on the Square\, 11 Whitlock Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -836,7 +788,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260822T143000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1671@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -851,7 +803,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -860,7 +812,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260822T150000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-687@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -873,7 +825,7 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260731T044733Z
+LAST-MODIFIED:20260801T044520Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -882,7 +834,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Shook Up
 DTSTART;TZID=America/New_York:20260822T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-643@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -897,7 +849,7 @@ DESCRIPTION:The Elvis jukebox musical: a leather-clad roustabout shakes up
  "Hound Dog\," and "Can't Help Falling in Love." From Marietta Theatre Comp
  any\; the show premiered on Broadway in 2005.
 GEO:33.9521247;-84.5505287
-LAST-MODIFIED:20260731T044730Z
+LAST-MODIFIED:20260801T044516Z
 LOCATION:Marietta's Theatre on the Square\, 11 Whitlock Ave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -906,7 +858,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260822T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-688@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -919,7 +871,7 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260731T044733Z
+LAST-MODIFIED:20260801T044520Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -928,7 +880,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260822T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1672@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -943,7 +895,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -952,7 +904,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260823T143000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1673@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -967,7 +919,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -976,7 +928,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260823T150000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-689@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -989,7 +941,7 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260731T044733Z
+LAST-MODIFIED:20260801T044520Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -998,7 +950,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260826T100000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1674@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1013,7 +965,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1022,7 +974,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260827T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1675@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1037,7 +989,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1046,7 +998,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260828T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-690@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1059,7 +1011,7 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260731T044733Z
+LAST-MODIFIED:20260801T044520Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1068,7 +1020,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260828T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1676@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1083,7 +1035,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1092,7 +1044,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260829T143000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1677@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1107,7 +1059,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1116,7 +1068,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260829T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-691@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1129,7 +1081,7 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260731T044733Z
+LAST-MODIFIED:20260801T044520Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1138,7 +1090,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260829T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1678@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1153,7 +1105,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1162,7 +1114,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260830T143000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1679@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1177,7 +1129,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1186,7 +1138,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sweeney Todd: The Demon Barber of Fleet Street (2026)
 DTSTART;TZID=America/New_York:20260830T150000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-692@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1199,7 +1151,7 @@ DESCRIPTION:Sondheim's 1979 revenge musical: a wronged barber\, a corrupt
  le\, start finding their way into the pies. Charlie Miller directs for Ons
  tage Atlanta\; runs through August 30.
 GEO:33.7932167;-84.2681503
-LAST-MODIFIED:20260731T044733Z
+LAST-MODIFIED:20260801T044520Z
 LOCATION:OnStage Atlanta\, 3041 N Decatur Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1208,7 +1160,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260902T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1321@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1220,7 +1172,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1230,7 +1182,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260903T130000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1322@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1242,7 +1194,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1252,7 +1204,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260903T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1323@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1264,7 +1216,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1274,7 +1226,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260903T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1680@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1289,7 +1241,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1298,7 +1250,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260904T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1324@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1310,7 +1262,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1320,7 +1272,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260904T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-928@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1336,7 +1288,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260731T044746Z
+LAST-MODIFIED:20260801T044534Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1346,7 +1298,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260904T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1681@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1361,7 +1313,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1370,7 +1322,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260905T140000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1325@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1382,7 +1334,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1392,7 +1344,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260905T143000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1682@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1407,7 +1359,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1416,7 +1368,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260905T150000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-929@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1432,7 +1384,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260731T044746Z
+LAST-MODIFIED:20260801T044534Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1442,7 +1394,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260905T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-930@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1458,7 +1410,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260731T044746Z
+LAST-MODIFIED:20260801T044534Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1468,7 +1420,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260905T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1326@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1480,7 +1432,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1490,7 +1442,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260905T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1683@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1505,7 +1457,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1514,7 +1466,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260906T130000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1327@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1526,7 +1478,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1536,7 +1488,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260906T143000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1684@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1551,7 +1503,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1560,7 +1512,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260906T150000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-931@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1576,7 +1528,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260731T044746Z
+LAST-MODIFIED:20260801T044534Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1586,7 +1538,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260906T190000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1328@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1598,7 +1550,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1608,7 +1560,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260908T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1329@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1620,7 +1572,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1630,7 +1582,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260909T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1330@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1642,7 +1594,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1652,7 +1604,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260910T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-932@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1668,7 +1620,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260731T044746Z
+LAST-MODIFIED:20260801T044534Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1678,7 +1630,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260910T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1331@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1690,7 +1642,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1700,7 +1652,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260910T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1685@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1715,7 +1667,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1725,7 +1677,7 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260911T193000
 DTEND;TZID=America/New_York:20260911T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1251@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1737,7 +1689,7 @@ DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  nd find their small moments adding up in unexpected ways. Presented by Arc
  adia Theater\, the Alpharetta community company.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1746,7 +1698,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260911T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1332@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1758,7 +1710,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1768,7 +1720,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260911T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-933@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1784,7 +1736,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260731T044746Z
+LAST-MODIFIED:20260801T044534Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1794,7 +1746,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260911T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1686@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1809,7 +1761,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1818,7 +1770,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260912T140000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1333@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1830,7 +1782,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1840,7 +1792,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260912T143000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1687@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1855,7 +1807,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1864,7 +1816,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260912T150000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-934@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1880,7 +1832,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260731T044746Z
+LAST-MODIFIED:20260801T044534Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1891,7 +1843,7 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260912T193000
 DTEND;TZID=America/New_York:20260912T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1252@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1903,7 +1855,7 @@ DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  nd find their small moments adding up in unexpected ways. Presented by Arc
  adia Theater\, the Alpharetta community company.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1912,7 +1864,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260912T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-935@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1928,7 +1880,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260731T044746Z
+LAST-MODIFIED:20260801T044534Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1938,7 +1890,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260912T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1334@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1950,7 +1902,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1960,7 +1912,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260912T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1688@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1975,7 +1927,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1984,7 +1936,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260913T130000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1335@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -1996,7 +1948,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2007,7 +1959,7 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260913T140000
 DTEND;TZID=America/New_York:20260913T160000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1253@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2019,7 +1971,7 @@ DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  nd find their small moments adding up in unexpected ways. Presented by Arc
  adia Theater\, the Alpharetta community company.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2028,7 +1980,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;TZID=America/New_York:20260913T143000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1689@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2043,7 +1995,7 @@ DESCRIPTION:Strouse and Charnin's 1977 Tony-winning orphan-meets-billionai
   directs for Aurora Theatre\, with company co-founder Ann-Carol Pence lead
  ing the music. Runs through September 13.
 GEO:33.9568797;-83.9880958
-LAST-MODIFIED:20260731T044635Z
+LAST-MODIFIED:20260801T044422Z
 LOCATION:Lawrenceville Arts Center\, 125 N Clayton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2052,7 +2004,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260913T150000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-936@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2068,7 +2020,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260731T044746Z
+LAST-MODIFIED:20260801T044534Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2078,7 +2030,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260913T190000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1336@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2090,7 +2042,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2100,7 +2052,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260915T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1337@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2112,7 +2064,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2122,7 +2074,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260916T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1338@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2134,7 +2086,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2144,7 +2096,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260917T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-937@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2160,7 +2112,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260731T044746Z
+LAST-MODIFIED:20260801T044534Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2170,7 +2122,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260917T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1339@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2182,7 +2134,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2193,7 +2145,7 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260918T193000
 DTEND;TZID=America/New_York:20260918T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1254@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2205,7 +2157,7 @@ DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  nd find their small moments adding up in unexpected ways. Presented by Arc
  adia Theater\, the Alpharetta community company.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2214,7 +2166,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260918T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1340@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2226,7 +2178,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2236,7 +2188,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260918T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-938@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2252,7 +2204,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260731T044746Z
+LAST-MODIFIED:20260801T044534Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2262,7 +2214,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260919T140000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1341@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2274,7 +2226,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2284,7 +2236,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260919T150000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-939@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2300,7 +2252,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260731T044746Z
+LAST-MODIFIED:20260801T044534Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2311,7 +2263,7 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260919T193000
 DTEND;TZID=America/New_York:20260919T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1255@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2323,7 +2275,7 @@ DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  nd find their small moments adding up in unexpected ways. Presented by Arc
  adia Theater\, the Alpharetta community company.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2332,7 +2284,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260919T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-940@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2348,7 +2300,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260731T044746Z
+LAST-MODIFIED:20260801T044534Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2358,7 +2310,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260919T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1342@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2370,7 +2322,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2380,7 +2332,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260920T130000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1343@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2392,7 +2344,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2403,7 +2355,7 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260920T140000
 DTEND;TZID=America/New_York:20260920T160000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1256@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2415,7 +2367,7 @@ DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  nd find their small moments adding up in unexpected ways. Presented by Arc
  adia Theater\, the Alpharetta community company.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2424,7 +2376,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parade
 DTSTART;TZID=America/New_York:20260920T150000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-941@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2440,7 +2392,7 @@ DESCRIPTION:Uhry and Brown's Tony-winning musical of the 1913 Leo Frank ca
   with Frank's 1915 lynching in Marietta\, the very town where this perform
  ance is staged.
 GEO:33.9536122;-84.5492054
-LAST-MODIFIED:20260731T044746Z
+LAST-MODIFIED:20260801T044534Z
 LOCATION:The Strand Theatre\, 117 N Park Square
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2450,7 +2402,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton
 DTSTART;TZID=America/New_York:20260920T190000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1344@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2462,7 +2414,7 @@ DESCRIPTION:Lin-Manuel Miranda's hip-hop biography of Alexander Hamilton\,
  Tony Awards and the Pulitzer Prize for Drama\, with direction by Thomas Ka
  il and choreography by Andy Blankenbuehler. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2473,7 +2425,7 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260925T193000
 DTEND;TZID=America/New_York:20260925T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1257@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2485,7 +2437,7 @@ DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  nd find their small moments adding up in unexpected ways. Presented by Arc
  adia Theater\, the Alpharetta community company.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2495,7 +2447,7 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260926T193000
 DTEND;TZID=America/New_York:20260926T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1258@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2507,7 +2459,7 @@ DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  nd find their small moments adding up in unexpected ways. Presented by Arc
  adia Theater\, the Alpharetta community company.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2517,7 +2469,7 @@ BEGIN:VEVENT
 SUMMARY:Ordinary Days
 DTSTART;TZID=America/New_York:20260927T140000
 DTEND;TZID=America/New_York:20260927T160000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1259@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2529,7 +2481,7 @@ DESCRIPTION:Adam Gwon's sung-through musical about four New Yorkers chasin
  nd find their small moments adding up in unexpected ways. Presented by Arc
  adia Theater\, the Alpharetta community company.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2539,12 +2491,12 @@ BEGIN:VEVENT
 SUMMARY:Pepito and The Trash Cans\, A Homemade Musical
 DTSTART;TZID=America/New_York:20261009T100000
 DTEND;TZID=America/New_York:20261009T120000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-6469@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
 GEO:33.580809;-85.0767221
-LAST-MODIFIED:20260731T044639Z
+LAST-MODIFIED:20260801T044426Z
 LOCATION:Carrollton Center for the Arts\, 251 Alabama Street
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2555,7 +2507,7 @@ BEGIN:VEVENT
 SUMMARY:Ride the Cyclone
 DTSTART;TZID=America/New_York:20261016T193000
 DTEND;TZID=America/New_York:20261016T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1378@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2569,7 +2521,7 @@ DESCRIPTION:Six choir kids die on a roller coaster and compete in song for
  cast for the world premiere recording. A community production from the Hen
  ry Players.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2579,7 +2531,7 @@ BEGIN:VEVENT
 SUMMARY:Cotton Patch Gospel: Season 50 Return Engagement
 DTSTART;TZID=America/New_York:20261017T143000
 DTEND;TZID=America/New_York:20261017T163000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-967@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2593,7 +2545,7 @@ DESCRIPTION:Matthew's Gospel retold in small-town Georgia with Harry Chapi
  gagement in Theatrical Outfit's 50th anniversary season\, with performance
  s through October 18.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260731T044749Z
+LAST-MODIFIED:20260801T044536Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2602,7 +2554,7 @@ BEGIN:VEVENT
 SUMMARY:Ride the Cyclone
 DTSTART;TZID=America/New_York:20261017T193000
 DTEND;TZID=America/New_York:20261017T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1379@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2616,7 +2568,7 @@ DESCRIPTION:Six choir kids die on a roller coaster and compete in song for
  cast for the world premiere recording. A community production from the Hen
  ry Players.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2626,7 +2578,7 @@ BEGIN:VEVENT
 SUMMARY:Cotton Patch Gospel: Season 50 Return Engagement
 DTSTART;TZID=America/New_York:20261018T143000
 DTEND;TZID=America/New_York:20261018T163000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-968@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2640,7 +2592,7 @@ DESCRIPTION:Matthew's Gospel retold in small-town Georgia with Harry Chapi
  gagement in Theatrical Outfit's 50th anniversary season\, with performance
  s through October 18.
 GEO:33.757035;-84.389486
-LAST-MODIFIED:20260731T044749Z
+LAST-MODIFIED:20260801T044536Z
 LOCATION:Theatrical Outfit\, 84 Luckie St NW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2649,7 +2601,7 @@ BEGIN:VEVENT
 SUMMARY:Ride the Cyclone
 DTSTART;TZID=America/New_York:20261018T143000
 DTEND;TZID=America/New_York:20261018T163000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1380@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2663,7 +2615,7 @@ DESCRIPTION:Six choir kids die on a roller coaster and compete in song for
  cast for the world premiere recording. A community production from the Hen
  ry Players.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2673,7 +2625,7 @@ BEGIN:VEVENT
 SUMMARY:Ride the Cyclone
 DTSTART;TZID=America/New_York:20261023T193000
 DTEND;TZID=America/New_York:20261023T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1381@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2687,7 +2639,7 @@ DESCRIPTION:Six choir kids die on a roller coaster and compete in song for
  cast for the world premiere recording. A community production from the Hen
  ry Players.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2697,7 +2649,7 @@ BEGIN:VEVENT
 SUMMARY:Ride the Cyclone
 DTSTART;TZID=America/New_York:20261024T143000
 DTEND;TZID=America/New_York:20261024T163000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1382@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2711,7 +2663,7 @@ DESCRIPTION:Six choir kids die on a roller coaster and compete in song for
  cast for the world premiere recording. A community production from the Hen
  ry Players.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2721,7 +2673,7 @@ BEGIN:VEVENT
 SUMMARY:Ride the Cyclone
 DTSTART;TZID=America/New_York:20261025T143000
 DTEND;TZID=America/New_York:20261025T163000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1383@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2735,7 +2687,7 @@ DESCRIPTION:Six choir kids die on a roller coaster and compete in song for
  cast for the world premiere recording. A community production from the Hen
  ry Players.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2744,7 +2696,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Buena Vista Social Club
 DTSTART;TZID=America/New_York:20261027T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1348@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2760,7 +2712,7 @@ DESCRIPTION:National touring production of the Broadway musical behind Cub
  pecial Tony Award for its live onstage musicians and a Grammy for its cast
   album. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2770,7 +2722,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Buena Vista Social Club
 DTSTART;TZID=America/New_York:20261028T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1349@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2786,7 +2738,7 @@ DESCRIPTION:National touring production of the Broadway musical behind Cub
  pecial Tony Award for its live onstage musicians and a Grammy for its cast
   album. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2796,7 +2748,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Buena Vista Social Club
 DTSTART;TZID=America/New_York:20261029T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1350@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2812,7 +2764,7 @@ DESCRIPTION:National touring production of the Broadway musical behind Cub
  pecial Tony Award for its live onstage musicians and a Grammy for its cast
   album. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2823,12 +2775,12 @@ BEGIN:VEVENT
 SUMMARY:Rocky Horror Picture Show: Shadow Cast Performance
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-8522@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
 GEO:34.1070667;-84.0353528
-LAST-MODIFIED:20260731T044745Z
+LAST-MODIFIED:20260801T044533Z
 LOCATION:The Eagle Theater\, 5029 W Broad St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2838,7 +2790,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Buena Vista Social Club
 DTSTART;TZID=America/New_York:20261030T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1351@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2854,7 +2806,7 @@ DESCRIPTION:National touring production of the Broadway musical behind Cub
  pecial Tony Award for its live onstage musicians and a Grammy for its cast
   album. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2864,7 +2816,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Buena Vista Social Club
 DTSTART;TZID=America/New_York:20261031T140000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1352@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2880,7 +2832,7 @@ DESCRIPTION:National touring production of the Broadway musical behind Cub
  pecial Tony Award for its live onstage musicians and a Grammy for its cast
   album. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2890,7 +2842,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Buena Vista Social Club
 DTSTART;TZID=America/New_York:20261031T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1353@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2906,7 +2858,7 @@ DESCRIPTION:National touring production of the Broadway musical behind Cub
  pecial Tony Award for its live onstage musicians and a Grammy for its cast
   album. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2916,7 +2868,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Buena Vista Social Club
 DTSTART;TZID=America/New_York:20261101T130000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1354@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2932,7 +2884,7 @@ DESCRIPTION:National touring production of the Broadway musical behind Cub
  pecial Tony Award for its live onstage musicians and a Grammy for its cast
   album. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2942,7 +2894,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Buena Vista Social Club
 DTSTART;TZID=America/New_York:20261101T183000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1355@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2958,7 +2910,7 @@ DESCRIPTION:National touring production of the Broadway musical behind Cub
  pecial Tony Award for its live onstage musicians and a Grammy for its cast
   album. A national touring production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2969,7 +2921,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night
 DTSTART;TZID=America/New_York:20261107T193000
 DTEND;TZID=America/New_York:20261107T220100
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-370@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -2983,7 +2935,7 @@ DESCRIPTION:Kevin Puts's Pulitzer-winning opera about the 1914 Christmas t
  tzer in 2012. Sung in English\, French\, German\, Italian\, and Latin. Fro
  m The Atlanta Opera\; runs through November 15.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2993,7 +2945,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night
 DTSTART;TZID=America/New_York:20261110T193000
 DTEND;TZID=America/New_York:20261110T220100
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-371@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3007,7 +2959,7 @@ DESCRIPTION:Kevin Puts's Pulitzer-winning opera about the 1914 Christmas t
  tzer in 2012. Sung in English\, French\, German\, Italian\, and Latin. Fro
  m The Atlanta Opera\; runs through November 15.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3017,7 +2969,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night
 DTSTART;TZID=America/New_York:20261113T193000
 DTEND;TZID=America/New_York:20261113T220100
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-372@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3031,7 +2983,7 @@ DESCRIPTION:Kevin Puts's Pulitzer-winning opera about the 1914 Christmas t
  tzer in 2012. Sung in English\, French\, German\, Italian\, and Latin. Fro
  m The Atlanta Opera\; runs through November 15.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3041,7 +2993,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night
 DTSTART;TZID=America/New_York:20261115T150000
 DTEND;TZID=America/New_York:20261115T173100
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-373@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3055,7 +3007,7 @@ DESCRIPTION:Kevin Puts's Pulitzer-winning opera about the 1914 Christmas t
  tzer in 2012. Sung in English\, French\, German\, Italian\, and Latin. Fro
  m The Atlanta Opera\; runs through November 15.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3064,7 +3016,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Death Becomes Her
 DTSTART;TZID=America/New_York:20261117T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1356@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3078,7 +3030,7 @@ DESCRIPTION:The Broadway musical of the 1992 camp classic: two frenemies\,
  oreographs. Variety called it "a laugh-filled\, tuneful musical to die for
  ."
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3088,7 +3040,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Death Becomes Her
 DTSTART;TZID=America/New_York:20261118T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1357@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3102,7 +3054,7 @@ DESCRIPTION:The Broadway musical of the 1992 camp classic: two frenemies\,
  oreographs. Variety called it "a laugh-filled\, tuneful musical to die for
  ."
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3112,7 +3064,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Death Becomes Her
 DTSTART;TZID=America/New_York:20261119T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1358@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3126,7 +3078,7 @@ DESCRIPTION:The Broadway musical of the 1992 camp classic: two frenemies\,
  oreographs. Variety called it "a laugh-filled\, tuneful musical to die for
  ."
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3136,7 +3088,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Death Becomes Her
 DTSTART;TZID=America/New_York:20261120T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1359@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3150,7 +3102,7 @@ DESCRIPTION:The Broadway musical of the 1992 camp classic: two frenemies\,
  oreographs. Variety called it "a laugh-filled\, tuneful musical to die for
  ."
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3160,7 +3112,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Death Becomes Her
 DTSTART;TZID=America/New_York:20261121T140000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1360@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3174,7 +3126,7 @@ DESCRIPTION:The Broadway musical of the 1992 camp classic: two frenemies\,
  oreographs. Variety called it "a laugh-filled\, tuneful musical to die for
  ."
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3184,7 +3136,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Death Becomes Her
 DTSTART;TZID=America/New_York:20261121T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1361@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3198,7 +3150,7 @@ DESCRIPTION:The Broadway musical of the 1992 camp classic: two frenemies\,
  oreographs. Variety called it "a laugh-filled\, tuneful musical to die for
  ."
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3208,7 +3160,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Death Becomes Her
 DTSTART;TZID=America/New_York:20261122T130000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1362@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3222,7 +3174,7 @@ DESCRIPTION:The Broadway musical of the 1992 camp classic: two frenemies\,
  oreographs. Variety called it "a laugh-filled\, tuneful musical to die for
  ."
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3232,7 +3184,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Death Becomes Her
 DTSTART;TZID=America/New_York:20261122T183000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1363@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3246,7 +3198,7 @@ DESCRIPTION:The Broadway musical of the 1992 camp classic: two frenemies\,
  oreographs. Variety called it "a laugh-filled\, tuneful musical to die for
  ."
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3257,7 +3209,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261204T193000
 DTEND;TZID=America/New_York:20261204T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1269@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3271,7 +3223,7 @@ DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  nstage\, in a score The New York Times called "likable" and "perky." From 
  Arcadia Theater.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3281,7 +3233,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261205T193000
 DTEND;TZID=America/New_York:20261205T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1270@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3295,7 +3247,7 @@ DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  nstage\, in a score The New York Times called "likable" and "perky." From 
  Arcadia Theater.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3305,7 +3257,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261205T193000
 DTEND;TZID=America/New_York:20261205T220000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1612@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3318,7 +3270,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3328,7 +3280,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261206T140000
 DTEND;TZID=America/New_York:20261206T160000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1271@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3342,7 +3294,7 @@ DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  nstage\, in a score The New York Times called "likable" and "perky." From 
  Arcadia Theater.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3352,7 +3304,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261206T143000
 DTEND;TZID=America/New_York:20261206T170000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1613@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3365,7 +3317,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3375,7 +3327,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261210T193000
 DTEND;TZID=America/New_York:20261210T220000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1614@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3388,7 +3340,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3398,7 +3350,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261211T193000
 DTEND;TZID=America/New_York:20261211T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1272@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3412,7 +3364,7 @@ DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  nstage\, in a score The New York Times called "likable" and "perky." From 
  Arcadia Theater.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3422,7 +3374,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261211T193000
 DTEND;TZID=America/New_York:20261211T220000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1615@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3435,7 +3387,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3445,7 +3397,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261212T143000
 DTEND;TZID=America/New_York:20261212T170000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1616@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3458,7 +3410,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3468,7 +3420,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261212T193000
 DTEND;TZID=America/New_York:20261212T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1273@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3482,7 +3434,7 @@ DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  nstage\, in a score The New York Times called "likable" and "perky." From 
  Arcadia Theater.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3492,7 +3444,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261212T193000
 DTEND;TZID=America/New_York:20261212T220000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1617@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3505,7 +3457,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3515,7 +3467,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261213T140000
 DTEND;TZID=America/New_York:20261213T160000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1274@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3529,7 +3481,7 @@ DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  nstage\, in a score The New York Times called "likable" and "perky." From 
  Arcadia Theater.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3539,7 +3491,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261213T143000
 DTEND;TZID=America/New_York:20261213T170000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1618@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3552,7 +3504,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3561,7 +3513,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mrs. Doubtfire
 DTSTART;TZID=America/New_York:20261215T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1364@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3575,7 +3527,7 @@ DESCRIPTION:The 1993 Robin Williams film as a Broadway musical: divorced d
  y winner Jerry Zaks directs. A national touring production\, presented as 
  part of the Broadway in Atlanta series.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3585,7 +3537,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mrs. Doubtfire
 DTSTART;TZID=America/New_York:20261216T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1365@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3599,7 +3551,7 @@ DESCRIPTION:The 1993 Robin Williams film as a Broadway musical: divorced d
  y winner Jerry Zaks directs. A national touring production\, presented as 
  part of the Broadway in Atlanta series.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3609,7 +3561,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mrs. Doubtfire
 DTSTART;TZID=America/New_York:20261217T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1366@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3623,7 +3575,7 @@ DESCRIPTION:The 1993 Robin Williams film as a Broadway musical: divorced d
  y winner Jerry Zaks directs. A national touring production\, presented as 
  part of the Broadway in Atlanta series.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3634,7 +3586,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261217T193000
 DTEND;TZID=America/New_York:20261217T220000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1619@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3647,7 +3599,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3657,7 +3609,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261218T193000
 DTEND;TZID=America/New_York:20261218T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1275@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3671,7 +3623,7 @@ DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  nstage\, in a score The New York Times called "likable" and "perky." From 
  Arcadia Theater.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3680,7 +3632,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mrs. Doubtfire
 DTSTART;TZID=America/New_York:20261218T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1367@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3694,7 +3646,7 @@ DESCRIPTION:The 1993 Robin Williams film as a Broadway musical: divorced d
  y winner Jerry Zaks directs. A national touring production\, presented as 
  part of the Broadway in Atlanta series.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3705,7 +3657,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261218T193000
 DTEND;TZID=America/New_York:20261218T220000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1620@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3718,7 +3670,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3727,7 +3679,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mrs. Doubtfire
 DTSTART;TZID=America/New_York:20261219T140000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1368@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3741,7 +3693,7 @@ DESCRIPTION:The 1993 Robin Williams film as a Broadway musical: divorced d
  y winner Jerry Zaks directs. A national touring production\, presented as 
  part of the Broadway in Atlanta series.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3752,7 +3704,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261219T143000
 DTEND;TZID=America/New_York:20261219T170000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1621@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3765,7 +3717,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3775,7 +3727,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261219T193000
 DTEND;TZID=America/New_York:20261219T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1276@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3789,7 +3741,7 @@ DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  nstage\, in a score The New York Times called "likable" and "perky." From 
  Arcadia Theater.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3798,7 +3750,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mrs. Doubtfire
 DTSTART;TZID=America/New_York:20261219T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1369@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3812,7 +3764,7 @@ DESCRIPTION:The 1993 Robin Williams film as a Broadway musical: divorced d
  y winner Jerry Zaks directs. A national touring production\, presented as 
  part of the Broadway in Atlanta series.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3823,7 +3775,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261219T193000
 DTEND;TZID=America/New_York:20261219T220000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1622@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3836,7 +3788,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3845,7 +3797,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mrs. Doubtfire
 DTSTART;TZID=America/New_York:20261220T130000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1370@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3859,7 +3811,7 @@ DESCRIPTION:The 1993 Robin Williams film as a Broadway musical: divorced d
  y winner Jerry Zaks directs. A national touring production\, presented as 
  part of the Broadway in Atlanta series.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3870,7 +3822,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story: The Musical
 DTSTART;TZID=America/New_York:20261220T140000
 DTEND;TZID=America/New_York:20261220T160000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1277@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3884,7 +3836,7 @@ DESCRIPTION:Ralphie's quest for a Red Ryder BB gun\, sung: the Pasek and P
  nstage\, in a score The New York Times called "likable" and "perky." From 
  Arcadia Theater.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3894,7 +3846,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Wonderettes
 DTSTART;TZID=America/New_York:20261220T143000
 DTEND;TZID=America/New_York:20261220T170000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1623@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3907,7 +3859,7 @@ DESCRIPTION:Roger Bean's holiday sequel to The Marvelous Wonderettes: girl
  ndards like "Santa Claus Is Comin' to Town\," "Jingle Bell Rock\," and "Ru
  n\, Rudolph\, Run." From Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3916,7 +3868,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mrs. Doubtfire
 DTSTART;TZID=America/New_York:20261220T183000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1371@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3930,7 +3882,7 @@ DESCRIPTION:The 1993 Robin Williams film as a Broadway musical: divorced d
  y winner Jerry Zaks directs. A national touring production\, presented as 
  part of the Broadway in Atlanta series.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3940,7 +3892,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BOOP! The Musical
 DTSTART;TZID=America/New_York:20270112T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1720@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3954,7 +3906,7 @@ DESCRIPTION:Betty Boop trades her black-and-white cartoon world for presen
  p hitmaker David Foster and a book by Bob Martin (The Drowsy Chaperone). A
   national touring production of the musical that ran on Broadway in 2025.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3964,7 +3916,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BOOP! The Musical
 DTSTART;TZID=America/New_York:20270113T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1721@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -3978,7 +3930,7 @@ DESCRIPTION:Betty Boop trades her black-and-white cartoon world for presen
  p hitmaker David Foster and a book by Bob Martin (The Drowsy Chaperone). A
   national touring production of the musical that ran on Broadway in 2025.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3988,7 +3940,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BOOP! The Musical
 DTSTART;TZID=America/New_York:20270114T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1722@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4002,7 +3954,7 @@ DESCRIPTION:Betty Boop trades her black-and-white cartoon world for presen
  p hitmaker David Foster and a book by Bob Martin (The Drowsy Chaperone). A
   national touring production of the musical that ran on Broadway in 2025.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4012,7 +3964,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BOOP! The Musical
 DTSTART;TZID=America/New_York:20270115T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1723@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4026,7 +3978,7 @@ DESCRIPTION:Betty Boop trades her black-and-white cartoon world for presen
  p hitmaker David Foster and a book by Bob Martin (The Drowsy Chaperone). A
   national touring production of the musical that ran on Broadway in 2025.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4036,7 +3988,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BOOP! The Musical
 DTSTART;TZID=America/New_York:20270116T140000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1724@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4050,7 +4002,7 @@ DESCRIPTION:Betty Boop trades her black-and-white cartoon world for presen
  p hitmaker David Foster and a book by Bob Martin (The Drowsy Chaperone). A
   national touring production of the musical that ran on Broadway in 2025.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4060,7 +4012,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BOOP! The Musical
 DTSTART;TZID=America/New_York:20270116T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1725@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4074,7 +4026,7 @@ DESCRIPTION:Betty Boop trades her black-and-white cartoon world for presen
  p hitmaker David Foster and a book by Bob Martin (The Drowsy Chaperone). A
   national touring production of the musical that ran on Broadway in 2025.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4084,7 +4036,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BOOP! The Musical
 DTSTART;TZID=America/New_York:20270117T130000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1726@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4098,7 +4050,7 @@ DESCRIPTION:Betty Boop trades her black-and-white cartoon world for presen
  p hitmaker David Foster and a book by Bob Martin (The Drowsy Chaperone). A
   national touring production of the musical that ran on Broadway in 2025.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4108,7 +4060,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BOOP! The Musical
 DTSTART;TZID=America/New_York:20270117T183000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1727@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4122,7 +4074,7 @@ DESCRIPTION:Betty Boop trades her black-and-white cartoon world for presen
  p hitmaker David Foster and a book by Bob Martin (The Drowsy Chaperone). A
   national touring production of the musical that ran on Broadway in 2025.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4133,7 +4085,7 @@ BEGIN:VEVENT
 SUMMARY:Peter Pan
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1903@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4147,7 +4099,7 @@ BEGIN:VEVENT
 SUMMARY:Carmen
 DTSTART;TZID=America/New_York:20270130T193000
 DTEND;TZID=America/New_York:20270130T224200
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-393@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4161,7 +4113,7 @@ DESCRIPTION:Bizet's tragedy of obsession: a soldier\, a bullfighter\, and
  r Song among them\, though its first Paris audiences were scandalized by s
  o much lawlessness on the Opéra-Comique stage. From The Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4171,7 +4123,7 @@ BEGIN:VEVENT
 SUMMARY:Carmen
 DTSTART;TZID=America/New_York:20270202T193000
 DTEND;TZID=America/New_York:20270202T224200
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-394@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4185,7 +4137,7 @@ DESCRIPTION:Bizet's tragedy of obsession: a soldier\, a bullfighter\, and
  r Song among them\, though its first Paris audiences were scandalized by s
  o much lawlessness on the Opéra-Comique stage. From The Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4194,7 +4146,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/New_York:20270202T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1728@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4210,7 +4162,7 @@ DESCRIPTION:Sara Gruen's Depression-era circus novel as a musical\, on nat
  ven Tony nominations\, including Best Musical. This is the national tourin
  g production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4220,7 +4172,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/New_York:20270203T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1729@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4236,7 +4188,7 @@ DESCRIPTION:Sara Gruen's Depression-era circus novel as a musical\, on nat
  ven Tony nominations\, including Best Musical. This is the national tourin
  g production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4246,7 +4198,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/New_York:20270204T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1730@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4262,7 +4214,7 @@ DESCRIPTION:Sara Gruen's Depression-era circus novel as a musical\, on nat
  ven Tony nominations\, including Best Musical. This is the national tourin
  g production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4273,7 +4225,7 @@ BEGIN:VEVENT
 SUMMARY:Carmen
 DTSTART;TZID=America/New_York:20270205T193000
 DTEND;TZID=America/New_York:20270205T224200
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-395@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4287,7 +4239,7 @@ DESCRIPTION:Bizet's tragedy of obsession: a soldier\, a bullfighter\, and
  r Song among them\, though its first Paris audiences were scandalized by s
  o much lawlessness on the Opéra-Comique stage. From The Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4296,7 +4248,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/New_York:20270205T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1731@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4312,7 +4264,7 @@ DESCRIPTION:Sara Gruen's Depression-era circus novel as a musical\, on nat
  ven Tony nominations\, including Best Musical. This is the national tourin
  g production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4322,7 +4274,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/New_York:20270206T140000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1732@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4338,7 +4290,7 @@ DESCRIPTION:Sara Gruen's Depression-era circus novel as a musical\, on nat
  ven Tony nominations\, including Best Musical. This is the national tourin
  g production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4348,7 +4300,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/New_York:20270206T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1733@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4364,7 +4316,7 @@ DESCRIPTION:Sara Gruen's Depression-era circus novel as a musical\, on nat
  ven Tony nominations\, including Best Musical. This is the national tourin
  g production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4374,7 +4326,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/New_York:20270207T130000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1734@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4390,7 +4342,7 @@ DESCRIPTION:Sara Gruen's Depression-era circus novel as a musical\, on nat
  ven Tony nominations\, including Best Musical. This is the national tourin
  g production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4401,7 +4353,7 @@ BEGIN:VEVENT
 SUMMARY:Carmen
 DTSTART;TZID=America/New_York:20270207T150000
 DTEND;TZID=America/New_York:20270207T181200
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-396@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4415,7 +4367,7 @@ DESCRIPTION:Bizet's tragedy of obsession: a soldier\, a bullfighter\, and
  r Song among them\, though its first Paris audiences were scandalized by s
  o much lawlessness on the Opéra-Comique stage. From The Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4424,7 +4376,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/New_York:20270207T183000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1735@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4440,7 +4392,7 @@ DESCRIPTION:Sara Gruen's Depression-era circus novel as a musical\, on nat
  ven Tony nominations\, including Best Musical. This is the national tourin
  g production.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4451,12 +4403,12 @@ BEGIN:VEVENT
 SUMMARY:Sister Act
 DTSTART;TZID=America/New_York:20270312T193000
 DTEND;TZID=America/New_York:20270312T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-6512@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
 GEO:33.580809;-85.0767221
-LAST-MODIFIED:20260731T044639Z
+LAST-MODIFIED:20260801T044426Z
 LOCATION:Carrollton Center for the Arts\, 251 Alabama Street
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4466,7 +4418,7 @@ BEGIN:VEVENT
 SUMMARY:The Flying Dutchman
 DTSTART;TZID=America/New_York:20270313T193000
 DTEND;TZID=America/New_York:20270313T220000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-397@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4478,7 +4430,7 @@ DESCRIPTION:Wagner's ghost-ship opera: a captain cursed to sail forever\,
  daughter Senta he may have found her. Wagner's storm-tossed score made thi
  s his first enduring success. Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4488,12 +4440,12 @@ BEGIN:VEVENT
 SUMMARY:Sister Act
 DTSTART;TZID=America/New_York:20270313T193000
 DTEND;TZID=America/New_York:20270313T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-6513@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
 GEO:33.580809;-85.0767221
-LAST-MODIFIED:20260731T044639Z
+LAST-MODIFIED:20260801T044426Z
 LOCATION:Carrollton Center for the Arts\, 251 Alabama Street
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4503,12 +4455,12 @@ BEGIN:VEVENT
 SUMMARY:Sister Act
 DTSTART;TZID=America/New_York:20270314T140000
 DTEND;TZID=America/New_York:20270314T160000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-6514@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
 GEO:33.580809;-85.0767221
-LAST-MODIFIED:20260731T044639Z
+LAST-MODIFIED:20260801T044426Z
 LOCATION:Carrollton Center for the Arts\, 251 Alabama Street
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4518,7 +4470,7 @@ BEGIN:VEVENT
 SUMMARY:The Flying Dutchman
 DTSTART;TZID=America/New_York:20270316T193000
 DTEND;TZID=America/New_York:20270316T220000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-398@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4530,7 +4482,7 @@ DESCRIPTION:Wagner's ghost-ship opera: a captain cursed to sail forever\,
  daughter Senta he may have found her. Wagner's storm-tossed score made thi
  s his first enduring success. Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4540,7 +4492,7 @@ BEGIN:VEVENT
 SUMMARY:The Flying Dutchman
 DTSTART;TZID=America/New_York:20270319T193000
 DTEND;TZID=America/New_York:20270319T220000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-399@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4552,7 +4504,7 @@ DESCRIPTION:Wagner's ghost-ship opera: a captain cursed to sail forever\,
  daughter Senta he may have found her. Wagner's storm-tossed score made thi
  s his first enduring success. Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4562,12 +4514,12 @@ BEGIN:VEVENT
 SUMMARY:Sister Act
 DTSTART;TZID=America/New_York:20270319T193000
 DTEND;TZID=America/New_York:20270319T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-6515@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
 GEO:33.580809;-85.0767221
-LAST-MODIFIED:20260731T044639Z
+LAST-MODIFIED:20260801T044426Z
 LOCATION:Carrollton Center for the Arts\, 251 Alabama Street
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4577,12 +4529,12 @@ BEGIN:VEVENT
 SUMMARY:Sister Act
 DTSTART;TZID=America/New_York:20270320T193000
 DTEND;TZID=America/New_York:20270320T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-6516@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
 GEO:33.580809;-85.0767221
-LAST-MODIFIED:20260731T044639Z
+LAST-MODIFIED:20260801T044426Z
 LOCATION:Carrollton Center for the Arts\, 251 Alabama Street
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4592,12 +4544,12 @@ BEGIN:VEVENT
 SUMMARY:Sister Act
 DTSTART;TZID=America/New_York:20270321T140000
 DTEND;TZID=America/New_York:20270321T160000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-6517@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
 GEO:33.580809;-85.0767221
-LAST-MODIFIED:20260731T044639Z
+LAST-MODIFIED:20260801T044426Z
 LOCATION:Carrollton Center for the Arts\, 251 Alabama Street
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4607,7 +4559,7 @@ BEGIN:VEVENT
 SUMMARY:The Flying Dutchman
 DTSTART;TZID=America/New_York:20270321T150000
 DTEND;TZID=America/New_York:20270321T173000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-400@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4619,7 +4571,7 @@ DESCRIPTION:Wagner's ghost-ship opera: a captain cursed to sail forever\,
  daughter Senta he may have found her. Wagner's storm-tossed score made thi
  s his first enduring success. Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4629,7 +4581,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270403T200000
 DTEND;TZID=America/New_York:20270403T223000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1634@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4642,7 +4594,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4652,7 +4604,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270404T130000
 DTEND;TZID=America/New_York:20270404T153000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1635@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4665,7 +4617,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4675,7 +4627,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270404T170000
 DTEND;TZID=America/New_York:20270404T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1636@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4688,7 +4640,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4698,7 +4650,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270408T190000
 DTEND;TZID=America/New_York:20270408T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1637@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4711,7 +4663,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4720,7 +4672,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Great American Trailer Park Musical
 DTSTART;TZID=America/New_York:20270409T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1210@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4733,7 +4685,7 @@ DESCRIPTION:Nehls and Kelso's raunchy comedy of a stripper on the run and
   fleeing a marker-sniffing ex-boyfriend\, moves in and complicates everyth
  ing. From Pumphouse Players.
 GEO:34.1644344;-84.7971239
-LAST-MODIFIED:20260731T044739Z
+LAST-MODIFIED:20260801T044526Z
 LOCATION:Pumphouse Players\, 114 W Main St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4743,7 +4695,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Great American Trailer Park Musical
 DTSTART;TZID=America/New_York:20270410T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1211@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4756,7 +4708,7 @@ DESCRIPTION:Nehls and Kelso's raunchy comedy of a stripper on the run and
   fleeing a marker-sniffing ex-boyfriend\, moves in and complicates everyth
  ing. From Pumphouse Players.
 GEO:34.1644344;-84.7971239
-LAST-MODIFIED:20260731T044739Z
+LAST-MODIFIED:20260801T044526Z
 LOCATION:Pumphouse Players\, 114 W Main St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4767,7 +4719,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270410T200000
 DTEND;TZID=America/New_York:20270410T223000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1638@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4780,7 +4732,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4790,7 +4742,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270411T130000
 DTEND;TZID=America/New_York:20270411T153000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1639@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4803,7 +4755,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4812,7 +4764,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Great American Trailer Park Musical
 DTSTART;TZID=America/New_York:20270411T150000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1212@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4825,7 +4777,7 @@ DESCRIPTION:Nehls and Kelso's raunchy comedy of a stripper on the run and
   fleeing a marker-sniffing ex-boyfriend\, moves in and complicates everyth
  ing. From Pumphouse Players.
 GEO:34.1644344;-84.7971239
-LAST-MODIFIED:20260731T044739Z
+LAST-MODIFIED:20260801T044526Z
 LOCATION:Pumphouse Players\, 114 W Main St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4836,7 +4788,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270411T170000
 DTEND;TZID=America/New_York:20270411T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1640@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4849,7 +4801,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4858,7 +4810,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Notebook
 DTSTART;TZID=America/New_York:20270413T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1737@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4872,7 +4824,7 @@ DESCRIPTION:The Broadway musical of Nicholas Sparks's tearjerker romance\,
  playing them at different ages. A national touring production\, following 
  the show's 2024 Broadway run.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4882,7 +4834,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Notebook
 DTSTART;TZID=America/New_York:20270414T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1738@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4896,7 +4848,7 @@ DESCRIPTION:The Broadway musical of Nicholas Sparks's tearjerker romance\,
  playing them at different ages. A national touring production\, following 
  the show's 2024 Broadway run.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4907,7 +4859,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270415T190000
 DTEND;TZID=America/New_York:20270415T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1641@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4920,7 +4872,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4929,7 +4881,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Notebook
 DTSTART;TZID=America/New_York:20270415T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1739@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4943,7 +4895,7 @@ DESCRIPTION:The Broadway musical of Nicholas Sparks's tearjerker romance\,
  playing them at different ages. A national touring production\, following 
  the show's 2024 Broadway run.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4953,7 +4905,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Last Five Years
 DTSTART;TZID=America/New_York:20270416T190000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1140@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4967,7 +4919,7 @@ DESCRIPTION:Jason Robert Brown's two-person musical: her story told backwa
  divorce\, and the score ranges from klezmer to pop ballad. Presented by Ju
  nction Playhouse.
 GEO:33.4739853;-84.5085251
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044514Z
 LOCATION:Shipyard at Trilith\, 125 Shepperton Wy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4978,7 +4930,7 @@ BEGIN:VEVENT
 SUMMARY:Something Rotten
 DTSTART;TZID=America/New_York:20270416T193000
 DTEND;TZID=America/New_York:20270416T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1396@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -4992,7 +4944,7 @@ DESCRIPTION:Two Renaissance playwright brothers scheme to out-write Shakes
  rned ten Tony nominations. From the Henry Players community theatre compan
  y.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5001,7 +4953,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Notebook
 DTSTART;TZID=America/New_York:20270416T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1740@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5015,7 +4967,7 @@ DESCRIPTION:The Broadway musical of Nicholas Sparks's tearjerker romance\,
  playing them at different ages. A national touring production\, following 
  the show's 2024 Broadway run.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5026,7 +4978,7 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Mattress
 DTSTART;TZID=America/New_York:20270416T200000
 DTEND;TZID=America/New_York:20270416T223000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-728@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5039,7 +4991,7 @@ DESCRIPTION:Mary Rodgers's 1959 musical spoof of The Princess and the Pea\
   until he does. Then Winnifred the Woebegone arrives\, having swum the cas
  tle moat to get there. Presented by Players Guild at Sugar Hill.
 GEO:34.1070667;-84.0353528
-LAST-MODIFIED:20260730T050020Z
+LAST-MODIFIED:20260801T044522Z
 LOCATION:The Eagle Theater\, 5029 W Broad St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5048,7 +5000,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Great American Trailer Park Musical
 DTSTART;TZID=America/New_York:20270416T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1213@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5061,7 +5013,7 @@ DESCRIPTION:Nehls and Kelso's raunchy comedy of a stripper on the run and
   fleeing a marker-sniffing ex-boyfriend\, moves in and complicates everyth
  ing. From Pumphouse Players.
 GEO:34.1644344;-84.7971239
-LAST-MODIFIED:20260731T044739Z
+LAST-MODIFIED:20260801T044526Z
 LOCATION:Pumphouse Players\, 114 W Main St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5071,7 +5023,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Notebook
 DTSTART;TZID=America/New_York:20270417T140000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1741@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5085,7 +5037,7 @@ DESCRIPTION:The Broadway musical of Nicholas Sparks's tearjerker romance\,
  playing them at different ages. A national touring production\, following 
  the show's 2024 Broadway run.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5096,7 +5048,7 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Mattress
 DTSTART;TZID=America/New_York:20270417T150000
 DTEND;TZID=America/New_York:20270417T173000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-729@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5109,7 +5061,7 @@ DESCRIPTION:Mary Rodgers's 1959 musical spoof of The Princess and the Pea\
   until he does. Then Winnifred the Woebegone arrives\, having swum the cas
  tle moat to get there. Presented by Players Guild at Sugar Hill.
 GEO:34.1070667;-84.0353528
-LAST-MODIFIED:20260730T050020Z
+LAST-MODIFIED:20260801T044522Z
 LOCATION:The Eagle Theater\, 5029 W Broad St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5118,7 +5070,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Last Five Years
 DTSTART;TZID=America/New_York:20270417T190000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1141@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5132,7 +5084,7 @@ DESCRIPTION:Jason Robert Brown's two-person musical: her story told backwa
  divorce\, and the score ranges from klezmer to pop ballad. Presented by Ju
  nction Playhouse.
 GEO:33.4739853;-84.5085251
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044514Z
 LOCATION:Shipyard at Trilith\, 125 Shepperton Wy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5143,7 +5095,7 @@ BEGIN:VEVENT
 SUMMARY:Something Rotten
 DTSTART;TZID=America/New_York:20270417T193000
 DTEND;TZID=America/New_York:20270417T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1397@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5157,7 +5109,7 @@ DESCRIPTION:Two Renaissance playwright brothers scheme to out-write Shakes
  rned ten Tony nominations. From the Henry Players community theatre compan
  y.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5166,7 +5118,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Notebook
 DTSTART;TZID=America/New_York:20270417T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1742@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5180,7 +5132,7 @@ DESCRIPTION:The Broadway musical of Nicholas Sparks's tearjerker romance\,
  playing them at different ages. A national touring production\, following 
  the show's 2024 Broadway run.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5191,7 +5143,7 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Mattress
 DTSTART;TZID=America/New_York:20270417T200000
 DTEND;TZID=America/New_York:20270417T223000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-730@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5204,7 +5156,7 @@ DESCRIPTION:Mary Rodgers's 1959 musical spoof of The Princess and the Pea\
   until he does. Then Winnifred the Woebegone arrives\, having swum the cas
  tle moat to get there. Presented by Players Guild at Sugar Hill.
 GEO:34.1070667;-84.0353528
-LAST-MODIFIED:20260730T050020Z
+LAST-MODIFIED:20260801T044522Z
 LOCATION:The Eagle Theater\, 5029 W Broad St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5213,7 +5165,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Great American Trailer Park Musical
 DTSTART;TZID=America/New_York:20270417T200000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1214@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5226,7 +5178,7 @@ DESCRIPTION:Nehls and Kelso's raunchy comedy of a stripper on the run and
   fleeing a marker-sniffing ex-boyfriend\, moves in and complicates everyth
  ing. From Pumphouse Players.
 GEO:34.1644344;-84.7971239
-LAST-MODIFIED:20260731T044739Z
+LAST-MODIFIED:20260801T044526Z
 LOCATION:Pumphouse Players\, 114 W Main St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5237,7 +5189,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270417T200000
 DTEND;TZID=America/New_York:20270417T223000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1642@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5250,7 +5202,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5260,7 +5212,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270418T130000
 DTEND;TZID=America/New_York:20270418T153000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1643@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5273,7 +5225,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5282,7 +5234,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Notebook
 DTSTART;TZID=America/New_York:20270418T130000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1743@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5296,7 +5248,7 @@ DESCRIPTION:The Broadway musical of Nicholas Sparks's tearjerker romance\,
  playing them at different ages. A national touring production\, following 
  the show's 2024 Broadway run.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5307,7 +5259,7 @@ BEGIN:VEVENT
 SUMMARY:Something Rotten
 DTSTART;TZID=America/New_York:20270418T143000
 DTEND;TZID=America/New_York:20270418T163000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1398@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5321,7 +5273,7 @@ DESCRIPTION:Two Renaissance playwright brothers scheme to out-write Shakes
  rned ten Tony nominations. From the Henry Players community theatre compan
  y.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5331,7 +5283,7 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Mattress
 DTSTART;TZID=America/New_York:20270418T150000
 DTEND;TZID=America/New_York:20270418T173000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-731@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5344,7 +5296,7 @@ DESCRIPTION:Mary Rodgers's 1959 musical spoof of The Princess and the Pea\
   until he does. Then Winnifred the Woebegone arrives\, having swum the cas
  tle moat to get there. Presented by Players Guild at Sugar Hill.
 GEO:34.1070667;-84.0353528
-LAST-MODIFIED:20260730T050020Z
+LAST-MODIFIED:20260801T044522Z
 LOCATION:The Eagle Theater\, 5029 W Broad St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5353,7 +5305,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Great American Trailer Park Musical
 DTSTART;TZID=America/New_York:20270418T150000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1215@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5366,7 +5318,7 @@ DESCRIPTION:Nehls and Kelso's raunchy comedy of a stripper on the run and
   fleeing a marker-sniffing ex-boyfriend\, moves in and complicates everyth
  ing. From Pumphouse Players.
 GEO:34.1644344;-84.7971239
-LAST-MODIFIED:20260731T044739Z
+LAST-MODIFIED:20260801T044526Z
 LOCATION:Pumphouse Players\, 114 W Main St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5377,7 +5329,7 @@ BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors
 DTSTART;TZID=America/New_York:20270418T170000
 DTEND;TZID=America/New_York:20270418T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1644@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5390,7 +5342,7 @@ DESCRIPTION:Menken and Ashman's doo-wop horror comedy: a skid row florist\
  '60s rock and roll\, doo-wop\, and Motown\, with a girl-group trio of stre
  et urchins as Greek chorus. Presented by Stage Door Theatre.
 GEO:33.9447222;-84.3319444
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Stage Door Theatre\, 5339 Chamblee Dunwoody Rd
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5399,7 +5351,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Notebook
 DTSTART;TZID=America/New_York:20270418T183000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1744@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5413,7 +5365,7 @@ DESCRIPTION:The Broadway musical of Nicholas Sparks's tearjerker romance\,
  playing them at different ages. A national touring production\, following 
  the show's 2024 Broadway run.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5423,7 +5375,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Last Five Years
 DTSTART;TZID=America/New_York:20270418T190000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1142@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5437,7 +5389,7 @@ DESCRIPTION:Jason Robert Brown's two-person musical: her story told backwa
  divorce\, and the score ranges from klezmer to pop ballad. Presented by Ju
  nction Playhouse.
 GEO:33.4739853;-84.5085251
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044514Z
 LOCATION:Shipyard at Trilith\, 125 Shepperton Wy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5448,7 +5400,7 @@ BEGIN:VEVENT
 SUMMARY:Something Rotten
 DTSTART;TZID=America/New_York:20270423T193000
 DTEND;TZID=America/New_York:20270423T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1399@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5462,7 +5414,7 @@ DESCRIPTION:Two Renaissance playwright brothers scheme to out-write Shakes
  rned ten Tony nominations. From the Henry Players community theatre compan
  y.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5472,7 +5424,7 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Mattress
 DTSTART;TZID=America/New_York:20270423T200000
 DTEND;TZID=America/New_York:20270423T223000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-732@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5485,7 +5437,7 @@ DESCRIPTION:Mary Rodgers's 1959 musical spoof of The Princess and the Pea\
   until he does. Then Winnifred the Woebegone arrives\, having swum the cas
  tle moat to get there. Presented by Players Guild at Sugar Hill.
 GEO:34.1070667;-84.0353528
-LAST-MODIFIED:20260730T050020Z
+LAST-MODIFIED:20260801T044522Z
 LOCATION:The Eagle Theater\, 5029 W Broad St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5495,7 +5447,7 @@ BEGIN:VEVENT
 SUMMARY:Something Rotten
 DTSTART;TZID=America/New_York:20270424T143000
 DTEND;TZID=America/New_York:20270424T163000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1400@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5509,7 +5461,7 @@ DESCRIPTION:Two Renaissance playwright brothers scheme to out-write Shakes
  rned ten Tony nominations. From the Henry Players community theatre compan
  y.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5519,7 +5471,7 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Mattress
 DTSTART;TZID=America/New_York:20270424T150000
 DTEND;TZID=America/New_York:20270424T173000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-733@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5532,7 +5484,7 @@ DESCRIPTION:Mary Rodgers's 1959 musical spoof of The Princess and the Pea\
   until he does. Then Winnifred the Woebegone arrives\, having swum the cas
  tle moat to get there. Presented by Players Guild at Sugar Hill.
 GEO:34.1070667;-84.0353528
-LAST-MODIFIED:20260730T050020Z
+LAST-MODIFIED:20260801T044522Z
 LOCATION:The Eagle Theater\, 5029 W Broad St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5542,7 +5494,7 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Mattress
 DTSTART;TZID=America/New_York:20270424T200000
 DTEND;TZID=America/New_York:20270424T223000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-734@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5555,7 +5507,7 @@ DESCRIPTION:Mary Rodgers's 1959 musical spoof of The Princess and the Pea\
   until he does. Then Winnifred the Woebegone arrives\, having swum the cas
  tle moat to get there. Presented by Players Guild at Sugar Hill.
 GEO:34.1070667;-84.0353528
-LAST-MODIFIED:20260730T050020Z
+LAST-MODIFIED:20260801T044522Z
 LOCATION:The Eagle Theater\, 5029 W Broad St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5565,7 +5517,7 @@ BEGIN:VEVENT
 SUMMARY:Something Rotten
 DTSTART;TZID=America/New_York:20270425T143000
 DTEND;TZID=America/New_York:20270425T163000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1401@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5579,7 +5531,7 @@ DESCRIPTION:Two Renaissance playwright brothers scheme to out-write Shakes
  rned ten Tony nominations. From the Henry Players community theatre compan
  y.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5589,7 +5541,7 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Mattress
 DTSTART;TZID=America/New_York:20270425T150000
 DTEND;TZID=America/New_York:20270425T173000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-735@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5602,7 +5554,7 @@ DESCRIPTION:Mary Rodgers's 1959 musical spoof of The Princess and the Pea\
   until he does. Then Winnifred the Woebegone arrives\, having swum the cas
  tle moat to get there. Presented by Players Guild at Sugar Hill.
 GEO:34.1070667;-84.0353528
-LAST-MODIFIED:20260730T050020Z
+LAST-MODIFIED:20260801T044522Z
 LOCATION:The Eagle Theater\, 5029 W Broad St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5612,7 +5564,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=America/New_York:20270501T193000
 DTEND;TZID=America/New_York:20270501T221500
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-401@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5626,7 +5578,7 @@ DESCRIPTION:Puccini's melodrama of a diva\, her painter lover\, and Rome's
  ormed operas anywhere\, its score carrying 'Vissi d'arte' and 'E lucevan l
  e stelle.' Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5636,7 +5588,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=America/New_York:20270504T193000
 DTEND;TZID=America/New_York:20270504T221500
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-402@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5650,7 +5602,7 @@ DESCRIPTION:Puccini's melodrama of a diva\, her painter lover\, and Rome's
  ormed operas anywhere\, its score carrying 'Vissi d'arte' and 'E lucevan l
  e stelle.' Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5660,7 +5612,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=America/New_York:20270507T193000
 DTEND;TZID=America/New_York:20270507T221500
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-403@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5674,7 +5626,7 @@ DESCRIPTION:Puccini's melodrama of a diva\, her painter lover\, and Rome's
  ormed operas anywhere\, its score carrying 'Vissi d'arte' and 'E lucevan l
  e stelle.' Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5684,7 +5636,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=America/New_York:20270509T150000
 DTEND;TZID=America/New_York:20270509T174500
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-404@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5698,7 +5650,7 @@ DESCRIPTION:Puccini's melodrama of a diva\, her painter lover\, and Rome's
  ormed operas anywhere\, its score carrying 'Vissi d'arte' and 'E lucevan l
  e stelle.' Presented by the Atlanta Opera.
 GEO:33.88471;-84.4585962
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Cobb Energy Performing Arts Centre\, 2800 Cobb Galleria Pkwy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5707,7 +5659,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Bodyguard
 DTSTART;TZID=America/New_York:20270514T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1745@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5715,7 +5667,7 @@ DESCRIPTION:A musical theatre presented by Fox Theatre at Fox Theatre on F
  ri May 14\, 7:30 PM ET.\n\nFox Theatre presents The Bodyguard\, a musical 
  theatre\, at Fox Theatre on Fri May 14\, 7:30 PM ET.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5725,7 +5677,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Bodyguard
 DTSTART;TZID=America/New_York:20270515T140000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1746@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5733,7 +5685,7 @@ DESCRIPTION:A musical theatre presented by Fox Theatre at Fox Theatre on F
  ri May 14\, 7:30 PM ET.\n\nFox Theatre presents The Bodyguard\, a musical 
  theatre\, at Fox Theatre on Fri May 14\, 7:30 PM ET.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5743,7 +5695,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Bodyguard
 DTSTART;TZID=America/New_York:20270515T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1747@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5751,7 +5703,7 @@ DESCRIPTION:A musical theatre presented by Fox Theatre at Fox Theatre on F
  ri May 14\, 7:30 PM ET.\n\nFox Theatre presents The Bodyguard\, a musical 
  theatre\, at Fox Theatre on Fri May 14\, 7:30 PM ET.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5761,7 +5713,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Bodyguard
 DTSTART;TZID=America/New_York:20270516T130000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1748@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5769,7 +5721,7 @@ DESCRIPTION:A musical theatre presented by Fox Theatre at Fox Theatre on F
  ri May 14\, 7:30 PM ET.\n\nFox Theatre presents The Bodyguard\, a musical 
  theatre\, at Fox Theatre on Fri May 14\, 7:30 PM ET.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5779,7 +5731,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Bodyguard
 DTSTART;TZID=America/New_York:20270516T183000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1749@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5787,7 +5739,7 @@ DESCRIPTION:A musical theatre presented by Fox Theatre at Fox Theatre on F
  ri May 14\, 7:30 PM ET.\n\nFox Theatre presents The Bodyguard\, a musical 
  theatre\, at Fox Theatre on Fri May 14\, 7:30 PM ET.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5798,7 +5750,7 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270604T193000
 DTEND;TZID=America/New_York:20270604T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1301@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5813,7 +5765,7 @@ DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  om Arcadia Theater\, the community company continuing three decades of the
  atre-making in its space.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5824,7 +5776,7 @@ BEGIN:VEVENT
 SUMMARY:The Hunchback of Notre Dame
 DTSTART;TZID=America/New_York:20270604T193000
 DTEND;TZID=America/New_York:20270604T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1402@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5838,7 +5790,7 @@ DESCRIPTION:Disney's stage musical of Hugo's bell-ringer tale\, with the M
  ous than most of the Disney songbook. A volunteer community production fro
  m the Henry Players.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5848,7 +5800,7 @@ BEGIN:VEVENT
 SUMMARY:Jubilee
 DTSTART;TZID=America/New_York:20270605T193000
 DTEND;TZID=America/New_York:20270605T215500
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-405@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5861,7 +5813,7 @@ DESCRIPTION:An opera written and directed by Tazewell Thompson\, librettis
  dy been staged at Arena Stage and Seattle Opera\; this production comes fr
  om The Atlanta Opera.
 GEO:33.7439061;-84.4168227
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Ray Charles Performing Arts Center\, 900 West End Avenue Southwes
  t
 STATUS:CONFIRMED
@@ -5872,7 +5824,7 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270605T193000
 DTEND;TZID=America/New_York:20270605T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1302@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5887,7 +5839,7 @@ DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  om Arcadia Theater\, the community company continuing three decades of the
  atre-making in its space.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5898,7 +5850,7 @@ BEGIN:VEVENT
 SUMMARY:The Hunchback of Notre Dame
 DTSTART;TZID=America/New_York:20270605T193000
 DTEND;TZID=America/New_York:20270605T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1403@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5912,7 +5864,7 @@ DESCRIPTION:Disney's stage musical of Hugo's bell-ringer tale\, with the M
  ous than most of the Disney songbook. A volunteer community production fro
  m the Henry Players.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5922,7 +5874,7 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270606T140000
 DTEND;TZID=America/New_York:20270606T160000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1303@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5937,7 +5889,7 @@ DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  om Arcadia Theater\, the community company continuing three decades of the
  atre-making in its space.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5948,7 +5900,7 @@ BEGIN:VEVENT
 SUMMARY:The Hunchback of Notre Dame
 DTSTART;TZID=America/New_York:20270606T143000
 DTEND;TZID=America/New_York:20270606T163000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1404@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5962,7 +5914,7 @@ DESCRIPTION:Disney's stage musical of Hugo's bell-ringer tale\, with the M
  ous than most of the Disney songbook. A volunteer community production fro
  m the Henry Players.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5972,7 +5924,7 @@ BEGIN:VEVENT
 SUMMARY:Jubilee
 DTSTART;TZID=America/New_York:20270606T150000
 DTEND;TZID=America/New_York:20270606T172500
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-406@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -5985,7 +5937,7 @@ DESCRIPTION:An opera written and directed by Tazewell Thompson\, librettis
  dy been staged at Arena Stage and Seattle Opera\; this production comes fr
  om The Atlanta Opera.
 GEO:33.7439061;-84.4168227
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Ray Charles Performing Arts Center\, 900 West End Avenue Southwes
  t
 STATUS:CONFIRMED
@@ -5996,7 +5948,7 @@ BEGIN:VEVENT
 SUMMARY:Jubilee
 DTSTART;TZID=America/New_York:20270610T193000
 DTEND;TZID=America/New_York:20270610T215500
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-407@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6009,7 +5961,7 @@ DESCRIPTION:An opera written and directed by Tazewell Thompson\, librettis
  dy been staged at Arena Stage and Seattle Opera\; this production comes fr
  om The Atlanta Opera.
 GEO:33.7439061;-84.4168227
-LAST-MODIFIED:20260731T044633Z
+LAST-MODIFIED:20260801T044420Z
 LOCATION:Ray Charles Performing Arts Center\, 900 West End Avenue Southwes
  t
 STATUS:CONFIRMED
@@ -6020,7 +5972,7 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270611T193000
 DTEND;TZID=America/New_York:20270611T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1304@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6035,7 +5987,7 @@ DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  om Arcadia Theater\, the community company continuing three decades of the
  atre-making in its space.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6046,7 +5998,7 @@ BEGIN:VEVENT
 SUMMARY:The Hunchback of Notre Dame
 DTSTART;TZID=America/New_York:20270611T193000
 DTEND;TZID=America/New_York:20270611T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1405@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6060,7 +6012,7 @@ DESCRIPTION:Disney's stage musical of Hugo's bell-ringer tale\, with the M
  ous than most of the Disney songbook. A volunteer community production fro
  m the Henry Players.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6069,7 +6021,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beetlejuice
 DTSTART;TZID=America/New_York:20270611T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1750@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6083,7 +6035,7 @@ DESCRIPTION:The musical of Tim Burton's 1988 film: a grieving teen\, two h
  y\, and all about excess\,' true to its source. Expect 'Day-O' at the dinn
  er party.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6093,7 +6045,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beetlejuice
 DTSTART;TZID=America/New_York:20270612T140000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1751@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6107,7 +6059,7 @@ DESCRIPTION:The musical of Tim Burton's 1988 film: a grieving teen\, two h
  y\, and all about excess\,' true to its source. Expect 'Day-O' at the dinn
  er party.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6118,7 +6070,7 @@ BEGIN:VEVENT
 SUMMARY:The Hunchback of Notre Dame
 DTSTART;TZID=America/New_York:20270612T143000
 DTEND;TZID=America/New_York:20270612T163000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1406@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6132,7 +6084,7 @@ DESCRIPTION:Disney's stage musical of Hugo's bell-ringer tale\, with the M
  ous than most of the Disney songbook. A volunteer community production fro
  m the Henry Players.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6142,7 +6094,7 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270612T193000
 DTEND;TZID=America/New_York:20270612T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1305@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6157,7 +6109,7 @@ DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  om Arcadia Theater\, the community company continuing three decades of the
  atre-making in its space.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6167,7 +6119,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beetlejuice
 DTSTART;TZID=America/New_York:20270612T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1752@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6181,7 +6133,7 @@ DESCRIPTION:The musical of Tim Burton's 1988 film: a grieving teen\, two h
  y\, and all about excess\,' true to its source. Expect 'Day-O' at the dinn
  er party.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6191,7 +6143,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beetlejuice
 DTSTART;TZID=America/New_York:20270613T130000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1753@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6205,7 +6157,7 @@ DESCRIPTION:The musical of Tim Burton's 1988 film: a grieving teen\, two h
  y\, and all about excess\,' true to its source. Expect 'Day-O' at the dinn
  er party.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6216,7 +6168,7 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270613T140000
 DTEND;TZID=America/New_York:20270613T160000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1306@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6231,7 +6183,7 @@ DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  om Arcadia Theater\, the community company continuing three decades of the
  atre-making in its space.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6242,7 +6194,7 @@ BEGIN:VEVENT
 SUMMARY:The Hunchback of Notre Dame
 DTSTART;TZID=America/New_York:20270613T143000
 DTEND;TZID=America/New_York:20270613T163000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1407@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6256,7 +6208,7 @@ DESCRIPTION:Disney's stage musical of Hugo's bell-ringer tale\, with the M
  ous than most of the Disney songbook. A volunteer community production fro
  m the Henry Players.
 GEO:33.4486439;-84.1418279
-LAST-MODIFIED:20260731T044727Z
+LAST-MODIFIED:20260801T044513Z
 LOCATION:The Henry Players Theater\, 136 Hood St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6265,7 +6217,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beetlejuice
 DTSTART;TZID=America/New_York:20270613T183000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1754@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6279,7 +6231,7 @@ DESCRIPTION:The musical of Tim Burton's 1988 film: a grieving teen\, two h
  y\, and all about excess\,' true to its source. Expect 'Day-O' at the dinn
  er party.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6290,7 +6242,7 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270618T193000
 DTEND;TZID=America/New_York:20270618T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1307@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6305,7 +6257,7 @@ DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  om Arcadia Theater\, the community company continuing three decades of the
  atre-making in its space.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6316,7 +6268,7 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270619T193000
 DTEND;TZID=America/New_York:20270619T213000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1308@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6331,7 +6283,7 @@ DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  om Arcadia Theater\, the community company continuing three decades of the
  atre-making in its space.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6342,7 +6294,7 @@ BEGIN:VEVENT
 SUMMARY:Roald Dahl's Matilda\, the Musical
 DTSTART;TZID=America/New_York:20270620T140000
 DTEND;TZID=America/New_York:20270620T160000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1309@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6357,7 +6309,7 @@ DESCRIPTION:Dahl's telekinetic bookworm takes on the fearsome Miss Trunchb
  om Arcadia Theater\, the community company continuing three decades of the
  atre-making in its space.
 GEO:34.0765277;-84.2884766
-LAST-MODIFIED:20260731T044628Z
+LAST-MODIFIED:20260801T044415Z
 LOCATION:Arcadia Theater\, 180 Academy St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6367,7 +6319,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Operation Mincemeat
 DTSTART;TZID=America/New_York:20270706T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1755@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6382,7 +6334,7 @@ DESCRIPTION:SpitLip's Olivier-winning musical comedy about the real WWII s
  al in the West End\, then transferred to Broadway\, where Jak Malone won a
   Tony for his turn as the secretary Hester Leggatt.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6392,7 +6344,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Operation Mincemeat
 DTSTART;TZID=America/New_York:20270707T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1756@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6407,7 +6359,7 @@ DESCRIPTION:SpitLip's Olivier-winning musical comedy about the real WWII s
  al in the West End\, then transferred to Broadway\, where Jak Malone won a
   Tony for his turn as the secretary Hester Leggatt.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6417,7 +6369,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Operation Mincemeat
 DTSTART;TZID=America/New_York:20270708T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1757@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6432,7 +6384,7 @@ DESCRIPTION:SpitLip's Olivier-winning musical comedy about the real WWII s
  al in the West End\, then transferred to Broadway\, where Jak Malone won a
   Tony for his turn as the secretary Hester Leggatt.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6442,7 +6394,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Operation Mincemeat
 DTSTART;TZID=America/New_York:20270709T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1758@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6457,7 +6409,7 @@ DESCRIPTION:SpitLip's Olivier-winning musical comedy about the real WWII s
  al in the West End\, then transferred to Broadway\, where Jak Malone won a
   Tony for his turn as the secretary Hester Leggatt.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6467,7 +6419,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Operation Mincemeat
 DTSTART;TZID=America/New_York:20270710T140000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1759@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6482,7 +6434,7 @@ DESCRIPTION:SpitLip's Olivier-winning musical comedy about the real WWII s
  al in the West End\, then transferred to Broadway\, where Jak Malone won a
   Tony for his turn as the secretary Hester Leggatt.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6492,7 +6444,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Operation Mincemeat
 DTSTART;TZID=America/New_York:20270710T193000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1760@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6507,7 +6459,7 @@ DESCRIPTION:SpitLip's Olivier-winning musical comedy about the real WWII s
  al in the West End\, then transferred to Broadway\, where Jak Malone won a
   Tony for his turn as the secretary Hester Leggatt.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6517,7 +6469,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Operation Mincemeat
 DTSTART;TZID=America/New_York:20270711T130000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1761@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6532,7 +6484,7 @@ DESCRIPTION:SpitLip's Olivier-winning musical comedy about the real WWII s
  al in the West End\, then transferred to Broadway\, where Jak Malone won a
   Tony for his turn as the secretary Hester Leggatt.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6542,7 +6494,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Operation Mincemeat
 DTSTART;TZID=America/New_York:20270711T183000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-1762@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6557,7 +6509,7 @@ DESCRIPTION:SpitLip's Olivier-winning musical comedy about the real WWII s
  al in the West End\, then transferred to Broadway\, where Jak Malone won a
   Tony for his turn as the secretary Hester Leggatt.
 GEO:33.7726136;-84.3853395
-LAST-MODIFIED:20260731T044701Z
+LAST-MODIFIED:20260801T044448Z
 LOCATION:Fox Theatre\, 660 Peachtree St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6568,7 +6520,7 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270722T200000
 DTEND;TZID=America/New_York:20270722T223000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-852@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6581,7 +6533,7 @@ DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
   an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6591,7 +6543,7 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270723T200000
 DTEND;TZID=America/New_York:20270723T223000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-853@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6604,7 +6556,7 @@ DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
   an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6614,7 +6566,7 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270724T143000
 DTEND;TZID=America/New_York:20270724T170000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-854@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6627,7 +6579,7 @@ DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
   an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6637,7 +6589,7 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270725T143000
 DTEND;TZID=America/New_York:20270725T170000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-855@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6650,7 +6602,7 @@ DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
   an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6660,7 +6612,7 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270729T200000
 DTEND;TZID=America/New_York:20270729T223000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-856@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6673,7 +6625,7 @@ DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
   an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6683,7 +6635,7 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270730T200000
 DTEND;TZID=America/New_York:20270730T223000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-857@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6696,7 +6648,7 @@ DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
   an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6706,7 +6658,7 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270731T200000
 DTEND;TZID=America/New_York:20270731T223000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-858@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6719,7 +6671,7 @@ DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
   an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6729,7 +6681,7 @@ BEGIN:VEVENT
 SUMMARY:Hairspray
 DTSTART;TZID=America/New_York:20270801T143000
 DTEND;TZID=America/New_York:20270801T170000
-DTSTAMP:20260731T044902Z
+DTSTAMP:20260801T044648Z
 UID:occ-859@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -6742,7 +6694,7 @@ DESCRIPTION:The 2002 Tony-winning musical: a big-haired Baltimore teen dan
  ny Awards\, including Best Musical. Presented by Southside Theatre Guild\,
   an all-volunteer community theatre running since 1973.
 GEO:33.5672762;-84.5821546
-LAST-MODIFIED:20260731T044744Z
+LAST-MODIFIED:20260801T044532Z
 LOCATION:Southside Theatre Guild\, 20 W Campbellton St
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
