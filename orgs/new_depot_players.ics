@@ -58,31 +58,8 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:The Great American Trailer Park Musical
-DTSTART;TZID=America/New_York:20260731T193000
-DTSTAMP:20260801T044648Z
-UID:occ-1415@atlcal.com
-SEQUENCE:0
-CATEGORIES:Musicals
-DESCRIPTION:Nehls and Kelso's trashy\, big-hearted comedy of adultery\, ag
- oraphobia\, and hurricanes at a Florida trailer park.\n\nDavid Nehls and B
- etsy Kelso's musical comedy\, an Off-Broadway hit in 2005\, set at Armadil
- lo Acres trailer park in Starke\, Florida. Jeannie hasn't stepped outside 
- her trailer in twenty years\; her tollbooth-collector husband Norbert is l
- osing patience\; and Pippi\, a stripper hiding out from a marker-huffing e
- x with a gun named Bertha\, has just moved in next door. The affair that f
- ollows kicks up a storm in more ways than one. From New Depot Players\, th
- e Conyers community theatre.
-GEO:33.6671075;-84.0180229
-LAST-MODIFIED:20260801T044519Z
-LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.tix.com/ticket-sales/thenewdepotplayers/5082/event/1473892
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Great American Trailer Park Musical
 DTSTART;TZID=America/New_York:20260801T150000
-DTSTAMP:20260801T044648Z
+DTSTAMP:20260802T044902Z
 UID:occ-1416@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -96,7 +73,7 @@ DESCRIPTION:Nehls and Kelso's trashy\, big-hearted comedy of adultery\, ag
  ollows kicks up a storm in more ways than one. From New Depot Players\, th
  e Conyers community theatre.
 GEO:33.6671075;-84.0180229
-LAST-MODIFIED:20260801T044519Z
+LAST-MODIFIED:20260802T044737Z
 LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -105,7 +82,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Great American Trailer Park Musical
 DTSTART;TZID=America/New_York:20260801T193000
-DTSTAMP:20260801T044648Z
+DTSTAMP:20260802T044902Z
 UID:occ-1417@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -119,7 +96,7 @@ DESCRIPTION:Nehls and Kelso's trashy\, big-hearted comedy of adultery\, ag
  ollows kicks up a storm in more ways than one. From New Depot Players\, th
  e Conyers community theatre.
 GEO:33.6671075;-84.0180229
-LAST-MODIFIED:20260801T044519Z
+LAST-MODIFIED:20260802T044737Z
 LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -128,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Great American Trailer Park Musical
 DTSTART;TZID=America/New_York:20260802T150000
-DTSTAMP:20260801T044648Z
+DTSTAMP:20260802T044902Z
 UID:occ-1418@atlcal.com
 SEQUENCE:0
 CATEGORIES:Musicals
@@ -142,7 +119,7 @@ DESCRIPTION:Nehls and Kelso's trashy\, big-hearted comedy of adultery\, ag
  ollows kicks up a storm in more ways than one. From New Depot Players\, th
  e Conyers community theatre.
 GEO:33.6671075;-84.0180229
-LAST-MODIFIED:20260801T044519Z
+LAST-MODIFIED:20260802T044737Z
 LOCATION:Conyers Rockdale Council for the Arts\, 910 Center St NE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
